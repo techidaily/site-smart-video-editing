@@ -1,6 +1,6 @@
-# TechiDaily
+# Smart Video Editing Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://smart-video-editing.techidaily.com](https://smart-video-editing.techidaily.com)
 
 ## Publish
 
