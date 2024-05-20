@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Control Video Tempo with Camtasia
-date: 2024-04-28T15:03:57.459Z
-updated: 2024-04-29T15:03:57.459Z
+date: 2024-05-19T08:28:18.129Z
+updated: 2024-05-20T08:28:18.129Z
 tags: 
   - video editing software
   - video editing
@@ -1809,5 +1809,6 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-play-8t-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Play 8T to BlackBerry | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-lava-blaze-pro-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Lava Blaze Pro 5G Phones</u></a></li>
 </ul></div>
+
 
 

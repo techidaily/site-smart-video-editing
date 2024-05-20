@@ -1,7 +1,7 @@
 ---
 title: The Anatomy of Great Lower Thirds A Guide for FCPX Editors for 2024
-date: 2024-04-28T15:03:55.613Z
-updated: 2024-04-29T15:03:55.613Z
+date: 2024-05-19T08:26:40.975Z
+updated: 2024-05-20T08:26:40.975Z
 tags: 
   - video editing software
   - video editing
@@ -1631,5 +1631,6 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-x-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone X Prevention & Solution</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 
 

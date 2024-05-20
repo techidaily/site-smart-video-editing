@@ -1,7 +1,7 @@
 ---
 title: New The Young Directors Handbook Teach Kids to Make Their Own Movies
-date: 2024-04-28T15:03:55.915Z
-updated: 2024-04-29T15:03:55.915Z
+date: 2024-05-19T08:27:01.325Z
+updated: 2024-05-20T08:27:01.325Z
 tags: 
   - video editing software
   - video editing
@@ -1553,5 +1553,6 @@ Follow @Shanoon Cox
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Oppo K11x | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-your-motorola-razr-40-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Razr 40 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 
 

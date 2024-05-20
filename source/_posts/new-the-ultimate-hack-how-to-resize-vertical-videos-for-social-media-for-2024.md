@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Hack How to Resize Vertical Videos for Social Media for 2024
-date: 2024-04-28T15:03:54.826Z
-updated: 2024-04-29T15:03:54.826Z
+date: 2024-05-19T08:27:56.733Z
+updated: 2024-05-20T08:27:56.733Z
 tags: 
   - video editing software
   - video editing
@@ -2615,5 +2615,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-unlock.techidaily.com/lock-your-vivo-s17-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo S17 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-xlb-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to .xlb files</u></a></li>
 </ul></div>
+
 
 

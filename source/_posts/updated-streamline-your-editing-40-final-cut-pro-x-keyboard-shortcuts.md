@@ -1,7 +1,7 @@
 ---
 title: Updated Streamline Your Editing 40 Final Cut Pro X Keyboard Shortcuts
-date: 2024-04-28T15:03:57.172Z
-updated: 2024-04-29T15:03:57.172Z
+date: 2024-05-19T08:26:37.092Z
+updated: 2024-05-20T08:26:37.092Z
 tags: 
   - video editing software
   - video editing
@@ -2199,5 +2199,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/updated-easy-ways-to-change-aspect-ratio-in-imovie/"><u>Updated Easy Ways to Change Aspect Ratio in iMovie?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a24-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy A24 Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 
 

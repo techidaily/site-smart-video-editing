@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Boost Your Editing Speed 40 Expert-Level Keyboard Shortcuts for FCPX
-date: 2024-04-28T15:03:53.998Z
-updated: 2024-04-29T15:03:53.998Z
+date: 2024-05-19T08:28:13.337Z
+updated: 2024-05-20T08:28:13.337Z
 tags: 
   - video editing software
   - video editing
@@ -2527,5 +2527,6 @@ Follow @Liza Brown
 <li><a href="https://animation-videos.techidaily.com/updated-how-to-send-and-add-snapchat-gifs-100-in-easy-way/"><u>Updated How to Send and Add Snapchat GIFs 100 in Easy Way</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

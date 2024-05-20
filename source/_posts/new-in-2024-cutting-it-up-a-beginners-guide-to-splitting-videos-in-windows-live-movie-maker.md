@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Cutting It Up A Beginners Guide to Splitting Videos in Windows Live Movie Maker
-date: 2024-04-28T15:03:57.165Z
-updated: 2024-04-29T15:03:57.165Z
+date: 2024-05-19T08:28:25.464Z
+updated: 2024-05-20T08:28:25.464Z
 tags: 
   - video editing software
   - video editing
@@ -2213,5 +2213,6 @@ Follow @Benjamin Arango
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-10t-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme 10T 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-6-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 6</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Transform Your Videos How to Add Slow Motion Effects on Kapwing
-date: 2024-04-28T15:03:52.840Z
-updated: 2024-04-29T15:03:52.840Z
+date: 2024-05-19T08:27:13.925Z
+updated: 2024-05-20T08:27:13.925Z
 tags: 
   - video editing software
   - video editing
@@ -2116,5 +2116,6 @@ Follow @Ollie Mattison
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus with/without SIM Card</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-learn-to-splice-videos-together-on-iphone/"><u>New Learn to Splice Videos Together on iPhone</u></a></li>
 </ul></div>
+
 
 

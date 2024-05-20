@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Bring Back the 80S Top VHS-Style Filter Apps for Mobile Devices
-date: 2024-04-28T15:03:57.118Z
-updated: 2024-04-29T15:03:57.118Z
+date: 2024-05-19T08:28:14.323Z
+updated: 2024-05-20T08:28:14.323Z
 tags: 
   - video editing software
   - video editing
@@ -2671,5 +2671,6 @@ Follow @Shanoon Cox
 <li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 8 | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlock-infinix-smart-7-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Smart 7 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 
 

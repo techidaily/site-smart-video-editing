@@ -1,7 +1,7 @@
 ---
 title: New Visual Victory A Guide to Perfect Social Media Aspect Ratios
-date: 2024-04-28T15:03:57.678Z
-updated: 2024-04-29T15:03:57.678Z
+date: 2024-05-19T08:27:29.074Z
+updated: 2024-05-20T08:27:29.074Z
 tags: 
   - video editing software
   - video editing
@@ -2159,5 +2159,6 @@ So, in this article, we introduced some online platforms and software for you to
 <li><a href="https://ai-video-apps.techidaily.com/the-ultimate-list-10-best-cartoon-video-makers-for-pc-and-web-for-2024/"><u>The Ultimate List 10 Best Cartoon Video Makers for PC and Web for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo X90S? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

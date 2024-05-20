@@ -1,7 +1,7 @@
 ---
 title: Updated The Animators Handbook Stop Motion Studio and Beyond
-date: 2024-04-28T15:03:54.838Z
-updated: 2024-04-29T15:03:54.838Z
+date: 2024-05-19T08:26:41.004Z
+updated: 2024-05-20T08:26:41.004Z
 tags: 
   - video editing software
   - video editing
@@ -1833,5 +1833,6 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-8-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone 8 to TV/Laptop? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-nubia-red-magic-8s-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

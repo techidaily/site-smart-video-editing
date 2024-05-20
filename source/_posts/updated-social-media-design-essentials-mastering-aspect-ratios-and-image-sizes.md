@@ -1,7 +1,7 @@
 ---
 title: Updated Social Media Design Essentials Mastering Aspect Ratios and Image Sizes
-date: 2024-04-28T15:03:55.036Z
-updated: 2024-04-29T15:03:55.036Z
+date: 2024-05-19T08:26:34.218Z
+updated: 2024-05-20T08:26:34.218Z
 tags: 
   - video editing software
   - video editing
@@ -2565,5 +2565,6 @@ Follow @Shanoon Cox
 <li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 14 | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/online-video-editing-platforms-with-free-and-paid-music-options/"><u>Online Video Editing Platforms with Free and Paid Music Options</u></a></li>
 </ul></div>
+
 
 

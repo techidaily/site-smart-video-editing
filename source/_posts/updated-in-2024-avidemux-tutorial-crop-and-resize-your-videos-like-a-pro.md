@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Avidemux Tutorial Crop and Resize Your Videos Like a Pro
-date: 2024-04-28T15:03:55.731Z
-updated: 2024-04-29T15:03:55.731Z
+date: 2024-05-19T08:28:05.659Z
+updated: 2024-05-20T08:28:05.659Z
 tags: 
   - video editing software
   - video editing
@@ -2226,5 +2226,6 @@ It is very easy to check who has viewed your WhatsApp status. The steps you need
 <li><a href="https://animation-videos.techidaily.com/updated-the-10-most-adorable-aesthetic-cartoon-characters-of-all-time/"><u>Updated The 10 Most Adorable Aesthetic Cartoon Characters of All Time</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-a05-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy A05 without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

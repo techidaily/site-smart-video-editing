@@ -1,7 +1,7 @@
 ---
 title: New The Art of Slow Motion How to Create Stunning Videos on Kapwing
-date: 2024-04-28T15:03:52.132Z
-updated: 2024-04-29T15:03:52.132Z
+date: 2024-05-19T08:26:41.836Z
+updated: 2024-05-20T08:26:41.836Z
 tags: 
   - video editing software
   - video editing
@@ -1893,5 +1893,6 @@ Follow @Benjamin Arango
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-f5-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco F5 5G Device</u></a></li>
 </ul></div>
+
 
 

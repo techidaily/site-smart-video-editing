@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Compress MPEG2 Files with VirtualDub A Step-by-Step Guide
-date: 2024-04-28T15:03:55.783Z
-updated: 2024-04-29T15:03:55.783Z
+date: 2024-05-19T08:28:17.945Z
+updated: 2024-05-20T08:28:17.945Z
 tags: 
   - video editing software
   - video editing
@@ -2545,5 +2545,6 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/things-you-dont-know-about-sony-xperia-5-v-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Sony Xperia 5 V Reset Code | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Note 30 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

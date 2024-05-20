@@ -1,7 +1,7 @@
 ---
 title: Updated What Is an XML File and How to Export XML in Final Cut Pro X?
-date: 2024-04-28T15:03:51.864Z
-updated: 2024-04-29T15:03:51.864Z
+date: 2024-05-19T08:27:31.549Z
+updated: 2024-05-20T08:27:31.549Z
 tags: 
   - video editing software
   - video editing
@@ -2770,5 +2770,6 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-itel-p55plus-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Itel P55+</u></a></li>
 <li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

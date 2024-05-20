@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Aspect Ratio Handbook A Step-by-Step Guide to Social Media Visuals
-date: 2024-04-28T15:03:53.490Z
-updated: 2024-04-29T15:03:53.490Z
+date: 2024-05-19T08:26:42.473Z
+updated: 2024-05-20T08:26:42.473Z
 tags: 
   - video editing software
   - video editing
@@ -3201,5 +3201,6 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 13? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-xiaomi-13t-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Xiaomi 13T Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 
 

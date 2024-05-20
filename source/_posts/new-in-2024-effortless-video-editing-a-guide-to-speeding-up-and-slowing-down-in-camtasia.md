@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Effortless Video Editing A Guide to Speeding Up and Slowing Down in Camtasia
-date: 2024-04-28T15:03:53.699Z
-updated: 2024-04-29T15:03:53.699Z
+date: 2024-05-19T08:28:34.286Z
+updated: 2024-05-20T08:28:34.286Z
 tags: 
   - video editing software
   - video editing
@@ -3825,5 +3825,6 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y100 5G | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On OnePlus 11 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

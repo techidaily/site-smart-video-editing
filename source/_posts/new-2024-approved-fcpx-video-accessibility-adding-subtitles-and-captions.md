@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved FCPX Video Accessibility Adding Subtitles and Captions
-date: 2024-04-28T15:03:51.583Z
-updated: 2024-04-29T15:03:51.583Z
+date: 2024-05-19T08:28:41.255Z
+updated: 2024-05-20T08:28:41.255Z
 tags: 
   - video editing software
   - video editing
@@ -2851,5 +2851,6 @@ For Windows system users, Windows Movie Maker is the first and default choice wh
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Tecno Phantom V Flip | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A38 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

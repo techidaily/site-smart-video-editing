@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Slow Motion How to Create Stunning Videos on Kapwing
-date: 2024-04-28T15:03:56.589Z
-updated: 2024-04-29T15:03:56.589Z
+date: 2024-05-19T08:26:41.862Z
+updated: 2024-05-20T08:26:41.862Z
 tags: 
   - video editing software
   - video editing
@@ -2337,5 +2337,6 @@ The Filmora also assists you in changing the project aspect ratio after launchin
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-6-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 6 Plus Without Losing Anything? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/the-art-of-color-consistency-tips-and-tricks-for-matching-video-clips-in-final-cut-pro/"><u>The Art of Color Consistency Tips and Tricks for Matching Video Clips in Final Cut Pro</u></a></li>
 </ul></div>
+
 
 

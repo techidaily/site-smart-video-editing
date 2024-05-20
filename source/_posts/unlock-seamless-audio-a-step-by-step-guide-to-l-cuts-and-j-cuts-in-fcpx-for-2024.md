@@ -1,7 +1,7 @@
 ---
 title: Unlock Seamless Audio A Step-by-Step Guide to L-Cuts and J-Cuts in FCPX for 2024
-date: 2024-04-28T15:03:56.304Z
-updated: 2024-04-29T15:03:56.304Z
+date: 2024-05-19T08:27:22.291Z
+updated: 2024-05-20T08:27:22.291Z
 tags: 
   - video editing software
   - video editing
@@ -3021,5 +3021,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-luts-to-color-grade-on-your-iphone/"><u>New How to Use LUTS to Color Grade on Your iPhone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-v30t-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme V30T Device</u></a></li>
 </ul></div>
+
 
 

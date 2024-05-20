@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Make an Impact Learn to Create Slow-Motion Videos on Kapwing
-date: 2024-04-28T15:03:53.234Z
-updated: 2024-04-29T15:03:53.234Z
+date: 2024-05-19T08:26:06.462Z
+updated: 2024-05-20T08:26:06.462Z
 tags: 
   - video editing software
   - video editing
@@ -3808,5 +3808,6 @@ To rotate an AVI video online, you need to be extremely picky, as even most onli
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-change-aspect-ratio-of-video-for-2024/"><u>Updated How to Change Aspect Ratio of Video for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-10t-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme 10T 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

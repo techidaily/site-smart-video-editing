@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to HD Video Pixel Dimensions
-date: 2024-04-28T15:03:53.232Z
-updated: 2024-04-29T15:03:53.232Z
+date: 2024-05-19T08:26:54.500Z
+updated: 2024-05-20T08:26:54.500Z
 tags: 
   - video editing software
   - video editing
@@ -3069,5 +3069,6 @@ Follow @Liza Brown
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-online-sound-wave-video-creators-ranked-and-reviewed/"><u>In 2024, Online Sound Wave Video Creators Ranked and Reviewed</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-11-pro-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone 11 Pro online without jailbreak</u></a></li>
 </ul></div>
+
 
 

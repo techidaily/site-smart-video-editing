@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Make a Slow Motion Video on Kapwing? Step by Step
-date: 2024-04-28T15:03:57.017Z
-updated: 2024-04-29T15:03:57.017Z
+date: 2024-05-19T08:27:52.325Z
+updated: 2024-05-20T08:27:52.325Z
 tags: 
   - video editing software
   - video editing
@@ -1555,5 +1555,6 @@ VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won'
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-gt-neo-5-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme GT Neo 5 Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-xiaomi-redmi-a2plus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Xiaomi Redmi A2+</u></a></li>
 </ul></div>
+
 
 

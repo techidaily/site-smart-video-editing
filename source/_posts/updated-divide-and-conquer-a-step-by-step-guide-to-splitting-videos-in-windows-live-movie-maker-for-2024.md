@@ -1,7 +1,7 @@
 ---
 title: Updated Divide and Conquer A Step-by-Step Guide to Splitting Videos in Windows Live Movie Maker for 2024
-date: 2024-04-28T15:03:52.138Z
-updated: 2024-04-29T15:03:52.138Z
+date: 2024-05-19T08:27:49.516Z
+updated: 2024-05-20T08:27:49.516Z
 tags: 
   - video editing software
   - video editing
@@ -2474,5 +2474,6 @@ Follow @Liza Brown
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-note-30i-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix Note 30i Phone Password Without Factory Reset Full Guide Here</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
 </ul></div>
+
 
 

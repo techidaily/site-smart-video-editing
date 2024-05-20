@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Top 10 Online Tools to Resize Images Proportionally
-date: 2024-04-28T15:03:55.981Z
-updated: 2024-04-29T15:03:55.981Z
+date: 2024-05-19T08:27:03.996Z
+updated: 2024-05-20T08:27:03.996Z
 tags: 
   - video editing software
   - video editing
@@ -1728,5 +1728,6 @@ Looking to create captivating movies from video clips? The best tool for the pur
 <li><a href="https://ai-video-apps.techidaily.com/new-powerdirector-not-your-cup-of-tea-try-these-alternatives-for-android-and-ios-for-2024/"><u>New PowerDirector Not Your Cup of Tea? Try These Alternatives for Android & iOS for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-itel-a60s-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Itel A60s 7 Common Problems & Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 
 

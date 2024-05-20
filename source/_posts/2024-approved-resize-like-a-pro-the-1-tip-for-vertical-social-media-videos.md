@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Resize Like a Pro The #1 Tip for Vertical Social Media Videos
-date: 2024-04-28T15:03:56.990Z
-updated: 2024-04-29T15:03:56.990Z
+date: 2024-05-19T08:26:25.440Z
+updated: 2024-05-20T08:26:25.440Z
 tags: 
   - video editing software
   - video editing
@@ -2635,5 +2635,6 @@ The last of the tools on this list, Freemake, is another Windows-only software! 
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-10-essential-video-editing-programs-for-professionals/"><u>Updated 10 Essential Video Editing Programs for Professionals</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 
 

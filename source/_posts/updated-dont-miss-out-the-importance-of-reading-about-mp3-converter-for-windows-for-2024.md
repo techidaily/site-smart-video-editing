@@ -3293,3 +3293,4 @@ Follow @Benjamin Arango
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Lenovo ThinkPhone | Dr.fone</u></a></li>
 </ul></div>
 
+

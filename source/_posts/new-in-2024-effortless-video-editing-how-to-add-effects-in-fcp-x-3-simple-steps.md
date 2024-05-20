@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Effortless Video Editing How to Add Effects in FCP X (3 Simple Steps)
-date: 2024-04-28T15:03:57.705Z
-updated: 2024-04-29T15:03:57.705Z
+date: 2024-05-19T08:28:34.340Z
+updated: 2024-05-20T08:28:34.340Z
 tags: 
   - video editing software
   - video editing
@@ -4762,5 +4762,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-elevate-your-storytelling-how-to-create-professional-looking-films-on-a-budget-for-2024/"><u>New Elevate Your Storytelling How to Create Professional-Looking Films on a Budget for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-slowing-down-gif-with-the-best-available-methods/"><u>2024 Approved Slowing Down GIF With The Best Available Methods</u></a></li>
 </ul></div>
+
 
 

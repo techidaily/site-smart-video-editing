@@ -1,7 +1,7 @@
 ---
 title: Updated Online Image Editor Change Ratio and Dimensions
-date: 2024-04-28T15:03:55.232Z
-updated: 2024-04-29T15:03:55.232Z
+date: 2024-05-19T08:26:18.158Z
+updated: 2024-05-20T08:26:18.158Z
 tags: 
   - video editing software
   - video editing
@@ -2898,5 +2898,6 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Find N3 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-15-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 15 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

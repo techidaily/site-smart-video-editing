@@ -1,7 +1,7 @@
 ---
 title: New The Art of Cinematic Editing A Final Cut Pro X Tutorial
-date: 2024-04-28T15:03:56.223Z
-updated: 2024-04-29T15:03:56.223Z
+date: 2024-05-19T08:26:41.241Z
+updated: 2024-05-20T08:26:41.241Z
 tags: 
   - video editing software
   - video editing
@@ -2126,5 +2126,6 @@ Thus, this article has taught you about the Camtasia video speed up technique us
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Poco F5 5G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-infinix-zero-5g-2023-turbo-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Zero 5G 2023 Turbo without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Jump Cuts in Final Cut Pro X
-date: 2024-04-28T15:03:55.777Z
-updated: 2024-04-29T15:03:55.777Z
+date: 2024-05-19T08:26:54.633Z
+updated: 2024-05-20T08:26:54.633Z
 tags: 
   - video editing software
   - video editing
@@ -1839,5 +1839,6 @@ Kapwing is an efficient online video editor. The best part is, the tool doesn’
 <li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-g2-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo G2 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 
 

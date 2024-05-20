@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Transform Your Images A Beginners Guide to the Ken Burns Effect
-date: 2024-04-28T15:03:56.566Z
-updated: 2024-04-29T15:03:56.566Z
+date: 2024-05-19T08:27:13.567Z
+updated: 2024-05-20T08:27:13.567Z
 tags: 
   - video editing software
   - video editing
@@ -3472,5 +3472,6 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-7-plus-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 7 Plus</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy F15 5G</u></a></li>
 </ul></div>
+
 
 

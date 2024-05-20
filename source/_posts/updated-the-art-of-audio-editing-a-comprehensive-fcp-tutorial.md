@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Audio Editing A Comprehensive FCP Tutorial
-date: 2024-04-28T15:03:55.089Z
-updated: 2024-04-29T15:03:55.089Z
+date: 2024-05-19T08:26:41.092Z
+updated: 2024-05-20T08:26:41.092Z
 tags: 
   - video editing software
   - video editing
@@ -2036,5 +2036,6 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-xiaomi-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Xiaomi</u></a></li>
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-c110-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia C110 to Enjoy More Fun | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Why Are My FCPX Plugins Not Working? Quick Fixes
-date: 2024-04-28T15:03:57.086Z
-updated: 2024-04-29T15:03:57.086Z
+date: 2024-05-19T08:27:32.681Z
+updated: 2024-05-20T08:27:32.681Z
 tags: 
   - video editing software
   - video editing
@@ -2849,5 +2849,6 @@ Follow @Ollie Mattison
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-13-mini-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 13 mini from iCloud</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-lost-data-from-itel-by-fonelab-android-recover-data/"><u>Recover lost data from Itel</u></a></li>
 </ul></div>
+
 
 

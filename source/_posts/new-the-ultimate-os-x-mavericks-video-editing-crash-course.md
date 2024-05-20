@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate OS X Mavericks Video Editing Crash Course
-date: 2024-04-28T15:03:53.589Z
-updated: 2024-04-29T15:03:53.589Z
+date: 2024-05-19T08:27:00.585Z
+updated: 2024-05-20T08:27:00.585Z
 tags: 
   - video editing software
   - video editing
@@ -2153,5 +2153,6 @@ Follow @Shanoon Cox
 <li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-magic-5-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Magic 5</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-13-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 13 Pro Max Passcode Easily Video Inside</u></a></li>
 </ul></div>
+
 
 

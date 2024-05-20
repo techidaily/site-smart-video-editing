@@ -1,7 +1,7 @@
 ---
 title: New In 2024, A Beginners Guide to Adding Titles, Captions, and Subtitles in FCPX
-date: 2024-04-28T15:03:55.297Z
-updated: 2024-04-29T15:03:55.297Z
+date: 2024-05-19T08:27:41.355Z
+updated: 2024-05-20T08:27:41.355Z
 tags: 
   - video editing software
   - video editing
@@ -2537,5 +2537,6 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-nord-n30-se-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus Nord N30 SE to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-motorola-edge-2023-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Motorola Edge 2023 Phone</u></a></li>
 </ul></div>
+
 
 

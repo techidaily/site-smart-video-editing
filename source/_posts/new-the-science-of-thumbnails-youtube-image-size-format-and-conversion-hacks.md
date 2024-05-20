@@ -1,7 +1,7 @@
 ---
 title: New The Science of Thumbnails YouTube Image Size, Format, and Conversion Hacks
-date: 2024-04-28T15:03:56.047Z
-updated: 2024-04-29T15:03:56.047Z
+date: 2024-05-19T08:26:49.865Z
+updated: 2024-05-20T08:26:49.865Z
 tags: 
   - video editing software
   - video editing
@@ -2002,5 +2002,6 @@ Follow @Max Wales
 <li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy A23 5G</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-13-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 13</u></a></li>
 </ul></div>
+
 
 

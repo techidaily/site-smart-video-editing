@@ -1,7 +1,7 @@
 ---
 title: Updated Speed Up or Slow Down Your Camtasia Recordings
-date: 2024-04-28T15:03:57.103Z
-updated: 2024-04-29T15:03:57.103Z
+date: 2024-05-19T08:26:34.978Z
+updated: 2024-05-20T08:26:34.978Z
 tags: 
   - video editing software
   - video editing
@@ -1270,5 +1270,6 @@ Follow @Liza Brown
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
 </ul></div>
+
 
 

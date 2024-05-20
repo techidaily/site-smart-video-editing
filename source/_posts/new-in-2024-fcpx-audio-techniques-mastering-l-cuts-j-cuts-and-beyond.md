@@ -1,7 +1,7 @@
 ---
 title: New In 2024, FCPX Audio Techniques Mastering L-Cuts, J-Cuts, and Beyond
-date: 2024-04-28T15:03:52.980Z
-updated: 2024-04-29T15:03:52.980Z
+date: 2024-05-19T08:28:40.277Z
+updated: 2024-05-20T08:28:40.277Z
 tags: 
   - video editing software
   - video editing
@@ -2351,5 +2351,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-vhs-revival-on-mobile-top-apps-for-iphone-and-android-users/"><u>New VHS Revival on Mobile Top Apps for iPhone and Android Users</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 15 Plus</u></a></li>
 </ul></div>
+
 
 

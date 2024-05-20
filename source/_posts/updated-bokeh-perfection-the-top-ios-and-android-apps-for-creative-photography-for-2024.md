@@ -1,7 +1,7 @@
 ---
 title: Updated Bokeh Perfection The Top iOS and Android Apps for Creative Photography for 2024
-date: 2024-04-28T15:03:52.675Z
-updated: 2024-04-29T15:03:52.675Z
+date: 2024-05-19T08:28:13.184Z
+updated: 2024-05-20T08:28:13.184Z
 tags: 
   - video editing software
   - video editing
@@ -2447,5 +2447,6 @@ For macOS 10.12 or later
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro To Android/iOS? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-note-30-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix Note 30</u></a></li>
 </ul></div>
+
 
 

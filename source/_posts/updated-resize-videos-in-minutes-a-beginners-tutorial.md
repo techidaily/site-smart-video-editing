@@ -1,7 +1,7 @@
 ---
 title: Updated Resize Videos in Minutes A Beginners Tutorial
-date: 2024-04-28T15:03:55.470Z
-updated: 2024-04-29T15:03:55.470Z
+date: 2024-05-19T08:26:25.533Z
+updated: 2024-05-20T08:26:25.533Z
 tags: 
   - video editing software
   - video editing
@@ -3346,5 +3346,6 @@ For macOS 10.14 or later
 <li><a href="https://howto.techidaily.com/xiaomi-13t-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 13T Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-7-ways-to-make-gif-from-videos-on-mac-for-2024/"><u>Updated 7 Ways to Make GIF From Videos on Mac for 2024</u></a></li>
 </ul></div>
+
 
 

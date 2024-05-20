@@ -1,7 +1,7 @@
 ---
 title: Updated Bokeh Mastery The Best Mobile Apps for Creative Blur for 2024
-date: 2024-04-28T15:03:52.246Z
-updated: 2024-04-29T15:03:52.246Z
+date: 2024-05-19T08:28:13.161Z
+updated: 2024-05-20T08:28:13.161Z
 tags: 
   - video editing software
   - video editing
@@ -2021,5 +2021,6 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-infinix-note-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Infinix Note 30 5G</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

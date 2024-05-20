@@ -1,7 +1,7 @@
 ---
 title: New FCPX Tutorial Trimming and Cropping Images Like a Pro for 2024
-date: 2024-04-28T15:03:55.781Z
-updated: 2024-04-29T15:03:55.781Z
+date: 2024-05-19T08:28:41.191Z
+updated: 2024-05-20T08:28:41.191Z
 tags: 
   - video editing software
   - video editing
@@ -2263,5 +2263,6 @@ You may use VHS effects to add variety to the photographs and videos you upload 
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone XS Max | Dr.fone</u></a></li>
 </ul></div>
+
 
 

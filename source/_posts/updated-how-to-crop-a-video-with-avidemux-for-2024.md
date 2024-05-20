@@ -1,7 +1,7 @@
 ---
 title: Updated How to Crop a Video with Avidemux for 2024
-date: 2024-04-28T15:03:55.423Z
-updated: 2024-04-29T15:03:55.423Z
+date: 2024-05-19T08:27:51.894Z
+updated: 2024-05-20T08:27:51.894Z
 tags: 
   - video editing software
   - video editing
@@ -2764,5 +2764,6 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/the-way-to-convert-mts-for-moto-g04-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Moto G04</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/how-to-create-youtube-intro-animation-like-a-pro/"><u>How to Create YouTube Intro Animation Like a Pro</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Unlocking Camtasias Power Speed Up, Slow Down, and More
-date: 2024-04-28T15:03:52.990Z
-updated: 2024-04-29T15:03:52.990Z
+date: 2024-05-19T08:27:23.504Z
+updated: 2024-05-20T08:27:23.504Z
 tags: 
   - video editing software
   - video editing
@@ -2162,5 +2162,6 @@ Follow @Liza Brown
 <li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-14-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 14 Plus? Find the Best Solution Here</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-redmi-a2plus-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Redmi A2+.</u></a></li>
 </ul></div>
+
 
 

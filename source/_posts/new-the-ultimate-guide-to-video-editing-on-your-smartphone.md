@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Video Editing on Your Smartphone
-date: 2024-04-28T15:03:55.144Z
-updated: 2024-04-29T15:03:55.144Z
+date: 2024-05-19T08:26:56.031Z
+updated: 2024-05-20T08:26:56.031Z
 tags: 
   - video editing software
   - video editing
@@ -2355,5 +2355,6 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-6s-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 6s i Do? Get Answers here</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-xs-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone XS With or Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 
 

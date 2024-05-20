@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Designing for Thumb-Friendly Screens Aspect Ratio Essentials
-date: 2024-04-28T15:03:53.249Z
-updated: 2024-04-29T15:03:53.249Z
+date: 2024-05-19T08:28:25.805Z
+updated: 2024-05-20T08:28:25.805Z
 tags: 
   - video editing software
   - video editing
@@ -3588,5 +3588,6 @@ This is a simple tool used for video editing. Its simple features make it less c
 <li><a href="https://ai-editing-video.techidaily.com/updated-a-guide-to-color-grade-your-picture-in-lightroom/"><u>Updated A Guide to Color Grade Your Picture in LightRoom</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-f54-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy F54 5G to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

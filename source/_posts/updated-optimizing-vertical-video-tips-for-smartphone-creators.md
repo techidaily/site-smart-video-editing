@@ -1,7 +1,7 @@
 ---
 title: Updated Optimizing Vertical Video Tips for Smartphone Creators
-date: 2024-04-28T15:03:55.487Z
-updated: 2024-04-29T15:03:55.487Z
+date: 2024-05-19T08:26:19.237Z
+updated: 2024-05-20T08:26:19.237Z
 tags: 
   - video editing software
   - video editing
@@ -2271,5 +2271,6 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-reset-a-oneplus-nord-n30-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a OnePlus Nord N30 5G Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-can-sony-xperia-5-vmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Sony Xperia 5 VMirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

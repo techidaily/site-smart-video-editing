@@ -1,7 +1,7 @@
 ---
 title: New The Basics of HD Video Pixel Size, Resolution, and More
-date: 2024-04-28T15:03:57.267Z
-updated: 2024-04-29T15:03:57.267Z
+date: 2024-05-19T08:26:42.599Z
+updated: 2024-05-20T08:26:42.599Z
 tags: 
   - video editing software
   - video editing
@@ -2132,5 +2132,6 @@ Now that you are aware of these top movie maker apps for Android, you can evalua
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C32 | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-14-plus-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 14 Plus and iPad</u></a></li>
 </ul></div>
+
 
 

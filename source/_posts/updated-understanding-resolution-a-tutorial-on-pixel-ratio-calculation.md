@@ -1,7 +1,7 @@
 ---
 title: Updated Understanding Resolution A Tutorial on Pixel Ratio Calculation
-date: 2024-04-28T15:03:54.761Z
-updated: 2024-04-29T15:03:54.761Z
+date: 2024-05-19T08:27:17.091Z
+updated: 2024-05-20T08:27:17.091Z
 tags: 
   - video editing software
   - video editing
@@ -2530,5 +2530,6 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-motorola-g24-power-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Motorola G24 Power? Here is How | Dr.fone</u></a></li>
 </ul></div>
+
 
 

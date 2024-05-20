@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved FCPX Essentials Adding a Skin Smoothing Effect From Scratch
-date: 2024-04-28T15:03:51.948Z
-updated: 2024-04-29T15:03:51.948Z
+date: 2024-05-19T08:28:40.421Z
+updated: 2024-05-20T08:28:40.421Z
 tags: 
   - video editing software
   - video editing
@@ -3198,5 +3198,6 @@ Follow @Shanoon Cox
 <li><a href="https://techidaily.com/undelete-lost-messages-from-infinix-zero-30-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Infinix Zero 30 5G</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-honor-magic-6-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Honor Magic 6 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Ken Burns Effect Tutorial for Final Cut Pro Tips, Tricks, and Best Practices for 2024
-date: 2024-04-28T15:03:57.693Z
-updated: 2024-04-29T15:03:57.693Z
+date: 2024-05-19T08:26:56.495Z
+updated: 2024-05-20T08:26:56.495Z
 tags: 
   - video editing software
   - video editing
@@ -1898,5 +1898,6 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/how-realme-c55-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme C55 Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-a24-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy A24 is off? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

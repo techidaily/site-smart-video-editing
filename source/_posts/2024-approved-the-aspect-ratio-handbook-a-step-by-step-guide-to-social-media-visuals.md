@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Aspect Ratio Handbook A Step-by-Step Guide to Social Media Visuals
-date: 2024-04-28T15:03:56.213Z
-updated: 2024-04-29T15:03:56.213Z
+date: 2024-05-19T08:26:42.501Z
+updated: 2024-05-20T08:26:42.501Z
 tags: 
   - video editing software
   - video editing
@@ -2650,5 +2650,6 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/is-your-oneplus-nord-ce-3-lite-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your OnePlus Nord CE 3 Lite 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

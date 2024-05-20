@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Animation Essentials A Beginners Introduction to Stop Motion Studio
-date: 2024-04-28T15:03:53.158Z
-updated: 2024-04-29T15:03:53.158Z
+date: 2024-05-19T08:28:02.770Z
+updated: 2024-05-20T08:28:02.770Z
 tags: 
   - video editing software
   - video editing
@@ -1980,5 +1980,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-12-pro-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 12 Pro Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo Y200 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

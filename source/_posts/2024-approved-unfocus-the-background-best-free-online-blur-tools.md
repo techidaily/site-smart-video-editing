@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Unfocus the Background Best Free Online Blur Tools
-date: 2024-04-28T15:03:54.153Z
-updated: 2024-04-29T15:03:54.153Z
+date: 2024-05-19T08:27:17.106Z
+updated: 2024-05-20T08:27:17.106Z
 tags: 
   - video editing software
   - video editing
@@ -2272,5 +2272,6 @@ Follow @Benjamin Arango
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Others Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/create-slide-masking-effect-intro-for-2024/"><u>Create Slide Masking Effect Intro for 2024</u></a></li>
 </ul></div>
+
 
 

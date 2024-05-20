@@ -1,7 +1,7 @@
 ---
 title: Vertical Video Mastery A Smartphone Creators Guide for 2024
-date: 2024-04-28T15:03:53.621Z
-updated: 2024-04-29T15:03:53.621Z
+date: 2024-05-19T08:27:24.495Z
+updated: 2024-05-20T08:27:24.495Z
 tags: 
   - video editing software
   - video editing
@@ -2343,5 +2343,6 @@ The modern video editing software comes with the feature of smart auto reframing
 <li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-a15-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy A15 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-2-effective-ways-to-add-text-behind-objects/"><u>Updated In 2024, 2 Effective Ways to Add Text Behind Objects</u></a></li>
 </ul></div>
+
 
 

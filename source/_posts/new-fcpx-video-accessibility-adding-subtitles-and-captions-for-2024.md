@@ -1,7 +1,7 @@
 ---
 title: New FCPX Video Accessibility Adding Subtitles and Captions for 2024
-date: 2024-04-28T15:03:51.831Z
-updated: 2024-04-29T15:03:51.831Z
+date: 2024-05-19T08:28:41.246Z
+updated: 2024-05-20T08:28:41.246Z
 tags: 
   - video editing software
   - video editing
@@ -2085,5 +2085,6 @@ Follow @Liza Brown
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-13-mini-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 13 mini Prevention & Solution | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone XS | Dr.fone</u></a></li>
 </ul></div>
+
 
 

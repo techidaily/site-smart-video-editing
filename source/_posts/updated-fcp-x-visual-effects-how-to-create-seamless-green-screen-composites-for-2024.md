@@ -1,7 +1,7 @@
 ---
 title: Updated FCP X Visual Effects How to Create Seamless Green Screen Composites for 2024
-date: 2024-04-28T15:03:57.500Z
-updated: 2024-04-29T15:03:57.500Z
+date: 2024-05-19T08:28:40.139Z
+updated: 2024-05-20T08:28:40.139Z
 tags: 
   - video editing software
   - video editing
@@ -2668,5 +2668,6 @@ Key features
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-nokia-c02-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Nokia C02 Is Unlocked</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

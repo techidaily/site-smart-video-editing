@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved From Landscape to Portrait The Art of Resizing Videos for Social Media
-date: 2024-04-28T15:03:57.042Z
-updated: 2024-04-29T15:03:57.042Z
+date: 2024-05-19T08:28:53.544Z
+updated: 2024-05-20T08:28:53.544Z
 tags: 
   - video editing software
   - video editing
@@ -1614,5 +1614,6 @@ Follow @Liza Brown
 <li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo S18? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-lenovo-thinkphone-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Lenovo ThinkPhone Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 
 

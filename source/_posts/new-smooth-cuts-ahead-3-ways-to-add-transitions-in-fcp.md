@@ -1,7 +1,7 @@
 ---
 title: New Smooth Cuts Ahead 3 Ways to Add Transitions in FCP
-date: 2024-04-28T15:03:56.593Z
-updated: 2024-04-29T15:03:56.593Z
+date: 2024-05-19T08:26:33.975Z
+updated: 2024-05-20T08:26:33.975Z
 tags: 
   - video editing software
   - video editing
@@ -2519,5 +2519,6 @@ Many online video editing tools are available in the market that allows you to c
 <li><a href="https://ai-voice.techidaily.com/new-best-narrator-voice-generators/"><u>New Best Narrator Voice Generators</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-15-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 15 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
 </ul></div>
+
 
 

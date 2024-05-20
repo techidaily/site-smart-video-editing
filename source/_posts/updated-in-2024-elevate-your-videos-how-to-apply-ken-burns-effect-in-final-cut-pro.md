@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Elevate Your Videos How to Apply Ken Burns Effect in Final Cut Pro
-date: 2024-04-28T15:03:56.446Z
-updated: 2024-04-29T15:03:56.446Z
+date: 2024-05-19T08:28:35.587Z
+updated: 2024-05-20T08:28:35.587Z
 tags: 
   - video editing software
   - video editing
@@ -1836,5 +1836,6 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/a-closer-look-at-vn-video-editor-for-windows-and-macos/"><u>A Closer Look at VN Video Editor for Windows and macOS</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nubia-z50s-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nubia Z50S Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Color in Final Cut Pro A Step-by-Step Guide
-date: 2024-04-28T15:03:52.516Z
-updated: 2024-04-29T15:03:52.516Z
+date: 2024-05-19T08:26:08.815Z
+updated: 2024-05-20T08:26:08.815Z
 tags: 
   - video editing software
   - video editing
@@ -1999,5 +1999,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/4-solutions-to-add-white-border-to-video-on-mobile-and-desktop-for-2024/"><u>4 Solutions to Add White Border to Video on Mobile and Desktop for 2024</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Google Pixel 7a | Dr.fone</u></a></li>
 </ul></div>
+
 
 

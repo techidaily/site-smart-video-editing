@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved FCPX Jump Cuts Tutorial From Beginner to Expert
-date: 2024-04-28T15:03:53.842Z
-updated: 2024-04-29T15:03:53.842Z
+date: 2024-05-19T08:28:40.551Z
+updated: 2024-05-20T08:28:40.551Z
 tags: 
   - video editing software
   - video editing
@@ -2189,5 +2189,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-huawei-p60-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Huawei P60 to iPhone (13/14/15) | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/about-asus-rog-phone-7-ultimate-frp-bypass-by-drfone-android/"><u>About Asus ROG Phone 7 Ultimate FRP Bypass</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Slow Motion on Kapwing Tips and Tricks for Amazing Videos
-date: 2024-04-28T15:03:55.319Z
-updated: 2024-04-29T15:03:55.319Z
+date: 2024-05-19T08:26:09.129Z
+updated: 2024-05-20T08:26:09.129Z
 tags: 
   - video editing software
   - video editing
@@ -1376,5 +1376,6 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-s17t-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo S17t for Streaming | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-v2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic V2 to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

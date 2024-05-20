@@ -1,7 +1,7 @@
 ---
 title: New In 2024, FCP File Management 101 Saving Your Project with Ease
-date: 2024-04-28T15:03:54.889Z
-updated: 2024-04-29T15:03:54.889Z
+date: 2024-05-19T08:28:39.784Z
+updated: 2024-05-20T08:28:39.784Z
 tags: 
   - video editing software
   - video editing
@@ -2091,5 +2091,6 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-v30-lite-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo V30 Lite 5G Phones</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-90-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor 90 Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

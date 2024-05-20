@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved FCPX Tutorial Elevate Your Audio Game with L-Cuts and J-Cuts
-date: 2024-04-28T15:03:54.982Z
-updated: 2024-04-29T15:03:54.982Z
+date: 2024-05-19T08:28:41.130Z
+updated: 2024-05-20T08:28:41.130Z
 tags: 
   - video editing software
   - video editing
@@ -2935,5 +2935,6 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Gionee F3 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>New In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
 </ul></div>
+
 
 

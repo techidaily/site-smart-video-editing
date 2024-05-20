@@ -1,7 +1,7 @@
 ---
 title: New The Art of Visual Storytelling Ken Burns Effect in Final Cut Pro Explained
-date: 2024-04-28T15:03:57.870Z
-updated: 2024-04-29T15:03:57.870Z
+date: 2024-05-19T08:26:42.247Z
+updated: 2024-05-20T08:26:42.247Z
 tags: 
   - video editing software
   - video editing
@@ -4761,5 +4761,6 @@ Follow @Liza Brown
 <li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme 12 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/vivo-y17s-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y17s Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
+
 
 

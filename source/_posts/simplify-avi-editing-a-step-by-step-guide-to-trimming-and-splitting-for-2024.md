@@ -1,7 +1,7 @@
 ---
 title: Simplify AVI Editing A Step-by-Step Guide to Trimming and Splitting for 2024
-date: 2024-04-28T15:03:53.612Z
-updated: 2024-04-29T15:03:53.612Z
+date: 2024-05-19T08:26:32.437Z
+updated: 2024-05-20T08:26:32.437Z
 tags: 
   - video editing software
   - video editing
@@ -2058,5 +2058,6 @@ The selected image will not be used as the thumbnail for the video.
 <li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-k11x-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo K11x FRP Without Computer</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-11-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 11 Pro Max? Heres the Best Fixes</u></a></li>
 </ul></div>
+
 
 

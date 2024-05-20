@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Fast Video Resize A Step-by-Step Guide
-date: 2024-04-28T15:03:51.639Z
-updated: 2024-04-29T15:03:51.639Z
+date: 2024-05-19T08:28:39.492Z
+updated: 2024-05-20T08:28:39.492Z
 tags: 
   - video editing software
   - video editing
@@ -1976,5 +1976,6 @@ Follow @Richard Bennett
 <li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-hot-40-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix Hot 40</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-tutorials-of-kapwing-collage-maker-for-2024/"><u>How-To Tutorials of Kapwing Collage Maker for 2024</u></a></li>
 </ul></div>
+
 
 

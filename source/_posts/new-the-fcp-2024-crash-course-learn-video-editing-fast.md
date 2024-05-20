@@ -1,7 +1,7 @@
 ---
 title: New The FCP 2024 Crash Course Learn Video Editing Fast
-date: 2024-04-28T15:03:52.514Z
-updated: 2024-04-29T15:03:52.514Z
+date: 2024-05-19T08:26:48.633Z
+updated: 2024-05-20T08:26:48.633Z
 tags: 
   - video editing software
   - video editing
@@ -1737,5 +1737,6 @@ Follow @Max Wales
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Tecno Camon 20 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-honor-magic-6-screen-sharing-drfone-by-drfone-android/"><u>How To Do Honor Magic 6 Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 
 

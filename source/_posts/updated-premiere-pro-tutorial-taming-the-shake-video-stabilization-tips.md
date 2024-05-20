@@ -1,7 +1,7 @@
 ---
 title: Updated Premiere Pro Tutorial Taming the Shake - Video Stabilization Tips
-date: 2024-04-28T15:03:55.401Z
-updated: 2024-04-29T15:03:55.401Z
+date: 2024-05-19T08:26:21.872Z
+updated: 2024-05-20T08:26:21.872Z
 tags: 
   - video editing software
   - video editing
@@ -3183,5 +3183,6 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-htc-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of HTC ?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-12-pro-max-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone 12 Pro Max? 5 Best Solutions | Stellar</u></a></li>
 </ul></div>
+
 
 

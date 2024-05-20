@@ -1,7 +1,7 @@
 ---
 title: Updated Top 8 Video Editing Apps for 4K Proxy Video Editing for 2024
-date: 2024-04-28T15:03:55.237Z
-updated: 2024-04-29T15:03:55.237Z
+date: 2024-05-19T08:27:58.710Z
+updated: 2024-05-20T08:27:58.710Z
 tags: 
   - video editing software
   - video editing
@@ -2189,5 +2189,6 @@ Follow @Max Wales
 <li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-13t-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi 13T</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-oneplus-nord-n30-se-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on OnePlus Nord N30 SE</u></a></li>
 </ul></div>
+
 
 

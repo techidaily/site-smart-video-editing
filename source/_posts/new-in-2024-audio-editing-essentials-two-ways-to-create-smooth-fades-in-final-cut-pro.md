@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Audio Editing Essentials Two Ways to Create Smooth Fades in Final Cut Pro
-date: 2024-04-28T15:03:57.948Z
-updated: 2024-04-29T15:03:57.948Z
+date: 2024-05-19T08:28:04.703Z
+updated: 2024-05-20T08:28:04.703Z
 tags: 
   - video editing software
   - video editing
@@ -1848,5 +1848,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-top-online-video-editing-software-with-audio-tracks/"><u>In 2024, Top Online Video Editing Software with Audio Tracks</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 6 Plus?</u></a></li>
 </ul></div>
+
 
 

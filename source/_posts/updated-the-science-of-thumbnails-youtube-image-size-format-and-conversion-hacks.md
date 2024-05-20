@@ -1,7 +1,7 @@
 ---
 title: Updated The Science of Thumbnails YouTube Image Size, Format, and Conversion Hacks
-date: 2024-04-28T15:03:55.679Z
-updated: 2024-04-29T15:03:55.679Z
+date: 2024-05-19T08:26:49.881Z
+updated: 2024-05-20T08:26:49.881Z
 tags: 
   - video editing software
   - video editing
@@ -1909,5 +1909,6 @@ Follow @Benjamin Arango
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-a15-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy A15 4G Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/best-tools-to-edit-mp4-tags-on-windows-and-mac-for-2024/"><u>Best Tools to Edit MP4 Tags on Windows and Mac for 2024</u></a></li>
 </ul></div>
+
 
 

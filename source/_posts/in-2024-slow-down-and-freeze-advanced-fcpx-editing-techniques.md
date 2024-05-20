@@ -1,7 +1,7 @@
 ---
 title: In 2024, Slow Down and Freeze Advanced FCPX Editing Techniques
-date: 2024-04-28T15:03:57.373Z
-updated: 2024-04-29T15:03:57.373Z
+date: 2024-05-19T08:26:33.461Z
+updated: 2024-05-20T08:26:33.461Z
 tags: 
   - video editing software
   - video editing
@@ -2226,5 +2226,6 @@ Follow @Ollie Mattison
 <li><a href="https://animation-videos.techidaily.com/updated-techniques-for-making-after-effects-2d-animation/"><u>Updated Techniques for Making After Effects 2D Animation</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/is-augmented-reality-conferencing-the-future-of-workplace-collaboration-for-2024/"><u>Is Augmented Reality Conferencing the Future of Workplace Collaboration for 2024</u></a></li>
 </ul></div>
+
 
 

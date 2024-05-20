@@ -1,7 +1,7 @@
 ---
 title: New Distort, Disrupt, Delight 10 Glitch Video Editing Apps for iOS and Android for 2024
-date: 2024-04-28T15:03:57.353Z
-updated: 2024-04-29T15:03:57.353Z
+date: 2024-05-19T08:28:29.186Z
+updated: 2024-05-20T08:28:29.186Z
 tags: 
   - video editing software
   - video editing
@@ -1847,5 +1847,6 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola G54 5G | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-6s-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone 6s Unlock Chip You Need to Know</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New Mastering Jump Cuts in Final Cut Pro X A Step-by-Step Guide
-date: 2024-04-28T15:03:57.105Z
-updated: 2024-04-29T15:03:57.105Z
+date: 2024-05-19T08:26:08.986Z
+updated: 2024-05-20T08:26:08.986Z
 tags: 
   - video editing software
   - video editing
@@ -2087,5 +2087,6 @@ This is a simple tool used for video editing. Its simple features make it less c
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-a-slideshow-with-icecream-slideshow-maker/"><u>Updated In 2024, How to Make a Slideshow with Icecream Slideshow Maker</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-tecno-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Tecno</u></a></li>
 </ul></div>
+
 
 

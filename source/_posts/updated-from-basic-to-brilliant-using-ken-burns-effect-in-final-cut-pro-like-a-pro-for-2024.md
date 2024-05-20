@@ -1,7 +1,7 @@
 ---
 title: Updated From Basic to Brilliant Using Ken Burns Effect in Final Cut Pro Like a Pro for 2024
-date: 2024-04-28T15:03:55.060Z
-updated: 2024-04-29T15:03:55.060Z
+date: 2024-05-19T08:28:51.561Z
+updated: 2024-05-20T08:28:51.561Z
 tags: 
   - video editing software
   - video editing
@@ -2009,5 +2009,6 @@ Filmora also provides more advanced features for video editing like rotating, cr
 <li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 13 mini | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-spark-20c-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Spark 20C</u></a></li>
 </ul></div>
+
 
 

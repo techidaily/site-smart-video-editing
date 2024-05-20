@@ -1,7 +1,7 @@
 ---
 title: Updated Slow Motion Magic on Kapwing A Step-by-Step Guide to Editing Like a Pro
-date: 2024-04-28T15:03:56.965Z
-updated: 2024-04-29T15:03:56.965Z
+date: 2024-05-19T08:26:33.665Z
+updated: 2024-05-20T08:26:33.665Z
 tags: 
   - video editing software
   - video editing
@@ -1829,5 +1829,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/new-guide-to-create-an-intro-video-with-filmora-for-2024/"><u>New Guide to Create an Intro Video with Filmora for 2024</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y36-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y36 Phone</u></a></li>
 </ul></div>
+
 
 

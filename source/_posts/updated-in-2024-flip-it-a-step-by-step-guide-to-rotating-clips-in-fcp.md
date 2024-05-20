@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Flip It! A Step-by-Step Guide to Rotating Clips in FCP
-date: 2024-04-28T15:03:57.398Z
-updated: 2024-04-29T15:03:57.398Z
+date: 2024-05-19T08:28:44.452Z
+updated: 2024-05-20T08:28:44.452Z
 tags: 
   - video editing software
   - video editing
@@ -2069,5 +2069,6 @@ Follow @Shanoon Cox
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-magic-5-lite-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor Magic 5 Lite 7 Common Problems & Fixes | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a79-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A79 5G</u></a></li>
 </ul></div>
+
 
 

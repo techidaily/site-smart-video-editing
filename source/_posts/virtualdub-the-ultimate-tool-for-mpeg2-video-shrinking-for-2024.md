@@ -1,7 +1,7 @@
 ---
 title: VirtualDub The Ultimate Tool for MPEG2 Video Shrinking for 2024
-date: 2024-04-28T15:03:57.118Z
-updated: 2024-04-29T15:03:57.118Z
+date: 2024-05-19T08:27:29.006Z
+updated: 2024-05-20T08:27:29.006Z
 tags: 
   - video editing software
   - video editing
@@ -2197,5 +2197,6 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo Y100A? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-how-to-make-a-professional-looking-movie-on-your-mac-for-2024/"><u>New How to Make a Professional-Looking Movie on Your Mac for 2024</u></a></li>
 </ul></div>
+
 
 

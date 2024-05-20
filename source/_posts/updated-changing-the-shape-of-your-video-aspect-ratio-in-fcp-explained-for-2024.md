@@ -1,7 +1,7 @@
 ---
 title: Updated Changing the Shape of Your Video Aspect Ratio in FCP Explained for 2024
-date: 2024-04-28T15:03:57.722Z
-updated: 2024-04-29T15:03:57.722Z
+date: 2024-05-19T08:28:15.693Z
+updated: 2024-05-20T08:28:15.693Z
 tags: 
   - video editing software
   - video editing
@@ -1858,5 +1858,6 @@ This online image editing tool supports multiple functions like image resizing, 
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oneplus-ace-2-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For OnePlus Ace 2 Phones</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Tecno Spark 20? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Color Harmony Made Easy A Step-by-Step FCP Guide
-date: 2024-04-28T15:03:54.726Z
-updated: 2024-04-29T15:03:54.726Z
+date: 2024-05-19T08:28:17.510Z
+updated: 2024-05-20T08:28:17.510Z
 tags: 
   - video editing software
   - video editing
@@ -2112,5 +2112,6 @@ Various **pixel calculator ratios**, both paid and free, have popped up on the w
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-c33-2023-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme C33 2023 Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-asus-rog-phone-8-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Asus ROG Phone 8 to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 
 

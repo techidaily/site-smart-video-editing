@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Resizing Your Video to Perfect Proportions for 2024
-date: 2024-04-28T15:03:55.015Z
-updated: 2024-04-29T15:03:55.015Z
+date: 2024-05-19T08:26:23.541Z
+updated: 2024-05-20T08:26:23.541Z
 tags: 
   - video editing software
   - video editing
@@ -3031,5 +3031,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Motorola Edge 40 | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 12 Pro</u></a></li>
 </ul></div>
+
 
 

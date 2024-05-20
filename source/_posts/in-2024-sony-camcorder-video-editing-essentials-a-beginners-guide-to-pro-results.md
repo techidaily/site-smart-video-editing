@@ -1,7 +1,7 @@
 ---
 title: In 2024, Sony Camcorder Video Editing Essentials A Beginners Guide to Pro Results
-date: 2024-04-28T15:03:57.943Z
-updated: 2024-04-29T15:03:57.943Z
+date: 2024-05-19T08:26:34.466Z
+updated: 2024-05-20T08:26:34.466Z
 tags: 
   - video editing software
   - video editing
@@ -1558,5 +1558,6 @@ If you are new to the VFX and video editing industry, trying hands with the Phot
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-record-slow-motion-videos-with-phantom-slow-mo-camera/"><u>In 2024, Record Slow Motion Videos With Phantom Slow-Mo Camera</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-13t-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi 13T Pro</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Play Video in Slow Motion on VLC
-date: 2024-04-28T15:03:54.935Z
-updated: 2024-04-29T15:03:54.935Z
+date: 2024-05-19T08:27:44.515Z
+updated: 2024-05-20T08:27:44.515Z
 tags: 
   - video editing software
   - video editing
@@ -1812,5 +1812,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone X</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro with IMEI Code?</u></a></li>
 </ul></div>
+
 
 

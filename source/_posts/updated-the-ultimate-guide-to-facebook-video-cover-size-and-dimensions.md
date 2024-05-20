@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Facebook Video Cover Size and Dimensions
-date: 2024-04-28T15:03:54.254Z
-updated: 2024-04-29T15:03:54.254Z
+date: 2024-05-19T08:26:53.612Z
+updated: 2024-05-20T08:26:53.612Z
 tags: 
   - video editing software
   - video editing
@@ -2254,5 +2254,6 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-turn-text-into-a-podcast-for-2024/"><u>Updated How to Turn Text Into a Podcast for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo V29 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Creating Stunning Motion Blur Effects in FCP for 2024
-date: 2024-04-28T15:03:56.164Z
-updated: 2024-04-29T15:03:56.164Z
+date: 2024-05-19T08:26:53.473Z
+updated: 2024-05-20T08:26:53.473Z
 tags: 
   - video editing software
   - video editing
@@ -1987,5 +1987,6 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s24-ultra-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S24 Ultra To Phone | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme 11 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

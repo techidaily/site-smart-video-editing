@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Free Online Image Resizer Adjust Ratios and Sizes
-date: 2024-04-28T15:03:56.508Z
-updated: 2024-04-29T15:03:56.508Z
+date: 2024-05-19T08:28:48.050Z
+updated: 2024-05-20T08:28:48.050Z
 tags: 
   - video editing software
   - video editing
@@ -2447,5 +2447,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/updated-top-8-video-editor-with-useful-masking-for-2024/"><u>Updated Top 8 Video Editor with Useful Masking for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo A56s 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

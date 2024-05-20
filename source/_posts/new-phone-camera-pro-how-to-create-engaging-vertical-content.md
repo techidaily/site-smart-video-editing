@@ -1,7 +1,7 @@
 ---
 title: New Phone Camera Pro How to Create Engaging Vertical Content
-date: 2024-04-28T15:03:54.859Z
-updated: 2024-04-29T15:03:54.859Z
+date: 2024-05-19T08:26:19.969Z
+updated: 2024-05-20T08:26:19.969Z
 tags: 
   - video editing software
   - video editing
@@ -2879,5 +2879,6 @@ Follow @Benjamin Arango
 <li><a href="https://ai-topics.techidaily.com/updated-what-are-ai-tools-for-2024/"><u>Updated What Are AI Tools for 2024</u></a></li>
 <li><a href="https://techidaily.com/hard-reset-itel-p40-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Itel P40 in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
+
 
 

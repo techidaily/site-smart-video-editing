@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCPX Tutorial Elevate Your Edits with L-Cuts and J-Cuts
-date: 2024-04-28T15:03:55.472Z
-updated: 2024-04-29T15:03:55.472Z
+date: 2024-05-19T08:28:41.157Z
+updated: 2024-05-20T08:28:41.157Z
 tags: 
   - video editing software
   - video editing
@@ -1312,5 +1312,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-your-moments-shine-top-photo-music-video-software/"><u>New In 2024, Make Your Moments Shine Top Photo Music Video Software</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-itel-p40-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Itel P40 FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 
 

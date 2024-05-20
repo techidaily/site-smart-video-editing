@@ -1,7 +1,7 @@
 ---
 title: Updated Avidemux Tutorial Crop and Resize Your Videos Like a Pro for 2024
-date: 2024-04-28T15:03:56.729Z
-updated: 2024-04-29T15:03:56.729Z
+date: 2024-05-19T08:28:05.673Z
+updated: 2024-05-20T08:28:05.673Z
 tags: 
   - video editing software
   - video editing
@@ -3160,5 +3160,6 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Civi 3 | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 15 Pro Max</u></a></li>
 </ul></div>
+
 
 

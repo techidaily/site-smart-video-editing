@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Effortless Video Size Adjustment A How-To Guide
-date: 2024-04-28T15:03:55.837Z
-updated: 2024-04-29T15:03:55.837Z
+date: 2024-05-19T08:28:34.436Z
+updated: 2024-05-20T08:28:34.436Z
 tags: 
   - video editing software
   - video editing
@@ -2617,5 +2617,6 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Infinix Note 30? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-nubia-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Nubia Users</u></a></li>
 </ul></div>
+
 
 

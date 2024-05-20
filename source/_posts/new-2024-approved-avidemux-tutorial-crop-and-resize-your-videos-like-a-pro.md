@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Avidemux Tutorial Crop and Resize Your Videos Like a Pro
-date: 2024-04-28T15:03:55.416Z
-updated: 2024-04-29T15:03:55.416Z
+date: 2024-05-19T08:28:05.686Z
+updated: 2024-05-20T08:28:05.686Z
 tags: 
   - video editing software
   - video editing
@@ -2687,5 +2687,6 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-xiaomi-13t-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Xiaomi 13T Pro</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-13ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 13/iPad/iPod</u></a></li>
 </ul></div>
+
 
 

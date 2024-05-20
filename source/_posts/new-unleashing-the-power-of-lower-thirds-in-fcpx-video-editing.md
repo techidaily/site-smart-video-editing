@@ -1,7 +1,7 @@
 ---
 title: New Unleashing the Power of Lower Thirds in FCPX Video Editing
-date: 2024-04-28T15:03:55.996Z
-updated: 2024-04-29T15:03:55.996Z
+date: 2024-05-19T08:27:20.503Z
+updated: 2024-05-20T08:27:20.503Z
 tags: 
   - video editing software
   - video editing
@@ -2198,5 +2198,6 @@ Follow @Liza Brown
 <li><a href="https://blog-min.techidaily.com/how-to-fix-and-retrieve-picturesvideos-from-a-water-damaged-iphone-8-plus-that-wont-turn-on-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone 8 Plus That Wont Turn on | Stellar</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-inner-filmmaker-a-step-by-step-guide-to-professional-movie-making/"><u>New Unleash Your Inner Filmmaker A Step-by-Step Guide to Professional Movie Making</u></a></li>
 </ul></div>
+
 
 

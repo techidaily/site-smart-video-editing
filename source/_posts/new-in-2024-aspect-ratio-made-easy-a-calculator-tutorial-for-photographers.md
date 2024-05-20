@@ -2617,3 +2617,4 @@ Follow @Liza Brown
 <li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-infinix-smart-7-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Infinix Smart 7 Phone Pattern Lock</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: New Facebook Video Pro A Complete Guide to Aspect Ratios and Sizes for 2024
-date: 2024-04-28T15:03:56.581Z
-updated: 2024-04-29T15:03:56.581Z
+date: 2024-05-19T08:28:39.146Z
+updated: 2024-05-20T08:28:39.146Z
 tags: 
   - video editing software
   - video editing
@@ -3855,5 +3855,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo V30 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-v30-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme V30? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

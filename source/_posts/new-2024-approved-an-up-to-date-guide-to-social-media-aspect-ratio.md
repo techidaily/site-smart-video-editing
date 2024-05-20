@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved An Up-to-Date Guide to Social Media Aspect Ratio
-date: 2024-04-28T15:03:55.145Z
-updated: 2024-04-29T15:03:55.145Z
+date: 2024-05-19T08:27:43.964Z
+updated: 2024-05-20T08:27:43.964Z
 tags: 
   - video editing software
   - video editing
@@ -2525,5 +2525,6 @@ Adjusting brightness has become a "small problem" for many. Oftentimes, you reco
 <li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-15-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 15 Plus i Do? Get Answers here | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-movie-editor-complete-guide-on-how-to-edit-movies-or-video/"><u>2024 Approved Movie Editor Complete Guide on How to Edit Movies or Video</u></a></li>
 </ul></div>
+
 
 

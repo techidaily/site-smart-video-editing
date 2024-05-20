@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Fast Forward or Slow Down Videos in Camtasia
-date: 2024-04-28T15:03:55.976Z
-updated: 2024-04-29T15:03:55.976Z
+date: 2024-05-19T08:27:52.160Z
+updated: 2024-05-20T08:27:52.160Z
 tags: 
   - video editing software
   - video editing
@@ -1967,5 +1967,6 @@ For macOS 10.12 or later
 <li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor X50 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-f25-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo F25 Pro 5G Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+
 
 

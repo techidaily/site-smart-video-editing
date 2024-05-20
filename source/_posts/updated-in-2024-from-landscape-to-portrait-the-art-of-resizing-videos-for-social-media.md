@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Landscape to Portrait The Art of Resizing Videos for Social Media
-date: 2024-04-28T15:03:56.458Z
-updated: 2024-04-29T15:03:56.458Z
+date: 2024-05-19T08:28:53.497Z
+updated: 2024-05-20T08:28:53.497Z
 tags: 
   - video editing software
   - video editing
@@ -2377,5 +2377,6 @@ Follow @Ollie Mattison
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-realme-c51-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Realme C51</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-c12-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia C12 Through Google Earth?</u></a></li>
 </ul></div>
+
 
 

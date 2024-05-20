@@ -1,7 +1,7 @@
 ---
 title: New Instagram Video Dimensions What You Need to Know for 2024
-date: 2024-04-28T15:03:51.462Z
-updated: 2024-04-29T15:03:51.462Z
+date: 2024-05-19T08:27:52.899Z
+updated: 2024-05-20T08:27:52.899Z
 tags: 
   - video editing software
   - video editing
@@ -3181,5 +3181,6 @@ Follow @Liza Brown
 <li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nokia-c12-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nokia C12 FRP</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 6s Plus</u></a></li>
 </ul></div>
+
 
 

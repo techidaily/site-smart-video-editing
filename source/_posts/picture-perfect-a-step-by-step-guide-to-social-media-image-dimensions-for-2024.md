@@ -1,7 +1,7 @@
 ---
 title: Picture Perfect A Step-by-Step Guide to Social Media Image Dimensions for 2024
-date: 2024-04-28T15:03:55.472Z
-updated: 2024-04-29T15:03:55.472Z
+date: 2024-05-19T08:26:20.203Z
+updated: 2024-05-20T08:26:20.203Z
 tags: 
   - video editing software
   - video editing
@@ -3967,5 +3967,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Plus | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/all-about-iphone-se-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone SE Unlock Chip You Need to Know</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCPX Lower Thirds 101 A Beginners Guide to Success
-date: 2024-04-28T15:03:53.887Z
-updated: 2024-04-29T15:03:53.887Z
+date: 2024-05-19T08:28:40.587Z
+updated: 2024-05-20T08:28:40.587Z
 tags: 
   - video editing software
   - video editing
@@ -5214,5 +5214,6 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-k70e-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi K70E Unlock Without Password</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-14-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 14 Pro?</u></a></li>
 </ul></div>
+
 
 

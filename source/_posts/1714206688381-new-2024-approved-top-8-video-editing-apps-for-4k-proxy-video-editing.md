@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Top 8 Video Editing Apps for 4K Proxy Video Editing
-date: 2024-04-28T15:03:51.544Z
-updated: 2024-04-29T15:03:51.544Z
+date: 2024-05-19T08:27:58.740Z
+updated: 2024-05-20T08:27:58.740Z
 tags: 
   - video editing software
   - video editing
@@ -1700,5 +1700,6 @@ Follow @Benjamin Arango
 <li><a href="https://location-social.techidaily.com/in-2024-does-motorola-edgeplus-2023-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Motorola Edge+ (2023) Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-a-review-of-efectum-app-making-slow-motion-video/"><u>New In 2024, A Review of Efectum App Making Slow Motion Video</u></a></li>
 </ul></div>
+
 
 

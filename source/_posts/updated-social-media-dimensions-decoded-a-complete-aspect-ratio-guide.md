@@ -1,7 +1,7 @@
 ---
 title: Updated Social Media Dimensions Decoded A Complete Aspect Ratio Guide
-date: 2024-04-28T15:03:52.813Z
-updated: 2024-04-29T15:03:52.813Z
+date: 2024-05-19T08:26:34.242Z
+updated: 2024-05-20T08:26:34.242Z
 tags: 
   - video editing software
   - video editing
@@ -2019,5 +2019,6 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme 11 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-gt-5-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme GT 5 Pro</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved FCP X Visual Effects How to Create Seamless Green Screen Composites
-date: 2024-04-28T15:03:57.385Z
-updated: 2024-04-29T15:03:57.385Z
+date: 2024-05-19T08:28:40.152Z
+updated: 2024-05-20T08:28:40.152Z
 tags: 
   - video editing software
   - video editing
@@ -1942,5 +1942,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-huawei-nova-y91-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Huawei Nova Y91 by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-g24-power-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Motorola G24 Power Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
+
 
 

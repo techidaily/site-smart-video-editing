@@ -1,7 +1,7 @@
 ---
 title: Updated How to Make a Slow Motion Video on Kapwing? Step by Step for 2024
-date: 2024-04-28T15:03:56.298Z
-updated: 2024-04-29T15:03:56.298Z
+date: 2024-05-19T08:27:52.430Z
+updated: 2024-05-20T08:27:52.430Z
 tags: 
   - video editing software
   - video editing
@@ -2468,5 +2468,6 @@ Follow @Ollie Mattison
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-se-2022-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone SE (2022) Smoothly</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-d-ai-video-games-act-more-human-than-human/"><u>New How D AI Video Games Act More Human Than Human?</u></a></li>
 </ul></div>
+
 
 

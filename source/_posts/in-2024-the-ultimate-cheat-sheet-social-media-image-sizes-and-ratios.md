@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Cheat Sheet Social Media Image Sizes and Ratios
-date: 2024-04-28T15:03:55.540Z
-updated: 2024-04-29T15:03:55.540Z
+date: 2024-05-19T08:26:51.396Z
+updated: 2024-05-20T08:26:51.396Z
 tags: 
   - video editing software
   - video editing
@@ -2429,5 +2429,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi Redmi A2 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor Magic 5? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

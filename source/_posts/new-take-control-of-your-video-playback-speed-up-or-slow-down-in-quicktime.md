@@ -1,7 +1,7 @@
 ---
 title: New Take Control of Your Video Playback Speed Up or Slow Down in QuickTime
-date: 2024-04-28T15:03:56.918Z
-updated: 2024-04-29T15:03:56.918Z
+date: 2024-05-19T08:26:39.857Z
+updated: 2024-05-20T08:26:39.857Z
 tags: 
   - video editing software
   - video editing
@@ -2514,5 +2514,6 @@ Follow @Ollie Mattison
 <li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-turn-onoff-motion-blur-in-minecraft/"><u>2024 Approved How to Turn On/Off Motion Blur in Minecraft?</u></a></li>
 </ul></div>
+
 
 

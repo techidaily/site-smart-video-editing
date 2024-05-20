@@ -1,7 +1,7 @@
 ---
 title: Updated TikTok Visual Mastery Understanding Aspect Ratios
-date: 2024-04-28T15:03:56.854Z
-updated: 2024-04-29T15:03:56.854Z
+date: 2024-05-19T08:27:02.223Z
+updated: 2024-05-20T08:27:02.223Z
 tags: 
   - video editing software
   - video editing
@@ -2537,5 +2537,6 @@ As previously said, these are the best **video invitation maker app** available.
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-sync-audio-with-video-with-filmora/"><u>2024 Approved Sync Audio With Video With Filmora</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y36-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo Y36?</u></a></li>
 </ul></div>
+
 
 

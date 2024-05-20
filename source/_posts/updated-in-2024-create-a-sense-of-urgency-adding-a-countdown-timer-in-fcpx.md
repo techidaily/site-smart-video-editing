@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Create a Sense of Urgency Adding a Countdown Timer in FCPX
-date: 2024-04-28T15:03:56.708Z
-updated: 2024-04-29T15:03:56.708Z
+date: 2024-05-19T08:28:20.366Z
+updated: 2024-05-20T08:28:20.366Z
 tags: 
   - video editing software
   - video editing
@@ -4598,5 +4598,6 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-design-your-own-fake-face-with-these-free-online-tools/"><u>New In 2024, Design Your Own Fake Face with These Free Online Tools</u></a></li>
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Poco C55 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

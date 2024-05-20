@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Divide and Conquer A Step-by-Step Guide to Splitting Videos in Windows Live Movie Maker
-date: 2024-04-28T15:03:55.230Z
-updated: 2024-04-29T15:03:55.230Z
+date: 2024-05-19T08:27:49.569Z
+updated: 2024-05-20T08:27:49.569Z
 tags: 
   - video editing software
   - video editing
@@ -1489,5 +1489,6 @@ Follow @Liza Brown
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo A59 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-infinix-note-30-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Infinix Note 30 using Video Repair Utility on Windows? </u></a></li>
 </ul></div>
+
 
 

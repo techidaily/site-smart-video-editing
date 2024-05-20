@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Cutting It Up A Beginners Guide to Splitting Videos in Windows Live Movie Maker
-date: 2024-04-28T15:03:55.712Z
-updated: 2024-04-29T15:03:55.712Z
+date: 2024-05-19T08:28:25.485Z
+updated: 2024-05-20T08:28:25.485Z
 tags: 
   - video editing software
   - video editing
@@ -1466,5 +1466,6 @@ Follow @Liza Brown
 <li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Google Pixel Fold | Dr.fone</u></a></li>
 </ul></div>
+
 
 

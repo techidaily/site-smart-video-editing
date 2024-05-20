@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Mobile Aspect Ratio A Guide to Vertical Content
-date: 2024-04-28T15:03:57.748Z
-updated: 2024-04-29T15:03:57.748Z
+date: 2024-05-19T08:26:09.043Z
+updated: 2024-05-20T08:26:09.043Z
 tags: 
   - video editing software
   - video editing
@@ -2239,5 +2239,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-voice.techidaily.com/updated-update-6-best-voice-changers-you-cant-miss-for-2024/"><u>Updated Update 6 Best Voice Changers You Cant Miss for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/easy-guide-to-apply-slow-zoom-effects-to-videos-for-2024/"><u>Easy Guide to Apply Slow Zoom Effects to Videos for 2024</u></a></li>
 </ul></div>
+
 
 

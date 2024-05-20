@@ -1,7 +1,7 @@
 ---
 title: In 2024, Quickly Edit Video Speed in Camtasia
-date: 2024-04-28T15:03:56.258Z
-updated: 2024-04-29T15:03:56.258Z
+date: 2024-05-19T08:26:23.619Z
+updated: 2024-05-20T08:26:23.619Z
 tags: 
   - video editing software
   - video editing
@@ -2017,5 +2017,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-create-a-slideshow-with-movavi-slideshow-maker-for-2024/"><u>New How to Create a Slideshow with Movavi Slideshow Maker for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/learn-the-step-by-step-process-of-slowing-down-time-lapse-videos-on-your-iphone-for-2024/"><u>Learn the Step-by-Step Process of Slowing Down Time-Lapse Videos on Your iPhone for 2024</u></a></li>
 </ul></div>
+
 
 

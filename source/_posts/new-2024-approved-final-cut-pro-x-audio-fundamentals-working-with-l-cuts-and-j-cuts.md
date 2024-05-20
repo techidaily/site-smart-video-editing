@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Final Cut Pro X Audio Fundamentals Working with L-Cuts and J-Cuts
-date: 2024-04-28T15:03:56.818Z
-updated: 2024-04-29T15:03:56.818Z
+date: 2024-05-19T08:28:43.178Z
+updated: 2024-05-20T08:28:43.178Z
 tags: 
   - video editing software
   - video editing
@@ -1961,5 +1961,6 @@ So, now you know about the top **audio waveform video generators.** You can choo
 <li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Sony Xperia 5 V | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-x-flip-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo X Flip FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 
 

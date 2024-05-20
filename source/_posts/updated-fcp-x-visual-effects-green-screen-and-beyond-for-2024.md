@@ -1,7 +1,7 @@
 ---
 title: Updated FCP X Visual Effects Green Screen and Beyond for 2024
-date: 2024-04-28T15:03:54.167Z
-updated: 2024-04-29T15:03:54.167Z
+date: 2024-05-19T08:28:40.125Z
+updated: 2024-05-20T08:28:40.125Z
 tags: 
   - video editing software
   - video editing
@@ -2607,5 +2607,6 @@ Follow @Liza Brown
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 11 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-hitfilm-express-a-guide-to-download-install-key-features/"><u>New Hitfilm Express - A Guide to Download, Install, Key Features</u></a></li>
 </ul></div>
+
 
 

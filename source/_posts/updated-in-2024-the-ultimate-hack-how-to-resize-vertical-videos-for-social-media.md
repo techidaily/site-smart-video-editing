@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Ultimate Hack How to Resize Vertical Videos for Social Media
-date: 2024-04-28T15:03:53.150Z
-updated: 2024-04-29T15:03:53.150Z
+date: 2024-05-19T08:27:56.713Z
+updated: 2024-05-20T08:27:56.713Z
 tags: 
   - video editing software
   - video editing
@@ -3203,5 +3203,6 @@ Follow @Liza Brown
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-se-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone SE Apple ID on MacBook</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-nubia-z50s-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Nubia Z50S Pro PC | Dr.fone</u></a></li>
 </ul></div>
+
 
 

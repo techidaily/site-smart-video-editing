@@ -1,7 +1,7 @@
 ---
 title: The Art of Slow Motion A Beginners Guide to VLCs Video Playback Features for 2024
-date: 2024-04-28T15:03:55.606Z
-updated: 2024-04-29T15:03:55.606Z
+date: 2024-05-19T08:26:41.749Z
+updated: 2024-05-20T08:26:41.749Z
 tags: 
   - video editing software
   - video editing
@@ -1739,5 +1739,6 @@ If you are new to the VFX and video editing industry, trying hands with the Phot
 <li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-a-slideshow-with-icecream-slideshow-maker/"><u>Updated 2024 Approved How to Create a Slideshow with Icecream Slideshow Maker</u></a></li>
 </ul></div>
+
 
 

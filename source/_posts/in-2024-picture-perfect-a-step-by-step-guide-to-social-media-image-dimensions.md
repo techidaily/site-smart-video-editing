@@ -1,7 +1,7 @@
 ---
 title: In 2024, Picture Perfect A Step-by-Step Guide to Social Media Image Dimensions
-date: 2024-04-28T15:03:56.587Z
-updated: 2024-04-29T15:03:56.587Z
+date: 2024-05-19T08:26:20.158Z
+updated: 2024-05-20T08:26:20.158Z
 tags: 
   - video editing software
   - video editing
@@ -2466,5 +2466,6 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel - How to get it back | Stellar</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-google-pixel-7a-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Google Pixel 7a For Mobile Legends? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

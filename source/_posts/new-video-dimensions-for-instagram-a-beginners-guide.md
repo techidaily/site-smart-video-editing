@@ -1,7 +1,7 @@
 ---
 title: New Video Dimensions for Instagram A Beginners Guide
-date: 2024-04-28T15:03:55.151Z
-updated: 2024-04-29T15:03:55.151Z
+date: 2024-05-19T08:27:24.905Z
+updated: 2024-05-20T08:27:24.905Z
 tags: 
   - video editing software
   - video editing
@@ -2057,5 +2057,6 @@ Follow @Liza Brown
 <li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-6-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 6 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-a79-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A79 5G Fingerprint Lock</u></a></li>
 </ul></div>
+
 
 

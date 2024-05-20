@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Ultimate Guide to Trimming Videos Online with Kapwing
-date: 2024-04-28T15:03:56.196Z
-updated: 2024-04-29T15:03:56.196Z
+date: 2024-05-19T08:27:56.601Z
+updated: 2024-05-20T08:27:56.601Z
 tags: 
   - video editing software
   - video editing
@@ -2467,5 +2467,6 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-revolutionize-creative-tasks-with-proficiency-ai-voice-cloning/"><u>New In 2024, Revolutionize Creative Tasks With Proficiency AI Voice Cloning</u></a></li>
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-motorola-moto-g73-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Motorola Moto G73 5G on Windows?</u></a></li>
 </ul></div>
+
 
 

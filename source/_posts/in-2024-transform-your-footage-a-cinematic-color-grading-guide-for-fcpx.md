@@ -1,7 +1,7 @@
 ---
 title: In 2024, Transform Your Footage A Cinematic Color Grading Guide for FCPX
-date: 2024-04-28T15:03:55.148Z
-updated: 2024-04-29T15:03:55.148Z
+date: 2024-05-19T08:27:12.641Z
+updated: 2024-05-20T08:27:12.641Z
 tags: 
   - video editing software
   - video editing
@@ -1803,5 +1803,6 @@ Follow @Liza Brown
 <li><a href="https://howto.techidaily.com/calls-on-vivo-v29e-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo V29e Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-xs-max-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone XS Max Without Passcode Now</u></a></li>
 </ul></div>
+
 
 

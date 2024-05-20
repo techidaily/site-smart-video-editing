@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-04-28T15:03:53.518Z
-updated: 2024-04-29T15:03:53.518Z
+date: 2024-05-19T08:28:04.857Z
+updated: 2024-05-20T08:28:04.857Z
 tags: 
   - video editing software
   - video editing
@@ -1861,5 +1861,6 @@ Follow @Ollie Mattison
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Pova 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-xiaomi-redmi-note-12-proplus-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Xiaomi Redmi Note 12 Pro+ 5G Phones</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Aspect Ratio Made Simple A Beginners Guide to Calculating Image Sizes
-date: 2024-04-28T15:03:52.382Z
-updated: 2024-04-29T15:03:52.382Z
+date: 2024-05-19T08:28:04.441Z
+updated: 2024-05-20T08:28:04.441Z
 tags: 
   - video editing software
   - video editing
@@ -2741,5 +2741,6 @@ Follow @Ollie Mattison
 <li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-infinix-hot-30-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Infinix Hot 30 5G FRP</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-11-pro-max-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 11 Pro Max Without a Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 
 

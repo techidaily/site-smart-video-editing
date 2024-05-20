@@ -1426,3 +1426,4 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
 </ul></div>
 
 
+

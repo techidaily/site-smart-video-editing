@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Make a Slow Motion Video on Kapwing? Step by Step
-date: 2024-04-28T15:03:57.407Z
-updated: 2024-04-29T15:03:57.407Z
+date: 2024-05-19T08:27:52.379Z
+updated: 2024-05-20T08:27:52.379Z
 tags: 
   - video editing software
   - video editing
@@ -1417,5 +1417,6 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-hot-40-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix Hot 40 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-nokia-c12-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Nokia C12 Pro</u></a></li>
 </ul></div>
+
 
 

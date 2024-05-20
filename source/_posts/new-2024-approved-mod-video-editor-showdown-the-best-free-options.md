@@ -2510,3 +2510,4 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-note-12r-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi Note 12R Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
 
+

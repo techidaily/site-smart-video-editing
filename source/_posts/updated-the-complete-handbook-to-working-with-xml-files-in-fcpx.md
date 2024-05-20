@@ -1,7 +1,7 @@
 ---
 title: Updated The Complete Handbook to Working with XML Files in FCPX
-date: 2024-04-28T15:03:55.509Z
-updated: 2024-04-29T15:03:55.509Z
+date: 2024-05-19T08:26:47.586Z
+updated: 2024-05-20T08:26:47.586Z
 tags: 
   - video editing software
   - video editing
@@ -2343,5 +2343,6 @@ Follow @Liza Brown
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-a58-4g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo A58 4G – What Can I Do? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-loop-a-video-on-vimeo-for-2024/"><u>Updated How to Loop a Video on Vimeo for 2024</u></a></li>
 </ul></div>
+
 
 

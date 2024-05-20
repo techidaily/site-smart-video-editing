@@ -1,7 +1,7 @@
 ---
 title: Nikon Video Editing Tutorial From Import to Export for 2024
-date: 2024-04-28T15:03:51.566Z
-updated: 2024-04-29T15:03:51.566Z
+date: 2024-05-19T08:26:15.061Z
+updated: 2024-05-20T08:26:15.061Z
 tags: 
   - video editing software
   - video editing
@@ -1690,5 +1690,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-vdieo-software.techidaily.com/new-high-definition-video-editing-top-5-software-solutions/"><u>New High-Definition Video Editing Top 5 Software Solutions</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

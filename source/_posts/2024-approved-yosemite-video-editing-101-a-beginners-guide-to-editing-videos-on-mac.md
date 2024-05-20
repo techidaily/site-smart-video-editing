@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Yosemite Video Editing 101 A Beginners Guide to Editing Videos on Mac
-date: 2024-04-28T15:03:54.651Z
-updated: 2024-04-29T15:03:54.651Z
+date: 2024-05-19T08:27:34.164Z
+updated: 2024-05-20T08:27:34.164Z
 tags: 
   - video editing software
   - video editing
@@ -2263,5 +2263,6 @@ Flipping a video is extremely easy if you have the right tools. There are numero
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-itel-a70-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Itel A70 to Another | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone XS Max/iPad? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro Essentials How to Use the Ken Burns Effect to Enhance Your Video Storytelling
-date: 2024-04-28T15:03:56.921Z
-updated: 2024-04-29T15:03:56.921Z
+date: 2024-05-19T08:28:42.394Z
+updated: 2024-05-20T08:28:42.394Z
 tags: 
   - video editing software
   - video editing
@@ -2480,5 +2480,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-easy-step-by-step-tutorial-on-creating-a-lightroom-collage/"><u>New In 2024, Easy Step by Step Tutorial on Creating a Lightroom Collage</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

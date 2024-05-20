@@ -1,7 +1,7 @@
 ---
 title: New FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects for 2024
-date: 2024-04-28T15:03:56.789Z
-updated: 2024-04-29T15:03:56.789Z
+date: 2024-05-19T08:28:40.878Z
+updated: 2024-05-20T08:28:40.878Z
 tags: 
   - video editing software
   - video editing
@@ -2519,5 +2519,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Motorola Moto G23 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/apple-iphone-15-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 15 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
 </ul></div>
+
 
 

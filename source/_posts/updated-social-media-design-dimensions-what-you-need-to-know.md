@@ -1,7 +1,7 @@
 ---
 title: Updated Social Media Design Dimensions What You Need to Know
-date: 2024-04-28T15:03:53.035Z
-updated: 2024-04-29T15:03:53.035Z
+date: 2024-05-19T08:26:34.206Z
+updated: 2024-05-20T08:26:34.206Z
 tags: 
   - video editing software
   - video editing
@@ -3011,5 +3011,6 @@ Follow @Liza Brown
 <li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo T2x 5G? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Without Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

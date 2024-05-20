@@ -1,7 +1,7 @@
 ---
 title: New The Art of Image Resizing Calculating and Adjusting Ratios for Perfection
-date: 2024-04-28T15:03:53.447Z
-updated: 2024-04-29T15:03:53.447Z
+date: 2024-05-19T08:26:41.557Z
+updated: 2024-05-20T08:26:41.557Z
 tags: 
   - video editing software
   - video editing
@@ -2349,5 +2349,6 @@ The 4K editing support feature allows you to edit and export your videos at 4K r
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nokia-g22-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nokia G22 to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-change-font-in-premiere-pro/"><u>New In 2024, How To Change Font In Premiere Pro</u></a></li>
 </ul></div>
+
 
 

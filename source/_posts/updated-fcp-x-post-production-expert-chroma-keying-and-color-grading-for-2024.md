@@ -1,7 +1,7 @@
 ---
 title: Updated FCP X Post-Production Expert Chroma Keying and Color Grading for 2024
-date: 2024-04-28T15:03:54.963Z
-updated: 2024-04-29T15:03:54.963Z
+date: 2024-05-19T08:28:40.079Z
+updated: 2024-05-20T08:28:40.079Z
 tags: 
   - video editing software
   - video editing
@@ -2743,5 +2743,6 @@ Speed changing is a standard video editing technique that, when done correctly, 
 <li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-14-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 14 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Itel A05s | Dr.fone</u></a></li>
 </ul></div>
+
 
 

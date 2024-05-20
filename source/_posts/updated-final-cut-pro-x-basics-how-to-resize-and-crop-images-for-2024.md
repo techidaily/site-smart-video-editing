@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro X Basics How to Resize and Crop Images for 2024
-date: 2024-04-28T15:03:57.170Z
-updated: 2024-04-29T15:03:57.170Z
+date: 2024-05-19T08:28:43.209Z
+updated: 2024-05-20T08:28:43.209Z
 tags: 
   - video editing software
   - video editing
@@ -2670,5 +2670,6 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/does-moto-g04-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Moto G04 has native MOV support?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor X50 GT? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Online Image Resizer 7 Top Picks for Perfect Proportions for 2024
-date: 2024-04-28T15:03:56.403Z
-updated: 2024-04-29T15:03:56.403Z
+date: 2024-05-19T08:26:18.188Z
+updated: 2024-05-20T08:26:18.188Z
 tags: 
   - video editing software
   - video editing
@@ -1851,5 +1851,6 @@ For macOS 10.12 or later
 <li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-infinix-gt-10-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Infinix GT 10 Pro Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 
 

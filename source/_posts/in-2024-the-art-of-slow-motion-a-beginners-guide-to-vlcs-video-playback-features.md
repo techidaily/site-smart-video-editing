@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Art of Slow Motion A Beginners Guide to VLCs Video Playback Features
-date: 2024-04-28T15:03:56.775Z
-updated: 2024-04-29T15:03:56.775Z
+date: 2024-05-19T08:26:41.727Z
+updated: 2024-05-20T08:26:41.727Z
 tags: 
   - video editing software
   - video editing
@@ -2834,5 +2834,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-vdieo-software.techidaily.com/new-countdown-to-success-a-3-step-guide-to-adding-timers-in-fcpx/"><u>New Countdown to Success A 3-Step Guide to Adding Timers in FCPX</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/cant-open-mov-files-on-sony-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Sony</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Free Split-Screen Video Maker Online and Offline Options
-date: 2024-04-28T15:03:56.294Z
-updated: 2024-04-29T15:03:56.294Z
+date: 2024-05-19T08:27:44.429Z
+updated: 2024-05-20T08:27:44.429Z
 tags: 
   - video editing software
   - video editing
@@ -2770,5 +2770,6 @@ As previously said, these are the best **video invitation maker app** available.
 <li><a href="https://techidaily.com/how-to-hard-reset-honor-magic-5-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Magic 5 Pro Without Password | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y17s-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y17s Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of the Ken Burns Effect Tips and Tricks for Stunning Results
-date: 2024-04-28T15:03:53.177Z
-updated: 2024-04-29T15:03:53.177Z
+date: 2024-05-19T08:26:42.122Z
+updated: 2024-05-20T08:26:42.122Z
 tags: 
   - video editing software
   - video editing
@@ -1582,5 +1582,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>Updated 2024 Approved How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-fold-2-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo X Fold 2 Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 
 

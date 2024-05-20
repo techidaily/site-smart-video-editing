@@ -1,7 +1,7 @@
 ---
 title: New Mastering Bokeh The Best Mobile Apps for iOS and Android Photographers
-date: 2024-04-28T15:03:55.830Z
-updated: 2024-04-29T15:03:55.830Z
+date: 2024-05-19T08:26:08.696Z
+updated: 2024-05-20T08:26:08.696Z
 tags: 
   - video editing software
   - video editing
@@ -2896,5 +2896,6 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/updated-8-frame-rate-video-converters-you-must-try/"><u>Updated 8 Frame Rate Video Converters You Must Try</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-x90s-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo X90S FRP Bypass</u></a></li>
 </ul></div>
+
 
 

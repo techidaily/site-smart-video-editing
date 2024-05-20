@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect
-date: 2024-04-28T15:03:52.424Z
-updated: 2024-04-29T15:03:52.424Z
+date: 2024-05-19T08:28:42.797Z
+updated: 2024-05-20T08:28:42.797Z
 tags: 
   - video editing software
   - video editing
@@ -1597,5 +1597,6 @@ Follow @Liza Brown
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-itel-p40plus-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Itel P40+?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nokia 130 Music | Dr.fone</u></a></li>
 </ul></div>
+
 
 

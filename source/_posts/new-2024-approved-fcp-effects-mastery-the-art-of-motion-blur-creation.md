@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved FCP Effects Mastery The Art of Motion Blur Creation
-date: 2024-04-28T15:03:55.994Z
-updated: 2024-04-29T15:03:55.994Z
+date: 2024-05-19T08:28:39.730Z
+updated: 2024-05-20T08:28:39.730Z
 tags: 
   - video editing software
   - video editing
@@ -3685,5 +3685,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-reno-11-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo Reno 11 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

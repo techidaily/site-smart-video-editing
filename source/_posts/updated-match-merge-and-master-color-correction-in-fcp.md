@@ -1,7 +1,7 @@
 ---
 title: Updated Match, Merge, and Master Color Correction in FCP
-date: 2024-04-28T15:03:55.679Z
-updated: 2024-04-29T15:03:55.679Z
+date: 2024-05-19T08:26:09.687Z
+updated: 2024-05-20T08:26:09.687Z
 tags: 
   - video editing software
   - video editing
@@ -2230,5 +2230,6 @@ Key features
 <li><a href="https://ai-editing-video.techidaily.com/learn-the-step-by-step-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>Learn the Step-by-Step Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 13 | Dr.fone</u></a></li>
 </ul></div>
+
 
 

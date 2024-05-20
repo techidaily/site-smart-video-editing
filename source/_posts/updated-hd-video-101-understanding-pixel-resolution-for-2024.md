@@ -1,7 +1,7 @@
 ---
 title: Updated HD Video 101 Understanding Pixel Resolution for 2024
-date: 2024-04-28T15:03:56.217Z
-updated: 2024-04-29T15:03:56.217Z
+date: 2024-05-19T08:27:51.522Z
+updated: 2024-05-20T08:27:51.522Z
 tags: 
   - video editing software
   - video editing
@@ -1313,5 +1313,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-10-crazy-cool-examples-of-ar-video/"><u>New In 2024, Best 10 Crazy-Cool Examples of AR Video</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-messages-after-motorola-edge-40-neo-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Motorola Edge 40 Neo has been deleted</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Complete Guide Creat Motion Blur Effect with Final Cut Pro
-date: 2024-04-28T15:03:56.242Z
-updated: 2024-04-29T15:03:56.242Z
+date: 2024-05-19T08:27:49.154Z
+updated: 2024-05-20T08:27:49.154Z
 tags: 
   - video editing software
   - video editing
@@ -2388,5 +2388,6 @@ Adjusting brightness has become a "small problem" for many. Oftentimes, you reco
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 12 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-shoot-cinematic-footage-from-a-smartphone/"><u>New 2024 Approved How to Shoot Cinematic Footage From a Smartphone</u></a></li>
 </ul></div>
+
 
 

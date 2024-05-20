@@ -1,7 +1,7 @@
 ---
 title: Updated Optimizing Mobile Screen Design A Guide to Vertical Aspect Ratios
-date: 2024-04-28T15:03:55.684Z
-updated: 2024-04-29T15:03:55.684Z
+date: 2024-05-19T08:26:19.209Z
+updated: 2024-05-20T08:26:19.209Z
 tags: 
   - video editing software
   - video editing
@@ -2661,5 +2661,6 @@ Follow @Richard Bennett
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-11-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 11 Pro? 7 Mehtods You Cant-Miss</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
 </ul></div>
+
 
 

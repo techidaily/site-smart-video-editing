@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Create Stunning Slow-Mo Effects on Kapwing A Step-by-Step Tutorial
-date: 2024-04-28T15:03:55.742Z
-updated: 2024-04-29T15:03:55.742Z
+date: 2024-05-19T08:28:22.418Z
+updated: 2024-05-20T08:28:22.418Z
 tags: 
   - video editing software
   - video editing
@@ -1444,5 +1444,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/updated-6-best-methods-to-make-a-video-longer/"><u>Updated 6 Best Methods to Make a Video Longer</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-tecno-pova-5-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Tecno Pova 5 to Another | Dr.fone</u></a></li>
 </ul></div>
+
 
 

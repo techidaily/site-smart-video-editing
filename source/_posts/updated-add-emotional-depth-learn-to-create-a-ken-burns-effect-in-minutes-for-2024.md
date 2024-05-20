@@ -1,7 +1,7 @@
 ---
 title: Updated Add Emotional Depth Learn to Create a Ken Burns Effect in Minutes for 2024
-date: 2024-04-28T15:03:54.332Z
-updated: 2024-04-29T15:03:54.332Z
+date: 2024-05-19T08:27:42.379Z
+updated: 2024-05-20T08:27:42.379Z
 tags: 
   - video editing software
   - video editing
@@ -4073,5 +4073,6 @@ Follow @Benjamin Arango
 <li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y36 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Play 40C? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

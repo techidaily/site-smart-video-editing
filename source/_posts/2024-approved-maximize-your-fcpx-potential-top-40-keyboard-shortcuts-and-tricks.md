@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Maximize Your FCPX Potential Top 40 Keyboard Shortcuts and Tricks
-date: 2024-04-28T15:03:57.985Z
-updated: 2024-04-29T15:03:57.985Z
+date: 2024-05-19T08:26:10.095Z
+updated: 2024-05-20T08:26:10.095Z
 tags: 
   - video editing software
   - video editing
@@ -3032,5 +3032,6 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-12-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 12 Pro/iPad | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-6s-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 6s Plus With or Without Password</u></a></li>
 </ul></div>
+
 
 

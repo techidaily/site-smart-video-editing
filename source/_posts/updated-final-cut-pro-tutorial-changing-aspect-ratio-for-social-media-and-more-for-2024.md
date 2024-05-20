@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Changing Aspect Ratio for Social Media and More for 2024
-date: 2024-04-28T15:03:55.055Z
-updated: 2024-04-29T15:03:55.055Z
+date: 2024-05-19T08:28:42.899Z
+updated: 2024-05-20T08:28:42.899Z
 tags: 
   - video editing software
   - video editing
@@ -2423,5 +2423,6 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-gionee-f3-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Gionee F3 Pro to New Android? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Poco C55? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

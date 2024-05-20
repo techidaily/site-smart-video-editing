@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Final Cut Pro X Freeze-Frames and Slow Motion
-date: 2024-04-28T15:03:57.268Z
-updated: 2024-04-29T15:03:57.268Z
+date: 2024-05-19T08:27:50.371Z
+updated: 2024-05-20T08:27:50.371Z
 tags: 
   - video editing software
   - video editing
@@ -3317,5 +3317,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/updated-top-9-best-solutions-to-go-for-when-creating-an-ai-thumbnail-for-2024/"><u>Updated Top 9 Best Solutions To Go For When Creating an AI Thumbnail for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-cropping-a-video-in-final-cut-pro-step-by-step-for-2024/"><u>New Cropping a Video in Final Cut Pro Step by Step for 2024</u></a></li>
 </ul></div>
+
 
 

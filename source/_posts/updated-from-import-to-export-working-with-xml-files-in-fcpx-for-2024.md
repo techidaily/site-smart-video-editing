@@ -1,7 +1,7 @@
 ---
 title: Updated From Import to Export Working with XML Files in FCPX for 2024
-date: 2024-04-28T15:03:55.920Z
-updated: 2024-04-29T15:03:55.920Z
+date: 2024-05-19T08:28:53.341Z
+updated: 2024-05-20T08:28:53.341Z
 tags: 
   - video editing software
   - video editing
@@ -1979,5 +1979,6 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-best-of-the-best-free-vob-video-editing-software/"><u>Updated The Best of the Best Free VOB Video Editing Software</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo Y78 5G</u></a></li>
 </ul></div>
+
 
 

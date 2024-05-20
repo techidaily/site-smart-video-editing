@@ -1,7 +1,7 @@
 ---
 title: New Pro Tips for Creating Convincing Motion Blur in Final Cut Pro
-date: 2024-04-28T15:03:52.878Z
-updated: 2024-04-29T15:03:52.878Z
+date: 2024-05-19T08:26:22.937Z
+updated: 2024-05-20T08:26:22.937Z
 tags: 
   - video editing software
   - video editing
@@ -4188,5 +4188,6 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-translation.techidaily.com/updated-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>Updated Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-14-pro-max-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 14 Pro Max without Password?</u></a></li>
 </ul></div>
+
 
 

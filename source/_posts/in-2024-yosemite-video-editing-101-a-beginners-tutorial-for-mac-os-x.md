@@ -1,7 +1,7 @@
 ---
 title: In 2024, Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X
-date: 2024-04-28T15:03:53.174Z
-updated: 2024-04-29T15:03:53.174Z
+date: 2024-05-19T08:27:34.186Z
+updated: 2024-05-20T08:27:34.186Z
 tags: 
   - video editing software
   - video editing
@@ -1737,5 +1737,6 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-apps.techidaily.com/unleash-your-creativity-top-1080p-video-editing-programs-for-2024/"><u>Unleash Your Creativity Top 1080P Video Editing Programs for 2024</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
+
 
 

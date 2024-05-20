@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Free Video Editing Software with Split Screen Capability Online & Offline
-date: 2024-04-28T15:03:57.151Z
-updated: 2024-04-29T15:03:57.151Z
+date: 2024-05-19T08:28:49.613Z
+updated: 2024-05-20T08:28:49.613Z
 tags: 
   - video editing software
   - video editing
@@ -2630,5 +2630,6 @@ Follow @Liza Brown
 <li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-editor/"><u>New What Is an AI Editor?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 13 mini with a Mask On</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New Resize with Ease The #1 Technique for Vertical Social Media Videos
-date: 2024-04-28T15:03:55.656Z
-updated: 2024-04-29T15:03:55.656Z
+date: 2024-05-19T08:26:25.714Z
+updated: 2024-05-20T08:26:25.714Z
 tags: 
   - video editing software
   - video editing
@@ -2049,5 +2049,6 @@ Follow @Liza Brown
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Asus ROG Phone 8 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-tutorial-for-honor-play-40c-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Play 40C Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 
 

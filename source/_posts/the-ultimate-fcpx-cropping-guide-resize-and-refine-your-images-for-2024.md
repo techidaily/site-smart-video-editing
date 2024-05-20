@@ -1,7 +1,7 @@
 ---
 title: The Ultimate FCPX Cropping Guide Resize and Refine Your Images for 2024
-date: 2024-04-28T15:03:53.289Z
-updated: 2024-04-29T15:03:53.289Z
+date: 2024-05-19T08:26:51.822Z
+updated: 2024-05-20T08:26:51.822Z
 tags: 
   - video editing software
   - video editing
@@ -2018,5 +2018,6 @@ For macOS 10.12 or later
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c55-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Poco C55 Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus 11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

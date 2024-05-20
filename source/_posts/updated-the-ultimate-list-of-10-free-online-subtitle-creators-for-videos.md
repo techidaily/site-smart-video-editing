@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate List of 10 Free Online Subtitle Creators for Videos
-date: 2024-04-28T15:03:57.575Z
-updated: 2024-04-29T15:03:57.575Z
+date: 2024-05-19T08:26:58.485Z
+updated: 2024-05-20T08:26:58.485Z
 tags: 
   - video editing software
   - video editing
@@ -2617,5 +2617,6 @@ Follow @Liza Brown
 <li><a href="https://android-unlock.techidaily.com/best-vivo-y78-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo Y78 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 14? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

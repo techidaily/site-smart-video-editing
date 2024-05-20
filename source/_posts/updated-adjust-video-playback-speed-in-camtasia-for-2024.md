@@ -1,7 +1,7 @@
 ---
 title: Updated Adjust Video Playback Speed in Camtasia for 2024
-date: 2024-04-28T15:03:56.510Z
-updated: 2024-04-29T15:03:56.510Z
+date: 2024-05-19T08:27:42.793Z
+updated: 2024-05-20T08:27:42.793Z
 tags: 
   - video editing software
   - video editing
@@ -3416,5 +3416,6 @@ Follow @Benjamin Arango
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-top-12-sony-vegas-slideshow-templates-for-free-download/"><u>Updated Top 12 Sony Vegas Slideshow Templates for Free Download</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Final Cut Pro X Basics How to Resize and Crop Images
-date: 2024-04-28T15:03:54.421Z
-updated: 2024-04-29T15:03:54.421Z
+date: 2024-05-19T08:28:43.216Z
+updated: 2024-05-20T08:28:43.216Z
 tags: 
   - video editing software
   - video editing
@@ -2875,5 +2875,6 @@ Using this versatile software you can add animations, motion tracking, zooming f
 <li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE (2020)? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-magic-vs-2-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor Magic Vs 2.</u></a></li>
 </ul></div>
+
 
 

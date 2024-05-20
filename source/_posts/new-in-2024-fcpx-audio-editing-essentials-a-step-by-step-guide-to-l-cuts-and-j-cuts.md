@@ -1,7 +1,7 @@
 ---
 title: New In 2024, FCPX Audio Editing Essentials A Step-by-Step Guide to L-Cuts and J-Cuts
-date: 2024-04-28T15:03:52.070Z
-updated: 2024-04-29T15:03:52.070Z
+date: 2024-05-19T08:28:40.204Z
+updated: 2024-05-20T08:28:40.204Z
 tags: 
   - video editing software
   - video editing
@@ -1797,5 +1797,6 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y78plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo Y78+ Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y100i | Dr.fone</u></a></li>
 </ul></div>
+
 
 

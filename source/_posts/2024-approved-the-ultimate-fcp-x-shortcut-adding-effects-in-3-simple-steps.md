@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps
-date: 2024-04-28T15:03:57.565Z
-updated: 2024-04-29T15:03:57.565Z
+date: 2024-05-19T08:26:51.789Z
+updated: 2024-05-20T08:26:51.789Z
 tags: 
   - video editing software
   - video editing
@@ -2218,5 +2218,6 @@ Get started easily with Filmora's powerful engine, intuitive interface, and thou
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-f34-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy F34 5G Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

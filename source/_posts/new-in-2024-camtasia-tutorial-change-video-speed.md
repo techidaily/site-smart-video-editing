@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Camtasia Tutorial Change Video Speed
-date: 2024-04-28T15:03:56.524Z
-updated: 2024-04-29T15:03:56.524Z
+date: 2024-05-19T08:28:15.079Z
+updated: 2024-05-20T08:28:15.079Z
 tags: 
   - video editing software
   - video editing
@@ -2077,5 +2077,6 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Moto G23 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Itel P55? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

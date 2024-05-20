@@ -1,7 +1,7 @@
 ---
 title: New In 2024, From Fast to Slow Mastering Video Speed Control in Camtasia
-date: 2024-04-28T15:03:55.196Z
-updated: 2024-04-29T15:03:55.196Z
+date: 2024-05-19T08:28:52.772Z
+updated: 2024-05-20T08:28:52.772Z
 tags: 
   - video editing software
   - video editing
@@ -2356,5 +2356,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-12-proplus-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme 12 Pro+ 5G Phone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor Play 8T? | Dr.fone</u></a></li>
 </ul></div>
+
 
 

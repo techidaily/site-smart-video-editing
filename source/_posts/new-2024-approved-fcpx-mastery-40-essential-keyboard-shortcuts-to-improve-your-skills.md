@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved FCPX Mastery 40 Essential Keyboard Shortcuts to Improve Your Skills
-date: 2024-04-28T15:03:57.096Z
-updated: 2024-04-29T15:03:57.096Z
+date: 2024-05-19T08:28:40.609Z
+updated: 2024-05-20T08:28:40.609Z
 tags: 
   - video editing software
   - video editing
@@ -2316,5 +2316,6 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Note 30 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-huawei-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Huawei</u></a></li>
 </ul></div>
+
 
 

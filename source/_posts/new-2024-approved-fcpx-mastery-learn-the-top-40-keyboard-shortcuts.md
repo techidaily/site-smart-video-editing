@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved FCPX Mastery Learn the Top 40 Keyboard Shortcuts
-date: 2024-04-28T15:03:56.741Z
-updated: 2024-04-29T15:03:56.741Z
+date: 2024-05-19T08:28:40.644Z
+updated: 2024-05-20T08:28:40.644Z
 tags: 
   - video editing software
   - video editing
@@ -2697,5 +2697,6 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
 <li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-motorola-moto-g24-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Motorola Moto G24 with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-htc-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from HTC .</u></a></li>
 </ul></div>
+
 
 

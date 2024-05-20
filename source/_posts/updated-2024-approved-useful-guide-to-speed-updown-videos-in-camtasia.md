@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Useful Guide to Speed Up/Down Videos in Camtasia
-date: 2024-04-28T15:03:57.056Z
-updated: 2024-04-29T15:03:57.056Z
+date: 2024-05-19T08:27:45.546Z
+updated: 2024-05-20T08:27:45.546Z
 tags: 
   - video editing software
   - video editing
@@ -1871,5 +1871,6 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-what-are-the-10-best-gif-creator/"><u>Updated 2024 Approved What Are the 10 Best GIF Creator?</u></a></li>
 <li><a href="https://howto.techidaily.com/calls-on-tecno-spark-10-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Spark 10 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 
 

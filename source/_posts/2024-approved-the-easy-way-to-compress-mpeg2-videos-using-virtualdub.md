@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Easy Way to Compress MPEG2 Videos Using VirtualDub
-date: 2024-04-28T15:03:56.928Z
-updated: 2024-04-29T15:03:56.928Z
+date: 2024-05-19T08:26:48.473Z
+updated: 2024-05-20T08:26:48.473Z
 tags: 
   - video editing software
   - video editing
@@ -1347,5 +1347,6 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-tecno-phantom-v-flip-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Tecno Phantom V Flip to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-retro-video-magic-top-apps-for-applying-vhs-effects-on-mobile/"><u>New In 2024, Retro Video Magic Top Apps for Applying VHS Effects on Mobile</u></a></li>
 </ul></div>
+
 
 

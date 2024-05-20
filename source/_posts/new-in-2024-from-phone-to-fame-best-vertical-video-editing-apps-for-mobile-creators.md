@@ -2579,3 +2579,4 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 12 Pro Max</u></a></li>
 </ul></div>
 
+

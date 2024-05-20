@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Add a Timer in Minutes A Quick FCPX Tutorial
-date: 2024-04-28T15:03:52.782Z
-updated: 2024-04-29T15:03:52.782Z
+date: 2024-05-19T08:27:42.224Z
+updated: 2024-05-20T08:27:42.225Z
 tags: 
   - video editing software
   - video editing
@@ -3162,5 +3162,6 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-top-10-vegas-pro-alternatives-for-mac-free-and-paid-for-2024/"><u>New Top 10 Vegas Pro Alternatives for Mac (Free & Paid) for 2024</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-find-x7-ultra-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo Find X7 Ultra Phone</u></a></li>
 </ul></div>
+
 
 

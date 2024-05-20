@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Smooth Cuts Ahead 3 Ways to Master Transitions in FCP
-date: 2024-04-28T15:03:56.034Z
-updated: 2024-04-29T15:03:56.034Z
+date: 2024-05-19T08:26:33.988Z
+updated: 2024-05-20T08:26:33.988Z
 tags: 
   - video editing software
   - video editing
@@ -3220,5 +3220,6 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y17s? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/remove-google-frp-lock-on-y200-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Y200</u></a></li>
 </ul></div>
+
 
 

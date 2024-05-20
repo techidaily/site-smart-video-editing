@@ -1,7 +1,7 @@
 ---
 title: In 2024, Taming the Shake How to Smooth Out Your Videos in After Effects
-date: 2024-04-28T15:03:52.061Z
-updated: 2024-04-29T15:03:52.061Z
+date: 2024-05-19T08:26:40.621Z
+updated: 2024-05-20T08:26:40.621Z
 tags: 
   - video editing software
   - video editing
@@ -1414,5 +1414,6 @@ Follow @Ollie Mattison
 <li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-redmi-note-13-proplus-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi Redmi Note 13 Pro+ 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-xs-max-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone XS Max</u></a></li>
 </ul></div>
+
 
 

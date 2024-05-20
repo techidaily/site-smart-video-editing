@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Aspect Ratio Cheat Sheet for Social Media Success
-date: 2024-04-28T15:03:55.739Z
-updated: 2024-04-29T15:03:55.739Z
+date: 2024-05-19T08:26:51.240Z
+updated: 2024-05-20T08:26:51.240Z
 tags: 
   - video editing software
   - video editing
@@ -2691,5 +2691,6 @@ Follow @Max Wales
 <li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-6s-plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone 6s Plus Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-p40-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Itel P40</u></a></li>
 </ul></div>
+
 
 

@@ -1,7 +1,7 @@
 ---
 title: New Video Editing Essentials How to Split Clips in Windows Live Movie Maker (Updated )
-date: 2024-04-28T15:03:54.965Z
-updated: 2024-04-29T15:03:54.965Z
+date: 2024-05-19T08:27:25.213Z
+updated: 2024-05-20T08:27:25.213Z
 tags: 
   - video editing software
   - video editing
@@ -1265,5 +1265,6 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 13 Data From iOS iCloud? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor 100 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 
 

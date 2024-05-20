@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved FCP X Effects Made Simple A 3-Step Tutorial for Beginners
-date: 2024-04-28T15:03:57.648Z
-updated: 2024-04-29T15:03:57.648Z
+date: 2024-05-19T08:28:40.018Z
+updated: 2024-05-20T08:28:40.018Z
 tags: 
   - video editing software
   - video editing
@@ -1567,5 +1567,6 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/new-best-8-srt-file-creators/"><u>New Best 8 Srt File Creators</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo Y27 4G | Dr.fone</u></a></li>
 </ul></div>
+
 
 

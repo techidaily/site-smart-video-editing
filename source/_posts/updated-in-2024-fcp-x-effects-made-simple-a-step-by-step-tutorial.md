@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCP X Effects Made Simple A Step-by-Step Tutorial
-date: 2024-04-28T15:03:56.606Z
-updated: 2024-04-29T15:03:56.606Z
+date: 2024-05-19T08:28:40.044Z
+updated: 2024-05-20T08:28:40.044Z
 tags: 
   - video editing software
   - video editing
@@ -1537,5 +1537,6 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-get-creative-with-these-free-video-effect-apps-for-mobile/"><u>Updated Get Creative with These Free Video Effect Apps for Mobile</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v30-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V30 Pro To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 
 
