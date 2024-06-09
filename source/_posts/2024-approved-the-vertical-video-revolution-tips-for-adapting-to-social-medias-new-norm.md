@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Vertical Video Revolution Tips for Adapting to Social Medias New Norm
-date: 2024-04-28T15:04:44.078Z
-updated: 2024-04-29T15:04:44.078Z
+date: 2024-06-08T12:39:46.961Z
+updated: 2024-06-09T12:39:46.961Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved The Vertical Video Revolution Tips for Adapting to Social Medias New Norm
 excerpt: This Article Describes 2024 Approved The Vertical Video Revolution Tips for Adapting to Social Medias New Norm
 keywords: the vertical video revolution tips for adapting to social medias new norm,resize like a pro mastering vertical video ratios for social media,get noticed on social media the ultimate guide to vertical video resizing,the vertical video revolution one essential tip for resizing,the vertical video revolution one simple trick to resize for social media,ai animation the ultimate hack how to resize vertical videos for social media,get noticed on social media the secret to resizing vertical videos
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## The Vertical Video Revolution: Tips for Adapting to Social Media's New Norm

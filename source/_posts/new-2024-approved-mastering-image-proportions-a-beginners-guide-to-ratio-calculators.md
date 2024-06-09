@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Mastering Image Proportions A Beginners Guide to Ratio Calculators
-date: 2024-04-28T15:03:55.495Z
-updated: 2024-04-29T15:03:55.495Z
+date: 2024-06-08T12:40:02.143Z
+updated: 2024-06-09T12:40:02.143Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Mastering Image Proportions A Beginners Guide to Ratio Calculators
 excerpt: This Article Describes New 2024 Approved Mastering Image Proportions A Beginners Guide to Ratio Calculators
 keywords: the ultimate guide to converting files to m4r a beginners primer,mastering image proportions a step by step ratio guide,image size made simple a beginners guide to ratio calculators,sizing up success a beginners guide to image ratio calculation,mastering image proportions a beginners guide to ratio calculators,aspect ratio 101 a beginners guide to calculating,aspect ratio made simple a beginners guide to calculating image sizes
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## Mastering Image Proportions: A Beginner's Guide to Ratio Calculators

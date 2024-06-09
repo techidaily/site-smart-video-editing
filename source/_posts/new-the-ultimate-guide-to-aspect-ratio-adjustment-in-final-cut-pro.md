@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Aspect Ratio Adjustment in Final Cut Pro
-date: 2024-04-28T15:05:48.241Z
-updated: 2024-04-29T15:05:48.241Z
+date: 2024-06-08T12:39:45.440Z
+updated: 2024-06-09T12:39:45.440Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Ultimate Guide to Aspect Ratio Adjustment in Final Cut Pro
 excerpt: This Article Describes New The Ultimate Guide to Aspect Ratio Adjustment in Final Cut Pro
 keywords: the ultimate guide to aspect ratio editing in final cut pro,the ultimate guide to aspect ratio adjustment in final cut pro,mastering aspect ratios in final cut pro the ultimate guide 2023 edition,the ultimate guide to adding titles in final cut pro x,the aspect ratio adjustment tool in final cut pro a comprehensive guide,aspect ratio conversion in final cut pro the ultimate guide,adjusting aspect ratio in final cut pro a step by step guide
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## The Ultimate Guide to Aspect Ratio Adjustment in Final Cut Pro

@@ -1,7 +1,7 @@
 ---
 title: New FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects for 2024
-date: 2024-05-19T08:28:40.878Z
-updated: 2024-05-20T08:28:40.878Z
+date: 2024-06-08T12:40:07.755Z
+updated: 2024-06-09T12:40:07.755Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects for 2024
 excerpt: This Article Describes New FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects for 2024
 keywords: cinematic slow motion top video editors for dramatic effects,best slow mo video editors top picks for cinematic effects,get ready for dramatic effects add slow mo to your videos for free,ai animation best slow mo video editors top picks for cinematic effects,fcpx pro tips creating dramatic pauses and slow mo effects,free sound effects for final cut pro top sources and integration tips,fcp audio editing essentials tips and tricks for perfect sound
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## FCPX Pro Tips: Creating Dramatic Pauses and Slow-Mo Effects

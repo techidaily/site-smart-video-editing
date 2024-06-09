@@ -1,7 +1,7 @@
 ---
 title: New Transform Your Clips Time Lapse Video Editing Essentials in Final Cut Pro
-date: 2024-04-28T15:03:58.154Z
-updated: 2024-04-29T15:03:58.154Z
+date: 2024-06-08T12:40:02.481Z
+updated: 2024-06-09T12:40:02.481Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Transform Your Clips Time Lapse Video Editing Essentials in Final Cut Pro
 excerpt: This Article Describes New Transform Your Clips Time Lapse Video Editing Essentials in Final Cut Pro
 keywords: ai animation accelerate your footage time lapse video editing in final cut pro,accelerate your footage time lapse video editing in final cut pro,speed up your storytelling time lapse video editing in final cut pro,transform your videos a comprehensive guide to time lapses in final cut pro,fast forward your video editing time lapse techniques in final cut pro,transform your clips time lapse video editing essentials in final cut pro,transform your videos a beginners guide to time lapse in final cut pro
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## Transform Your Clips: Time Lapse Video Editing Essentials in Final Cut Pro

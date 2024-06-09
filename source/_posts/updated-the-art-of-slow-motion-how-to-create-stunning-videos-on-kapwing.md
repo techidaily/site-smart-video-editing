@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Slow Motion How to Create Stunning Videos on Kapwing
-date: 2024-05-19T08:26:41.862Z
-updated: 2024-05-20T08:26:41.862Z
+date: 2024-06-08T12:39:46.536Z
+updated: 2024-06-09T12:39:46.536Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Art of Slow Motion How to Create Stunning Videos on Kapwing
 excerpt: This Article Describes Updated The Art of Slow Motion How to Create Stunning Videos on Kapwing
 keywords: make an impact learn to create slow motion videos on kapwing,slow down time a step by step guide to creating slow mo videos on kapwing,the art of slow motion how to create breathtaking videos on kapwing,the art of slow motion how to make jaw dropping videos on kapwing,ai animation slow down time a step by step guide to creating slow mo videos on kapwing,the art of slow motion how to create stunning videos on kapwing,from fast to slow how to create engaging slow motion videos on kapwing
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## The Art of Slow Motion: How to Create Stunning Videos on Kapwing

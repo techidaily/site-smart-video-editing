@@ -1,7 +1,7 @@
 ---
 title: New In 2024, This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X
-date: 2024-04-28T15:03:52.108Z
-updated: 2024-04-29T15:03:52.108Z
+date: 2024-06-08T12:39:44.454Z
+updated: 2024-06-09T12:39:44.454Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X
 excerpt: This Article Describes New In 2024, This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X
 keywords: this article shows the detail steps to add titles in final cut pro x,this article shows the detail steps to crop an image in final cut pro with screenshots,ai animation final cut pro x freeze frames and slow motion,final cut pro x freeze frames and slow motion,this article shows you how to do freeze frames and slow motion in final cut pro x,freeze frames slow motion final cut pro x,final cut pro x the art of freeze frames and slow motion storytelling
-thumbnail: https://www.lifewire.com/thmb/XTn22vUEhR1g5hO3UkHHYfR8z14=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
 ## This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Best of Both Worlds Free and Open-Source Video Editors
-date: 2024-04-28T15:03:55.354Z
-updated: 2024-04-29T15:03:55.354Z
+date: 2024-06-08T12:39:42.585Z
+updated: 2024-06-09T12:39:42.585Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, The Best of Both Worlds Free and Open-Source Video Editors
 excerpt: This Article Describes New In 2024, The Best of Both Worlds Free and Open-Source Video Editors
 keywords: free and fantastic the best open source video editors,the best of both worlds free and paid video editors for windows 11,the best of both worlds top 10 free and paid android video editors,the best of both worlds top free and paid android video editors,the best of both worlds top 10 free and paid android video editing apps 2023,the best of both worlds free and open source video editors,the best of both worlds free and paid time lapse video editors
-thumbnail: https://www.lifewire.com/thmb/KgjSvzxLL1eXMJCNvZxcbrcPyWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36dfc8648cae868f4622fb576a.jpg
 ---
 
 ## The Best of Both Worlds: Free and Open-Source Video Editors

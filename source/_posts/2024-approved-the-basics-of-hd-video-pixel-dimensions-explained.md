@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Basics of HD Video Pixel Dimensions Explained
-date: 2024-05-19T08:26:42.541Z
-updated: 2024-05-20T08:26:42.541Z
+date: 2024-06-08T12:40:03.808Z
+updated: 2024-06-09T12:40:03.808Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved The Basics of HD Video Pixel Dimensions Explained
 excerpt: This Article Describes 2024 Approved The Basics of HD Video Pixel Dimensions Explained
 keywords: ai animation the basics of high definition video pixel size explained,the ultimate beginners guide to hd video pixel dimensions,the basics of hd video pixel dimensions explained,prime video screen dimensions explained,the basics of high definition video pixel size explained,the basics of hd video pixel size resolution and more,the basics of hd video pixel size explained
-thumbnail: https://www.lifewire.com/thmb/-bcmaokZfvwTgJE1q3LjnihDbBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678913139-58a4ece73df78c345bcd781b.jpg
+thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
 ---
 
 ## The Basics of HD Video: Pixel Dimensions Explained

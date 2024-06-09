@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Slow Motion Video Playback on VLC A Beginners Guide
-date: 2024-04-28T15:03:57.092Z
-updated: 2024-04-29T15:03:57.092Z
+date: 2024-06-08T12:40:06.151Z
+updated: 2024-06-09T12:40:06.151Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Slow Motion Video Playback on VLC A Beginners Guide
 excerpt: This Article Describes New 2024 Approved Slow Motion Video Playback on VLC A Beginners Guide
 keywords: the art of slow motion a beginners guide to vlcs video playback features,slow motion video playback on vlc a beginners guide,the ultimate guide to vlc slow motion video playback,the art of slow motion a comprehensive guide to vlc video playback,the ultimate guide to slow motion video playback on vlc,unlock slow motion on vlc a beginners guide to video playback tricks,slow down time a beginners guide to slow motion videos on kapwing
-thumbnail: https://www.lifewire.com/thmb/Dl9yEfjLblLLqaUBxpcE0bOUpF4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_2654847-5b99b903c9e77c005077d0d8.jpg
+thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf15fc6fdb1157408db40b882.jpg
 ---
 
 ## Slow Motion Video Playback on VLC: A Beginner's Guide

@@ -1,7 +1,7 @@
 ---
 title: New Splice Video Editor Review Does It Live Up to the Hype?
-date: 2024-05-19T08:26:35.311Z
-updated: 2024-05-20T08:26:35.311Z
+date: 2024-06-08T12:40:02.535Z
+updated: 2024-06-09T12:40:02.535Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Splice Video Editor Review Does It Live Up to the Hype?
 excerpt: This Article Describes New Splice Video Editor Review Does It Live Up to the Hype?
 keywords: videopad video editor review does it live up to the hype,unbiased review does splice video editor live up to the hype,avs video editor 2023 review does it live up to the hype,splice video editor review does it live up to the hype,avs video editor review does it live up to the hype,vn video editor pro review does it live up to the hype,does avs video editor live up to the hype our honest review
-thumbnail: https://www.lifewire.com/thmb/2mfMkf9Nh38PrId0xERnppf9iAg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-view-instagram-without-an-account-5271416-505eeceaf0e142ed8674d2ce2244a8be.jpg
+thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1418a5a54e50bbd98af412de.jpg
 ---
 
 ## Splice Video Editor Review: Does It Live Up to the Hype?

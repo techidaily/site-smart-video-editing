@@ -1,7 +1,7 @@
 ---
 title: New Mavericks Video Editor How to Edit MP4 Files with Ease for 2024
-date: 2024-04-28T15:03:56.156Z
-updated: 2024-04-29T15:03:56.156Z
+date: 2024-06-08T12:39:58.247Z
+updated: 2024-06-09T12:39:58.247Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mavericks Video Editor How to Edit MP4 Files with Ease for 2024
 excerpt: This Article Describes New Mavericks Video Editor How to Edit MP4 Files with Ease for 2024
 keywords: windows 8 video editor edit mp4 files with ease,edit avi files with ease top windows 8 video editor 2023,mavericks video editor how to edit mp4 files with ease,edit mp4 files with ease best video editor for windows 8,edit video tags with ease best mp4 editors for windows and mac,best mp4 editor for mac mavericks easy video editing,edit mp4 files with ease best windows 8 video editor
-thumbnail: https://www.lifewire.com/thmb/sujrBq1SN6zkmNgqHTSAbFbTvKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/18-Hidden-Snapchat-Features-efa75dca521e4cf6bb321dc960276deb.jpg
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
 ## Mavericks Video Editor: How to Edit MP4 Files with Ease

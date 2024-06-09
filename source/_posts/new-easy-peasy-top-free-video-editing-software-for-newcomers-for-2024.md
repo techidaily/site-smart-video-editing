@@ -1,7 +1,7 @@
 ---
 title: New Easy Peasy Top Free Video Editing Software for Newcomers for 2024
-date: 2024-05-19T08:28:31.033Z
-updated: 2024-05-20T08:28:31.033Z
+date: 2024-06-08T12:39:55.363Z
+updated: 2024-06-09T12:39:55.363Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Easy Peasy Top Free Video Editing Software for Newcomers for 2024
 excerpt: This Article Describes New Easy Peasy Top Free Video Editing Software for Newcomers for 2024
 keywords: easy peasy top free video editing software for newcomers,learn video editing for free top software for beginners,top 16 free video editing software for beginners very easy to use,easy peasy video editing top 15 free software for beginners,top 15 free video editing software for beginners easy to use,free video editing software for dummies top picks for easy edits,easy peasy video editing top free software for newcomers
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## Easy Peasy: Top Free Video Editing Software for Newcomers

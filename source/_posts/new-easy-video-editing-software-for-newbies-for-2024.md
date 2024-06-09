@@ -1,7 +1,7 @@
 ---
 title: New Easy Video Editing Software for Newbies for 2024
-date: 2024-05-19T08:28:31.142Z
-updated: 2024-05-20T08:28:31.142Z
+date: 2024-06-08T12:39:31.189Z
+updated: 2024-06-09T12:39:31.189Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Easy Video Editing Software for Newbies for 2024
 excerpt: This Article Describes New Easy Video Editing Software for Newbies for 2024
 keywords: free video editing software for dummies 2024 edition,easy video editing software,top rated free video editing software for newbies,easy video editing software for beginners,easy video editing software for newbies,free video editing software for dummies top picks for easy edits,video editing for dummies top 2024 software for beginners
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## Easy Video Editing Software for Newbies

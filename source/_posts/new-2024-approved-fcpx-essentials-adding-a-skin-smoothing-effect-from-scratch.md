@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved FCPX Essentials Adding a Skin Smoothing Effect From Scratch
-date: 2024-05-19T08:28:40.421Z
-updated: 2024-05-20T08:28:40.421Z
+date: 2024-06-08T12:39:32.634Z
+updated: 2024-06-09T12:39:32.634Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved FCPX Essentials Adding a Skin Smoothing Effect From Scratch
 excerpt: This Article Describes New 2024 Approved FCPX Essentials Adding a Skin Smoothing Effect From Scratch
 keywords: no plugins how to add a skin smoother effect with fcpx,fcpx pro tip add a skin smoother effect without any plugins,kapwing essentials adding slow motion effects to your videos,final cut pro x 2024 essentials syncing audio and video for smooth edits,fcpx essentials adding a skin smoothing effect from scratch,add skin smoother effect in fcpx,windows video editing essentials adding 3d effects like a pro
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## FCPX Essentials: Adding a Skin Smoothing Effect From Scratch

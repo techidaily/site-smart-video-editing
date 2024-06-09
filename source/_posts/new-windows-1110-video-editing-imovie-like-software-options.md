@@ -1,7 +1,7 @@
 ---
 title: New Windows 11/10 Video Editing IMovie-Like Software Options
-date: 2024-05-19T08:27:33.589Z
-updated: 2024-05-20T08:27:33.589Z
+date: 2024-06-08T12:39:37.267Z
+updated: 2024-06-09T12:39:37.267Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Windows 11/10 Video Editing IMovie-Like Software Options
 excerpt: This Article Describes New Windows 11/10 Video Editing IMovie-Like Software Options
 keywords: free video editing software 10 options beyond movie maker,windows 1110 video editing best imovie like software options,free video editing software 10 options beyond windows movie maker,windows 1110 video editing imovie like software options,windows 1110 video editing top imovie alternative software,top 10 free video editing software options for windows,make movies on windows 10 imovie like video editing software
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## Windows 11/10 Video Editing: IMovie-Like Software Options

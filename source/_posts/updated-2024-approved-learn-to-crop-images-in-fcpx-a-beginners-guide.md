@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Learn to Crop Images in FCPX A Beginners Guide
-date: 2024-04-28T15:03:56.535Z
-updated: 2024-04-29T15:03:56.535Z
+date: 2024-06-08T12:40:04.595Z
+updated: 2024-06-09T12:40:04.595Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Learn to Crop Images in FCPX A Beginners Guide
 excerpt: This Article Describes Updated 2024 Approved Learn to Crop Images in FCPX A Beginners Guide
 keywords: how to resize and crop images in fcpx 2023 update,adding subtitles in fcpx a beginners tutorial updated 2023,fcpx image editing a beginners guide to cropping,from cluttered to cleared a beginners guide to freeing up space for fcpx,learn to crop images in fcpx a beginners guide,solving sync issues in fcpx 2024 a beginners guide to audio video sync,learn to edit mp4 files on mac and windows a beginners guide
-thumbnail: https://www.lifewire.com/thmb/bJZjivkvkiXSPidjAhZPdQz2Xu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545995058-58ed21243df78cadab023f3c.jpg
+thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
 ---
 
 ## Learn to Crop Images in FCPX: A Beginner's Guide

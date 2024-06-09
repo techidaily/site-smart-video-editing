@@ -1,7 +1,7 @@
 ---
 title: New Top 5 Best Free WMV Video Editors for 2024
-date: 2024-05-19T08:27:58.485Z
-updated: 2024-05-20T08:27:58.485Z
+date: 2024-06-08T12:39:31.444Z
+updated: 2024-06-09T12:39:31.444Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Top 5 Best Free WMV Video Editors for 2024
 excerpt: This Article Describes New Top 5 Best Free WMV Video Editors for 2024
 keywords: top free video editors for newbies,top 5 best free wmv video editors,top 5 best free flv video editors,top 5 best free mod video editors,ai animation top 5 best free wmv video editors,top 5 best free vob video editors,top 10 best free video editors for ubuntu
-thumbnail: https://www.lifewire.com/thmb/rg8CHiqfntWuiXPLjddFZ1BByCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gopro-2619915_1920-2ca3364339c348e5ba44afb3fa79458b.jpg
+thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
 ---
 
 ## Expert- The 5 Best Free WMV Video Editors

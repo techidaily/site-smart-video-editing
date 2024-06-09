@@ -1,7 +1,7 @@
 ---
 title: New Split, Trim, and Convert AVI Files in Minutes 2023 Edition
-date: 2024-04-28T15:07:06.929Z
-updated: 2024-04-29T15:07:06.929Z
+date: 2024-06-08T12:40:07.842Z
+updated: 2024-06-09T12:40:07.842Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Split, Trim, and Convert AVI Files in Minutes 2023 Edition
 excerpt: This Article Describes New Split, Trim, and Convert AVI Files in Minutes 2023 Edition
 keywords: avi file trimming and splitting simplified a 2023 update,mastering avi file editing how to split cut and trim with confidence,split trim and convert avi files in minutes 2023 edition,split and trim 3gp files in minutes 2023 guide,the easiest way to edit avi files split cut and trim in minutes,mastering avi file editing easy ways to trim cut and split videos 2023 update,ai animation how to splitcuttrim avi files easily 2023 update
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## Split, Trim, and Convert AVI Files in Minutes: 2023 Edition

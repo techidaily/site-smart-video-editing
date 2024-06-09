@@ -1,7 +1,7 @@
 ---
 title: Updated S Hottest Bokeh Effect Apps for Mobile Photography
-date: 2024-05-19T08:26:28.479Z
-updated: 2024-05-20T08:26:28.479Z
+date: 2024-06-08T12:40:03.703Z
+updated: 2024-06-09T12:40:03.703Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated S Hottest Bokeh Effect Apps for Mobile Photography
 excerpt: This Article Describes Updated S Hottest Bokeh Effect Apps for Mobile Photography
 keywords: top time lapse photography apps for mobile devices 2023 update,bokeh perfection top rated mobile apps for photography enthusiasts,top bokeh blur apps for mobile photography,mastering bokeh the best mobile apps for ios and android photographers,get the perfect blur top rated bokeh effects apps for mobile devices,s hottest bokeh effect apps for mobile photography,bokeh effects unleashed top ios and android apps for photography
-thumbnail: https://www.lifewire.com/thmb/Y6Usxgxc9PdsrK9dH2LfUO8QJRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849896688-6d69f22bcf0a4ff092f444abe6e1c19f.jpg
+thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
 ## 'S Hottest Bokeh Effect Apps for Mobile Photography

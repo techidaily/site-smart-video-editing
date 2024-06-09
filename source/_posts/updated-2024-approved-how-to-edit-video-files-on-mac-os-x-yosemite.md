@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Edit Video Files on Mac OS X Yosemite
-date: 2024-05-19T08:27:52.050Z
-updated: 2024-05-20T08:27:52.050Z
+date: 2024-06-08T12:39:40.978Z
+updated: 2024-06-09T12:39:40.978Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How to Edit Video Files on Mac OS X Yosemite
 excerpt: This Article Describes Updated 2024 Approved How to Edit Video Files on Mac OS X Yosemite
 keywords: unleash your creativity how to edit video files on mac os x yosemite,ai animation how to edit video files on mac os x yosemite,the ultimate guide to video editing on mac os x yosemite,from start to finish how to edit video files on mac os x yosemite,do you recently update to mac os x yosemite do you need to edit video files on this new system this article tells you how,how to edit video files on mac os x yosemite,edit like a pro video file editing on mac os x yosemite made easy
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## Unlocking Video Editing Potential on Mac Yosemite

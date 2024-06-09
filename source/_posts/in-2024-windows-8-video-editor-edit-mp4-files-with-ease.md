@@ -1,7 +1,7 @@
 ---
 title: In 2024, Windows 8 Video Editor Edit MP4 Files with Ease
-date: 2024-05-19T08:27:33.714Z
-updated: 2024-05-20T08:27:33.714Z
+date: 2024-06-08T12:39:53.522Z
+updated: 2024-06-09T12:39:53.522Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Windows 8 Video Editor Edit MP4 Files with Ease
 excerpt: This Article Describes In 2024, Windows 8 Video Editor Edit MP4 Files with Ease
 keywords: edit avi files with ease best windows 8 video editor 2023,edit avi files with ease top windows 8 video editor 2023,edit flv files with ease top windows 8 video editor,edit mp4 files with ease best windows 8 video editor,edit avi files on windows 8 with ease 2023s top editor,edit mp4 files with ease best video editor for windows 8,windows 8 video editor edit mp4 files with ease
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## Windows 8 Video Editor: Edit MP4 Files with Ease

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Final Cut Pro Essentials Working with Ken Burns Effect for Engaging Videos
-date: 2024-05-19T08:28:42.449Z
-updated: 2024-05-20T08:28:42.449Z
+date: 2024-06-08T12:39:36.870Z
+updated: 2024-06-09T12:39:36.870Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Final Cut Pro Essentials Working with Ken Burns Effect for Engaging Videos
 excerpt: This Article Describes New In 2024, Final Cut Pro Essentials Working with Ken Burns Effect for Engaging Videos
 keywords: final cut pro essentials how to create engaging videos with the ken burns effect,mastering aspect ratio in final cut pro essential skills for video editors,final cut pro essentials working with ken burns effect for engaging videos,elevate your videos a beginners guide to using ken burns effect in final cut pro,final cut pro essentials how to use the ken burns effect to enhance your video storytelling,fcp essentials creating engaging picture in picture effects for your videos,transform your footage mastering the ken burns effect in final cut pro with ease
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Final Cut Pro Essentials: Working with Ken Burns Effect for Engaging Videos

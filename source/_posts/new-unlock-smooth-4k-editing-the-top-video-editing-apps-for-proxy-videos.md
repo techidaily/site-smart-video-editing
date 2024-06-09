@@ -1,7 +1,7 @@
 ---
 title: New Unlock Smooth 4K Editing The Top Video Editing Apps for Proxy Videos
-date: 2024-05-19T08:27:22.413Z
-updated: 2024-05-20T08:27:22.413Z
+date: 2024-06-08T12:39:54.040Z
+updated: 2024-06-09T12:39:54.040Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Unlock Smooth 4K Editing The Top Video Editing Apps for Proxy Videos
 excerpt: This Article Describes New Unlock Smooth 4K Editing The Top Video Editing Apps for Proxy Videos
 keywords: best 4k proxy video editors top picks for smooth editing,simplify your edit the top video editing apps for 4k proxy videos this year,unlock smooth 4k editing the top video editing apps for proxy videos,top 8 video editing apps for 4k proxy video editing,the best video editing apps for those new to video editing,ai animation top 8 video editing apps for 4k proxy video editing,unlock 4k video editing potential the best proxy video editing apps
-thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linksys-default-password-list-2619153-5fccecc7c0b04133b2202a1fa9e8d37a.png
+thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a3a5a4a6ed566b778061c9ff.png
 ---
 
 ## Unlock Smooth 4K Editing: The Top Video Editing Apps for Proxy Videos

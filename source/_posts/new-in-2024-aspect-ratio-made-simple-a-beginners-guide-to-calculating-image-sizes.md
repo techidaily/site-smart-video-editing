@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Aspect Ratio Made Simple A Beginners Guide to Calculating Image Sizes
-date: 2024-05-19T08:28:04.441Z
-updated: 2024-05-20T08:28:04.441Z
+date: 2024-06-08T12:39:47.917Z
+updated: 2024-06-09T12:39:47.917Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Aspect Ratio Made Simple A Beginners Guide to Calculating Image Sizes
 excerpt: This Article Describes New In 2024, Aspect Ratio Made Simple A Beginners Guide to Calculating Image Sizes
 keywords: aspect ratio 101 a beginners guide to calculating,video ratio made simple a beginners guide to resizing,image size made simple a beginners guide to ratio calculators,mastering image proportions a beginners guide to ratio calculators,sizing up success a beginners guide to image ratio calculation,aspect ratio made simple a beginners guide to calculating image sizes,understanding aspect ratios a beginners guide to image sizing
-thumbnail: https://www.lifewire.com/thmb/R4hO61lalLOqraKCRcJdmU6HWfQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg
+thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
 ---
 
 ## Aspect Ratio Made Simple: A Beginner's Guide to Calculating Image Sizes

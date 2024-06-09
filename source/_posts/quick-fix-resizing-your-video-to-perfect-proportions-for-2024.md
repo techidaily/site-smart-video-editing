@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Resizing Your Video to Perfect Proportions for 2024
-date: 2024-05-19T08:26:23.541Z
-updated: 2024-05-20T08:26:23.541Z
+date: 2024-06-08T12:39:57.998Z
+updated: 2024-06-09T12:39:57.998Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Quick Fix Resizing Your Video to Perfect Proportions for 2024
 excerpt: This Article Describes Quick Fix Resizing Your Video to Perfect Proportions for 2024
 keywords: quick fix resizing your video to perfect proportions,the secret to perfect proportions resizing vertical videos for social,optimize your videos pro tips for resizing vertical content,the secret to perfectly sizing your vertical videos for social platforms,online image resizer 7 top picks for perfect proportions,the art of video resizing tips for perfect proportions,resize your video tips and tricks for perfect dimensions
-thumbnail: https://www.lifewire.com/thmb/eS1YD0LsEQhVuAP3cxZA8t-_eDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Pro_creative-sketch_10302018-5be0773ac9e77c0051d5d51c.jpg
+thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
 ---
 
 ## Quick Fix: Resizing Your Video to Perfect Proportions

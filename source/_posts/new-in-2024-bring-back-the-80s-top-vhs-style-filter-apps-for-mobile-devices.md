@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Bring Back the 80S Top VHS-Style Filter Apps for Mobile Devices
-date: 2024-05-19T08:28:14.323Z
-updated: 2024-05-20T08:28:14.323Z
+date: 2024-06-08T12:39:28.824Z
+updated: 2024-06-09T12:39:28.824Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Bring Back the 80S Top VHS-Style Filter Apps for Mobile Devices
 excerpt: This Article Describes New In 2024, Bring Back the 80S Top VHS-Style Filter Apps for Mobile Devices
 keywords: the ultimate guide to face swapping 2024s best apps for mobile devices,bring back the 80s top vhs style filter apps for mobile devices,bring back the 80s top vhs emulator apps for mobile,bring back the 80s best vhs style filter apps for iphone and android,brighten up the best video editing apps for mobile devices,top vhs converter apps for mobile devices,bring back the 80s best vhs effect apps for iphone and android devices
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## Bring Back the 80S: Top VHS-Style Filter Apps for Mobile Devices

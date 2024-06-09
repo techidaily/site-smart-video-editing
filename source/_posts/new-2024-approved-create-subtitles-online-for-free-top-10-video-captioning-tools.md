@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Create Subtitles Online for Free Top 10 Video Captioning Tools
-date: 2024-05-19T08:28:23.143Z
-updated: 2024-05-20T08:28:23.143Z
+date: 2024-06-08T12:40:00.593Z
+updated: 2024-06-09T12:40:00.593Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Create Subtitles Online for Free Top 10 Video Captioning Tools
 excerpt: This Article Describes New 2024 Approved Create Subtitles Online for Free Top 10 Video Captioning Tools
 keywords: subtitle your videos for free 10 top online captioning tools,free subtitle creators top 10 online tools for video subtitling,create subtitles online for free top 10 video captioning tools,top 10 free online subtitle editors for video captions,10 free online tools to create subtitles for your videos,subtitle your videos for free 10 best online captioning tools,top 10 free online subtitle editors for video captioning
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## Create Subtitles Online for Free: Top 10 Video Captioning Tools

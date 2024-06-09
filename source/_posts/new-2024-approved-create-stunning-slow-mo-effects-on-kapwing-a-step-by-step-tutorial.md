@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Create Stunning Slow-Mo Effects on Kapwing A Step-by-Step Tutorial
-date: 2024-05-19T08:28:22.418Z
-updated: 2024-05-20T08:28:22.418Z
+date: 2024-06-08T12:39:31.917Z
+updated: 2024-06-09T12:39:31.917Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Create Stunning Slow-Mo Effects on Kapwing A Step-by-Step Tutorial
 excerpt: This Article Describes New 2024 Approved Create Stunning Slow-Mo Effects on Kapwing A Step-by-Step Tutorial
 keywords: ai animation create slow mo magic a step by step guide to kapwing,kapwing slow motion effects a comprehensive tutorial for video editors,bringing memories to life a step by step final cut pro slideshow creation tutorial,slow down time a step by step guide to creating slow mo videos on kapwing,ai animation create stunning slow mo videos with kapwing a step by step guide,create stunning slow mo videos with kapwing a step by step guide,create stunning slow mo effects on kapwing a step by step tutorial
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## Create Stunning Slow-Mo Effects on Kapwing: A Step-by-Step Tutorial

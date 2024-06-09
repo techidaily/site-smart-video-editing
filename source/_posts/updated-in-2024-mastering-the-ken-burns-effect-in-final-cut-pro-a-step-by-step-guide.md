@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering the Ken Burns Effect in Final Cut Pro A Step-by-Step Guide
-date: 2024-04-28T15:03:55.263Z
-updated: 2024-04-29T15:03:55.263Z
+date: 2024-06-08T12:39:38.468Z
+updated: 2024-06-09T12:39:38.468Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Mastering the Ken Burns Effect in Final Cut Pro A Step-by-Step Guide
 excerpt: This Article Describes Updated In 2024, Mastering the Ken Burns Effect in Final Cut Pro A Step-by-Step Guide
 keywords: mastering the ken burns effect a step by step guide for final cut pro users,mastering the ken burns effect a step by step guide,bring your videos to life a step by step guide to the ken burns effect in final cut pro,ai animation mastering the ken burns effect a step by step guide,mastering pip a step by step guide to creating picture in picture effects in final cut pro,mastering the ken burns effect in final cut pro a step by step guide,ai animation mastering the ken burns effect a step by step guide for final cut pro users
-thumbnail: https://www.lifewire.com/thmb/Qyfd5yWYmuBE75uyOeLeSQxzUMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-movies-on-hulu-right-now-5025149-3c80b5664f6541b4a0698333fc447251.jpg
+thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3f338f8c86d6f5318d22c5f4.jpg
 ---
 
 ## Mastering the Ken Burns Effect in Final Cut Pro: A Step-by-Step Guide

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Unleash the Power of Motion Blur in Your FCP Edits
-date: 2024-04-28T15:03:56.554Z
-updated: 2024-04-29T15:03:56.554Z
+date: 2024-06-08T12:39:58.944Z
+updated: 2024-06-09T12:39:58.944Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Unleash the Power of Motion Blur in Your FCP Edits
 excerpt: This Article Describes New In 2024, Unleash the Power of Motion Blur in Your FCP Edits
 keywords: the power of motion blur elevate your video editing skills in fcp,unleash the power of slow motion best video editing tools,unleash the power of linux on your chromebook an installation guide for 20,unleash the power of slow motion a kapwing tutorial for beginners,unleash the power of motion blur in your fcp edits,unleash the power of transitions 3 fcp editing essentials,unlocking the power of motion blur in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/TtsVrd32qSZ-IgZ8x0AB3dHyQVs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-a-song-your-ringtone-on-android-4777573-5d571b57c5a5436e91ebb7fcae1c2b6b.jpg
+thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
 ## Unleash the Power of Motion Blur in Your FCP Edits

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Free Video Editing for Beginners A Step-by-Step Guide to Getting Started
-date: 2024-05-19T08:28:49.453Z
-updated: 2024-05-20T08:28:49.453Z
+date: 2024-06-08T12:39:56.964Z
+updated: 2024-06-09T12:39:56.964Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Free Video Editing for Beginners A Step-by-Step Guide to Getting Started
 excerpt: This Article Describes New In 2024, Free Video Editing for Beginners A Step-by-Step Guide to Getting Started
 keywords: mastering canon footage a step by step guide to video editing,mastering wax a step by step guide to editing videos for free,get started with jaycut a beginners guide to free online video editing,get started with jaycut a beginners guide to free video editing,free video editing for beginners a step by step guide to getting started,get started with wax a beginners guide to free video editing software,mastering wax a step by step guide to free video editing
-thumbnail: https://www.lifewire.com/thmb/jU4B8oA_UfiJeCU8cLXdnDK6sCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-a-wireless-charger-5191283-cb27ceee3fea4547b5720b4934713a93.jpg
+thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7fed1fa3496121c2d71b4b3d4.jpg
 ---
 
 ## Free Video Editing for Beginners: A Step-by-Step Guide to Getting Started

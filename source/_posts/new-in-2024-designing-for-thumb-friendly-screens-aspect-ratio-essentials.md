@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Designing for Thumb-Friendly Screens Aspect Ratio Essentials
-date: 2024-05-19T08:28:25.805Z
-updated: 2024-05-20T08:28:25.805Z
+date: 2024-06-08T12:39:50.793Z
+updated: 2024-06-09T12:39:50.793Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Designing for Thumb-Friendly Screens Aspect Ratio Essentials
 excerpt: This Article Describes New In 2024, Designing for Thumb-Friendly Screens Aspect Ratio Essentials
 keywords: designing for mobile essential guidelines for vertical aspect ratio,the perfect fit 2024 tiktok aspect ratio essentials for creators,phone friendly design the art of vertical aspect ratio creation,designing for mobile essential tips for vertical aspect ratios,social media design essentials mastering aspect ratios and image sizes,designing for thumb friendly screens aspect ratio essentials,aspect ratio essentials for tiktok success
-thumbnail: https://www.lifewire.com/thmb/YDOkX4KOrU-1Gfk6Kj7DPlg333E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows11contextmenu-f4d6ebb14db4444d851b4338aa553e21.png
+thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b903378f876b3f4cc7ee4fa520.png
 ---
 
 ## Designing for Thumb-Friendly Screens: Aspect Ratio Essentials

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Unlocking the Power of Motion Blur in Final Cut Pro X
-date: 2024-04-28T15:03:55.059Z
-updated: 2024-04-29T15:03:55.059Z
+date: 2024-06-08T12:39:48.018Z
+updated: 2024-06-09T12:39:48.018Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Unlocking the Power of Motion Blur in Final Cut Pro X
 excerpt: This Article Describes New In 2024, Unlocking the Power of Motion Blur in Final Cut Pro X
 keywords: unlocking the power of chroma keying in final cut pro x,unlocking the power of xml files in final cut pro x,unlocking the power of aspect ratio in final cut pro,unlocking the power of color in final cut pro,motion blur magic unlocking the power of final cut pro,unlocking the power of titles in final cut pro x 2023 update,unlocking the power of motion blur in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## Unlocking the Power of Motion Blur in Final Cut Pro X

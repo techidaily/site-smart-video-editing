@@ -1,7 +1,7 @@
 ---
 title: Updated The Animators Handbook Stop Motion Studio and Beyond
-date: 2024-05-19T08:26:41.004Z
-updated: 2024-05-20T08:26:41.004Z
+date: 2024-06-08T12:39:54.577Z
+updated: 2024-06-09T12:39:54.577Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Animators Handbook Stop Motion Studio and Beyond
 excerpt: This Article Describes Updated The Animators Handbook Stop Motion Studio and Beyond
 keywords: the cloud animators handbook stop motion software and more,cloud based stop motion animation tools a beginners handbook,stop motion studio and beyond exploring the best animation software,ultimate stop motion animation handbook software and tools,the animators handbook stop motion studio and beyond,the ultimate stop motion handbook studio alternatives and more,the complete stop motion toolkit studio and beyond
-thumbnail: https://www.lifewire.com/thmb/LMVFwXh09U0pTH87SpUAPwMzqjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instagram_Login-5c004ff2c9e77c000104174d.png
+thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860270c85ff4fd48c9e5e5afe1.png
 ---
 
 ## The Animator's Handbook: Stop Motion Studio and Beyond

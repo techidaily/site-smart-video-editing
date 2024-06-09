@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Jump Cutting Like a Pro in FCPX Expert Techniques Revealed
-date: 2024-04-28T15:03:54.531Z
-updated: 2024-04-29T15:03:54.531Z
+date: 2024-06-08T12:39:47.458Z
+updated: 2024-06-09T12:39:47.458Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Jump Cutting Like a Pro in FCPX Expert Techniques Revealed
 excerpt: This Article Describes New 2024 Approved Jump Cutting Like a Pro in FCPX Expert Techniques Revealed
 keywords: pip like a pro advanced techniques in final cut pro,transition like a pro 3 expert techniques in final cut pro,ai animation jump cut like a pro advanced editing techniques in fcpx,jump cut like a pro expert techniques for final cut pro x editors,jump cutting like a pro in fcpx expert techniques revealed,jump cut like a pro advanced editing techniques in fcpx,time lapse like a pro advanced techniques in final cut pro
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## Jump Cutting Like a Pro in FCPX: Expert Techniques Revealed

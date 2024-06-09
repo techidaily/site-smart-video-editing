@@ -1,7 +1,7 @@
 ---
 title: New Transform Your Video How to Adjust Shape and Size
-date: 2024-04-28T15:03:58.163Z
-updated: 2024-04-29T15:03:58.163Z
+date: 2024-06-08T12:39:41.310Z
+updated: 2024-06-09T12:39:41.310Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Transform Your Video How to Adjust Shape and Size
 excerpt: This Article Describes New Transform Your Video How to Adjust Shape and Size
 keywords: transform your memories best online photo and video collage apps,ai animation transform your video footage shape size and more,get the right fit how to change video shape and size,customize your video layout tips and tricks for changing shape,transform your video footage shape size and more,from square to wide how to adjust video shape,transform your video how to adjust shape and size
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## Transform Your Video: How to Adjust Shape and Size

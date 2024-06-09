@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Smartphone Video Hacks Shooting in Vertical Aspect Ratio
-date: 2024-05-19T08:29:40.897Z
-updated: 2024-05-20T08:29:40.897Z
+date: 2024-06-08T12:40:03.136Z
+updated: 2024-06-09T12:40:03.136Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Smartphone Video Hacks Shooting in Vertical Aspect Ratio
 excerpt: This Article Describes 2024 Approved Smartphone Video Hacks Shooting in Vertical Aspect Ratio
 keywords: vertical vibes mastering phone aspect ratio design,best practices for creating phone aspect ratio vertical on your smartphone,smartphone video hacks shooting in vertical aspect ratio,best apps for editing vertical videos on your smartphone,from smartphone to stardom best vertical video editing apps,mastering mobile video tips for vertical aspect ratio on smartphones,smartphone storytelling how to shoot vertical aspect ratio like a pro
-thumbnail: https://www.lifewire.com/thmb/xo05oNjxuGAf4v7-INYwiifcGHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-instagram-filters-for-2018-4177148-1-5bc5e4b6c9e77c00517f198d.jpg
+thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
 ---
 
 ## Smartphone Video Hacks: Shooting in Vertical Aspect Ratio

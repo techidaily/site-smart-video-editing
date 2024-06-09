@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top Free FLV Video Editors for Windows and Mac
-date: 2024-05-19T08:27:05.075Z
-updated: 2024-05-20T08:27:05.075Z
+date: 2024-06-08T12:39:43.329Z
+updated: 2024-06-09T12:39:43.329Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Top Free FLV Video Editors for Windows and Mac
 excerpt: This Article Describes In 2024, Top Free FLV Video Editors for Windows and Mac
 keywords: top rated free mov video rotators for windowsmac,best video editors for windows 11 free and paid,top free video repeaters for windows and mac users,top free flv video editors for windows and mac,top video metadata editors for windows and macos,loop your favorite videos for free on windows and mac,best mp4 video tag editors for windows and mac
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## Top Free FLV Video Editors for Windows and Mac

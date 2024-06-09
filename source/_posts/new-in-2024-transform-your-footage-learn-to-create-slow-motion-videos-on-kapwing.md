@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Transform Your Footage Learn to Create Slow-Motion Videos on Kapwing
-date: 2024-04-28T15:03:57.228Z
-updated: 2024-04-29T15:03:57.228Z
+date: 2024-06-08T12:39:44.362Z
+updated: 2024-06-09T12:39:44.362Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Transform Your Footage Learn to Create Slow-Motion Videos on Kapwing
 excerpt: This Article Describes New In 2024, Transform Your Footage Learn to Create Slow-Motion Videos on Kapwing
 keywords: make an impact learn to create slow motion videos on kapwing,free slow motion video editor transform your footage with filmora,transform your footage how to create stunning 3d videos on windows,transform your footage learn to create slow motion videos on kapwing,transform your videos how to add slow motion effects on kapwing,transform your videos with slow motion a kapwing tutorial for beginners,transform your footage 2 effective ways to create time lapse videos
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## Transform Your Footage: Learn to Create Slow-Motion Videos on Kapwing

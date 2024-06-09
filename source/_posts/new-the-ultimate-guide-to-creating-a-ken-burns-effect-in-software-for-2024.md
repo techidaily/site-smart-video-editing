@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Creating a Ken Burns Effect in Software for 2024
-date: 2024-04-28T15:03:57.267Z
-updated: 2024-04-29T15:03:57.267Z
+date: 2024-06-08T12:39:50.924Z
+updated: 2024-06-09T12:39:50.924Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Ultimate Guide to Creating a Ken Burns Effect in Software for 2024
 excerpt: This Article Describes New The Ultimate Guide to Creating a Ken Burns Effect in Software for 2024
 keywords: the ultimate guide to vlog video editing best software for creators,create cinematic videos the ultimate ken burns effect guide,the ultimate guide to creating a ken burns effect in software,the ultimate guide to 4k video editing top software for creators,jaycut 2023 the ultimate guide to free online video editing software,the ultimate guide to animation creation top software,the ultimate guide to creating stunning motion blur effects in fcp
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## The Ultimate Guide to Creating a Ken Burns Effect in [Software]

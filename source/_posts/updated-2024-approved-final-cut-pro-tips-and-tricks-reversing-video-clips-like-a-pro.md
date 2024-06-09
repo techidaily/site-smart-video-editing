@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro Tips and Tricks Reversing Video Clips Like a Pro
-date: 2024-05-19T08:28:42.752Z
-updated: 2024-05-20T08:28:42.752Z
+date: 2024-06-08T12:39:33.263Z
+updated: 2024-06-09T12:39:33.263Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Final Cut Pro Tips and Tricks Reversing Video Clips Like a Pro
 excerpt: This Article Describes Updated 2024 Approved Final Cut Pro Tips and Tricks Reversing Video Clips Like a Pro
 keywords: final cut pro tips and tricks reversing video clips like a pro,reversing video in final cut pro tips tricks and techniques,final cut pro for beginners rotating and flipping clips like a pro,final cut pro 2023 reversing video clips like a pro,flip it how to reverse video clips in final cut pro like a pro,reversing video clips in final cut pro tips and tricks,final cut pro tips and tricks flipping clips with ease 4 steps
-thumbnail: https://www.lifewire.com/thmb/k79dGrFEq_x9Rf5uBTEI3SQDmhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Cloud-Next-59a9cb4a03e644389e2ffa9939c420f8.jpg
+thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
 ---
 
 ## Final Cut Pro Tips and Tricks: Reversing Video Clips Like a Pro

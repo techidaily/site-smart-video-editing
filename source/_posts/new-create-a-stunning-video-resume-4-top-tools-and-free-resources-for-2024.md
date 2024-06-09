@@ -1,7 +1,7 @@
 ---
 title: New Create a Stunning Video Resume 4 Top Tools and Free Resources for 2024
-date: 2024-05-19T08:28:20.431Z
-updated: 2024-05-20T08:28:20.431Z
+date: 2024-06-08T12:39:37.028Z
+updated: 2024-06-09T12:39:37.028Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Create a Stunning Video Resume 4 Top Tools and Free Resources for 2024
 excerpt: This Article Describes New Create a Stunning Video Resume 4 Top Tools and Free Resources for 2024
 keywords: craft a winning video resume the best tools and free templates,create a stunning video resume 4 top tools and free resources,create stunning video invitations for free top tools,create a stunning video resume top 4 makers with free resources,video resume mastery top 4 tools and free templates for success,make a lasting impression top 4 video resume creation tools free templates,top video resume creators free templates and reviews
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## Create a Stunning Video Resume: 4 Top Tools and Free Resources

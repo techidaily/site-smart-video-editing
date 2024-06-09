@@ -1,7 +1,7 @@
 ---
 title: In 2024, MP4 Video Editing for Beginners A Friendly Tutorial for Mac and Windows Users
-date: 2024-05-19T08:26:14.303Z
-updated: 2024-05-20T08:26:14.303Z
+date: 2024-06-08T12:39:48.847Z
+updated: 2024-06-09T12:39:48.847Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, MP4 Video Editing for Beginners A Friendly Tutorial for Mac and Windows Users
 excerpt: This Article Describes In 2024, MP4 Video Editing for Beginners A Friendly Tutorial for Mac and Windows Users
 keywords: the ultimate mp4 video editing tutorial for mac and windows users,mp4 video editing made easy a beginners guide for mac and windows,get started with mp4 video editing a friendly tutorial for mac and windows beginners,the ultimate mp4 video editing tutorial for mac and windows users 2023 edition,mp4 video editing for beginners a friendly tutorial for mac and windows users,edit mp4 files like a pro mac and windows tutorial for beginners,transform your mp4 files a step by step video editing tutorial for mac and windows
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## MP4 Video Editing for Beginners: A Friendly Tutorial for Mac and Windows Users

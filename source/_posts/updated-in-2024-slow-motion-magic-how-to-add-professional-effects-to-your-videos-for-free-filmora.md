@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Slow Motion Magic How to Add Professional Effects to Your Videos for Free - Filmora
-date: 2024-04-28T15:03:55.826Z
-updated: 2024-04-29T15:03:55.826Z
+date: 2024-06-08T12:39:29.088Z
+updated: 2024-06-09T12:39:29.088Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Slow Motion Magic How to Add Professional Effects to Your Videos for Free - Filmora
 excerpt: This Article Describes Updated In 2024, Slow Motion Magic How to Add Professional Effects to Your Videos for Free - Filmora
 keywords: from fast to furious add slow motion effects to your videos for free with filmora,make every moment epic add slow motion effects to your videos for free filmora,ai animation add a slow motion effect to your videos for free filmora,add a slow motion effect to your videos for free filmora,make your videos epic add slow motion effects for free with filmora,slow motion magic how to add professional effects to your videos for free filmora,ai animation slow motion magic edit your videos for free with filmoras pro tools
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## Slow Motion Magic: How to Add Professional Effects to Your Videos for Free - Filmora

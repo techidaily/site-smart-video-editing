@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Designing Effective Lower Thirds in Final Cut Pro X
-date: 2024-05-19T08:28:25.756Z
-updated: 2024-05-20T08:28:25.756Z
+date: 2024-06-08T12:39:36.307Z
+updated: 2024-06-09T12:39:36.307Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Designing Effective Lower Thirds in Final Cut Pro X
 excerpt: This Article Describes New In 2024, Designing Effective Lower Thirds in Final Cut Pro X
 keywords: the art of lower thirds design in final cut pro x,designing engaging lower thirds for final cut pro x projects,taking lower thirds to the next level in final cut pro x,the art of lower thirds elevating your videos in final cut pro x,unleashing the power of lower thirds in final cut pro x,the art of effective lower thirds in final cut pro x,designing effective lower thirds in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## Designing Effective Lower Thirds in Final Cut Pro X
