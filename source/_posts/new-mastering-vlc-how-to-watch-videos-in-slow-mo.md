@@ -1,7 +1,7 @@
 ---
 title: New Mastering VLC How to Watch Videos in Slow Mo
-date: 2024-05-19T08:26:09.534Z
-updated: 2024-05-20T08:26:09.534Z
+date: 2024-06-16T02:27:01.669Z
+updated: 2024-06-17T02:27:01.669Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mastering VLC How to Watch Videos in Slow Mo
 excerpt: This Article Describes New Mastering VLC How to Watch Videos in Slow Mo
 keywords: vlc tutorial playing videos in slow mo made easy,how to watch videos in slow mo using vlc,kapwing how to make slow motion video,mastering vlc how to watch videos in slow mo,mastering vlc how to play videos in slow motion with ease,master vlc how to play videos in slow motion on desktop and mobile,mastering vlc how to play videos in slow motion on desktop and mobile
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## Mastering VLC: How to Watch Videos in Slow Mo

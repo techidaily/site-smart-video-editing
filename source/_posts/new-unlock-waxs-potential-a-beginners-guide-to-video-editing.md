@@ -1,7 +1,7 @@
 ---
 title: New Unlock Waxs Potential A Beginners Guide to Video Editing
-date: 2024-05-19T08:27:23.299Z
-updated: 2024-05-20T08:27:23.299Z
+date: 2024-06-16T02:27:10.423Z
+updated: 2024-06-17T02:27:10.423Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Unlock Waxs Potential A Beginners Guide to Video Editing
 excerpt: This Article Describes New Unlock Waxs Potential A Beginners Guide to Video Editing
 keywords: sony camcorder video editing essentials a beginners guide to pro results,ai animation unlock new dimensions a beginners guide to video resizing,beginners guide to video editing essential software,unlock waxs potential a beginners guide to video editing,wax video editor a beginners guide to editing like a pro,unlock flv video editing on windows 8 a beginners guide,unlock new dimensions a beginners guide to video resizing
-thumbnail: https://www.lifewire.com/thmb/koSaGJ5iVSnQrrvXh53lyy1rSZM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/podcasts-safeforkids-5b2f3dd4eb97de0036d9f87b.jpg
+thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg
 ---
 
 ## Unlock Wax's Potential: A Beginner's Guide to Video Editing

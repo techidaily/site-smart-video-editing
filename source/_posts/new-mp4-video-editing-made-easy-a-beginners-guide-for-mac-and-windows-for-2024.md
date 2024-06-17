@@ -1,7 +1,7 @@
 ---
 title: New MP4 Video Editing Made Easy A Beginners Guide for Mac and Windows for 2024
-date: 2024-04-28T15:03:58.153Z
-updated: 2024-04-29T15:03:58.153Z
+date: 2024-06-16T02:27:17.706Z
+updated: 2024-06-17T02:27:17.706Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New MP4 Video Editing Made Easy A Beginners Guide for Mac and Windows for 2024
 excerpt: This Article Describes New MP4 Video Editing Made Easy A Beginners Guide for Mac and Windows for 2024
 keywords: mp4 video editing made easy a beginners guide for mac and windows,mastering mp4 video editing a step by step guide for mac and windows,mastering mp4 video editing a step by step guide for mac and windows users,mp4 video editing made easy a comprehensive guide for mac and windows,mp4 video editing for beginners a friendly tutorial for mac and windows users,ai animation mp4 video editing made easy a beginners guide for mac and windows,online video editing made easy a practical guide for beginners and pros
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## MP4 Video Editing Made Easy: A Beginner's Guide for Mac and Windows

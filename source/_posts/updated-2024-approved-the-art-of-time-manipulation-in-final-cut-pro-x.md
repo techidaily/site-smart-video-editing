@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Art of Time Manipulation in Final Cut Pro X
-date: 2024-04-28T15:03:52.665Z
-updated: 2024-04-29T15:03:52.665Z
+date: 2024-06-16T02:26:55.879Z
+updated: 2024-06-17T02:26:55.879Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved The Art of Time Manipulation in Final Cut Pro X
 excerpt: This Article Describes Updated 2024 Approved The Art of Time Manipulation in Final Cut Pro X
 keywords: time manipulation in final cut pro x a step by step guide,the art of color correction in final cut pro 2023,ai animation how to change the aspect ratio in final cut pro,the ultimate guide to titles in final cut pro x 2023 edition,ai animation the ultimate guide to titles in final cut pro x 2023 edition,the art of time manipulation in final cut pro x,ai animation how to make a time lapse video in final cut pro
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## The Art of Time Manipulation in Final Cut Pro X

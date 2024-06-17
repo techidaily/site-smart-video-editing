@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate List of Free Green Screen Apps for Mobile Video Editing
-date: 2024-05-19T08:26:58.900Z
-updated: 2024-05-20T08:26:58.900Z
+date: 2024-06-16T02:26:38.297Z
+updated: 2024-06-17T02:26:38.297Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Ultimate List of Free Green Screen Apps for Mobile Video Editing
 excerpt: This Article Describes Updated The Ultimate List of Free Green Screen Apps for Mobile Video Editing
 keywords: the ultimate list 10 best free green screen apps for mobile phones,free green screen fun top 10 mobile apps for creative video editing,discover the best free green screen apps for mobile video editing,the ultimate list of split screen video apps for mobile,the ultimate list 10 free video speed editor apps for mobile users,the ultimate list of free green screen apps for mobile video editing,the ultimate list of free green screen apps for mobile creators
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## The Ultimate List of Free Green Screen Apps for Mobile Video Editing

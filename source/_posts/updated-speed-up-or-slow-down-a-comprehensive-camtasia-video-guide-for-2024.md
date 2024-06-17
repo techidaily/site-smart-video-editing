@@ -1,7 +1,7 @@
 ---
 title: Updated Speed Up or Slow Down A Comprehensive Camtasia Video Guide for 2024
-date: 2024-04-28T15:03:56.471Z
-updated: 2024-04-29T15:03:56.471Z
+date: 2024-06-16T02:27:17.531Z
+updated: 2024-06-17T02:27:17.531Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Speed Up or Slow Down A Comprehensive Camtasia Video Guide for 2024
 excerpt: This Article Describes Updated Speed Up or Slow Down A Comprehensive Camtasia Video Guide for 2024
 keywords: speed up or slow down the ultimate camtasia video editing guide,speed up or slow down your camtasia recordings,free video looper tools for windows and mac a comprehensive guide,effortless video editing a guide to speeding up and slowing down in camtasia,video to dvd conversion a comprehensive guide for windows and mac,speed up or slow down a comprehensive camtasia video guide,ai animation speed up or slow down the ultimate camtasia video editing guide
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## Speed Up or Slow Down: A Comprehensive Camtasia Video Guide

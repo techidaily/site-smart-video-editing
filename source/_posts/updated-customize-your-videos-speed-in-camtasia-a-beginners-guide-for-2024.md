@@ -1,7 +1,7 @@
 ---
 title: Updated Customize Your Videos Speed in Camtasia A Beginners Guide for 2024
-date: 2024-05-19T08:28:24.247Z
-updated: 2024-05-20T08:28:24.247Z
+date: 2024-06-16T02:27:01.351Z
+updated: 2024-06-17T02:27:01.351Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Customize Your Videos Speed in Camtasia A Beginners Guide for 2024
 excerpt: This Article Describes Updated Customize Your Videos Speed in Camtasia A Beginners Guide for 2024
 keywords: flip your videos fast a beginners guide to rotation,optimize your facebook videos a beginners guide to aspect ratios,effortless video editing a beginners guide to camtasia speed adjustment,customize your videos speed in camtasia a beginners guide,make a dvd from your videos a beginners guide for windows and mac,video pace control a beginners guide to camtasia speed adjustment,customize your linkedin video previews a beginners guide
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## Customize Your Video's Speed in Camtasia: A Beginner's Guide

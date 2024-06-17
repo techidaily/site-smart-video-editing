@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Social Media Image Mastery A Guide to Perfect Aspect Ratios and Dimensions
-date: 2024-04-28T15:03:57.332Z
-updated: 2024-04-29T15:03:57.332Z
+date: 2024-06-16T02:27:17.970Z
+updated: 2024-06-17T02:27:17.970Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Social Media Image Mastery A Guide to Perfect Aspect Ratios and Dimensions
 excerpt: This Article Describes Updated In 2024, Social Media Image Mastery A Guide to Perfect Aspect Ratios and Dimensions
 keywords: ai animation up to date guide to social media aspect ratio,picture perfect a step by step guide to social media image dimensions,social media dimensions decoded a complete aspect ratio guide,social media image mastery a guide to perfect aspect ratios and dimensions,ai animation an up to date guide to social media aspect ratio,social media by design a guide to perfect aspect ratios,the complete guide to social media image optimization aspect ratios and more
-thumbnail: https://www.lifewire.com/thmb/EcB--O002zUEaSk7QJHgsZsgFyA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1198110246-e12a30f2b10645edb984dc66113911c9.jpg
+thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd5201c33fd6a45fd74bf88fe0d.jpg
 ---
 
 ## Social Media Image Mastery: A Guide to Perfect Aspect Ratios and Dimensions

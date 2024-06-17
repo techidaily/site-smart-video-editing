@@ -1,7 +1,7 @@
 ---
 title: Updated Unlocking the Power of Chroma Keying in Final Cut Pro X
-date: 2024-05-19T08:27:23.817Z
-updated: 2024-05-20T08:27:23.817Z
+date: 2024-06-16T02:26:58.272Z
+updated: 2024-06-17T02:26:58.272Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Unlocking the Power of Chroma Keying in Final Cut Pro X
 excerpt: This Article Describes Updated Unlocking the Power of Chroma Keying in Final Cut Pro X
 keywords: unleashing the power of color in final cut pro,unlocking the power of titles in final cut pro x 2023 update,unlocking the power of chroma keying in final cut pro x,unlocking the power of color in final cut pro,unlocking the power of motion blur in final cut pro x,unlocking the power of aspect ratio in final cut pro,unlocking the power of xml files in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## Unlocking the Power of Chroma Keying in Final Cut Pro X

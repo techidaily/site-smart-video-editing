@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved FCPX Essentials Working with Freeze Frames and Slow Motion Video
-date: 2024-05-19T08:28:40.479Z
-updated: 2024-05-20T08:28:40.479Z
+date: 2024-06-16T02:26:49.979Z
+updated: 2024-06-17T02:26:49.979Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved FCPX Essentials Working with Freeze Frames and Slow Motion Video
 excerpt: This Article Describes Updated 2024 Approved FCPX Essentials Working with Freeze Frames and Slow Motion Video
 keywords: fcpx essentials freeze frames slow mo and more,fcpx essentials working with freeze frames and slow motion video,unlocking fcpx advanced freeze frame and slow motion techniques,slow and steady wins free slow motion video editing with filmora,unlocking fcpx freeze frames slow motion and beyond,fcpx visual effects freeze frames slow motion and advanced editing,creative control in fcpx freeze frames slow motion and speed ramping
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## FCPX Essentials: Working with Freeze Frames and Slow Motion Video

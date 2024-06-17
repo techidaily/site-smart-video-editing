@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved FCP X Effects Made Simple A 3-Step Tutorial for Beginners
-date: 2024-05-19T08:28:40.018Z
-updated: 2024-05-20T08:28:40.018Z
+date: 2024-06-16T02:27:00.089Z
+updated: 2024-06-17T02:27:00.089Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved FCP X Effects Made Simple A 3-Step Tutorial for Beginners
 excerpt: This Article Describes Updated 2024 Approved FCP X Effects Made Simple A 3-Step Tutorial for Beginners
 keywords: mastering 3d video effects a windows tutorial for beginners,fcp x effects made simple a step by step tutorial,fcp x effects made simple a quick 3 step tutorial,fcp x effects for beginners a quick and easy 3 step process,countdown magic in fcpx a 3 step tutorial for beginners,fcp x effects made simple a 3 step tutorial for beginners,adding subtitles in fcpx a beginners tutorial updated 2023
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## FCP X Effects Made Simple: A 3-Step Tutorial for Beginners

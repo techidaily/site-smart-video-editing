@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Design Your Dream Invite 10 Top Free Online Video Makers
-date: 2024-05-19T08:28:25.679Z
-updated: 2024-05-20T08:28:25.679Z
+date: 2024-06-16T02:26:37.997Z
+updated: 2024-06-17T02:26:37.997Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Design Your Dream Invite 10 Top Free Online Video Makers
 excerpt: This Article Describes Updated In 2024, Design Your Dream Invite 10 Top Free Online Video Makers
 keywords: top 10 best free invitation video makers online,streamline your videos 10 top rated free online video trimmers,design your dream invite top 10 free online video makers,create stunning invites top 10 free video makers,create stunning video invites for free top online makers,make your own invitation videos 10 free online tools,design your dream invite 10 top free online video makers
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## Design Your Dream Invite: 10 Top Free Online Video Makers

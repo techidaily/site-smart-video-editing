@@ -1,7 +1,7 @@
 ---
 title: Updated S Top Rated Cartoon Video Editors for Newbies
-date: 2024-05-19T08:26:29.298Z
-updated: 2024-05-20T08:26:29.298Z
+date: 2024-06-16T02:26:55.657Z
+updated: 2024-06-17T02:26:55.657Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated S Top Rated Cartoon Video Editors for Newbies
 excerpt: This Article Describes Updated S Top Rated Cartoon Video Editors for Newbies
 keywords: top simple video editors for newbies,top rated 4k video editing tools for creators,s top rated cartoon video editors for newbies,s top online cartoon video editors for newbies,top rated free video editors for newbies,ai animation top rated free video editors for newbies,top rated free video editors for wmv files updated 2023
-thumbnail: https://www.lifewire.com/thmb/vmRvggsBE9toSpXM8p1WS8O5Wjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-things-to-consider-before-buying-a-gaming-pc-5221042-8a79710a1e4549edbc357125123fb04e.jpg
+thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327fdc749a381a84624fdbd2f2.jpg
 ---
 
 ## 'S Top Rated Cartoon Video Editors for Newbies

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Blur Parts of a Video Online for Free A Beginners Guide
-date: 2024-05-19T08:27:51.638Z
-updated: 2024-05-20T08:27:51.638Z
+date: 2024-06-16T02:27:15.640Z
+updated: 2024-06-17T02:27:15.640Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, How to Blur Parts of a Video Online for Free A Beginners Guide
 excerpt: This Article Describes New In 2024, How to Blur Parts of a Video Online for Free A Beginners Guide
 keywords: the art of slow motion a beginners guide to vlcs video playback features,from the heart a beginners guide to making a valentines day video for your loved one,ai animation how to blur parts of a video online for free a beginners guide,jaycut for beginners learn how to edit videos online for free,how to blur parts of a video online for free a beginners guide,how to blur video online for free,beginners guide top cartoon video makers online and offline
-thumbnail: https://www.lifewire.com/thmb/eS1YD0LsEQhVuAP3cxZA8t-_eDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Pro_creative-sketch_10302018-5be0773ac9e77c0051d5d51c.jpg
+thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
 ---
 
 ## How to Blur Parts of a Video Online for Free: A Beginner's Guide

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved An Up-to-Date Guide to Social Media Aspect Ratio
-date: 2024-05-19T08:27:43.964Z
-updated: 2024-05-20T08:27:43.964Z
+date: 2024-06-16T02:26:50.105Z
+updated: 2024-06-17T02:26:50.105Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved An Up-to-Date Guide to Social Media Aspect Ratio
 excerpt: This Article Describes New 2024 Approved An Up-to-Date Guide to Social Media Aspect Ratio
 keywords: an up to date guide to social media aspect ratio,up to date guide to social media aspect ratio,ai animation ai animation an up to date guide to social media aspect ratio,ai animation an up to date guide to social media aspect ratio,the complete guide to social media image optimization aspect ratios and more,ai animation up to date guide to social media aspect ratio,social media by design a guide to perfect aspect ratios
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## An Up-to-Date Guide to Social Media Aspect Ratio

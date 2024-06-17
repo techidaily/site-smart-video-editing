@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Make a DVD From Your Videos A Beginners Guide for Windows and Mac
-date: 2024-04-28T15:03:56.785Z
-updated: 2024-04-29T15:03:56.785Z
+date: 2024-06-16T02:27:09.717Z
+updated: 2024-06-17T02:27:09.717Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Make a DVD From Your Videos A Beginners Guide for Windows and Mac
 excerpt: This Article Describes New 2024 Approved Make a DVD From Your Videos A Beginners Guide for Windows and Mac
 keywords: download windows movie maker for free a beginners guide to video editing,make a dvd from your videos a beginners guide for windows and mac,download windows movie maker for free a beginners guide,mp4 video editing made easy a beginners guide for mac and windows,make a dvd from your videos a tutorial for windows and mac users,burning videos to dvd a beginners guide for windows and mac,transform your videos a beginners guide to editing with windows movie maker
-thumbnail: https://www.lifewire.com/thmb/he26hNDyU2vpo9vDwma05qKk-R8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espnplus-6d79c347f2df42d7a38cdb0ba9a2472b.jpg
+thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d750526e3d62954932be609de318.jpg
 ---
 
 ## Make a DVD From Your Videos: A Beginner's Guide for Windows and Mac

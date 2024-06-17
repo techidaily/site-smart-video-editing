@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Ken Burns Effect in Final Cut Pro A Beginners Guide to Professional Results
-date: 2024-04-28T15:03:58.158Z
-updated: 2024-04-29T15:03:58.158Z
+date: 2024-06-16T02:27:05.312Z
+updated: 2024-06-17T02:27:05.312Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Ken Burns Effect in Final Cut Pro A Beginners Guide to Professional Results
 excerpt: This Article Describes Updated In 2024, Ken Burns Effect in Final Cut Pro A Beginners Guide to Professional Results
 keywords: ken burns effect in final cut pro a beginners guide to advanced video editing techniques,ken burns effect in final cut pro a beginners guide to professional results,the ultimate guide to ken burns effect in final cut pro tips tricks and best practices,adding titles in fcpx a beginners guide to professional results,elevate your videos a beginners guide to using ken burns effect in final cut pro,protect your edits a beginners guide to saving in final cut pro,color unification in final cut pro a beginners guide to pro results
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## Ken Burns Effect in Final Cut Pro: A Beginner's Guide to Professional Results

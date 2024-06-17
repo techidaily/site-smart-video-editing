@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Mavericks Video Production From Start to Finish
-date: 2024-04-28T15:03:57.523Z
-updated: 2024-04-29T15:03:57.523Z
+date: 2024-06-16T02:26:53.894Z
+updated: 2024-06-17T02:26:53.894Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Mavericks Video Production From Start to Finish
 excerpt: This Article Describes New 2024 Approved Mavericks Video Production From Start to Finish
 keywords: from start to finish a comprehensive guide to quicktime video editing on mac,from footage to dvd mastering home video production,os x mavericks video editing 101 from beginner to pro,mavericks video production from start to finish,from start to finish how to edit videos with quicktime on mac,from clips to cinemascope mastering mac video production,the art of cinematic video production a final cut pro x tutorial
-thumbnail: https://www.lifewire.com/thmb/0FZf3k28kLauMvGO0aGhDI7aaYY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sb10069770n-003-56a104403df78cafdaa7dd48-ba41d70c51114343aaa38409d9cdfc3f.jpg
+thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad25662873342662329d5363509351a52f0.jpg
 ---
 
 ## Mavericks Video Production: From Start to Finish

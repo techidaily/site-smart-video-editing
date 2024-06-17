@@ -1,7 +1,7 @@
 ---
 title: VirtualDub The Ultimate Tool for MPEG2 Video Shrinking for 2024
-date: 2024-05-19T08:27:29.006Z
-updated: 2024-05-20T08:27:29.006Z
+date: 2024-06-16T02:26:50.735Z
+updated: 2024-06-17T02:26:50.735Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes VirtualDub The Ultimate Tool for MPEG2 Video Shrinking for 2024
 excerpt: This Article Describes VirtualDub The Ultimate Tool for MPEG2 Video Shrinking for 2024
 keywords: virtualdub mpeg2 the secret to smaller faster video files,get virtualdub mpeg2 the ultimate video compression solution,shrink mpeg2 files get virtualdub for video compression,virtualdub mpeg2 the ultimate video compression solution,virtualdub the go to tool for shrinking mpeg2 file sizes,virtualdub the ultimate tool for mpeg2 video shrinking,the ultimate mp4 video editing tutorial for mac and windows users
-thumbnail: https://www.lifewire.com/thmb/7wF4Y8OF7ONJDet9sjTpYolWJ8M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-475157855-5b24021b04d1cf00369d7e11-5c66f1c04cedfd00010a2553.jpg
+thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f64d610e7943b29ad8777b2c6.jpg
 ---
 
 ## VirtualDub: The Ultimate Tool for MPEG2 Video Shrinking

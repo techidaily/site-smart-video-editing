@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro X The Art of Freeze Frames and Slow Motion Storytelling
-date: 2024-05-19T08:28:43.485Z
-updated: 2024-05-20T08:28:43.485Z
+date: 2024-06-16T02:26:54.382Z
+updated: 2024-06-17T02:26:54.382Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Final Cut Pro X The Art of Freeze Frames and Slow Motion Storytelling
 excerpt: This Article Describes Updated 2024 Approved Final Cut Pro X The Art of Freeze Frames and Slow Motion Storytelling
 keywords: freeze frames slow motion final cut pro x,final cut pro x the art of freeze frames and slow motion storytelling,the art of storytelling 10 famous movies shaped by final cut pros creative freedom,this article shows you how to do freeze frames and slow motion in final cut pro x,ai animation final cut pro x freeze frames and slow motion,the art of time control fcpx freeze frames and slow motion,final cut pro x freeze frames and slow motion
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## Final Cut Pro X: The Art of Freeze Frames and Slow Motion Storytelling
