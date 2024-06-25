@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Blur Parts of a Video Online for Free A Beginners Guide
-date: 2024-06-16T02:27:15.640Z
-updated: 2024-06-17T02:27:15.640Z
+date: 2024-06-24T03:55:51.524Z
+updated: 2024-06-25T03:55:51.524Z
 tags: 
   - video editing software
   - video editing
@@ -261,7 +261,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -275,13 +275,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -538,7 +538,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -552,13 +552,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -815,7 +815,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -829,13 +829,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1092,7 +1092,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1106,13 +1106,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1340,7 +1340,7 @@ This is a hidden feature that not many people know about, but iTunes actually wo
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ● FREE software, pre-installed on Mac computers● Quality settings to ensure good sound quality● AIFF-specific converter | ● No bulk-conversions available● Inefficient AIFF conversion● It will need to be downloaded and installed manually for Windows |
 
-![iTunes ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
+![iTunes](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
 
 ****10\. Convertio**
 
@@ -1350,7 +1350,7 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ● Supports all the general audio files● Various ways to upload● High-quality conversions | ● FREEmium online converter● 100MB upload limit for the FREE version● Slow conversion |
 
-![Convertio ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
+![Convertio](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
 
 ## Key Takeaways from This Episode
 
@@ -1548,7 +1548,7 @@ This is a hidden feature that not many people know about, but iTunes actually wo
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ● FREE software, pre-installed on Mac computers● Quality settings to ensure good sound quality● AIFF-specific converter | ● No bulk-conversions available● Inefficient AIFF conversion● It will need to be downloaded and installed manually for Windows |
 
-![iTunes ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
+![iTunes](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
 
 ****10\. Convertio**
 
@@ -1558,7 +1558,7 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ● Supports all the general audio files● Various ways to upload● High-quality conversions | ● FREEmium online converter● 100MB upload limit for the FREE version● Slow conversion |
 
-![Convertio ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
+![Convertio](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
 
 ## Key Takeaways from This Episode
 
@@ -1756,7 +1756,7 @@ This is a hidden feature that not many people know about, but iTunes actually wo
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ● FREE software, pre-installed on Mac computers● Quality settings to ensure good sound quality● AIFF-specific converter | ● No bulk-conversions available● Inefficient AIFF conversion● It will need to be downloaded and installed manually for Windows |
 
-![iTunes ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
+![iTunes](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
 
 ****10\. Convertio**
 
@@ -1766,7 +1766,7 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ● Supports all the general audio files● Various ways to upload● High-quality conversions | ● FREEmium online converter● 100MB upload limit for the FREE version● Slow conversion |
 
-![Convertio ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
+![Convertio](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
 
 ## Key Takeaways from This Episode
 
@@ -1964,7 +1964,7 @@ This is a hidden feature that not many people know about, but iTunes actually wo
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ● FREE software, pre-installed on Mac computers● Quality settings to ensure good sound quality● AIFF-specific converter | ● No bulk-conversions available● Inefficient AIFF conversion● It will need to be downloaded and installed manually for Windows |
 
-![iTunes ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
+![iTunes](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
 
 ****10\. Convertio**
 
@@ -1974,7 +1974,7 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ● Supports all the general audio files● Various ways to upload● High-quality conversions | ● FREEmium online converter● 100MB upload limit for the FREE version● Slow conversion |
 
-![Convertio ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
+![Convertio](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
 
 ## Key Takeaways from This Episode
 
@@ -2149,9 +2149,7 @@ To tackle this problem, we came up with different plugins for Motion Blur and it
 
 #### Wondershare Filmora
 
-Do motion blur effect easily with Filmora!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](#) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Do motion blur effect easily with Filmora![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](#) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
@@ -2308,9 +2306,7 @@ To tackle this problem, we came up with different plugins for Motion Blur and it
 
 #### Wondershare Filmora
 
-Do motion blur effect easily with Filmora!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](#) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Do motion blur effect easily with Filmora![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](#) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
@@ -2467,9 +2463,7 @@ To tackle this problem, we came up with different plugins for Motion Blur and it
 
 #### Wondershare Filmora
 
-Do motion blur effect easily with Filmora!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](#) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Do motion blur effect easily with Filmora![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](#) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
@@ -2626,9 +2620,7 @@ To tackle this problem, we came up with different plugins for Motion Blur and it
 
 #### Wondershare Filmora
 
-Do motion blur effect easily with Filmora!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](#) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Do motion blur effect easily with Filmora![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](#) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 

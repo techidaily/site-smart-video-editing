@@ -1,7 +1,7 @@
 ---
 title: Updated Best Free Subtitle Generators Add Captions to Your Videos Online for 2024
-date: 2024-05-19T08:28:08.927Z
-updated: 2024-05-20T08:28:08.927Z
+date: 2024-06-24T03:55:58.111Z
+updated: 2024-06-25T03:55:58.111Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Best Free Subtitle Generators Add Captions to Your Videos Online for 2024
 excerpt: This Article Describes Updated Best Free Subtitle Generators Add Captions to Your Videos Online for 2024
 keywords: free online subtitle generators top 10 options for video creators,caption your videos for free top 10 online subtitle makers,best free subtitle generators add captions to your videos online,subtitle your videos for free 10 best online captioning tools,best free subtitle generators to add captions to your videos,10 free online tools to create subtitles for your videos 2023 update,best free subtitle editors to caption your videos online
-thumbnail: https://www.lifewire.com/thmb/KgjSvzxLL1eXMJCNvZxcbrcPyWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36dfc8648cae868f4622fb576a.jpg
 ---
 
 ## Best Free Subtitle Generators: Add Captions to Your Videos Online

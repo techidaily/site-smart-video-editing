@@ -1,7 +1,7 @@
 ---
 title: Updated Make Your Videos Pop on Social Media The Best Way to Resize Vertical Content for 2024
-date: 2024-04-28T15:03:54.004Z
-updated: 2024-04-29T15:03:54.004Z
+date: 2024-06-24T03:55:53.589Z
+updated: 2024-06-25T03:55:53.589Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Make Your Videos Pop on Social Media The Best Way to Resize Vertical Content for 2024
 excerpt: This Article Describes Updated Make Your Videos Pop on Social Media The Best Way to Resize Vertical Content for 2024
 keywords: get more engagement the simplest way to resize vertical videos for social media,resize like a pro the 1 tip for vertical social media videos,make your videos pop on social media the best way to resize vertical content,master vertical video top secret to resize for social media,make your videos pop the top resize technique for social media,transform your videos in minutes the best way to resize for social media,the power of vertical how to resize your videos for maximum impact on social media
-thumbnail: https://www.lifewire.com/thmb/paxenpSCdfx6iq9NSGAW8vCuNEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nightbooks-93aa15da6f37406fa34e8c155b1067b3.jpg
+thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
 ---
 
 ## Make Your Videos Pop on Social Media: The Best Way to Resize Vertical Content
@@ -755,7 +755,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -769,13 +769,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1032,7 +1032,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1046,13 +1046,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1309,7 +1309,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1323,13 +1323,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1586,7 +1586,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1600,13 +1600,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1651,7 +1651,7 @@ We have featured a meticulously picked list of animation maker software applicat
 
 ## Part 1: Best Animation Software for Beginners
 
-#### 1. [Maya](https://www.autodesk.com/products/maya/overview)
+#### 1. Maya
 
 **Price:** Free for 30 days. $205/monthly. $1620/1 year. $4375/3 years
 
@@ -1667,7 +1667,7 @@ Maya is one among the leading 3D animation, simulation, modeling and rendering s
 
 ![Maya](https://images.wondershare.com/filmora/article-images/maya.JPG)
 
-#### 2. [Photoshop](https://www.adobe.com/products/photoshop.html)
+#### 2. Photoshop
 
 **Price:** $20.99/month.
 
@@ -1685,7 +1685,7 @@ You can utilize the onion skinning process for incredible animation experience u
 
 ![Photoshop](https://images.wondershare.com/filmora/article-images/adobe-photoshop-gif.jpg)
 
-#### 3. [Adobe Animate](https://www.adobe.com/products/animate.html)
+#### 3. Adobe Animate
 
 **Price:** $20.99/month.
 
@@ -1701,7 +1701,7 @@ Adobe Animate is a brilliant tool to make animations with interactive vectors th
 
 ![Animate](https://images.wondershare.com/filmora/article-images/Adobe-Animate.JPG)
 
-#### 4. [Moho](https://my.smithmicro.com/anime-studio-pro.html)
+#### 4. Moho
 
 **Price:** Free for 30 days. $399.99/lifetime
 
@@ -1719,7 +1719,7 @@ Moho is a complete animation tool dedicated to digital artists and professionals
 
 ## Part 2: Best Animation Software for Pros
 
-#### 1. [Autodesk motion builder](https://www.autodesk.com/products/motionbuilder/overview)
+#### 1. Autodesk motion builder
 
 **Price:** Free for 30 days. $1855/1 year. $5010/3 years
 
@@ -1735,7 +1735,7 @@ Autodesk motion builder is one of the coolest animation creators that allow 3D c
 
 ![motion builder](https://images.wondershare.com/filmora/article-images/autodesk-motion-builder.JPG)
 
-#### 2. [Blender](https://www.blender.org/)
+#### 2. Blender
 
 **Price:** Free
 
@@ -1751,7 +1751,7 @@ Blender is an open source 3D animation creator available free of cost. Talk abou
 
 ![Blender](https://images.wondershare.com/filmora/article-images/blender-3d.jpg)
 
-#### 3. [Vyond](https://www.vyond.com/)
+#### 3. Vyond
 
 **Price:** $299/1 year. $649/1 year. $999/1 year
 
@@ -1767,7 +1767,7 @@ Vyond is a flexible animation creator that customizes the animated characters wi
 
 ![GoAnimate](https://images.wondershare.com/filmora/article-images/goanimate.jpg)
 
-#### 4. [After Effects](https://www.adobe.com/products/aftereffects.html)
+#### 4. After Effects
 
 **Price:** $20.99/month
 
@@ -1812,7 +1812,7 @@ We have featured a meticulously picked list of animation maker software applicat
 
 ## Part 1: Best Animation Software for Beginners
 
-#### 1. [Maya](https://www.autodesk.com/products/maya/overview)
+#### 1. Maya
 
 **Price:** Free for 30 days. $205/monthly. $1620/1 year. $4375/3 years
 
@@ -1828,7 +1828,7 @@ Maya is one among the leading 3D animation, simulation, modeling and rendering s
 
 ![Maya](https://images.wondershare.com/filmora/article-images/maya.JPG)
 
-#### 2. [Photoshop](https://www.adobe.com/products/photoshop.html)
+#### 2. Photoshop
 
 **Price:** $20.99/month.
 
@@ -1846,7 +1846,7 @@ You can utilize the onion skinning process for incredible animation experience u
 
 ![Photoshop](https://images.wondershare.com/filmora/article-images/adobe-photoshop-gif.jpg)
 
-#### 3. [Adobe Animate](https://www.adobe.com/products/animate.html)
+#### 3. Adobe Animate
 
 **Price:** $20.99/month.
 
@@ -1862,7 +1862,7 @@ Adobe Animate is a brilliant tool to make animations with interactive vectors th
 
 ![Animate](https://images.wondershare.com/filmora/article-images/Adobe-Animate.JPG)
 
-#### 4. [Moho](https://my.smithmicro.com/anime-studio-pro.html)
+#### 4. Moho
 
 **Price:** Free for 30 days. $399.99/lifetime
 
@@ -1880,7 +1880,7 @@ Moho is a complete animation tool dedicated to digital artists and professionals
 
 ## Part 2: Best Animation Software for Pros
 
-#### 1. [Autodesk motion builder](https://www.autodesk.com/products/motionbuilder/overview)
+#### 1. Autodesk motion builder
 
 **Price:** Free for 30 days. $1855/1 year. $5010/3 years
 
@@ -1896,7 +1896,7 @@ Autodesk motion builder is one of the coolest animation creators that allow 3D c
 
 ![motion builder](https://images.wondershare.com/filmora/article-images/autodesk-motion-builder.JPG)
 
-#### 2. [Blender](https://www.blender.org/)
+#### 2. Blender
 
 **Price:** Free
 
@@ -1912,7 +1912,7 @@ Blender is an open source 3D animation creator available free of cost. Talk abou
 
 ![Blender](https://images.wondershare.com/filmora/article-images/blender-3d.jpg)
 
-#### 3. [Vyond](https://www.vyond.com/)
+#### 3. Vyond
 
 **Price:** $299/1 year. $649/1 year. $999/1 year
 
@@ -1928,7 +1928,7 @@ Vyond is a flexible animation creator that customizes the animated characters wi
 
 ![GoAnimate](https://images.wondershare.com/filmora/article-images/goanimate.jpg)
 
-#### 4. [After Effects](https://www.adobe.com/products/aftereffects.html)
+#### 4. After Effects
 
 **Price:** $20.99/month
 
@@ -1973,7 +1973,7 @@ We have featured a meticulously picked list of animation maker software applicat
 
 ## Part 1: Best Animation Software for Beginners
 
-#### 1. [Maya](https://www.autodesk.com/products/maya/overview)
+#### 1. Maya
 
 **Price:** Free for 30 days. $205/monthly. $1620/1 year. $4375/3 years
 
@@ -1989,7 +1989,7 @@ Maya is one among the leading 3D animation, simulation, modeling and rendering s
 
 ![Maya](https://images.wondershare.com/filmora/article-images/maya.JPG)
 
-#### 2. [Photoshop](https://www.adobe.com/products/photoshop.html)
+#### 2. Photoshop
 
 **Price:** $20.99/month.
 
@@ -2007,7 +2007,7 @@ You can utilize the onion skinning process for incredible animation experience u
 
 ![Photoshop](https://images.wondershare.com/filmora/article-images/adobe-photoshop-gif.jpg)
 
-#### 3. [Adobe Animate](https://www.adobe.com/products/animate.html)
+#### 3. Adobe Animate
 
 **Price:** $20.99/month.
 
@@ -2023,7 +2023,7 @@ Adobe Animate is a brilliant tool to make animations with interactive vectors th
 
 ![Animate](https://images.wondershare.com/filmora/article-images/Adobe-Animate.JPG)
 
-#### 4. [Moho](https://my.smithmicro.com/anime-studio-pro.html)
+#### 4. Moho
 
 **Price:** Free for 30 days. $399.99/lifetime
 
@@ -2041,7 +2041,7 @@ Moho is a complete animation tool dedicated to digital artists and professionals
 
 ## Part 2: Best Animation Software for Pros
 
-#### 1. [Autodesk motion builder](https://www.autodesk.com/products/motionbuilder/overview)
+#### 1. Autodesk motion builder
 
 **Price:** Free for 30 days. $1855/1 year. $5010/3 years
 
@@ -2057,7 +2057,7 @@ Autodesk motion builder is one of the coolest animation creators that allow 3D c
 
 ![motion builder](https://images.wondershare.com/filmora/article-images/autodesk-motion-builder.JPG)
 
-#### 2. [Blender](https://www.blender.org/)
+#### 2. Blender
 
 **Price:** Free
 
@@ -2073,7 +2073,7 @@ Blender is an open source 3D animation creator available free of cost. Talk abou
 
 ![Blender](https://images.wondershare.com/filmora/article-images/blender-3d.jpg)
 
-#### 3. [Vyond](https://www.vyond.com/)
+#### 3. Vyond
 
 **Price:** $299/1 year. $649/1 year. $999/1 year
 
@@ -2089,7 +2089,7 @@ Vyond is a flexible animation creator that customizes the animated characters wi
 
 ![GoAnimate](https://images.wondershare.com/filmora/article-images/goanimate.jpg)
 
-#### 4. [After Effects](https://www.adobe.com/products/aftereffects.html)
+#### 4. After Effects
 
 **Price:** $20.99/month
 
@@ -2134,7 +2134,7 @@ We have featured a meticulously picked list of animation maker software applicat
 
 ## Part 1: Best Animation Software for Beginners
 
-#### 1. [Maya](https://www.autodesk.com/products/maya/overview)
+#### 1. Maya
 
 **Price:** Free for 30 days. $205/monthly. $1620/1 year. $4375/3 years
 
@@ -2150,7 +2150,7 @@ Maya is one among the leading 3D animation, simulation, modeling and rendering s
 
 ![Maya](https://images.wondershare.com/filmora/article-images/maya.JPG)
 
-#### 2. [Photoshop](https://www.adobe.com/products/photoshop.html)
+#### 2. Photoshop
 
 **Price:** $20.99/month.
 
@@ -2168,7 +2168,7 @@ You can utilize the onion skinning process for incredible animation experience u
 
 ![Photoshop](https://images.wondershare.com/filmora/article-images/adobe-photoshop-gif.jpg)
 
-#### 3. [Adobe Animate](https://www.adobe.com/products/animate.html)
+#### 3. Adobe Animate
 
 **Price:** $20.99/month.
 
@@ -2184,7 +2184,7 @@ Adobe Animate is a brilliant tool to make animations with interactive vectors th
 
 ![Animate](https://images.wondershare.com/filmora/article-images/Adobe-Animate.JPG)
 
-#### 4. [Moho](https://my.smithmicro.com/anime-studio-pro.html)
+#### 4. Moho
 
 **Price:** Free for 30 days. $399.99/lifetime
 
@@ -2202,7 +2202,7 @@ Moho is a complete animation tool dedicated to digital artists and professionals
 
 ## Part 2: Best Animation Software for Pros
 
-#### 1. [Autodesk motion builder](https://www.autodesk.com/products/motionbuilder/overview)
+#### 1. Autodesk motion builder
 
 **Price:** Free for 30 days. $1855/1 year. $5010/3 years
 
@@ -2218,7 +2218,7 @@ Autodesk motion builder is one of the coolest animation creators that allow 3D c
 
 ![motion builder](https://images.wondershare.com/filmora/article-images/autodesk-motion-builder.JPG)
 
-#### 2. [Blender](https://www.blender.org/)
+#### 2. Blender
 
 **Price:** Free
 
@@ -2234,7 +2234,7 @@ Blender is an open source 3D animation creator available free of cost. Talk abou
 
 ![Blender](https://images.wondershare.com/filmora/article-images/blender-3d.jpg)
 
-#### 3. [Vyond](https://www.vyond.com/)
+#### 3. Vyond
 
 **Price:** $299/1 year. $649/1 year. $999/1 year
 
@@ -2250,7 +2250,7 @@ Vyond is a flexible animation creator that customizes the animated characters wi
 
 ![GoAnimate](https://images.wondershare.com/filmora/article-images/goanimate.jpg)
 
-#### 4. [After Effects](https://www.adobe.com/products/aftereffects.html)
+#### 4. After Effects
 
 **Price:** $20.99/month
 
