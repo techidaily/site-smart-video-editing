@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Video Editing Mastery on Mac OS X Mavericks Edition
-date: 2024-05-19T08:27:25.710Z
-updated: 2024-05-20T08:27:25.710Z
+date: 2024-07-09T15:22:03.200Z
+updated: 2024-07-10T15:22:03.200Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Video Editing Mastery on Mac OS X Mavericks Edition
 excerpt: This Article Describes 2024 Approved Video Editing Mastery on Mac OS X Mavericks Edition
 keywords: edit mp4 on mac mavericks a comprehensive video editing guide,mastering video editing on mac a guide to os x mavericks,edit like a pro video editing on mac os x mavericks,edit like a pro video editing in os x mavericks made easy,video editing mastery on mac os x mavericks edition,video editing on mac os x mavericks a beginners guide,ai animation mastering video editing on mac a guide to os x mavericks
-thumbnail: https://www.lifewire.com/thmb/g1kkp8ne6jm5E7rMiTd4CMgu2Fw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642981042-5a903651a18d9e0037d31742.jpg
+thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4e9a9bd97f972e7408a7d734.jpg
 ---
 
 ## Video Editing Mastery on Mac: OS X Mavericks Edition
@@ -471,7 +471,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -485,13 +485,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -748,7 +748,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -762,13 +762,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1025,7 +1025,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1039,13 +1039,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1302,7 +1302,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1316,13 +1316,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 

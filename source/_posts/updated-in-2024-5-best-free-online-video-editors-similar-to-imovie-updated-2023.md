@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, 5 Best Free Online Video Editors Similar to iMovie (Updated 2023)
-date: 2024-05-19T08:27:39.808Z
-updated: 2024-05-20T08:27:39.808Z
+date: 2024-07-09T15:21:57.791Z
+updated: 2024-07-10T15:21:57.791Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, 5 Best Free Online Video Editors Similar to iMovie (Updated 2023)
 excerpt: This Article Describes Updated In 2024, 5 Best Free Online Video Editors Similar to iMovie (Updated 2023)
 keywords: 5 free online video editors similar to imovie updated 2023,5 best free online video editors similar to imovie updated 2023,imovie free alternatives top 5 online video editors,5 fantastic free online video editors like imovie updated 2023,the best mac video editors similar to windows movie maker 2024 update,ai animation best free online video editors for movies,free online video editors that rival imovie 2023 edition
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## 5 Best Free Online Video Editors Similar to iMovie (Updated 2023)
@@ -707,7 +707,7 @@ Follow @Shanoon Cox
 * [Format Factory](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Movica](http://sourceforge.net/projects/movica/)
+## #1\. Movica
 
  This is a video joining freeware that also acts as a GUI of other tools like flvtool and MpgTx which handle the video editing work of the software. The software enables you to split files such as those with WMV, RM, MPG and FLV formats and then join them back together. It provides lots of keyboard shortcuts.
 
@@ -724,7 +724,7 @@ Follow @Shanoon Cox
 * Some status messages can be hard to understand;
 * May come with the requirement for your system to have Windows Media Player.
 
-## [#2\. MediaJoin](https://download.cnet.com/MediaJoin/3000-2141%5F4-55939.html)
+## #2\. MediaJoin
 
  This free joining software supports such formats as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Joining the files is as easy as selecting them in a sequence and selecting the type of media as well as output format. All you then need to do is to specify compression codecs or video profiles depending on your needs.
 
@@ -755,7 +755,7 @@ Follow @Shanoon Cox
 
 * The design is not very appealing.
 
-## [#4\. Video Toolbox](http://www.videotoolbox.com/)
+## #4\. Video Toolbox
 
  Video Toolbox has amazing video tools and is an online freeware. To use the tools in manipulation of your video files, you will need to register. You can use a URL to link files or just upload from the hard disk. Then you can easily join your videos together.
 
@@ -769,7 +769,7 @@ Follow @Shanoon Cox
 
 * Restricts your file sizes to just 300MB.
 
-## [#5\. Format Factory](http://www.pcfreetime.com/)
+## #5\. Format Factory
 
  If you want to split your files, it gets easy as you simply need to select the file, set the clipping range and timers and you are ready to go. In the merging of files, you have numerous options if you need to change both the size as well as format of output.
 
@@ -810,7 +810,7 @@ Follow @Ollie Mattison
 * [Format Factory](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Movica](http://sourceforge.net/projects/movica/)
+## #1\. Movica
 
  This is a video joining freeware that also acts as a GUI of other tools like flvtool and MpgTx which handle the video editing work of the software. The software enables you to split files such as those with WMV, RM, MPG and FLV formats and then join them back together. It provides lots of keyboard shortcuts.
 
@@ -827,7 +827,7 @@ Follow @Ollie Mattison
 * Some status messages can be hard to understand;
 * May come with the requirement for your system to have Windows Media Player.
 
-## [#2\. MediaJoin](https://download.cnet.com/MediaJoin/3000-2141%5F4-55939.html)
+## #2\. MediaJoin
 
  This free joining software supports such formats as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Joining the files is as easy as selecting them in a sequence and selecting the type of media as well as output format. All you then need to do is to specify compression codecs or video profiles depending on your needs.
 
@@ -858,7 +858,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-## [#4\. Video Toolbox](http://www.videotoolbox.com/)
+## #4\. Video Toolbox
 
  Video Toolbox has amazing video tools and is an online freeware. To use the tools in manipulation of your video files, you will need to register. You can use a URL to link files or just upload from the hard disk. Then you can easily join your videos together.
 
@@ -872,7 +872,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-## [#5\. Format Factory](http://www.pcfreetime.com/)
+## #5\. Format Factory
 
  If you want to split your files, it gets easy as you simply need to select the file, set the clipping range and timers and you are ready to go. In the merging of files, you have numerous options if you need to change both the size as well as format of output.
 
@@ -913,7 +913,7 @@ Follow @Ollie Mattison
 * [Format Factory](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Movica](http://sourceforge.net/projects/movica/)
+## #1\. Movica
 
  This is a video joining freeware that also acts as a GUI of other tools like flvtool and MpgTx which handle the video editing work of the software. The software enables you to split files such as those with WMV, RM, MPG and FLV formats and then join them back together. It provides lots of keyboard shortcuts.
 
@@ -930,7 +930,7 @@ Follow @Ollie Mattison
 * Some status messages can be hard to understand;
 * May come with the requirement for your system to have Windows Media Player.
 
-## [#2\. MediaJoin](https://download.cnet.com/MediaJoin/3000-2141%5F4-55939.html)
+## #2\. MediaJoin
 
  This free joining software supports such formats as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Joining the files is as easy as selecting them in a sequence and selecting the type of media as well as output format. All you then need to do is to specify compression codecs or video profiles depending on your needs.
 
@@ -961,7 +961,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-## [#4\. Video Toolbox](http://www.videotoolbox.com/)
+## #4\. Video Toolbox
 
  Video Toolbox has amazing video tools and is an online freeware. To use the tools in manipulation of your video files, you will need to register. You can use a URL to link files or just upload from the hard disk. Then you can easily join your videos together.
 
@@ -975,7 +975,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-## [#5\. Format Factory](http://www.pcfreetime.com/)
+## #5\. Format Factory
 
  If you want to split your files, it gets easy as you simply need to select the file, set the clipping range and timers and you are ready to go. In the merging of files, you have numerous options if you need to change both the size as well as format of output.
 
@@ -1016,7 +1016,7 @@ Follow @Ollie Mattison
 * [Format Factory](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Movica](http://sourceforge.net/projects/movica/)
+## #1\. Movica
 
  This is a video joining freeware that also acts as a GUI of other tools like flvtool and MpgTx which handle the video editing work of the software. The software enables you to split files such as those with WMV, RM, MPG and FLV formats and then join them back together. It provides lots of keyboard shortcuts.
 
@@ -1033,7 +1033,7 @@ Follow @Ollie Mattison
 * Some status messages can be hard to understand;
 * May come with the requirement for your system to have Windows Media Player.
 
-## [#2\. MediaJoin](https://download.cnet.com/MediaJoin/3000-2141%5F4-55939.html)
+## #2\. MediaJoin
 
  This free joining software supports such formats as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Joining the files is as easy as selecting them in a sequence and selecting the type of media as well as output format. All you then need to do is to specify compression codecs or video profiles depending on your needs.
 
@@ -1064,7 +1064,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-## [#4\. Video Toolbox](http://www.videotoolbox.com/)
+## #4\. Video Toolbox
 
  Video Toolbox has amazing video tools and is an online freeware. To use the tools in manipulation of your video files, you will need to register. You can use a URL to link files or just upload from the hard disk. Then you can easily join your videos together.
 
@@ -1078,7 +1078,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-## [#5\. Format Factory](http://www.pcfreetime.com/)
+## #5\. Format Factory
 
  If you want to split your files, it gets easy as you simply need to select the file, set the clipping range and timers and you are ready to go. In the merging of files, you have numerous options if you need to change both the size as well as format of output.
 
@@ -1148,17 +1148,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1200,17 +1200,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1252,17 +1252,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1304,17 +1304,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1368,11 +1368,11 @@ Now, go ahead to edit and personalize your videos. With comfortable Timeline-bas
 
 **Basic Edit:** Double click a video clip on the Timeline to pop up the editing panel. Here, you can rotate, crop, adjust brightness, contrast, saturation in the video pane, or change volume, pitch, set fade in/fade out effect in the audio pane. Apart from this, you can do cutting, copying, splitting, removing audio, etc. by a right menu click.
 
-![magic video maker ](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
+![magic video maker](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
 
 **Add Elements:**  Adding elements like smooth transitions and colorful visual filters will polish your video instantly. And this magic video editor can do this by simple drag-n-drop. Click "Text", " Effect", "PIP", "Transition", "Intro/Credit", or "Sound" tab above the Timeline, you'll see hundreds of free templates available to touch up your videos. Just pick your favorite one and drag them to the position to apply. When it comes into place, you can even adjust the play duration and set animation to achieve more.
 
-![magic media maker ](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
+![magic media maker](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
 
 **Advanced Edit:** The advanced editing for this Magic movie editor refers to the professional video editing tools like [tilt-shift](https://tools.techidaily.com/wondershare/filmora/download/), [mosaic](https://tools.techidaily.com/wondershare/filmora/download/), jump cut, [face-off](https://tools.techidaily.com/wondershare/filmora/download/), and flash-n-hold that makes your video extraordinary. To do this, just click the "Power Tools" icon above the Timeline, and you'll come to a window that helps you complete all the above effect in a click.
 
@@ -1424,11 +1424,11 @@ Now, go ahead to edit and personalize your videos. With comfortable Timeline-bas
 
 **Basic Edit:** Double click a video clip on the Timeline to pop up the editing panel. Here, you can rotate, crop, adjust brightness, contrast, saturation in the video pane, or change volume, pitch, set fade in/fade out effect in the audio pane. Apart from this, you can do cutting, copying, splitting, removing audio, etc. by a right menu click.
 
-![magic video maker ](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
+![magic video maker](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
 
 **Add Elements:**  Adding elements like smooth transitions and colorful visual filters will polish your video instantly. And this magic video editor can do this by simple drag-n-drop. Click "Text", " Effect", "PIP", "Transition", "Intro/Credit", or "Sound" tab above the Timeline, you'll see hundreds of free templates available to touch up your videos. Just pick your favorite one and drag them to the position to apply. When it comes into place, you can even adjust the play duration and set animation to achieve more.
 
-![magic media maker ](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
+![magic media maker](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
 
 **Advanced Edit:** The advanced editing for this Magic movie editor refers to the professional video editing tools like [tilt-shift](https://tools.techidaily.com/wondershare/filmora/download/), [mosaic](https://tools.techidaily.com/wondershare/filmora/download/), jump cut, [face-off](https://tools.techidaily.com/wondershare/filmora/download/), and flash-n-hold that makes your video extraordinary. To do this, just click the "Power Tools" icon above the Timeline, and you'll come to a window that helps you complete all the above effect in a click.
 
@@ -1480,11 +1480,11 @@ Now, go ahead to edit and personalize your videos. With comfortable Timeline-bas
 
 **Basic Edit:** Double click a video clip on the Timeline to pop up the editing panel. Here, you can rotate, crop, adjust brightness, contrast, saturation in the video pane, or change volume, pitch, set fade in/fade out effect in the audio pane. Apart from this, you can do cutting, copying, splitting, removing audio, etc. by a right menu click.
 
-![magic video maker ](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
+![magic video maker](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
 
 **Add Elements:**  Adding elements like smooth transitions and colorful visual filters will polish your video instantly. And this magic video editor can do this by simple drag-n-drop. Click "Text", " Effect", "PIP", "Transition", "Intro/Credit", or "Sound" tab above the Timeline, you'll see hundreds of free templates available to touch up your videos. Just pick your favorite one and drag them to the position to apply. When it comes into place, you can even adjust the play duration and set animation to achieve more.
 
-![magic media maker ](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
+![magic media maker](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
 
 **Advanced Edit:** The advanced editing for this Magic movie editor refers to the professional video editing tools like [tilt-shift](https://tools.techidaily.com/wondershare/filmora/download/), [mosaic](https://tools.techidaily.com/wondershare/filmora/download/), jump cut, [face-off](https://tools.techidaily.com/wondershare/filmora/download/), and flash-n-hold that makes your video extraordinary. To do this, just click the "Power Tools" icon above the Timeline, and you'll come to a window that helps you complete all the above effect in a click.
 
@@ -1536,11 +1536,11 @@ Now, go ahead to edit and personalize your videos. With comfortable Timeline-bas
 
 **Basic Edit:** Double click a video clip on the Timeline to pop up the editing panel. Here, you can rotate, crop, adjust brightness, contrast, saturation in the video pane, or change volume, pitch, set fade in/fade out effect in the audio pane. Apart from this, you can do cutting, copying, splitting, removing audio, etc. by a right menu click.
 
-![magic video maker ](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
+![magic video maker](https://images.wondershare.com/filmora/article-images/rotate-filmora-9-win.jpg)
 
 **Add Elements:**  Adding elements like smooth transitions and colorful visual filters will polish your video instantly. And this magic video editor can do this by simple drag-n-drop. Click "Text", " Effect", "PIP", "Transition", "Intro/Credit", or "Sound" tab above the Timeline, you'll see hundreds of free templates available to touch up your videos. Just pick your favorite one and drag them to the position to apply. When it comes into place, you can even adjust the play duration and set animation to achieve more.
 
-![magic media maker ](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
+![magic media maker](https://images.wondershare.com/filmora/article-images/adjust-text-9.jpg)
 
 **Advanced Edit:** The advanced editing for this Magic movie editor refers to the professional video editing tools like [tilt-shift](https://tools.techidaily.com/wondershare/filmora/download/), [mosaic](https://tools.techidaily.com/wondershare/filmora/download/), jump cut, [face-off](https://tools.techidaily.com/wondershare/filmora/download/), and flash-n-hold that makes your video extraordinary. To do this, just click the "Power Tools" icon above the Timeline, and you'll come to a window that helps you complete all the above effect in a click.
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Trimming Videos Online? Heres How to Do It with Kapwing
-date: 2024-04-28T15:03:57.396Z
-updated: 2024-04-29T15:03:57.396Z
+date: 2024-07-09T15:22:08.531Z
+updated: 2024-07-10T15:22:08.531Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Trimming Videos Online? Heres How to Do It with Kapwing
 excerpt: This Article Describes New In 2024, Trimming Videos Online? Heres How to Do It with Kapwing
 keywords: learn how to trim video with kapwing editor online,video editing 101 trimming videos with kapwings online tool,how to trim video with kapwing editor online,edit on the go trimming videos online with kapwings powerful editor,trimming videos online heres how to do it with kapwing,master video trimming with kapwings online editor,video editing basics trimming videos with kapwing online
-thumbnail: https://www.lifewire.com/thmb/YoFEWWlqY0abEBrjSUdesHbTeyU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dts-play-fi-lifestyle-aaa-5a4c211daad52b00366a3575.jpg
+thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc8061abd47262715b07e4d29cd.jpg
 ---
 
 ## Trimming Videos Online? Here's How to Do It with Kapwing

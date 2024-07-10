@@ -1,7 +1,7 @@
 ---
 title: New In 2024, From Start to Finish How to Edit Video Files on Mac OS X Yosemite
-date: 2024-04-28T15:03:56.025Z
-updated: 2024-04-29T15:03:56.025Z
+date: 2024-07-09T15:21:59.837Z
+updated: 2024-07-10T15:21:59.837Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, From Start to Finish How to Edit Video Files on Mac OS X Yosemite
 excerpt: This Article Describes New In 2024, From Start to Finish How to Edit Video Files on Mac OS X Yosemite
 keywords: from import to export video editing on mac os x yosemite explained,unleash your creativity how to edit video files on mac os x yosemite,from start to finish how to edit videos with quicktime on mac,from start to finish how to edit video files on mac os x yosemite,how to edit video files on mac os x yosemite,ai animation how to edit video files on mac os x yosemite,from start to finish a complete guide to editing mp4 videos on mac and windows
-thumbnail: https://www.lifewire.com/thmb/sujrBq1SN6zkmNgqHTSAbFbTvKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/18-Hidden-Snapchat-Features-efa75dca521e4cf6bb321dc960276deb.jpg
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
 ## From Start to Finish: How to Edit Video Files on Mac OS X Yosemite
@@ -34,7 +34,7 @@ Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite �
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
 
-![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
+![import video in Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 ### Step 2. Edit videos, audio and photos
 
@@ -44,7 +44,7 @@ When all the media files have been imported to the software, drag and drop them 
 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
-![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
+![Yosemite Video Editor basic editing](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
  **Edit and enhance audio**
 
@@ -56,7 +56,7 @@ If you want to add an additional audio file as the background music to the video
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
-![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
+![Yosemite Video Editor add transition](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 ### Step 3. Export your video creation
 
@@ -88,7 +88,7 @@ Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite �
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
 
-![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
+![import video in Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 ### Step 2. Edit videos, audio and photos
 
@@ -98,7 +98,7 @@ When all the media files have been imported to the software, drag and drop them 
 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
-![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
+![Yosemite Video Editor basic editing](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
  **Edit and enhance audio**
 
@@ -110,7 +110,7 @@ If you want to add an additional audio file as the background music to the video
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
-![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
+![Yosemite Video Editor add transition](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 ### Step 3. Export your video creation
 
@@ -142,7 +142,7 @@ Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite �
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
 
-![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
+![import video in Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 ### Step 2. Edit videos, audio and photos
 
@@ -152,7 +152,7 @@ When all the media files have been imported to the software, drag and drop them 
 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
-![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
+![Yosemite Video Editor basic editing](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
  **Edit and enhance audio**
 
@@ -164,7 +164,7 @@ If you want to add an additional audio file as the background music to the video
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
-![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
+![Yosemite Video Editor add transition](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 ### Step 3. Export your video creation
 
@@ -196,7 +196,7 @@ Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite �
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
 
-![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
+![import video in Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 ### Step 2. Edit videos, audio and photos
 
@@ -206,7 +206,7 @@ When all the media files have been imported to the software, drag and drop them 
 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
-![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
+![Yosemite Video Editor basic editing](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
  **Edit and enhance audio**
 
@@ -218,7 +218,7 @@ If you want to add an additional audio file as the background music to the video
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
-![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
+![Yosemite Video Editor add transition](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 ### Step 3. Export your video creation
 
@@ -338,7 +338,7 @@ Then, finally, go to the "Finished" tab to find your new MOV file.
 
 For this next section, we're going to introduce a couple of **online MP3 to MP4 converters** as well other general, paid, and **free MP3 to MP4 converters** that you can check out. A link to a video showing how the converter works, as well as brief descriptions for each converter, have also been provided to ensure that you have a good idea of how each one works!
 
-### 01**[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora
 
 The first of the tools on this list is Filmora! Filmora, first and foremost, is an advanced video editor. Some might say that using it as a tool to simply convert **MP3 into MP4** is a little bit of an overkill.
 
@@ -452,7 +452,7 @@ Then, finally, go to the "Finished" tab to find your new MOV file.
 
 For this next section, we're going to introduce a couple of **online MP3 to MP4 converters** as well other general, paid, and **free MP3 to MP4 converters** that you can check out. A link to a video showing how the converter works, as well as brief descriptions for each converter, have also been provided to ensure that you have a good idea of how each one works!
 
-### 01**[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora
 
 The first of the tools on this list is Filmora! Filmora, first and foremost, is an advanced video editor. Some might say that using it as a tool to simply convert **MP3 into MP4** is a little bit of an overkill.
 
@@ -566,7 +566,7 @@ Then, finally, go to the "Finished" tab to find your new MOV file.
 
 For this next section, we're going to introduce a couple of **online MP3 to MP4 converters** as well other general, paid, and **free MP3 to MP4 converters** that you can check out. A link to a video showing how the converter works, as well as brief descriptions for each converter, have also been provided to ensure that you have a good idea of how each one works!
 
-### 01**[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora
 
 The first of the tools on this list is Filmora! Filmora, first and foremost, is an advanced video editor. Some might say that using it as a tool to simply convert **MP3 into MP4** is a little bit of an overkill.
 
@@ -680,7 +680,7 @@ Then, finally, go to the "Finished" tab to find your new MOV file.
 
 For this next section, we're going to introduce a couple of **online MP3 to MP4 converters** as well other general, paid, and **free MP3 to MP4 converters** that you can check out. A link to a video showing how the converter works, as well as brief descriptions for each converter, have also been provided to ensure that you have a good idea of how each one works!
 
-### 01**[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora
 
 The first of the tools on this list is Filmora! Filmora, first and foremost, is an advanced video editor. Some might say that using it as a tool to simply convert **MP3 into MP4** is a little bit of an overkill.
 
@@ -1633,7 +1633,7 @@ Are you looking for a MOD editing tool? Well, in this era of high-tech communica
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-#### 1\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 1\. Avidemux
 
 Avidemux is a popular video editing tool which is around the internet for a few years. It supports a wide range of video formats and provides excellent features and seamless options to offer to the users. The software has three compatible versions for Windows, Mac OS and Linux.
 
@@ -1648,7 +1648,7 @@ Avidemux is a popular video editing tool which is around the internet for a few 
 
 * Outdated interface.
 
-#### 2\. [Free Video Dub](http://www.dvdvideosoft.com/products/dvd/Free-Video-Dub.htm)
+#### 2\. Free Video Dub
 
 Free Video Dub is lightweight and user-friendly video editing tool. It supports a number of video formats including AVI, MOV, FLV, MOD, MKV, MTS/M2TS and more. With it, you can easily edit your video files by simply deleting off the unwanted sections. The best part about this tool is that you don't need to re-encode anything, which keeps the original quality of your video.
 
@@ -1663,7 +1663,7 @@ Free Video Dub is lightweight and user-friendly video editing tool. It supports 
 
 * May be difficult to add visual effects.
 
-#### 3\. [MPEG Streamclip](http://www.squared5.com/)
+#### 3\. MPEG Streamclip
 
 MPEG Streamclip is not only a powerful video conversion tool, but also comes with a lot of features to offer to the users. It supports various video formats VOB, PS, M2P, MOD, VRO, DAT, MOV, DV, AVI, MP4, TS, M2T, MMV and more. It also includes simple nonlinear editing, cropping and scaling functions, which make it a great tool for editing your videos, especially if your project uses video from many different sources that need to fit in the same sequence.
 
@@ -1678,7 +1678,7 @@ MPEG Streamclip is not only a powerful video conversion tool, but also comes wit
 
 * Restricts your file sizes to 600MB.
 
-#### 4\. [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### 4\. Any Video Converter
 
 Any Video Converter is a popular file conversion tool, which easily convert MOD files and beside that it features loads of conversion options from one video file to another. It can also be marked as a video editing tool, which can serve multiple purposes with precision.
 
@@ -1693,7 +1693,7 @@ Any Video Converter is a popular file conversion tool, which easily convert MOD 
 
 * Can't convert audio files.
 
-#### 5\. [VSDC Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 5\. VSDC Video Editor
 
 VSDC Free Video Editor is powerful video editing tool, which is completely free and quite popular. It supports a wide range of video formats including MOD, AVI, MP4, MKV, MPG, WMV, 3GP, FLV. Besides the very basic video editing functions, a bunch of filters can turn even a commonplace video sequence into a classy pro-quality movie, while thousands of video and audio effects conveniently grouped into four categories help you making your video to look and sound more dynamic.
 
@@ -1735,7 +1735,7 @@ Are you looking for a MOD editing tool? Well, in this era of high-tech communica
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-#### 1\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 1\. Avidemux
 
 Avidemux is a popular video editing tool which is around the internet for a few years. It supports a wide range of video formats and provides excellent features and seamless options to offer to the users. The software has three compatible versions for Windows, Mac OS and Linux.
 
@@ -1750,7 +1750,7 @@ Avidemux is a popular video editing tool which is around the internet for a few 
 
 * Outdated interface.
 
-#### 2\. [Free Video Dub](http://www.dvdvideosoft.com/products/dvd/Free-Video-Dub.htm)
+#### 2\. Free Video Dub
 
 Free Video Dub is lightweight and user-friendly video editing tool. It supports a number of video formats including AVI, MOV, FLV, MOD, MKV, MTS/M2TS and more. With it, you can easily edit your video files by simply deleting off the unwanted sections. The best part about this tool is that you don't need to re-encode anything, which keeps the original quality of your video.
 
@@ -1765,7 +1765,7 @@ Free Video Dub is lightweight and user-friendly video editing tool. It supports 
 
 * May be difficult to add visual effects.
 
-#### 3\. [MPEG Streamclip](http://www.squared5.com/)
+#### 3\. MPEG Streamclip
 
 MPEG Streamclip is not only a powerful video conversion tool, but also comes with a lot of features to offer to the users. It supports various video formats VOB, PS, M2P, MOD, VRO, DAT, MOV, DV, AVI, MP4, TS, M2T, MMV and more. It also includes simple nonlinear editing, cropping and scaling functions, which make it a great tool for editing your videos, especially if your project uses video from many different sources that need to fit in the same sequence.
 
@@ -1780,7 +1780,7 @@ MPEG Streamclip is not only a powerful video conversion tool, but also comes wit
 
 * Restricts your file sizes to 600MB.
 
-#### 4\. [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### 4\. Any Video Converter
 
 Any Video Converter is a popular file conversion tool, which easily convert MOD files and beside that it features loads of conversion options from one video file to another. It can also be marked as a video editing tool, which can serve multiple purposes with precision.
 
@@ -1795,7 +1795,7 @@ Any Video Converter is a popular file conversion tool, which easily convert MOD 
 
 * Can't convert audio files.
 
-#### 5\. [VSDC Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 5\. VSDC Video Editor
 
 VSDC Free Video Editor is powerful video editing tool, which is completely free and quite popular. It supports a wide range of video formats including MOD, AVI, MP4, MKV, MPG, WMV, 3GP, FLV. Besides the very basic video editing functions, a bunch of filters can turn even a commonplace video sequence into a classy pro-quality movie, while thousands of video and audio effects conveniently grouped into four categories help you making your video to look and sound more dynamic.
 
@@ -1837,7 +1837,7 @@ Are you looking for a MOD editing tool? Well, in this era of high-tech communica
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-#### 1\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 1\. Avidemux
 
 Avidemux is a popular video editing tool which is around the internet for a few years. It supports a wide range of video formats and provides excellent features and seamless options to offer to the users. The software has three compatible versions for Windows, Mac OS and Linux.
 
@@ -1852,7 +1852,7 @@ Avidemux is a popular video editing tool which is around the internet for a few 
 
 * Outdated interface.
 
-#### 2\. [Free Video Dub](http://www.dvdvideosoft.com/products/dvd/Free-Video-Dub.htm)
+#### 2\. Free Video Dub
 
 Free Video Dub is lightweight and user-friendly video editing tool. It supports a number of video formats including AVI, MOV, FLV, MOD, MKV, MTS/M2TS and more. With it, you can easily edit your video files by simply deleting off the unwanted sections. The best part about this tool is that you don't need to re-encode anything, which keeps the original quality of your video.
 
@@ -1867,7 +1867,7 @@ Free Video Dub is lightweight and user-friendly video editing tool. It supports 
 
 * May be difficult to add visual effects.
 
-#### 3\. [MPEG Streamclip](http://www.squared5.com/)
+#### 3\. MPEG Streamclip
 
 MPEG Streamclip is not only a powerful video conversion tool, but also comes with a lot of features to offer to the users. It supports various video formats VOB, PS, M2P, MOD, VRO, DAT, MOV, DV, AVI, MP4, TS, M2T, MMV and more. It also includes simple nonlinear editing, cropping and scaling functions, which make it a great tool for editing your videos, especially if your project uses video from many different sources that need to fit in the same sequence.
 
@@ -1882,7 +1882,7 @@ MPEG Streamclip is not only a powerful video conversion tool, but also comes wit
 
 * Restricts your file sizes to 600MB.
 
-#### 4\. [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### 4\. Any Video Converter
 
 Any Video Converter is a popular file conversion tool, which easily convert MOD files and beside that it features loads of conversion options from one video file to another. It can also be marked as a video editing tool, which can serve multiple purposes with precision.
 
@@ -1897,7 +1897,7 @@ Any Video Converter is a popular file conversion tool, which easily convert MOD 
 
 * Can't convert audio files.
 
-#### 5\. [VSDC Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 5\. VSDC Video Editor
 
 VSDC Free Video Editor is powerful video editing tool, which is completely free and quite popular. It supports a wide range of video formats including MOD, AVI, MP4, MKV, MPG, WMV, 3GP, FLV. Besides the very basic video editing functions, a bunch of filters can turn even a commonplace video sequence into a classy pro-quality movie, while thousands of video and audio effects conveniently grouped into four categories help you making your video to look and sound more dynamic.
 
@@ -1939,7 +1939,7 @@ Are you looking for a MOD editing tool? Well, in this era of high-tech communica
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-#### 1\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 1\. Avidemux
 
 Avidemux is a popular video editing tool which is around the internet for a few years. It supports a wide range of video formats and provides excellent features and seamless options to offer to the users. The software has three compatible versions for Windows, Mac OS and Linux.
 
@@ -1954,7 +1954,7 @@ Avidemux is a popular video editing tool which is around the internet for a few 
 
 * Outdated interface.
 
-#### 2\. [Free Video Dub](http://www.dvdvideosoft.com/products/dvd/Free-Video-Dub.htm)
+#### 2\. Free Video Dub
 
 Free Video Dub is lightweight and user-friendly video editing tool. It supports a number of video formats including AVI, MOV, FLV, MOD, MKV, MTS/M2TS and more. With it, you can easily edit your video files by simply deleting off the unwanted sections. The best part about this tool is that you don't need to re-encode anything, which keeps the original quality of your video.
 
@@ -1969,7 +1969,7 @@ Free Video Dub is lightweight and user-friendly video editing tool. It supports 
 
 * May be difficult to add visual effects.
 
-#### 3\. [MPEG Streamclip](http://www.squared5.com/)
+#### 3\. MPEG Streamclip
 
 MPEG Streamclip is not only a powerful video conversion tool, but also comes with a lot of features to offer to the users. It supports various video formats VOB, PS, M2P, MOD, VRO, DAT, MOV, DV, AVI, MP4, TS, M2T, MMV and more. It also includes simple nonlinear editing, cropping and scaling functions, which make it a great tool for editing your videos, especially if your project uses video from many different sources that need to fit in the same sequence.
 
@@ -1984,7 +1984,7 @@ MPEG Streamclip is not only a powerful video conversion tool, but also comes wit
 
 * Restricts your file sizes to 600MB.
 
-#### 4\. [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### 4\. Any Video Converter
 
 Any Video Converter is a popular file conversion tool, which easily convert MOD files and beside that it features loads of conversion options from one video file to another. It can also be marked as a video editing tool, which can serve multiple purposes with precision.
 
@@ -1999,7 +1999,7 @@ Any Video Converter is a popular file conversion tool, which easily convert MOD 
 
 * Can't convert audio files.
 
-#### 5\. [VSDC Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 5\. VSDC Video Editor
 
 VSDC Free Video Editor is powerful video editing tool, which is completely free and quite popular. It supports a wide range of video formats including MOD, AVI, MP4, MKV, MPG, WMV, 3GP, FLV. Besides the very basic video editing functions, a bunch of filters can turn even a commonplace video sequence into a classy pro-quality movie, while thousands of video and audio effects conveniently grouped into four categories help you making your video to look and sound more dynamic.
 

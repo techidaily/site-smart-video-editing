@@ -1,0 +1,225 @@
+---
+title: New FCPX Image Cropping Tutorial Tips and Tricks for Professionals for 2024
+date: 2024-07-09T15:49:23.759Z
+updated: 2024-07-10T15:49:23.759Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes New FCPX Image Cropping Tutorial Tips and Tricks for Professionals for 2024
+excerpt: This Article Describes New FCPX Image Cropping Tutorial Tips and Tricks for Professionals for 2024
+keywords: free images for business tips and tricks for commercial use,fcpx image cropping tutorial tips and tricks for professionals,image cropping essentials in fcpx tips and tricks,fcpx tutorial trimming and cropping images like a pro,captioning in final cut pro x tips and tricks for success,unlock professional color in fcp tips and tricks,cropping images in fcpx tips tricks and best practices
+thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
+---
+
+## FCPX Image Cropping Tutorial: Tips and Tricks for Professionals
+
+# Final Cut Pro X: How to Crop an Image
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+Cropping an image means to remove a portion of the image, either to hide something you don't want the audience to see or emphasize different elements within the image. Just as Photoshop allows us to crop still images, Final Cut Pro X allows us to crop moving video clips, as you'll learn in this article.
+
+---
+
+This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## How to Crop an Image in Final Cut Pro X
+
+However, before I show how this is done, I need to explain one really important fact about video: all video uses what's called "fixed resolution." Fixed resolution means that high-definition video is always displayed at one of two sizes:
+
+**You May Also Like:** [How to Crop GIF Images >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+* 1920 x 1080 pixels
+* 1920 x 1080 pixels
+
+Unlike still images which can be thousands of pixels on a side, video clips are locked into one of these two sizes. This means that if you crop a video clip, to remove something you don't like, the remaining pixels are often enlarged to fill the frame. Crop too much and your video clip will look blurry, blocky, and edges will look stair-stepped.
+
+I'll show you two ways to crop a video clip in this article, one that maintains a high image quality but reduces the size of the frame (called "trimming") and the other that fills the frame with the image but reduces image quality (called "cropping"). You get to pick which one works the best for you.
+
+#### TRIMMING
+
+Trimming is the process of removing portions of a video clip without changing the size of the clip. This retains the highest amount of image quality.
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop001.jpg)
+
+For instance, here an image - courtesy of Pond5 (<www.pond5.com>). Let's say that we want to emphasize the barn and not the sky.
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop002.jpg)
+
+The easiest way to do this is to click the icon in the lower left corner of the Viewer and choose "Crop."
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop003.jpg)
+
+This displays the cropping tools in the Viewer.
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop004.jpg)
+
+Click the Trim button to turn on Trim mode. (This article discusses Trim and Crop. I'll cover the Ken Burns effect in a future article.)
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop005.jpg)
+
+Grab one of the blue dots and drag to hide portions of the frame. I generally grab a corner, but any blue dot will do.
+
+NOTE: Press and hold the Option key while dragging to drag opposite edges or corners. Press and hold the Shift key to constrain the trim to the same aspect ratio as the frame.
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop006.jpg)
+
+Drag other corners or edges to further trim the image.
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop007.jpg)
+
+When you have trimmed the image the way you want, click the "Done" button in the top right corner to exit trimming mode.
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop008.jpg)
+
+If no other clip is below the trimmed clip, the background will be black.
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop009.jpg)
+
+But, it actually isn't black, it's transparent. If you put another clip below it, you'll see the lower clip underneath the trimmed image.
+
+Trimming allows us to hide portions of a video clip, without changing the image quality of the clip that remains. However, trimming always creates transparent sections within an image.
+
+#### CROPPING
+
+Cropping allows us to select just a portion of a video clip, without creating any transparent sections, BUT, it degrades image quality.
+
+There are several ways we can choose to crop an image:
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop010.jpg)
+
+* Click the Crop icon, as we illustrated above
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop011.jpg)
+
+* Right-mouse click (or Control-click) inside the Viewer and choose
+* Type Shift+C
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop012.jpg)
+
+\* In the Inspector > Video tab > Crop (this option provides the most precision, but is the least intuitive to use)
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop013.jpg)
+
+If you selected any option except the Inspector, click the Crop button in the Viewer.
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop014.jpg)
+
+Now, drag a blue button in one of the corners. Because cropping, unlike trimming, fills the frame with the portion of the image we select, we can only move corners and the image is always sized to match the aspect ratio of our sequence.
+
+Final Cut displays numbers at the top of the Viewer indicating how much the image has been cropped.
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop015.jpg)
+
+Reposition the frame by grabbing inside the rectangle and dragging.
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop016.jpg)
+
+When you are happy with the results, click the Done button in the top right corner.
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop017.jpg)
+
+Notice that the selected portion of the image now fills the frame. Even though there is a clip below our cropped clip, we don't see it.
+
+And, if you look closely, you'll see that the cropped image is softer (blurrier) than the original and edges are more likely to be stair-stepped.
+
+#### RESET
+
+![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop018.jpg)
+
+To reset a cropped image back to its default settings, open the Inspector and click the small curved arrow to the right of the word "Crop."
+
+#### SUMMARY
+
+Trimming is used to hide portions of an image and superimpose it over another image.
+
+Cropping is used to reframe an image, say from a medium shot to a close-up, but runs the risk of overly softening an image. The general rule is that cropping a little is OK, but don't crop too much.
+
+I use both these techniques frequently in my own editing.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-maximizing-engagement-with-optimal-social-media-aspect-ratios/"><u>New 2024 Approved Maximizing Engagement with Optimal Social Media Aspect Ratios</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-edit-videos-for-free-top-online-tools-and-software/"><u>New 2024 Approved Edit Videos for Free Top Online Tools and Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-vn-video-editor-pc-version-a-quick-overview/"><u>In 2024, VN Video Editor PC Version A Quick Overview</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-8-best-stop-motion-animation-software-for-mac-and-windows/"><u>New 2024 Approved 8 Best Stop Motion Animation Software for Mac and Windows</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unbranded-video-combining-7-best-software-options/"><u>New In 2024, Unbranded Video Combining 7 Best Software Options</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-avs-video-editor-review-pros-cons-and-features/"><u>Updated 2024 Approved AVS Video Editor Review Pros, Cons, and Features</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-solve-avidemux-no-audio-problem-quick-and-easy-fixes/"><u>2024 Approved Solve Avidemux No Audio Problem Quick and Easy Fixes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/vn-video-editor-review-a-powerful-video-editing-tool-for-android-in-2024/"><u>VN Video Editor Review A Powerful Video Editing Tool for Android, In 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unlock-the-power-of-voice-best-free-mac-speech-recognition-software/"><u>New In 2024, Unlock the Power of Voice Best Free Mac Speech Recognition Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-12-amazing-free-animation-programs-for-pc-and-mac/"><u>New 2024 Approved 12 Amazing Free Animation Programs for PC and Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-slow-motion-video-playback-on-vlc-a-beginners-guide/"><u>2024 Approved Slow Motion Video Playback on VLC A Beginners Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-what-you-dont-know-about-mp3-converter-windows-a-revealing-article/"><u>In 2024, What You Dont Know About Mp3 Converter Windows A Revealing Article</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-vertical-video-revolution-one-essential-tip-for-resizing/"><u>In 2024, The Vertical Video Revolution One Essential Tip for Resizing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-top-webm-to-mp3-conversion-software-for-easy-audio-extraction/"><u>In 2024, Top WebM to MP3 Conversion Software for Easy Audio Extraction</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-14-leading-picture-video-makers-with-music-for-2024/"><u>Updated 14 Leading Picture Video Makers with Music for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-explainer-video-tools-a-comprehensive-review/"><u>Updated In 2024, Top Explainer Video Tools A Comprehensive Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-make-your-text-pop-8-top-rated-neon-generators-online/"><u>Updated In 2024, Make Your Text Pop 8 Top-Rated Neon Generators Online</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-no-cost-4k-video-conversion-top-picks/"><u>New In 2024, No-Cost 4K Video Conversion Top Picks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-zero-cost-high-quality-the-best-open-source-video-editors/"><u>2024 Approved Zero-Cost, High-Quality The Best Open-Source Video Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-beginners-guide-to-hd-video-pixel-dimensions/"><u>Updated The Ultimate Beginners Guide to HD Video Pixel Dimensions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-vn-video-editor-pc-version-a-compact-review/"><u>2024 Approved VN Video Editor PC Version A Compact Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-os-x-mavericks-video-editing-tutorial-from-basics-to-advanced-for-2024/"><u>New OS X Mavericks Video Editing Tutorial From Basics to Advanced for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-no-budget-no-problem-16-free-and-easy-to-use-video-editing-tools/"><u>New No Budget, No Problem 16 Free and Easy-to-Use Video Editing Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-top-rated-free-3gp-video-rotators/"><u>In 2024, The Ultimate List Top-Rated Free 3GP Video Rotators</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-looking-beyond-pinnacle-studio-best-mac-video-editors/"><u>Updated 2024 Approved Looking Beyond Pinnacle Studio Best Mac Video Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-unlock-cross-platform-video-editing-a-chromebook-guide/"><u>2024 Approved Unlock Cross-Platform Video Editing A Chromebook Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-learn-how-to-edit-videos-in-windows-live-movie-maker-with-ease-and-learn-the-video-and-audio-formats-windows-live-movie-maker-supports/"><u>Updated In 2024, Learn How to Edit Videos in Windows Live Movie Maker with Ease and Learn the Video and Audio Formats Windows Live Movie Maker Supports</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-download-windows-movie-maker-now-a-simple-and-easy-guide/"><u>New In 2024, Download Windows Movie Maker Now A Simple and Easy Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-guide-to-3d-video-editing-on-windows-tips-and-tricks/"><u>In 2024, The Ultimate Guide to 3D Video Editing on Windows Tips and Tricks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-edit-like-a-pro-a-comprehensive-tutorial-on-mp4-video-editing-for-mac-and-windows-users/"><u>New 2024 Approved Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-the-ultimate-list-15-best-adobe-premiere-pro-plugins-to-download/"><u>2024 Approved The Ultimate List 15 Best Adobe Premiere Pro Plugins to Download</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-young-filmmakers-unleashed-a-kids-guide-to-movie-creation/"><u>Updated In 2024, Young Filmmakers Unleashed A Kids Guide to Movie Creation</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-elite-10-tools-to-amplify-your-tiktok-videos-online/"><u>[New] 2024 Approved  Elite 10 Tools to Amplify Your TikTok Videos Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-action-plan-from-ttml-and-xml-to-srt-translation/"><u>2024 Approved  The Ultimate Action Plan  From TTML & XML to SRT Translation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-multimedia-balancing-audio-visuals-and-content-quality-live/"><u>In 2024, Mastering Multimedia  Balancing Audio, Visuals, and Content Quality Live</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-step-by-step-guide-incorporating-music-in-your-tiktok-videos/"><u>2024 Approved  Step-by-Step Guide  Incorporating Music in Your TikTok Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-precision-in-practice-detailed-manual-on-windows-pc-live-tv-capture/"><u>[New] Precision in Practice  Detailed Manual on Windows PC Live TV Capture</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-explore-androids-leading-music-video-watching-tools/"><u>[New] In 2024, Explore Android's Leading Music Video Watching Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-blueprint-making-inspiring-lifestyle-broadcasts-for-2024/"><u>[New] Blueprint  Making Inspiring Lifestyle Broadcasts for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-have-you-seen-the-facebook-cartoon-app-everyones-using-recently-for-2024/"><u>Updated Have You Seen the Facebook Cartoon App Everyones Using Recently for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/dive-into-fun-snapchats-world-of-cartoon-lenses/"><u>Dive Into Fun  Snapchat's World of Cartoon Lenses</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-essential-fix-re-emerge-missing-watch-icon-2023/"><u>[New] 2024 Approved  Essential Fix  Re-Emerge Missing Watch Icon, 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/highpoint-masterpiece-suite/"><u>Highpoint Masterpiece Suite</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-10-best-free-online-subtitle-creators-for-2024/"><u>New The Ultimate List 10 Best Free Online Subtitle Creators for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-list-of-10-best-zero-cost-srt-conversion-software/"><u>[New] Ultimate List of 10 Best Zero-Cost Srt Conversion Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-strategies-for-effective-scheduling-of-digital-meetups/"><u>[Updated] In 2024, Strategies for Effective Scheduling of Digital Meetups</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-compreomed-approach-for-making-tiktok-songs-your-ringtone-for-2024/"><u>A Compreomed Approach for Making TikTok Songs Your Ringtone for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-against-roblox-needs-to-close-windows-errors/"><u>Winning Against Roblox Needs to Close Windows Errors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-top-10-4k-video-converter-tools-free-and-paid-for-2024/"><u>New The Ultimate List Top 10 4K Video Converter Tools (Free & Paid) for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-new-dimensions-a-beginners-guide-to-video-resizing/"><u>Unlock New Dimensions A Beginners Guide to Video Resizing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-iphone-screen-recording-with-minimal-fuss/"><u>[New] Mastering iPhone Screen Recording with Minimal Fuss</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/easily-trim-avi-files-top-16-video-cutter-tools-for-all-platforms/"><u>Easily Trim AVI Files Top 16 Video Cutter Tools for All Platforms</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-premium-mark-extraction-tiktok-identity-eraser-guide/"><u>[Updated] In 2024, Premium Mark Extraction  TikTok Identity Eraser Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-reverse-video-tutorials/"><u>[New] Mastering Instagram  Reverse Video Tutorials</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mp3ify-your-favorite-videos-top-free-converters-online/"><u>In 2024, MP3ify Your Favorite Videos  Top Free Converters Online</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-defy-2-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Defy 2 – What Can I Do? | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
