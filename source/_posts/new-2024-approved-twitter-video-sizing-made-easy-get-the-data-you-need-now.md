@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Twitter Video Sizing Made Easy Get the Data You Need Now
-date: 2024-04-28T15:03:57.264Z
-updated: 2024-04-29T15:03:57.264Z
+date: 2024-07-01T17:57:33.311Z
+updated: 2024-07-02T17:57:33.311Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Twitter Video Sizing Made Easy Get the Data You Need Now
 excerpt: This Article Describes New 2024 Approved Twitter Video Sizing Made Easy Get the Data You Need Now
 keywords: chromebook video editing made easy top 10 free apps to get started,twitter video sizing made easy get the data you need now,android video editing made easy 10 free apps with no watermark,mac video editing made easy discover the best software for you,twitter video size guide what you need to know,mobile video editing made easy powerdirector alternatives you need to know,easy video tagging on mac discover the 8 best metadata editors
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## Twitter Video Sizing Made Easy: Get the Data You Need Now
@@ -643,7 +643,7 @@ Even though fixing shaky footage is possible, you shouldn't expect miracles beca
 
 Let's have a look at how you can stabilize your videos with these free online video stabilizers.
 
-#### 1. [EZGIF Online Video Stabilizer](https://ezgif.com/video-stabilizer)
+#### 1. EZGIF Online Video Stabilizer
 
 ![video stabilization online](https://images.wondershare.com/filmora/article-images/ezgif.jpg)
 
@@ -671,7 +671,7 @@ To make things even better, the platform supports all common file formats such a
 
 **Step 3:** Click on the Download Result button after the platform finishes stabilizing your video. You can choose the destination on your hard drive where the video file is going to be stored.
 
-#### 3. [YouTube Video Editor](https://www.youtube.com/)
+#### 3. YouTube Video Editor
 
 The world's largest video sharing platform also offers basic video editing options to its users. In order to access the YouTube's video editor, you must first create an account so you can upload your videos to the platform. You can upload virtually any file format because YouTube supports a wide range of video file formats.
 
@@ -683,7 +683,7 @@ The only downside is that the platform doesn't allow you to download a video you
 
 **Step 3:** In the Enhancements tab, you'll be able to see the Stabilize icon. Click on it to start the video stabilization process, and once the process is complete, you can copy the video's URL and share it on social media or send it to your friends.
 
-#### 4. [Online Converter](https://www.onlineconverter.com/stabilize-video)
+#### 4. Online Converter
 
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/09/online-converter.png)
 
@@ -703,7 +703,7 @@ Here’s how you can use Online Converter to stabilize videos:
 
 **Step 4:** Once the stabilization process is complete, you can click the “Download Now” button to save the video on your PC.
 
-#### 5\. [Online Video Stabilizer by 123 Apps](https://online-video-cutter.com/stabilize-video)
+#### 5\. Online Video Stabilizer by 123 Apps
 
 ![video stabilizer 123 apps](https://images.wondershare.com/filmora/article-images/2022/09/video-stabilizer-123-apps.png)
 
@@ -730,7 +730,7 @@ You can follow these steps to stabilize your shaky video without paying a cent:
 
 **Step 4:**  Click the “Save” button to export your video to your Mac or Windows OS.
 
-#### 6. [MP4Compress](https://www.mp4compress.com/stabilize-shaky-video-footage/)
+#### 6. MP4Compress
 
 ![mp4compress](https://images.wondershare.com/filmora/article-images/2022/09/mp4compress.png)
 
@@ -746,7 +746,7 @@ So, if you have a video in other video formats, you will need to convert it into
 
 **Step 3:**  Once this tool corrects the shaky video, save it on your computer.
 
-#### 7. [Stabilizo](https://www.stabilizo.com/)
+#### 7. Stabilizo
 
 ![stabilizo](https://images.wondershare.com/filmora/article-images/2022/09/stabilizo.png)
 
@@ -762,7 +762,7 @@ This is how the tool works:
 
 **Step 3:** Once it’s completed, click the “Download File” button to save the video on your computer.
 
-#### 8. [VideoUtils](https://www.stabilizo.com/)
+#### 8. VideoUtils
 
 ![videoutils](https://images.wondershare.com/filmora/article-images/2022/09/videoutils.png)
 
@@ -813,7 +813,7 @@ Even though fixing shaky footage is possible, you shouldn't expect miracles beca
 
 Let's have a look at how you can stabilize your videos with these free online video stabilizers.
 
-#### 1. [EZGIF Online Video Stabilizer](https://ezgif.com/video-stabilizer)
+#### 1. EZGIF Online Video Stabilizer
 
 ![video stabilization online](https://images.wondershare.com/filmora/article-images/ezgif.jpg)
 
@@ -841,7 +841,7 @@ To make things even better, the platform supports all common file formats such a
 
 **Step 3:** Click on the Download Result button after the platform finishes stabilizing your video. You can choose the destination on your hard drive where the video file is going to be stored.
 
-#### 3. [YouTube Video Editor](https://www.youtube.com/)
+#### 3. YouTube Video Editor
 
 The world's largest video sharing platform also offers basic video editing options to its users. In order to access the YouTube's video editor, you must first create an account so you can upload your videos to the platform. You can upload virtually any file format because YouTube supports a wide range of video file formats.
 
@@ -853,7 +853,7 @@ The only downside is that the platform doesn't allow you to download a video you
 
 **Step 3:** In the Enhancements tab, you'll be able to see the Stabilize icon. Click on it to start the video stabilization process, and once the process is complete, you can copy the video's URL and share it on social media or send it to your friends.
 
-#### 4. [Online Converter](https://www.onlineconverter.com/stabilize-video)
+#### 4. Online Converter
 
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/09/online-converter.png)
 
@@ -873,7 +873,7 @@ Here’s how you can use Online Converter to stabilize videos:
 
 **Step 4:** Once the stabilization process is complete, you can click the “Download Now” button to save the video on your PC.
 
-#### 5\. [Online Video Stabilizer by 123 Apps](https://online-video-cutter.com/stabilize-video)
+#### 5\. Online Video Stabilizer by 123 Apps
 
 ![video stabilizer 123 apps](https://images.wondershare.com/filmora/article-images/2022/09/video-stabilizer-123-apps.png)
 
@@ -900,7 +900,7 @@ You can follow these steps to stabilize your shaky video without paying a cent:
 
 **Step 4:**  Click the “Save” button to export your video to your Mac or Windows OS.
 
-#### 6. [MP4Compress](https://www.mp4compress.com/stabilize-shaky-video-footage/)
+#### 6. MP4Compress
 
 ![mp4compress](https://images.wondershare.com/filmora/article-images/2022/09/mp4compress.png)
 
@@ -916,7 +916,7 @@ So, if you have a video in other video formats, you will need to convert it into
 
 **Step 3:**  Once this tool corrects the shaky video, save it on your computer.
 
-#### 7. [Stabilizo](https://www.stabilizo.com/)
+#### 7. Stabilizo
 
 ![stabilizo](https://images.wondershare.com/filmora/article-images/2022/09/stabilizo.png)
 
@@ -932,7 +932,7 @@ This is how the tool works:
 
 **Step 3:** Once it’s completed, click the “Download File” button to save the video on your computer.
 
-#### 8. [VideoUtils](https://www.stabilizo.com/)
+#### 8. VideoUtils
 
 ![videoutils](https://images.wondershare.com/filmora/article-images/2022/09/videoutils.png)
 
@@ -983,7 +983,7 @@ Even though fixing shaky footage is possible, you shouldn't expect miracles beca
 
 Let's have a look at how you can stabilize your videos with these free online video stabilizers.
 
-#### 1. [EZGIF Online Video Stabilizer](https://ezgif.com/video-stabilizer)
+#### 1. EZGIF Online Video Stabilizer
 
 ![video stabilization online](https://images.wondershare.com/filmora/article-images/ezgif.jpg)
 
@@ -1011,7 +1011,7 @@ To make things even better, the platform supports all common file formats such a
 
 **Step 3:** Click on the Download Result button after the platform finishes stabilizing your video. You can choose the destination on your hard drive where the video file is going to be stored.
 
-#### 3. [YouTube Video Editor](https://www.youtube.com/)
+#### 3. YouTube Video Editor
 
 The world's largest video sharing platform also offers basic video editing options to its users. In order to access the YouTube's video editor, you must first create an account so you can upload your videos to the platform. You can upload virtually any file format because YouTube supports a wide range of video file formats.
 
@@ -1023,7 +1023,7 @@ The only downside is that the platform doesn't allow you to download a video you
 
 **Step 3:** In the Enhancements tab, you'll be able to see the Stabilize icon. Click on it to start the video stabilization process, and once the process is complete, you can copy the video's URL and share it on social media or send it to your friends.
 
-#### 4. [Online Converter](https://www.onlineconverter.com/stabilize-video)
+#### 4. Online Converter
 
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/09/online-converter.png)
 
@@ -1043,7 +1043,7 @@ Here’s how you can use Online Converter to stabilize videos:
 
 **Step 4:** Once the stabilization process is complete, you can click the “Download Now” button to save the video on your PC.
 
-#### 5\. [Online Video Stabilizer by 123 Apps](https://online-video-cutter.com/stabilize-video)
+#### 5\. Online Video Stabilizer by 123 Apps
 
 ![video stabilizer 123 apps](https://images.wondershare.com/filmora/article-images/2022/09/video-stabilizer-123-apps.png)
 
@@ -1070,7 +1070,7 @@ You can follow these steps to stabilize your shaky video without paying a cent:
 
 **Step 4:**  Click the “Save” button to export your video to your Mac or Windows OS.
 
-#### 6. [MP4Compress](https://www.mp4compress.com/stabilize-shaky-video-footage/)
+#### 6. MP4Compress
 
 ![mp4compress](https://images.wondershare.com/filmora/article-images/2022/09/mp4compress.png)
 
@@ -1086,7 +1086,7 @@ So, if you have a video in other video formats, you will need to convert it into
 
 **Step 3:**  Once this tool corrects the shaky video, save it on your computer.
 
-#### 7. [Stabilizo](https://www.stabilizo.com/)
+#### 7. Stabilizo
 
 ![stabilizo](https://images.wondershare.com/filmora/article-images/2022/09/stabilizo.png)
 
@@ -1102,7 +1102,7 @@ This is how the tool works:
 
 **Step 3:** Once it’s completed, click the “Download File” button to save the video on your computer.
 
-#### 8. [VideoUtils](https://www.stabilizo.com/)
+#### 8. VideoUtils
 
 ![videoutils](https://images.wondershare.com/filmora/article-images/2022/09/videoutils.png)
 
@@ -1153,7 +1153,7 @@ Even though fixing shaky footage is possible, you shouldn't expect miracles beca
 
 Let's have a look at how you can stabilize your videos with these free online video stabilizers.
 
-#### 1. [EZGIF Online Video Stabilizer](https://ezgif.com/video-stabilizer)
+#### 1. EZGIF Online Video Stabilizer
 
 ![video stabilization online](https://images.wondershare.com/filmora/article-images/ezgif.jpg)
 
@@ -1181,7 +1181,7 @@ To make things even better, the platform supports all common file formats such a
 
 **Step 3:** Click on the Download Result button after the platform finishes stabilizing your video. You can choose the destination on your hard drive where the video file is going to be stored.
 
-#### 3. [YouTube Video Editor](https://www.youtube.com/)
+#### 3. YouTube Video Editor
 
 The world's largest video sharing platform also offers basic video editing options to its users. In order to access the YouTube's video editor, you must first create an account so you can upload your videos to the platform. You can upload virtually any file format because YouTube supports a wide range of video file formats.
 
@@ -1193,7 +1193,7 @@ The only downside is that the platform doesn't allow you to download a video you
 
 **Step 3:** In the Enhancements tab, you'll be able to see the Stabilize icon. Click on it to start the video stabilization process, and once the process is complete, you can copy the video's URL and share it on social media or send it to your friends.
 
-#### 4. [Online Converter](https://www.onlineconverter.com/stabilize-video)
+#### 4. Online Converter
 
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/09/online-converter.png)
 
@@ -1213,7 +1213,7 @@ Here’s how you can use Online Converter to stabilize videos:
 
 **Step 4:** Once the stabilization process is complete, you can click the “Download Now” button to save the video on your PC.
 
-#### 5\. [Online Video Stabilizer by 123 Apps](https://online-video-cutter.com/stabilize-video)
+#### 5\. Online Video Stabilizer by 123 Apps
 
 ![video stabilizer 123 apps](https://images.wondershare.com/filmora/article-images/2022/09/video-stabilizer-123-apps.png)
 
@@ -1240,7 +1240,7 @@ You can follow these steps to stabilize your shaky video without paying a cent:
 
 **Step 4:**  Click the “Save” button to export your video to your Mac or Windows OS.
 
-#### 6. [MP4Compress](https://www.mp4compress.com/stabilize-shaky-video-footage/)
+#### 6. MP4Compress
 
 ![mp4compress](https://images.wondershare.com/filmora/article-images/2022/09/mp4compress.png)
 
@@ -1256,7 +1256,7 @@ So, if you have a video in other video formats, you will need to convert it into
 
 **Step 3:**  Once this tool corrects the shaky video, save it on your computer.
 
-#### 7. [Stabilizo](https://www.stabilizo.com/)
+#### 7. Stabilizo
 
 ![stabilizo](https://images.wondershare.com/filmora/article-images/2022/09/stabilizo.png)
 
@@ -1272,7 +1272,7 @@ This is how the tool works:
 
 **Step 3:** Once it’s completed, click the “Download File” button to save the video on your computer.
 
-#### 8. [VideoUtils](https://www.stabilizo.com/)
+#### 8. VideoUtils
 
 ![videoutils](https://images.wondershare.com/filmora/article-images/2022/09/videoutils.png)
 
@@ -1347,7 +1347,7 @@ VirtualDub's key advantages are that it is simple to use, free to use, and has p
 
 ### Easy to use
 
-The VirtualDub(Download ) interface may be confusing to first-time users. However, after users get familiar with the solution's user interface, editing video using it will be simple. Although the solution lacks nonlinear editing features, it allows the user to easily do other video editing tasks. VirtualDub makes it simple to process AVI files, as well as read MPEG1 files and manipulate BMP pictures. The nicest aspect is that all of the features are available via simple menus. Furthermore, keyboard shortcuts make it simple to do all of the essential activities.
+The VirtualDub(Download) interface may be confusing to first-time users. However, after users get familiar with the solution's user interface, editing video using it will be simple. Although the solution lacks nonlinear editing features, it allows the user to easily do other video editing tasks. VirtualDub makes it simple to process AVI files, as well as read MPEG1 files and manipulate BMP pictures. The nicest aspect is that all of the features are available via simple menus. Furthermore, keyboard shortcuts make it simple to do all of the essential activities.
 
 ### Free to use
 
@@ -1361,11 +1361,11 @@ For the VFD drivers contained in AVI2 files, VirtualDub has sophisticated captur
 
 Are you seeking a quick and easy way to capture and edit videos? VirtualDub2 download is your best assistant.
 
-If you want to VirtualDub2 download(VirtualDub mp4 ) For Window, [CLICK HERE](https://filehippo.com/download%5Fvirtualdub/post%5Fdownload/) .
+If you want to VirtualDub2 download(VirtualDub mp4) For Window, [CLICK HERE](https://filehippo.com/download%5Fvirtualdub/post%5Fdownload/) .
 
 ## Conclusions
 
-VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won't have to worry about encountering any issues of any type. You may use VirtualDub mp4 batch processing capabilities to handle huge numbers of files, and you can further enhance these capabilities using third-party video filters. VirtualDub2(VirtualDub mp4 ) is the most effective tool for processing AVI files, however, it can also read MPEG-1 files and handle BMP picture sets as well.
+VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won't have to worry about encountering any issues of any type. You may use VirtualDub mp4 batch processing capabilities to handle huge numbers of files, and you can further enhance these capabilities using third-party video filters. VirtualDub2(VirtualDub mp4) is the most effective tool for processing AVI files, however, it can also read MPEG-1 files and handle BMP picture sets as well.
 
 Best VirtualDub Alternative for VirtualDub windows 10
 
@@ -1410,7 +1410,7 @@ VirtualDub's key advantages are that it is simple to use, free to use, and has p
 
 ### Easy to use
 
-The VirtualDub(Download ) interface may be confusing to first-time users. However, after users get familiar with the solution's user interface, editing video using it will be simple. Although the solution lacks nonlinear editing features, it allows the user to easily do other video editing tasks. VirtualDub makes it simple to process AVI files, as well as read MPEG1 files and manipulate BMP pictures. The nicest aspect is that all of the features are available via simple menus. Furthermore, keyboard shortcuts make it simple to do all of the essential activities.
+The VirtualDub(Download) interface may be confusing to first-time users. However, after users get familiar with the solution's user interface, editing video using it will be simple. Although the solution lacks nonlinear editing features, it allows the user to easily do other video editing tasks. VirtualDub makes it simple to process AVI files, as well as read MPEG1 files and manipulate BMP pictures. The nicest aspect is that all of the features are available via simple menus. Furthermore, keyboard shortcuts make it simple to do all of the essential activities.
 
 ### Free to use
 
@@ -1424,11 +1424,11 @@ For the VFD drivers contained in AVI2 files, VirtualDub has sophisticated captur
 
 Are you seeking a quick and easy way to capture and edit videos? VirtualDub2 download is your best assistant.
 
-If you want to VirtualDub2 download(VirtualDub mp4 ) For Window, [CLICK HERE](https://filehippo.com/download%5Fvirtualdub/post%5Fdownload/) .
+If you want to VirtualDub2 download(VirtualDub mp4) For Window, [CLICK HERE](https://filehippo.com/download%5Fvirtualdub/post%5Fdownload/) .
 
 ## Conclusions
 
-VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won't have to worry about encountering any issues of any type. You may use VirtualDub mp4 batch processing capabilities to handle huge numbers of files, and you can further enhance these capabilities using third-party video filters. VirtualDub2(VirtualDub mp4 ) is the most effective tool for processing AVI files, however, it can also read MPEG-1 files and handle BMP picture sets as well.
+VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won't have to worry about encountering any issues of any type. You may use VirtualDub mp4 batch processing capabilities to handle huge numbers of files, and you can further enhance these capabilities using third-party video filters. VirtualDub2(VirtualDub mp4) is the most effective tool for processing AVI files, however, it can also read MPEG-1 files and handle BMP picture sets as well.
 
 Best VirtualDub Alternative for VirtualDub windows 10
 
@@ -1473,7 +1473,7 @@ VirtualDub's key advantages are that it is simple to use, free to use, and has p
 
 ### Easy to use
 
-The VirtualDub(Download ) interface may be confusing to first-time users. However, after users get familiar with the solution's user interface, editing video using it will be simple. Although the solution lacks nonlinear editing features, it allows the user to easily do other video editing tasks. VirtualDub makes it simple to process AVI files, as well as read MPEG1 files and manipulate BMP pictures. The nicest aspect is that all of the features are available via simple menus. Furthermore, keyboard shortcuts make it simple to do all of the essential activities.
+The VirtualDub(Download) interface may be confusing to first-time users. However, after users get familiar with the solution's user interface, editing video using it will be simple. Although the solution lacks nonlinear editing features, it allows the user to easily do other video editing tasks. VirtualDub makes it simple to process AVI files, as well as read MPEG1 files and manipulate BMP pictures. The nicest aspect is that all of the features are available via simple menus. Furthermore, keyboard shortcuts make it simple to do all of the essential activities.
 
 ### Free to use
 
@@ -1487,11 +1487,11 @@ For the VFD drivers contained in AVI2 files, VirtualDub has sophisticated captur
 
 Are you seeking a quick and easy way to capture and edit videos? VirtualDub2 download is your best assistant.
 
-If you want to VirtualDub2 download(VirtualDub mp4 ) For Window, [CLICK HERE](https://filehippo.com/download%5Fvirtualdub/post%5Fdownload/) .
+If you want to VirtualDub2 download(VirtualDub mp4) For Window, [CLICK HERE](https://filehippo.com/download%5Fvirtualdub/post%5Fdownload/) .
 
 ## Conclusions
 
-VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won't have to worry about encountering any issues of any type. You may use VirtualDub mp4 batch processing capabilities to handle huge numbers of files, and you can further enhance these capabilities using third-party video filters. VirtualDub2(VirtualDub mp4 ) is the most effective tool for processing AVI files, however, it can also read MPEG-1 files and handle BMP picture sets as well.
+VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won't have to worry about encountering any issues of any type. You may use VirtualDub mp4 batch processing capabilities to handle huge numbers of files, and you can further enhance these capabilities using third-party video filters. VirtualDub2(VirtualDub mp4) is the most effective tool for processing AVI files, however, it can also read MPEG-1 files and handle BMP picture sets as well.
 
 Best VirtualDub Alternative for VirtualDub windows 10
 
@@ -1536,7 +1536,7 @@ VirtualDub's key advantages are that it is simple to use, free to use, and has p
 
 ### Easy to use
 
-The VirtualDub(Download ) interface may be confusing to first-time users. However, after users get familiar with the solution's user interface, editing video using it will be simple. Although the solution lacks nonlinear editing features, it allows the user to easily do other video editing tasks. VirtualDub makes it simple to process AVI files, as well as read MPEG1 files and manipulate BMP pictures. The nicest aspect is that all of the features are available via simple menus. Furthermore, keyboard shortcuts make it simple to do all of the essential activities.
+The VirtualDub(Download) interface may be confusing to first-time users. However, after users get familiar with the solution's user interface, editing video using it will be simple. Although the solution lacks nonlinear editing features, it allows the user to easily do other video editing tasks. VirtualDub makes it simple to process AVI files, as well as read MPEG1 files and manipulate BMP pictures. The nicest aspect is that all of the features are available via simple menus. Furthermore, keyboard shortcuts make it simple to do all of the essential activities.
 
 ### Free to use
 
@@ -1550,11 +1550,11 @@ For the VFD drivers contained in AVI2 files, VirtualDub has sophisticated captur
 
 Are you seeking a quick and easy way to capture and edit videos? VirtualDub2 download is your best assistant.
 
-If you want to VirtualDub2 download(VirtualDub mp4 ) For Window, [CLICK HERE](https://filehippo.com/download%5Fvirtualdub/post%5Fdownload/) .
+If you want to VirtualDub2 download(VirtualDub mp4) For Window, [CLICK HERE](https://filehippo.com/download%5Fvirtualdub/post%5Fdownload/) .
 
 ## Conclusions
 
-VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won't have to worry about encountering any issues of any type. You may use VirtualDub mp4 batch processing capabilities to handle huge numbers of files, and you can further enhance these capabilities using third-party video filters. VirtualDub2(VirtualDub mp4 ) is the most effective tool for processing AVI files, however, it can also read MPEG-1 files and handle BMP picture sets as well.
+VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won't have to worry about encountering any issues of any type. You may use VirtualDub mp4 batch processing capabilities to handle huge numbers of files, and you can further enhance these capabilities using third-party video filters. VirtualDub2(VirtualDub mp4) is the most effective tool for processing AVI files, however, it can also read MPEG-1 files and handle BMP picture sets as well.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -1809,7 +1809,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1823,13 +1823,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -2086,7 +2086,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -2100,13 +2100,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -2363,7 +2363,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -2377,13 +2377,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -2640,7 +2640,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -2654,13 +2654,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 

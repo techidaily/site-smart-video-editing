@@ -1,7 +1,7 @@
 ---
 title: New Mastering Jump Cuts in Final Cut Pro X A Step-by-Step Guide
-date: 2024-05-19T08:26:08.986Z
-updated: 2024-05-20T08:26:08.986Z
+date: 2024-07-01T17:57:46.049Z
+updated: 2024-07-02T17:57:46.049Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mastering Jump Cuts in Final Cut Pro X A Step-by-Step Guide
 excerpt: This Article Describes New Mastering Jump Cuts in Final Cut Pro X A Step-by-Step Guide
 keywords: mastering pip in final cut pro a step by step guide,mastering jump cuts in fcpx a step by step guide,mastering compressor a step by step guide for final cut pro x,mastering pip a step by step guide to final cut pro,mastering color in final cut pro a step by step guide,mastering jump cuts in final cut pro x a step by step guide,cropping in final cut pro x a step by step guide
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Mastering Jump Cuts in Final Cut Pro X: A Step-by-Step Guide
@@ -364,7 +364,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -392,13 +392,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -449,7 +449,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -477,13 +477,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -534,7 +534,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -562,13 +562,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -619,7 +619,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -647,13 +647,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -792,7 +792,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -916,7 +916,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -1040,7 +1040,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -1164,7 +1164,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -1370,7 +1370,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -1572,7 +1572,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -1774,7 +1774,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -1976,7 +1976,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 

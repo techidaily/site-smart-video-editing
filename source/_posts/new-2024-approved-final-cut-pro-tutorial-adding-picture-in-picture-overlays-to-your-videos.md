@@ -1,0 +1,126 @@
+---
+title: New 2024 Approved Final Cut Pro Tutorial Adding Picture-in-Picture Overlays to Your Videos
+date: 2024-07-01T18:03:51.947Z
+updated: 2024-07-02T18:03:51.947Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes New 2024 Approved Final Cut Pro Tutorial Adding Picture-in-Picture Overlays to Your Videos
+excerpt: This Article Describes New 2024 Approved Final Cut Pro Tutorial Adding Picture-in-Picture Overlays to Your Videos
+keywords: final cut pro essentials how to add picture in picture effects to your projects,final cut pro tutorial adding picture in picture overlays to your videos,elevate your videos how to use picture in picture in final cut pro,final cut pro tutorial adding picture in picture effects to your videos,take your videos to the next level picture in picture in final cut pro,elevate your video editing skills final cut pro 2024 tutorials,easy video editing how to reverse clips in final cut pro 2023 tutorial
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
+---
+
+## Final Cut Pro Tutorial: Adding Picture-in-Picture Overlays to Your Videos
+
+# How to Create a Picture-in-Picture Effect Using Final Cut Pro
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+Sometimes we need to show two videos together on the same screen to convey certain usage information. If you are searching for a tool to make this task possible then Final Cut Pro is the best choice for you.
+
+This tool can help you to use the picture-in-picture effect with ease. However, the process for adding this effect cannot be completed within one r two steps.
+
+The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
+
+## How to Create PIP Effect with FCP
+
+If you are ready with two videos and now want to bring them to the same screen then prefer to follow these simple steps:
+
+#### Step 1: Add Background video
+
+The very first step that you need to follow for PIP effect generation using FCP is to bring your main or background video to the timeline as a primary storyline. Once you have created the primary storyline then all videos for the PIP effect will be added to it.
+
+![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
+
+#### Step 2: Add PIP videos
+
+It is time to choose the higher video clip so that the PIP effect can be applied. This task can be done either by using on-screen type controls available on the viewer or you can move ahead with transform controls available on the inspector.
+
+Note that lower clips use to stay in the background in final results whereas upper clips will appear in the foreground. By default, both clips use to have 100% full screen with 100% opaque settings.
+
+![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
+
+#### Step 3: Apply PIP effect
+
+As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
+
+![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
+
+#### Step 4: Adjust PIP Effect
+
+* If you want to scale this image in a symmetrical fashion then simply drag the dot to the corner from the central position.
+* Now hold the option key and drag one dot to the corner. It will help you to shrink as well as to enlarge the image even without affecting its actual aspect ratio.
+* Users can keep on scaling this foreground image till the time they achieve essential size.
+* Now click inside your selected image and start dragging it to reach a certain specific position. You can place it anywhere on a big screen.
+
+#### Step 5: Follow precise Adjustment
+
+Simply select the top clip and then hit Command + 4 to open the inspector. Now click on that blue show button over your FCP screen and it will provide you complete information about the transform category of available built-in effects. If you use inspector for this task then it can help you to get very precise results for scaling needs. It assists users to manage images with accurate position and size.
+
+![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
+
+#### Step 6: Apply Cross- Dissolve
+
+* Now choose the leading edge of effect and use Command + T. It will immediately apply the default cross-dissolve option for starting clip.
+* You will be glad to know that the PIP effect does not restrict users to work just upon a single image rather it can be used to process as many pictures as your project needs and that can fit inside the frame.
+
+![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
+
+Check this video tutorial to know more details:
+
+## Picture in Picture Plug-ins for Final Cut Pro
+
+There are so many plug-ins available in the market for Final Cut Pro platform and all of them possess unique qualities along with impressive toolsets. No matter whether you are a beginner with the PIP effect or professional making high-end video projects, FCP plug-ins can make your task much easier with their intuitive controls.
+
+#### 1. Tokyo PiPintor
+
+PiPintor Free is a specially designed picture-in-picture plugin that assists beginners with easy processing of the PIP effect over Final Cut Pro platform. It simply awakes the menu-driven animation power on your tool so that picture in picture effect can be completed without key-framing.
+
+#### 2. ProPIP
+
+Those who need to enjoy a higher level of customizations are advised to work over ProPIP environment. This advanced tool assists users to showcase their abilities with full freedom for personalization.
+
+ProPIP is the best choice for newscasting, commentaries, and many other applications. It helps in generating fine controls for initial as well as end position, rotation, and scaling effects along with easy-to-use media controls over the screen. ProPIP also provides personalized borders with endless opportunities to develop impressive projects on Final Cut Pro platform.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-make-an-impact-top-10-intro-creation-websites-free-and-paid/"><u>New 2024 Approved Make an Impact Top 10 Intro Creation Websites Free & Paid</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-no-copyright-worries-top-public-domain-video-download-sites/"><u>Updated In 2024, No Copyright Worries Top Public Domain Video Download Sites</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-how-to-choose-the-best-youtube-to-mp4-video-downloader/"><u>New 2024 Approved How to Choose the Best YouTube to MP4 Video Downloader</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unlock-seamless-music-conversion-on-your-mac-top-software/"><u>Updated 2024 Approved Unlock Seamless Music Conversion on Your Mac Top Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-elevate-your-video-game-best-1080p-editing-software-for-creators/"><u>New 2024 Approved Elevate Your Video Game Best 1080P Editing Software for Creators</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-video-editing-showdown-sony-vegas-vs-adobe-premiere-pro-the-ultimate-guide-for-2024/"><u>Updated Video Editing Showdown Sony Vegas vs Adobe Premiere Pro - The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-cartoonify-your-footage-the-ultimate-video-to-cartoon-tutorial/"><u>Updated 2024 Approved Cartoonify Your Footage The Ultimate Video-to-Cartoon Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-instagram-groups-with-one-move-for-2024/"><u>Mastering Instagram Groups with One Move for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unmissable-hot-tiktok-gadgets-you-can-find-on-amazon-for-2024/"><u>[Updated] Unmissable Hot TikTok Gadgets You Can Find on Amazon for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-best-youtube-shorts-video-editing-apps-for-ios-and-android/"><u>In 2024, Best YouTube Shorts Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-audiovisual-debut-breakdown/"><u>In 2024, Audiovisual Debut Breakdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-current-windows-pass-error-in-win11win11/"><u>Solving Current Windows Pass Error in Win11/Win11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-motion-tracking-and-how-to-use-it-for-2024/"><u>What Is Motion Tracking and How to Use It for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-12-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 12? How to Fix</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-v29-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo V29 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-featuring-the-use-of-camera-shake-in-creating-the-best-videos/"><u>New Featuring The Use of Camera Shake in Creating the Best Videos</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

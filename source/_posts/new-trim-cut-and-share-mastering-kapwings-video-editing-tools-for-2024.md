@@ -1,7 +1,7 @@
 ---
 title: New Trim, Cut, and Share Mastering Kapwings Video Editing Tools for 2024
-date: 2024-04-28T15:03:53.603Z
-updated: 2024-04-29T15:03:53.603Z
+date: 2024-07-01T17:57:50.165Z
+updated: 2024-07-02T17:57:50.165Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Trim, Cut, and Share Mastering Kapwings Video Editing Tools for 2024
 excerpt: This Article Describes New Trim, Cut, and Share Mastering Kapwings Video Editing Tools for 2024
 keywords: trim cut and share mastering kapwings video editing tools,master video trimming with kapwings online editor,trim cut and edit mastering kapwings online video editor,free video trimming and merging tools for beginners updated 2023,avi video editing made easy top tools for trimming and cutting,free video editing essentials cutting and joining tools for starters,trim cut and edit mastering kapwings video editor
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## Trim, Cut, and Share: Mastering Kapwing's Video Editing Tools
@@ -646,17 +646,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -698,17 +698,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -750,17 +750,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -802,17 +802,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -848,7 +848,7 @@ Want to make a still or "Frozen" scene to tell the most exciting or the funniest
 
 Here, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is directly shared with you. With it, you can create a still image with your desired zoom in and out effect in a simple click. Below shows how to do it step by step.
 
-**_To begin with, get a free trial copy of [Wondershare Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)_**
+**_To begin with, get a free trial copy of [Wondershare Filmora.](https://tools.techidaily.com/wondershare/filmora/download/) _**
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -915,7 +915,7 @@ Want to make a still or "Frozen" scene to tell the most exciting or the funniest
 
 Here, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is directly shared with you. With it, you can create a still image with your desired zoom in and out effect in a simple click. Below shows how to do it step by step.
 
-**_To begin with, get a free trial copy of [Wondershare Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)_**
+**_To begin with, get a free trial copy of [Wondershare Filmora.](https://tools.techidaily.com/wondershare/filmora/download/) _**
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -982,7 +982,7 @@ Want to make a still or "Frozen" scene to tell the most exciting or the funniest
 
 Here, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is directly shared with you. With it, you can create a still image with your desired zoom in and out effect in a simple click. Below shows how to do it step by step.
 
-**_To begin with, get a free trial copy of [Wondershare Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)_**
+**_To begin with, get a free trial copy of [Wondershare Filmora.](https://tools.techidaily.com/wondershare/filmora/download/) _**
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1049,7 +1049,7 @@ Want to make a still or "Frozen" scene to tell the most exciting or the funniest
 
 Here, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is directly shared with you. With it, you can create a still image with your desired zoom in and out effect in a simple click. Below shows how to do it step by step.
 
-**_To begin with, get a free trial copy of [Wondershare Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)_**
+**_To begin with, get a free trial copy of [Wondershare Filmora.](https://tools.techidaily.com/wondershare/filmora/download/) _**
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1226,7 +1226,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -1350,7 +1350,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -1474,7 +1474,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
@@ -1598,7 +1598,7 @@ You may even export your work in 4K quality at up to 60 frames per second once y
 
 In September, iMovie received a major upgrade, which included importing and editing footage taken in Cinematic mode on the iPhone 13 to Macs. You may now add, tweak, and delete focus points, as well as change the depths of field effect in a video shot in Cinematic mode, assuming you have a modern iPhone or iPad.
 
-_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_Check this complete guide about_ [_how to use iMovie to explore more features in iMovie_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ### 5\. Final Cut Pro
 
