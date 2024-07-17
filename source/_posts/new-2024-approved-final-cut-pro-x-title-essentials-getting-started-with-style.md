@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Final Cut Pro X Title Essentials Getting Started with Style
-date: 2024-07-01T18:05:34.484Z
-updated: 2024-07-02T18:05:34.484Z
+date: 2024-07-16T00:42:18.431Z
+updated: 2024-07-17T00:42:18.431Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,9 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -54,6 +57,9 @@ I'd like to introduce "Yertle," he's a sea turtle and the star of this article. 
 
 At its simplest, we use titles to display his (its?) name.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
@@ -68,6 +74,9 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
@@ -80,6 +89,9 @@ Select and delete that full-screen title.
 
 There's one more way to apply a title: dragging from the Titles Browser.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles006.jpg)
 
 Click the Title icon in the Toolbar. This displays the contents of the Title Browser. The column on the left displays title categories, the icons on the right indicate individual titles, the search box at the bottom allows you to search for specific titles by name, while the number in the lower right indicates the number of titles currently displayed. (Your number may not match mine because I've added a few custom titles to my system.)
@@ -104,6 +116,9 @@ So, we:
 
 #### CHANGING TEXT
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles009.jpg)
 
 Add a new full-screen title (type Control+T) to the Timeline. To change the text in a title, double-click it in the Viewer. Here, I've changed my title to "An Undersea Adventure."
@@ -128,6 +143,9 @@ If you want a fast way to format text, click the word "Normal" at the top. This 
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -146,6 +164,9 @@ The Face section allows us to change font color, opacity and blue. Outline and G
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles014.jpg)
 
 After making a few changes in the Inspector, here's the final result. Very cool - and very different from where we started!
@@ -158,6 +179,9 @@ While much of today's video is designed for the web, your titles will look the b
 
 Titles015
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles015.jpg)
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
@@ -190,3 +214,44 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-7-easy-steps-for-a-subscriber-surge-on-youtube/"><u>[New] 2024 Approved  7 Easy Steps for a Subscriber Surge on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cultivate-creativity-10-inspiration-boosting-videos/"><u>[New] 2024 Approved  Cultivate Creativity  10 Inspiration-Boosting Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-viewers-prime-video-ideas-for-channels/"><u>[Updated] 2024 Approved  Elevating Viewers  Prime Video Ideas for Channels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-techniques-for-dell-pc-screen-saving/"><u>2024 Approved  Essential Techniques for Dell PC Screen Saving</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-termination-immersive-reality/"><u>Ideal Termination  Immersive Reality</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-hot-30i-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Hot 30i Through Google Earth?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-photo-to-cartoon-converter-instant-results/"><u>In 2024, Photo to Cartoon Converter Instant Results</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-top-10-free-avi-file-joiners-simple-fast-and-effective/"><u>In 2024, Top 10 Free AVI File Joiners Simple, Fast, and Effective</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-10-fantastic-online-tools-to-change-image-dimensions/"><u>New 2024 Approved 10 Fantastic Online Tools to Change Image Dimensions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-8-best-stop-motion-animation-software-for-mac-and-windows/"><u>New 2024 Approved 8 Best Stop Motion Animation Software for Mac and Windows</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-edit-like-a-pro-top-10-free-mp4-video-editors-you-need/"><u>New 2024 Approved Edit Like a Pro Top 10 Free MP4 Video Editors You Need</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-8-best-free-online-video-stabilizers-guide-provided-for-2024/"><u>New 8 Best Free Online Video Stabilizers Guide Provided for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mac-users-rejoice-top-pinnacle-studio-alternatives-revealed/"><u>New Mac Users, Rejoice! Top Pinnacle Studio Alternatives Revealed</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-master-1080p-video-editing-expert-approved-software-for-2024/"><u>New Master 1080P Video Editing Expert-Approved Software for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-take-your-home-videos-to-the-next-level-pro-editing-strategies-for-2024/"><u>New Take Your Home Videos to the Next Level Pro Editing Strategies for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-list-of-free-3d-animation-apps-for-android-and-iphone/"><u>New The Ultimate List of Free 3D Animation Apps for Android and iPhone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-viewing-experience-amazon-prime-video-aspect-ratio-guide-for-2024/"><u>New The Ultimate Viewing Experience Amazon Prime Video Aspect Ratio Guide for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-realme-narzo-60x-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/premier-tools-for-video-creation-on-android-and-desktop-oses-for-2024/"><u>Premier Tools for Video Creation on Android & Desktop OSes for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/saving-instagram-music-the-ultimate-download-guide-for-2024/"><u>Saving Instagram Music The Ultimate Download Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-insiders-guide-5-things-you-never-knew-about-16x9-ratio-calculators-for-2024/"><u>The Ultimate Insiders Guide 5 Things You Never Knew About 16X9 Ratio Calculators for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oneplus-nord-n30-se-frp-bypass-by-drfone-android/"><u>Ultimate Guide on OnePlus Nord N30 SE FRP Bypass</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-accelerating-conversion-of-whatsapp-audios-to-mp3-format/"><u>Updated 2024 Approved Accelerating Conversion of WhatsApp Audios to MP3 Format</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-convert-video-to-image-a-step-by-step-guide-with-10-best-tools/"><u>Updated 2024 Approved Convert Video to Image A Step-by-Step Guide with 10 Best Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-make-a-lasting-impression-5-leading-photo-slideshow-software/"><u>Updated 2024 Approved Make a Lasting Impression 5 Leading Photo Slideshow Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-replace-imovie-with-these-top-rated-windows-10-video-editors/"><u>Updated 2024 Approved Replace iMovie with These Top-Rated Windows 10 Video Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-s-most-popular-free-video-invitation-maker-websites/"><u>Updated 2024 Approved S Most Popular Free Video Invitation Maker Websites</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-avi-video-editing-made-easy-top-tools-for-trimming-and-cutting-for-2024/"><u>Updated AVI Video Editing Made Easy Top Tools for Trimming and Cutting for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-mp3-to-mp4-the-dos-and-donts-of-audio-video-conversion/"><u>Updated In 2024, MP3 to MP4 The Dos and Donts of Audio-Video Conversion</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-ultimate-stop-motion-animation-guide-software-options-and-tutorials/"><u>Updated In 2024, Ultimate Stop Motion Animation Guide Software Options and Tutorials</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-vertical-vibes-mastering-phone-aspect-ratio-design/"><u>Updated In 2024, Vertical Vibes Mastering Phone Aspect Ratio Design</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-jaycut-for-beginners-learn-how-to-edit-videos-online-for-free-for-2024/"><u>Updated Jaycut for Beginners Learn How to Edit Videos Online for Free for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-organize-your-videos-best-mp4-metadata-taggers-for-pc-and-mac-for-2024/"><u>Updated Organize Your Videos Best MP4 Metadata Taggers for PC and Mac for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-ratio-mastery-how-to-calculate-pixels-like-a-pro-for-2024/"><u>Updated Ratio Mastery How to Calculate Pixels Like a Pro for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-shrink-your-videos-the-best-free-compression-tools-for-windows-10/"><u>Updated Shrink Your Videos The Best Free Compression Tools for Windows 10</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-free-commercial-use-photos-for-2024/"><u>Updated The Ultimate Guide to Free Commercial-Use Photos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-gif-speed-editors-for-every-platform/"><u>Updated Top GIF Speed Editors for Every Platform</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+</ul></div>

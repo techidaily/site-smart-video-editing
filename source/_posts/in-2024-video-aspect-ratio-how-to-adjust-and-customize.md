@@ -1,7 +1,7 @@
 ---
 title: In 2024, Video Aspect Ratio How to Adjust and Customize
-date: 2024-07-01T18:00:57.699Z
-updated: 2024-07-02T18:00:57.699Z
+date: 2024-07-16T00:36:59.723Z
+updated: 2024-07-17T00:36:59.723Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 
 # How to Change Shape of a Video?
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -34,6 +37,9 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Change Video Shape from Rectangle to Square
 
 Depending on the recording device and the target audiences a video is intended to be distributed to, the aspect ratio of the produced footage could be 16:9, 4:3, or 21:9 that makes the film rectangular-shaped. Given that, the aspect ratio can be modified to change the film shape from rectangle to square.
@@ -54,10 +60,16 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -78,12 +90,18 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -150,3 +168,46 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-how-to-tweet-videos-on-iphoneandroid-without-a-retweet/"><u>[New] 2024 Approved  How To Tweet Videos on iPhone/Android Without a Retweet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/urate-a-perfect-playlist-on-youtube-a-step-by-step-guide-for-2024/"><u>[New] Curate a Perfect Playlist on YouTube  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-end-screen-magic-free-templates-to-boost-video-appeal-for-2024/"><u>[New] End-Screen Magic  Free Templates to Boost Video Appeal for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-beyond-basics-advanced-imaging-and-video-with-hero5-black/"><u>[New] In 2024, Beyond Basics  Advanced Imaging & Video with Hero5 Black</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-spotlight-series-the-best-gamers-on-tiktok/"><u>[New] In 2024, Spotlight Series  The Best Gamers on TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inspiring-action-through-impactful-market-research-communication/"><u>[Updated] Inspiring Action Through Impactful Market Research Communication</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-precision-screensaver-for-chromebooks-for-2024/"><u>[Updated] Precision Screensaver for Chromebooks for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-swiftly-adjust-video-speeds-a-users-guide-to-youtube-features-for-2024/"><u>[Updated] Swiftly Adjust Video Speeds  A User's Guide to YouTube Features for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-chinese-vr-headset-marketplace-wonders/"><u>2024 Approved  Chinese VR Headset Marketplace Wonders</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-no-watermark-no-problem-7-video-merger-solutions/"><u>2024 Approved No Watermark, No Problem 7 Video Merger Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/barebones-calm-music-selection-for-2024/"><u>Barebones Calm Music Selection for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/become-a-zen-master-learn-to-quiet-down-distractions-in-gmeet-for-2024/"><u>Become a Zen Master  Learn to Quiet Down Distractions in GMeet for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/gamers-paradise-our-candidate-7-best-fps-titles-for-2024/"><u>Gamer's Paradise  Our Candidate 7 Best FPS Titles for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-15-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 15 Plus With 7 Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-moto-g14-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Motorola Moto G14 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-online-aspect-ratio-calculators-our-top-picks/"><u>In 2024, Online Aspect Ratio Calculators Our Top Picks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mavericks-mp4-video-editor-edit-and-enhance-your-videos-for-2024/"><u>Mavericks MP4 Video Editor Edit and Enhance Your Videos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-get-the-picture-free-commercial-image-solutions/"><u>New 2024 Approved Get the Picture Free Commercial Image Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-get-animated-discover-the-7-best-drawing-software/"><u>New In 2024, Get Animated Discover the 7 Best Drawing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-rotate-videos-in-a-snap-a-step-by-step-guide/"><u>New Rotate Videos in a Snap A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-slow-down-time-using-windows-live-movie-makers-slow-motion-feature/"><u>New Slow Down Time Using Windows Live Movie Makers Slow Motion Feature</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-stop-motion-essentials-a-step-by-step-guide-to-choosing-the-right-tool/"><u>New Stop Motion Essentials A Step-by-Step Guide to Choosing the Right Tool</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-top-10-webm-to-mp4-converters-for-flawless-video-conversion-for-2024/"><u>New The Top 10 WebM to MP4 Converters for Flawless Video Conversion for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-list-top-android-video-editing-apps-for-chromebook/"><u>New The Ultimate List Top Android Video Editing Apps for Chromebook</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unleash-your-creativity-a-step-by-step-sony-camcorder-video-editing-guide-for-2024/"><u>New Unleash Your Creativity A Step-by-Step Sony Camcorder Video Editing Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-webm-video-shrinking-made-simple-top-online-compressors/"><u>New WebM Video Shrinking Made Simple Top Online Compressors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-secret-to-perfectly-sized-social-media-videos-every-time-for-2024/"><u>The Secret to Perfectly Sized Social Media Videos Every Time for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-light-video-editing-software/"><u>Updated 2024 Approved Best Light Video Editing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-camtasia-essentials-adjusting-video-speed-for-better-engagement/"><u>Updated 2024 Approved Camtasia Essentials Adjusting Video Speed for Better Engagement</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-here-is-a-list-of-top-5-free-mov-joiners-to-help-you-easily-achieve-that/"><u>Updated 2024 Approved Here Is a List of Top 5 Free MOV Joiners to Help You Easily Achieve That</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-s-best-free-dvd-player-software-for-windows-10-pcs/"><u>Updated 2024 Approved S Best Free DVD Player Software for Windows 10 PCs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-5-essential-tools-for-making-viral-reaction-videos-for-2024/"><u>Updated 5 Essential Tools for Making Viral Reaction Videos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-from-script-to-screen-mastering-voice-over-recordings-in-fcp-for-2024/"><u>Updated From Script to Screen Mastering Voice Over Recordings in FCP for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-imovie-on-android-not-exactly-but-these-10-alternatives-come-close/"><u>Updated In 2024, IMovie on Android? Not Exactly, But These 10 Alternatives Come Close</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-online-video-blur-without-breaking-the-bank/"><u>Updated In 2024, Online Video Blur without Breaking the Bank</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-lowdown-on-minitool-movie-maker-review-tips-and-alternative-video-editors/"><u>Updated In 2024, The Lowdown on Minitool Movie Maker Review, Tips, and Alternative Video Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-lip-sync-like-a-pro-top-5-apps-for-creating-viral-videos-for-2024/"><u>Updated Lip Sync Like a Pro Top 5 Apps for Creating Viral Videos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-no-cost-video-looping-solutions-for-creators-for-2024/"><u>Updated No-Cost Video Looping Solutions for Creators for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unbranded-video-merging-7-reliable-options-to-try-for-2024/"><u>Updated Unbranded Video Merging 7 Reliable Options to Try for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-whatsapp-status-video-makers-free-paid-and-everything-in-between-for-2024/"><u>Updated WhatsApp Status Video Makers Free, Paid, and Everything in Between for 2024</u></a></li>
+</ul></div>

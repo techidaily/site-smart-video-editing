@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate FCPX Freebie List 10 Plugins You Cant Miss
-date: 2024-07-01T18:05:33.450Z
-updated: 2024-07-02T18:05:33.450Z
+date: 2024-07-16T00:42:17.094Z
+updated: 2024-07-17T00:42:17.094Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f24
 
 # Top 10 Free Plugins You Should Know for Final Cut Pro X
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -36,6 +39,9 @@ In case your plugins not working, you may want to see How to [Fix Plugins Not Wo
 
 As we all know, Final Cut Pro X or Final Cut Pro is an incredible motion graphics or video editing platform by Apple Inc., based upon the usage of extra plugins. And, the best **Final Cut Pro plugins** are available for free, as discussed below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1 Alex 4D
 
 ![top 10 free fcpx plugins alex 4d](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-alex-4d.jpg)
@@ -44,18 +50,35 @@ Let's keep the Alex 4D as one of the top free Final Cut Pro plugins that will of
 
 ### 2 Stupid Raisins
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![top 10 free fcpx plugins stupid raisins](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-stupid-raisins.jpg)
 
 You should once check out Stupid Raisins to experience the top and **free Final Cut** **Pro Plugins**. However, the site also offers some premium plugins worth considering. The Stupid Raisins provides three sample packs, including the Template Pop, Sign Pop, and Panel Pop. The Template Pop offers animated titles, Sign Pop offers animated icons, and Panel Pop offers custom Final Cut Pro X transitions.
 
 ### 3 Color Finale 2.0
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![top 10 free fcpx plugins color finale 2](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-color-finale-2.jpg)
 
 Want to improve color grading? Check out this free Color Finale 2.0 Final Cut Pro X plugin. The plugin offers a whole new preset of color grading tools to make your video look genuinely cinematic. You can make the retro look, add emulations, or use integrated masks to apply color grading at different parts into your video. Click the **Free Trial** tab to enjoy this free plugin.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4 Movie Pop
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![top 10 free fcpx plugins movie pop](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-movie-pop.jpg)
 
 The Movie Pop is there to recreate title sequences of footage in a more efficient manner. Thus, you can easily choose some of your favorite movie clips and add them as title sequences with this plugin's help. However, this free plugin is only significant for adding title sequences and doesn't contain other tools. Well, you can easily create movie titles like Harry Potter, Assassin's Creed, and Star Wars with this **free Final Cut Pro plugin**.
@@ -74,16 +97,28 @@ mLut is also a great tool for color grading essentials. However, this awesome pl
 
 ### 7 Neat Video’s Noise Removal
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![top 10 free fcpx plugins neat video noise removal](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-neat-video-noise-removal.jpg)
 
 Neat Video's Noise Removal plugin will remove those unwanted film grains and image noise from the footage. This free Final Cut Pro plugin effectively removes the color aberrations and noise from the footage.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8 mCamRig
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![top 10 free fcpx plugins mcamrig](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-mcamrig.jpg)
 
 The Automatic Camera Animation plugin, i.e., mCamRig, is another excellent **FCPX** **plugin**. This plugin eliminates the difficult [keyframing](https://tools.techidaily.com/wondershare/filmora/download/) concept that you have to follow to adjust different camera angles and movements. On the other hand, the use of a plugin helps add these movements to an intuitive workflow.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9 Shutterstock
 
 ![top 10 free fcpx plugins shutterstock](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-shutterstock.jpg)
@@ -118,6 +153,9 @@ Here, we have downloaded two transitions contained within one folder.
 
 Now, you need to copy the plugin by right-clicking the entire folder, as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![top 10 free fcpx plugins copy plugin](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-copy-plugin.jpg)
 
 Afterward, find the **Final Cut Pro X** in **Applications** folder from the **Finder** tab. Right-click the Final Cut Pro X and hit the **Show Package Content** option.
@@ -134,6 +172,9 @@ Finally, there is one last step you need to do with the original files of the tr
 
 Hit the first transition from the folder that you have just pasted. And, rename the white file that is the actual transition plugin with extension **.motr**. You are required to do the same thing with other transitions' folders.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![top 10 free fcpx plugins motr](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-motr.jpg)
 
 #### Step 3: Find Your Transitions Plugin in Final Cut Pro X
@@ -166,3 +207,61 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-engaging-audiences-youtube-shorts-vs-tiktok-trends-for-2024/"><u>[New] Engaging Audiences  Youtube Shorts Vs. TikTok Trends for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>[New] In 2024, Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-shatter-the-illusion-true-viewers-of-your-insta-posts-revealed/"><u>[New] In 2024, Shatter the Illusion  True Viewers of Your Insta Posts Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevating-your-workflow-optimizing-googles-podcast-submission-system/"><u>[Updated] 2024 Approved  Elevating Your Workflow  Optimizing Google's Podcast Submission System</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-learn-to-record-high-quality-audio-with-audacity-mac/"><u>[Updated] Learn to Record High-Quality Audio with Audacity, Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrating-zoom-for-professional-tiktok-content/"><u>2024 Approved  Integrating Zoom for Professional TikTok Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-revolutionize-video-closings-exclusive-end-screen-templates/"><u>2024 Approved  Revolutionize Video Closings - Exclusive End Screen Templates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-choices-windows-11-hd-webcam-mini-dvs/"><u>2024 Approved  Top Choices  Windows 11 HD Webcam Mini-DVs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unbeatable-ways-to-archive-lol-encounters/"><u>2024 Approved  Unbeatable Ways to Archive LOL Encounters</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-unlocking-the-door-to-joining-a-tiktok-gathering/"><u>2024 Approved  Unlocking the Door to Joining a TikTok Gathering</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-top-highlight-reel-creators-desktop-and-mobile-apps/"><u>2024 Approved Top Highlight Reel Creators Desktop and Mobile Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-unlock-filmora-13-editor-for-free-no-watermark-no-cost/"><u>2024 Approved Unlock Filmora 13 Editor for Free No Watermark, No Cost</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ion-realized-creating-and-launching-an-engaging-youtube-chanel/"><u>A Vision Realized  Creating and Launching an Engaging YouTube Chanel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-file-browsing-activate-filters-with-checkbox-on-win11/"><u>Accelerate File Browsing: Activate Filters with Checkbox on Win11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-motorola-edge-2023-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Motorola Edge 2023.</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gpt4all-for-pcs-local-free-chatgpt-version/"><u>GPT4All for PCs: Local, Free ChatGPT Version.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-infinix-hot-40-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Infinix Hot 40 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-y55s-5g-2023-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo Y55s 5G (2023) Quickly? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-honor-x9a-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Honor X9a</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-oppo-a2-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo A2</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-12-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone 12 to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-mobile-animation-made-easy-top-8-apps/"><u>In 2024, Mobile Animation Made Easy Top 8 Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-see-the-world-through-different-lenses-3-strategies-for-successful-pov-reactions-on-youtube/"><u>In 2024, See the World Through Different Lenses  3 Strategies for Successful POV Reactions on YouTube</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-top-online-video-flipper-tools/"><u>In 2024, The Top Online Video Flipper Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-fix-for-quick-signature-bg-disposal/"><u>In 2024, Ultimate Fix for Quick Signature BG Disposal</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-add-pro-level-effects-to-your-videos-in-3-easy-steps-with-fcp-x/"><u>New 2024 Approved Add Pro-Level Effects to Your Videos in 3 Easy Steps with FCP X</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-bring-your-canon-videos-to-life-top-editing-software-and-tips/"><u>New 2024 Approved Bring Your Canon Videos to Life Top Editing Software and Tips</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-fcpx-image-editing-101-cropping-rotating-and-more/"><u>New 2024 Approved FCPX Image Editing 101 Cropping, Rotating, and More</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-easy-video-editing-top-free-cutters-and-joiners-for-starters-for-2024/"><u>New Easy Video Editing Top Free Cutters and Joiners for Starters for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-explore-and-download-the-latest-electronic-dance-music-edm/"><u>New Explore & Download the Latest Electronic Dance Music (EDM)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-fcpx-power-user-mastering-freeze-frames-slow-motion-and-beyond-for-2024/"><u>New FCPX Power User Mastering Freeze Frames, Slow Motion, and Beyond for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-music-recording-software-top-picks-and-reviews/"><u>New In 2024, Free Music Recording Software Top Picks and Reviews</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-phone-filmmaking-essentials-optimizing-for-vertical-aspect-ratio/"><u>New In 2024, Phone Filmmaking Essentials Optimizing for Vertical Aspect Ratio</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-guide-to-blurring-faces-in-photos-and-videos-free-resources/"><u>New In 2024, The Ultimate Guide to Blurring Faces in Photos and Videos (Free Resources)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-motion-blur-magic-a-comprehensive-guide-to-final-cut-pro-techniques-for-2024/"><u>New Motion Blur Magic A Comprehensive Guide to Final Cut Pro Techniques for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-rated-photo-to-video-converters-for-amazing-slideshows/"><u>New Top-Rated Photo to Video Converters for Amazing Slideshows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-m14-4g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/techniques-for-reviving-inactive-hp-copiers/"><u>Techniques for Reviving Inactive HP Copiers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-best-way-to-convert-mp3-on-mac-software-reviews-and-ratings-for-2024/"><u>The Best Way to Convert MP3 on Mac Software Reviews and Ratings for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-discover-stop-motion-a-newcomers-guide-to-tools-and-techniques/"><u>Updated 2024 Approved Discover Stop Motion A Newcomers Guide to Tools and Techniques</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-download-filmora-13-video-editing-made-easy/"><u>Updated 2024 Approved Free Download Filmora 13 Video Editing Made Easy</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-motion-to-still-how-to-convert-videos-to-photos-using-10-top-tools/"><u>Updated 2024 Approved From Motion to Still How to Convert Videos to Photos Using 10 Top Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-sketch-to-screen-the-top-animation-drawing-software/"><u>Updated 2024 Approved From Sketch to Screen The Top Animation Drawing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-get-noticed-top-10-online-intro-maker-resources/"><u>Updated 2024 Approved Get Noticed Top 10 Online Intro Maker Resources</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-streamline-your-workflow-best-low-resource-video-editors/"><u>Updated 2024 Approved Streamline Your Workflow Best Low-Resource Video Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-mobile-apps-for-converting-videos-to-audio-files-2023-update/"><u>Updated 2024 Approved Top Mobile Apps for Converting Videos to Audio Files (2023 Update)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-dialogue-tools-to-engage-audio-audiences-for-2024/"><u>Updated Dialogue Tools to Engage Audio Audiences for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-free-and-paid-video-editors-like-windows-movie-maker/"><u>Updated In 2024, Best Free and Paid Video Editors Like Windows Movie Maker</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-here-are-the-top-10-free-and-paid-whiteboard-animation-software-options-available-now-check-it-to-find-which-free-whiteboard-animation-softw/"><u>Updated In 2024, Here Are the Top 10 Free and Paid Whiteboard Animation Software Options Available Now. Check It to Find Which Free Whiteboard Animation Software You Want to Use</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-showdown-after-effects-vs-adobe-premiere-pro/"><u>Updated In 2024, The Ultimate Showdown After Effects vs Adobe Premiere Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-maximize-your-gopro-content-efficient-video-editing-on-macbook-with-quik-for-2024/"><u>Updated Maximize Your GoPro Content Efficient Video Editing on MacBook with Quik for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-complete-chromecast-handbook-streaming-any-video-format-like-a-pro-for-2024/"><u>Updated The Complete Chromecast Handbook Streaming Any Video Format Like a Pro for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-10-meme-creation-apps-for-mobile/"><u>Updated The Ultimate List 10 Meme Creation Apps for Mobile</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Meizu 21 Pro | Dr.fone</u></a></li>
+</ul></div>

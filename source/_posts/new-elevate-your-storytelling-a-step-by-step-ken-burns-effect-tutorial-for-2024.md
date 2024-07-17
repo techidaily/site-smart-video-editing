@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial for 2024
-date: 2024-07-09T15:32:09.334Z
-updated: 2024-07-10T15:32:09.334Z
+date: 2024-07-16T00:47:05.510Z
+updated: 2024-07-17T00:47:05.510Z
 tags: 
   - video editing software
   - video editing
@@ -40,6 +40,9 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
@@ -60,6 +63,9 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
@@ -82,12 +88,18 @@ Youâ€™re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
@@ -112,6 +124,9 @@ After you have optimized the speed of the Ken Burns Effect by trimming the clipâ
 
 Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan and zoom effect, in much easier steps, click to download and have a try!
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -133,6 +148,9 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 **What are the Applications of Ken Burns Effect?**
@@ -159,3 +177,39 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-record-tv-shows-on-windows-with-free-video-recording-software/"><u>[New] How to Record TV Shows on Windows with Free Video Recording Software?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-quick-periscope-streaming-techniques/"><u>[New] Mastering Quick Periscope Streaming Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premier-selection-10-premium-image-replace-kits/"><u>[Updated] In 2024, Premier Selection  10 Premium Image Replace Kits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-tools-that-enhance-your-travel-videos/"><u>[Updated] In 2024, Tools That Enhance Your Travel Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ps5xbox-x-visuals-the-top-5-game-tvs-for-2024/"><u>[Updated] PS5/Xbox X Visuals  The Top 5 Game TVs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ultimate-list-10-costless-video-caption-extractors/"><u>[Updated] Ultimate List  10 Costless Video Caption Extractors</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2023s-premier-free-sound-engineering-tools-the-ultimate-top-10-list/"><u>2023S Premier Free Sound Engineering Tools The Ultimate Top 10 List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-blocks-to-successful-video-editing-on-windows-8-for-2024/"><u>Building Blocks to Successful Video Editing on Windows 8 for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultural-insights-into-french-greetings-for-travelers-and-residents-alike/"><u>Cultural Insights Into French Greetings for Travelers & Residents Alike</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-smart-7-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Infinix Smart 7 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphones-and-gifs-storing-sharing-and-enjoying-animated-images/"><u>In 2024, IPhones and GIFs  Storing, Sharing & Enjoying Animated Images</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unleash-pro-level-video-editing-on-windows-8-and-beyond/"><u>In 2024, Unleash Pro-Level Video Editing on Windows 8 and Beyond</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-how-to-pick-the-best-movie-making-app-for-android/"><u>New 2024 Approved How to Pick the Best Movie Making App for Android</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-mastering-silence-techniques-for-quieting-unwanted-sounds-in-video-editing/"><u>New 2024 Approved Mastering Silence Techniques for Quieting Unwanted Sounds in Video Editing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-smooth-operator-free-android-apps-for-video-stabilization/"><u>New 2024 Approved Smooth Operator Free Android Apps for Video Stabilization</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-ditch-final-cut-pro-x-explore-these-10-powerful-video-editing-alternatives-for-2024/"><u>New Ditch Final Cut Pro X? Explore These 10 Powerful Video Editing Alternatives for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-get-steady-top-rated-video-stabilization-softwa-for-2024/"><u>New Get Steady Top-Rated Video Stabilization Softwa for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mac-video-editing-made-easy-top-software-solutions/"><u>New Mac Video Editing Made Easy Top Software Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-make-your-own-dvds-a-step-by-step-guide-to-movie-creation-for-2024/"><u>New Make Your Own DVDs A Step-by-Step Guide to Movie Creation for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-transform-your-memories-video-editing-secrets-for-beginners/"><u>New Transform Your Memories Video Editing Secrets for Beginners</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-webm-to-mp3-expert-recommended-conversion-solutions-for-2024/"><u>New WebM to MP3 Expert-Recommended Conversion Solutions for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-xiaomi-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Xiaomi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-12-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Xiaomi Redmi 12</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/trim-cut-and-edit-top-10-video-software-for-pc-for-2024/"><u>Trim, Cut, and Edit Top 10 Video Software for PC for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unleash-your-creativity-best-time-lapse-video-apps-for-mobile-for-2024/"><u>Unleash Your Creativity Best Time-Lapse Video Apps for Mobile for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-10-best-free-video-editing-software-for-ubuntu/"><u>Updated 2024 Approved Top 10 Best Free Video Editing Software for Ubuntu</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-become-a-cartoon-star-best-apps-for-transforming-your-photos-on-iphone-and-android-for-2024/"><u>Updated Become a Cartoon Star Best Apps for Transforming Your Photos on iPhone and Android for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-fast-forward-how-to-increase-video-playback-speed-in-quicktime-for-2024/"><u>Updated Fast Forward How to Increase Video Playback Speed in QuickTime for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-sound-of-silence-expert-advice-on-noise-reduction-in-final-cut-pro-x/"><u>Updated In 2024, The Sound of Silence Expert Advice on Noise Reduction in Final Cut Pro X</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-list-best-cartoon-video-maker-software-for-newbies/"><u>Updated In 2024, The Ultimate List Best Cartoon Video Maker Software for Newbies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unlock-facebook-video-success-understanding-aspect-ratios-and-dimensions/"><u>Updated In 2024, Unlock Facebook Video Success Understanding Aspect Ratios and Dimensions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-supercharge-your-edits-top-10-fcpx-plugins-to-save-time-and-boost-creativity/"><u>Updated Supercharge Your Edits Top 10 FCPX Plugins to Save Time and Boost Creativity</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-creativity-10-top-notch-video-editing-apps-for-kids-for-2024/"><u>Updated Unleash Creativity 10 Top-Notch Video Editing Apps for Kids for 2024</u></a></li>
+</ul></div>

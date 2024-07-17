@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved From Green to Glamour Enhancing Your Footage with FCP X Chroma Key
-date: 2024-07-09T15:24:13.282Z
-updated: 2024-07-10T15:24:13.282Z
+date: 2024-07-16T00:44:28.976Z
+updated: 2024-07-17T00:44:28.976Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,9 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Getting Started
 
 First, the best thing you can do to improve the quality of your keys is to improve how you shoot them. Here are seven basic production rules:
@@ -46,6 +49,9 @@ First, the best thing you can do to improve the quality of your keys is to impro
 * Light your background for smoothness. Light your actors for drama.
 * Don't worry about having the green background fill the frame. It only needs to completely surround the edges of your actors. Garbage mattes are used to get rid of junk around the edges.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Setting up the Key
 
 ![fx chroma 01](https://images.wondershare.com/multimedia/fx-chroma-01.jpg)
@@ -74,6 +80,9 @@ Your key should look better immediately. Most of the time, you can probably stop
 * Edge adjustments
 * Light wrap
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fx chroma 06](https://images.wondershare.com/multimedia/fx-chroma-06.jpg)
 
 Click the **Matte** button to display your key as a white foreground on a black background.
@@ -86,6 +95,9 @@ Your goal is the make the foreground solid white, which means opaque, and the ba
 
 If an edge is too pronounced, or needs help, click the **Edges** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fx chroma 09](https://images.wondershare.com/multimedia/fx-chroma-09.jpg)
 
 **Step 2: Tweaks Video**
@@ -117,6 +129,9 @@ When you are done, you have a great looking key!
 
 ## Clean up the Image with a Garbage Mask
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
 
 Sometimes, however, you don't have, ah, perhaps, the best green-screen image to work with. Here, for example, there are lighting instruments in the foreground, with a very inadequately lit green screen in the background. (Sigh… this is just pitiful.)
@@ -135,6 +150,14 @@ Then, drag each of the four circles to create a shape such that your foreground 
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Create a Chroma-Key in easier ways?
 
 Chroma-key, or green screen, is an essential part of every editor to make all kinds of effects. Is there any way to make this sophisticated procedure easier way? Yes, try Filmora.
@@ -145,12 +168,21 @@ By adopting AI portrait, you can add those stunning effects in simple steps: How
 
 Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The chroma-key filter in FCP X allows us to create some amazing effects. If you want to use green screen effects more easily, here is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for you. You can appaly Chroma-Key effects with just a few click. Have fun playing with it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -167,3 +199,64 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-become-a-kinemaster-wizard-essentials-techniques-and-10-top-online-contenders/"><u>[New] Become a KineMaster Wizard  Essentials, Techniques & 10 Top Online Contenders</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-essential-techniques-for-musical-tiktok-creation-for-2024/"><u>[New] Essential Techniques for Musical TikTok Creation for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-time-efficient-ways-to-wipe-out-ssgnature-backdrops/"><u>[New] Time-Efficient Ways to Wipe Out Ssgnature Backdrops</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhancing-visual-impact-editing-videos-for-instagram/"><u>[Updated] 2024 Approved  Enhancing Visual Impact  Editing Videos for Instagram</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-endless-broadcast-flow-mastering-the-art-of-fixing-livestream-pauses/"><u>[Updated] Endless Broadcast Flow  Mastering the Art of Fixing Livestream Pauses</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-social-media-savvy-tips-and-tricks-for-captivating-storytelling/"><u>[Updated] In 2024, Social Media Savvy  Tips and Tricks for Captivating Storytelling</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pixiz-essentials-from-stills-to-moving-images/"><u>[Updated] Pixiz Essentials  From Stills to Moving Images</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-x-sync-studio-platform-personal-computing-for-2024/"><u>[Updated] X-Sync Studio Platform, Personal Computing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-performance-goggles-ranked-drone-flyings-best/"><u>2024 Approved  High-Performance Goggles Ranked  Drone Flying's Best</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-unlock-innovative-tiktok-edits-with-leading-windows-tools/"><u>2024 Approved  Unlock Innovative TikTok Edits with Leading Windows Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-motion-mastery-best-apps-for-android-and-ios-devices/"><u>2024 Approved Motion Mastery Best Apps for Android and iOS Devices</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-ultimate-selection-guide-best-android-movie-makers/"><u>2024 Approved Ultimate Selection Guide Best Android Movie Makers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-unleash-fast-paced-edits-with-motion-blur-in-final-cut-pro-x/"><u>2024 Approved Unleash Fast-Paced Edits with Motion Blur in Final Cut Pro X</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-choices-17-tools-to-remove-picture-margins/"><u>Expert Choices  17 Tools to Remove Picture Margins</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-12-pro-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo Phone without Google Account?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-design-and-produce-your-fb-profile-vids/"><u>In 2024, Design and Produce Your FB Profile Vids</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-optimizing-your-youtube-videos-aspect-ratio-for-maximum-visual-appeal/"><u>In 2024, Optimizing Your YouTube Videos Aspect Ratio for Maximum Visual Appeal</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 6s Plus</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-split-mpeg-videos-for-free-top-rated-software/"><u>In 2024, Split MPEG Videos for Free Top-Rated Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-this-article-shows-the-detail-steps-to-add-titles-in-final-cut-pro-x/"><u>In 2024, This Article Shows the Detail Steps to Add Titles in Final Cut Pro X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-high-speed-video-transitions-with-ease-for-2024/"><u>Navigating High-Speed Video Transitions with Ease for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-10-leading-real-time-voice-transformers-an-in-depth-evaluation-for-consumers/"><u>New 10 Leading Real-Time Voice Transformers An In-Depth Evaluation for Consumers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-best-top-rated-video-animation-software-for-smartphones-and-tablets/"><u>New 2024 Approved Best Top-Rated Video Animation Software for Smartphones and Tablets</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-stunning-slow-mo-videos-with-kapwing-a-step-by-step-guide/"><u>New 2024 Approved Create Stunning Slow-Mo Videos with Kapwing A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-final-cut-pros-greatest-hits-10-notable-films-you-need-to-see/"><u>New 2024 Approved Final Cut Pros Greatest Hits 10 Notable Films You Need to See</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-gif-accelerators-online-ios-and-android-tools/"><u>New 2024 Approved Top GIF Accelerators Online, iOS, and Android Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-vloggers-paradise-14-best-video-editing-software-for-hot-platforms/"><u>New 2024 Approved Vloggers Paradise 14 Best Video Editing Software for Hot Platforms</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-aspect-ratio-changer-10-essential-tools-for-2024/"><u>New Aspect Ratio Changer 10 Essential Tools for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-14-slideshow-video-creators-for-2024/"><u>New Best 14 Slideshow Video Creators for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-calculator-crash-course-mastering-the-16x9-aspect-ratio-for-2024/"><u>New Calculator Crash Course Mastering the 16X9 Aspect Ratio for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-download-filmora-free-safe-and-virus-free-torrent-guide-for-2024/"><u>New Download Filmora Free Safe and Virus-Free Torrent Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-fcp-2023-color-correction-essentials-from-basics-to-advanced/"><u>New In 2024, FCP 2023 Color Correction Essentials From Basics to Advanced</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-zero-to-hero-10-online-waveform-generators-for-beginners-and-pros/"><u>New In 2024, From Zero to Hero 10 Online Waveform Generators for Beginners and Pros</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-best-free-video-editing-software-virtualdub-review-and-top-competitors/"><u>New In 2024, The Best Free Video Editing Software Virtualdub Review and Top Competitors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-guide-to-vlc-slow-motion-video-playback/"><u>New In 2024, The Ultimate Guide to VLC Slow Motion Video Playback</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-windows-live-movie-maker-tutorial-splitting-videos-made-easy/"><u>New In 2024, Windows Live Movie Maker Tutorial Splitting Videos Made Easy</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-complete-guide-to-video-editors-best-options-for-windows-mac-ios-android-and-linux/"><u>New The Complete Guide to Video Editors Best Options for Windows, Mac, iOS, Android, and Linux</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-list-of-mp4-video-tagging-applications/"><u>New The Ultimate List of MP4 Video Tagging Applications</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-young-directors-handbook-teach-kids-to-make-their-own-movies/"><u>New The Young Directors Handbook Teach Kids to Make Their Own Movies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-video-editing-apps-for-mac-users-for-2024/"><u>New Top Video Editing Apps for Mac Users for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-video-editors-with-music-for-2024/"><u>New Top Video Editors with Music for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unhappy-with-final-cut-pro-x-try-one-of-these-10-alternatives-for-2024/"><u>New Unhappy with Final Cut Pro X? Try One of These 10 Alternatives for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unsplash-your-brand-free-commercial-use-image-resources/"><u>New Unsplash Your Brand Free Commercial-Use Image Resources</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-videopad-video-editor-review-the-best-choice-for-your-video-editing-needs/"><u>New Videopad Video Editor Review The Best Choice for Your Video Editing Needs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unlock-cross-platform-video-editing-run-windows-and-mac-apps-on-chromebook-for-2024/"><u>Unlock Cross-Platform Video Editing Run Windows & Mac Apps on Chromebook for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-viewer-insights-understanding-subscriber-feedback/"><u>Unveiling Viewer Insights  Understanding Subscriber Feedback</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-5-free-online-tone-tools-for-easy-use/"><u>Updated 2024 Approved Top 5 Free Online Tone Tools for Easy Use</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-create-stunning-movies-online-for-free-top-9-options-for-2024/"><u>Updated Create Stunning Movies Online for Free Top 9 Options for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-from-import-to-export-working-with-xml-files-in-fcpx-for-2024/"><u>Updated From Import to Export Working with XML Files in FCPX for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-avoiding-common-mistakes-a-guide-to-smooth-mp3-to-mp4-conversion/"><u>Updated In 2024, Avoiding Common Mistakes A Guide to Smooth MP3 to MP4 Conversion</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-choosing-the-right-video-editing-software-program-to-edit-videos-shot-by-sony-digital-camcorder/"><u>Updated In 2024, Choosing the Right Video Editing Software Program to Edit Videos Shot by Sony Digital Camcorder</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-ranking-the-best-top-5-video-editing-apps-for-iphone-users/"><u>Updated In 2024, Ranking the Best Top 5 Video Editing Apps for iPhone Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-cream-of-the-crop-top-video-editing-software/"><u>Updated In 2024, The Cream of the Crop Top Video Editing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-virtualdub-competitors-a-comprehensive-review/"><u>Updated In 2024, Top Virtualdub Competitors A Comprehensive Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unlocking-m4r-conversion-essential-knowledge-for-success/"><u>Updated In 2024, Unlocking M4R Conversion Essential Knowledge for Success</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-top-11-voice-transformation-tools-set-to-shape-communication-for-2024/"><u>Updated The Top 11 Voice Transformation Tools Set to Shape Communication for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-virtualdub-substitutes-explore-these-video-editing-options-for-2024/"><u>Updated VirtualDub Substitutes Explore These Video Editing Options for 2024</u></a></li>
+</ul></div>

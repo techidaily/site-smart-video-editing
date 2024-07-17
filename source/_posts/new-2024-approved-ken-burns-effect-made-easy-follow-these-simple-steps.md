@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Ken Burns Effect Made Easy Follow These Simple Steps
-date: 2024-07-09T15:32:22.754Z
-updated: 2024-07-10T15:32:22.754Z
+date: 2024-07-16T00:47:07.944Z
+updated: 2024-07-17T00:47:07.944Z
 tags: 
   - video editing software
   - video editing
@@ -40,12 +40,18 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 _ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
@@ -82,6 +88,9 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 _ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
 **Step 6: Adjust the Duration of the Freeze Frame**
@@ -100,6 +109,9 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
 
 **Step 8: Play/Preview Looping**
@@ -112,6 +124,9 @@ After you have optimized the speed of the Ken Burns Effect by trimming the clip�
 
 Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan and zoom effect, in much easier steps, click to download and have a try!
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -143,6 +158,9 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -159,3 +177,48 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-top-shots-premium-video-cams-for-slow-motion-magic/"><u>[New] Top Shots  Premium Video Cams for Slow-Motion Magic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-basics-of-animated-infographics-and-signage/"><u>[Updated] Basics of Animated Infographics and Signage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-top-10-camcorders-reviewed/"><u>[Updated] Mastering Video - Top 10 Camcorders Reviewed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-apowersoft-masterclass-top-pc-screen-recorder-analysis/"><u>2024 Approved  Apowersoft Masterclass  Top PC Screen Recorder Analysis</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-protect-identities-the-best-face-blur-video-editing-tools/"><u>2024 Approved Protect Identities The Best Face Blur Video Editing Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-top-rated-online-image-resizing-tools-for-any-ratio/"><u>2024 Approved Top-Rated Online Image Resizing Tools for Any Ratio</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-voice-over-like-a-pro-essential-fcp-recording-tips/"><u>2024 Approved Voice Over Like a Pro Essential FCP Recording Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/30-minute-guide-to-resolving-windows-onedrive-fails/"><u>30 Minute Guide to Resolving Windows OneDrive Fails</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-animators-playground-building-your-own-visual-treats/"><u>In 2024, Animator’s Playground  Building Your Own Visual Treats</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-x-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone X or iPad?</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-fb-messenger-a-fortress-of-privacy/"><u>Is FB Messenger a Fortress of Privacy?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximizing-your-designs-with-free-clip-art/"><u>Maximizing Your Designs with FREE Clip Art</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-10-free-video-editing-apps-for-android-with-no-strings-attached/"><u>New 2024 Approved 10 Free Video Editing Apps for Android with No Strings Attached</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-audio-conversion-made-easy-top-12-software-solutions/"><u>New 2024 Approved Audio Conversion Made Easy Top 12 Software Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-best-free-video-shrinking-software-for-windows-10-this-year/"><u>New 2024 Approved Best Free Video Shrinking Software for Windows 10 This Year</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-final-cut-pro-essentials-how-to-add-picture-in-picture-effects-to-your-projects/"><u>New 2024 Approved Final Cut Pro Essentials How to Add Picture-in-Picture Effects to Your Projects</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-highlight-video-production-made-easy-top-desktop-and-mobile-apps/"><u>New 2024 Approved Highlight Video Production Made Easy Top Desktop and Mobile Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-jaycut-for-beginners-learn-how-to-edit-videos-online-for-free/"><u>New 2024 Approved Jaycut for Beginners Learn How to Edit Videos Online for Free</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-shoot-to-thrill-the-ultimate-guide-to-vertical-smartphone-video/"><u>New 2024 Approved Shoot to Thrill The Ultimate Guide to Vertical Smartphone Video</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-sony-vegas-not-your-cup-of-tea-try-these-windows-alternatives/"><u>New 2024 Approved Sony Vegas Not Your Cup of Tea? Try These Windows Alternatives</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-rated-online-video-editors-for-chromebook-users/"><u>New 2024 Approved Top-Rated Online Video Editors for Chromebook Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cartoon-video-creation-made-easy-top-10-tools-for-beginners/"><u>New In 2024, Cartoon Video Creation Made Easy Top 10 Tools for Beginners</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-designing-effective-lower-thirds-in-final-cut-pro-x/"><u>New In 2024, Designing Effective Lower Thirds in Final Cut Pro X</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-elevate-your-storytelling-how-to-create-engaging-hollywood-style-movies/"><u>New In 2024, Elevate Your Storytelling How to Create Engaging, Hollywood-Style Movies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-experience-the-best-90-day-free-trial-of-final-cut-pro-now/"><u>New In 2024, Experience the Best 90-Day Free Trial of Final Cut Pro Now</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-intro-maker-software-for-pc-top-10-picks-online-and-offline/"><u>New In 2024, Intro Maker Software for PC Top 10 Picks Online & Offline</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unleash-your-creativity-top-10-imovie-alternative-apps-for-android/"><u>New In 2024, Unleash Your Creativity Top 10 iMovie Alternative Apps for Android</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-video-metadata-management-best-mp4-tag-editors-for-pc-and-mac/"><u>New Video Metadata Management Best MP4 Tag Editors for PC and Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-gopro-hero5-black-batteries-with-certified-chargers-for-2024/"><u>Premier GoPro Hero5 Black Batteries with Certified Chargers for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-science-of-captivating-youtube-thumbnails/"><u>The Science of Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-list-of-mp4-tag-editors-for-windows-and-macos-for-2024/"><u>The Ultimate List of MP4 Tag Editors for Windows and macOS for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-redmi-note-13-pro-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi Redmi Note 13 Pro 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-y17s-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Y17s Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-online-subtitle-solutions-top-10-picks/"><u>Updated 2024 Approved Free Online Subtitle Solutions Top 10 Picks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-say-goodbye-to-imovie-top-windows-video-editing-software/"><u>Updated 2024 Approved Say Goodbye to iMovie Top Windows Video Editing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-video-editing-on-your-phone-iphone-and-android-apps/"><u>Updated 2024 Approved The Ultimate Guide to Video Editing on Your Phone IPhone and Android Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-vlc-video-trimmer-for-mac-how-to-cut-clips-without-losing-a-single-pixel/"><u>Updated 2024 Approved VLC Video Trimmer for Mac How to Cut Clips Without Losing a Single Pixel</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-dvd-player-for-windows-10-our-top-10-picks-for-2024/"><u>Updated Free DVD Player for Windows 10 Our Top 10 Picks for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-from-zero-to-hero-9-best-intro-video-creators-for-movies-for-2024/"><u>Updated From Zero to Hero 9 Best Intro Video Creators for Movies for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-5-essential-online-aspect-ratio-calculators-you-need/"><u>Updated In 2024, 5 Essential Online Aspect Ratio Calculators You Need</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-customizing-your-amazon-video-viewing-experience/"><u>Updated In 2024, Customizing Your Amazon Video Viewing Experience</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-reaction-video-mastery-the-top-tools-and-software/"><u>Updated In 2024, Reaction Video Mastery The Top Tools and Software</u></a></li>
+</ul></div>
