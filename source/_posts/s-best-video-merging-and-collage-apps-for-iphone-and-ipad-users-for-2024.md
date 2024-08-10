@@ -1,0 +1,199 @@
+---
+title: S Best Video Merging and Collage Apps for iPhone and iPad Users for 2024
+date: 2024-08-09T08:04:45.855Z
+updated: 2024-08-10T08:04:45.855Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes S Best Video Merging and Collage Apps for iPhone and iPad Users for 2024
+excerpt: This Article Describes S Best Video Merging and Collage Apps for iPhone and iPad Users for 2024
+keywords: merge edit and share top video collage apps for iphone and ipad users,best video collage apps for iphone ipad,combine edit and share best video collage apps for iphone and ipad,best video collage apps for iphone and ipad,s best video merging and collage apps for iphone and ipad users,ai animation best video collage apps for iphone and ipad,create stunning videos best collage apps for iphone and ipad
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
+---
+
+## 'S Best Video Merging and Collage Apps for iPhone and iPad Users
+
+# Best Video Collage Apps for iPhone and iPad
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+We all record more videos with our Smartphones or cameras than we can possibly share on social media, and we often don’t get the chance to show some of our favorite moments to our friends. Video collage apps for iPhones and iPads offer an easy solution to this problem because they enable you to merge multiple video clips into a single video. You don’t even need to have advanced video editing skills in order to create visually stunning video collages, as most of these apps are extremely easy to use. So in this article, we are going to take you through some of the best video collage apps of iOS devices.
+
+## Best Free and Paid Video Collage Apps for iPhone and iPad
+
+Even though selecting a video collage app isn’t a very complicated process, there are still a number of factors you need to consider before you choose to install a video collage app on your iPad or iPhone. Checking the list of features an app offers and making sure that it allows you to adjust each clip you include in a collage separately or to add music to your creations will help you determine if the app you’re interested in is the right choice for you. The selection of video collage presets or the border and background adjustment features should also be considered while choosing a video collage app. Let’s take a look at some of the best video collage apps you can find at the AppStore.
+
+#### 1. [Video Collage and Photo Grid](https://apps.apple.com/us/app/photogrid-video-collage-maker/id543577420)
+
+**Price:** Free, but offers in-app purchases
+
+**Compatibility:** iOS 8 or later
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+![Video Collage Making Apps for iPhone & iPad ](https://images.wondershare.com/filmora/article-images/video-collage-and-photo-grid.jpg)
+
+As its name suggests, this app allows you to create both photo and video collages. You can either use the existing material from your camera roll or use the Video Collage and Photo Grid app to capture new footage. You can choose from 64 fully customizable layouts and pick the texture or the color of the frames of each video or photo you include in the collage. The app also lets you adjust the sizes of the still and moving images you’re combining and it also offers the possibility to crop photos you’d like to use in your collages. The sound volume can be easily adjusted, but you must make an in-app purchase in order to unlock the background music feature.
+
+#### 2. [PicPlayPost Movie Video Editor](https://apps.apple.com/us/app/picplaypost-video-editor/id498127541)
+
+**Price:** Free, but offers in-app purchases
+
+**Compatibility:** iOS 10.3 or later
+
+![PicPlayPost Movie Video Editor - Video Collage Making App ](https://images.wondershare.com/filmora/article-images/picplaypost-video-editor.jpg)
+
+This versatile app can be used for much more than just creating video collages, as it offers the option to capture videos in Full HD and 4K resolutions, although the 4K option is only available on iPhone Xs and iPad Pro. Moreover, you can combine several video collages into a single video and apply a variety of transitions to ensure the smooth flow of the output video. Adding text layers, recording voiceovers or creating soundtracks for your video collages are just a few options you’ll have at your disposal if you install the PicPlayPost movie video editor on your iOS-based device. In case you’re planning on using this app on a daily basis, you should consider purchasing the Everything Pack that costs just $24.99\.
+
+#### 3. [PicStich](https://apps.apple.com/us/app/pic-stitch-collage-editor/id454768104)
+
+**Price:** Free, but offers in-app purchases
+
+**Compatibility:** iOS 10.0 or later
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+![Video Collage Making Apps for iPhone & iPad ](https://images.wondershare.com/filmora/article-images/pic-stitch-collage-editor.jpg)
+
+The fact that PicStich offers more than 300 different layouts speaks volumes about its capabilities. However, the majority of the app’s features are designed to help you create photo collages. You can still add a song you like to a video collage to make it more entertaining to watch, but unfortunately, PicStich doesn’t let you apply transitions or adjust playback speeds of the videos you include in a video collage. Purchasing Frames and Borders packs will extend the scope of your options and enable you to increase the quality of the video collages you’re making. The app’s file-sharing capabilities are impressive since you can export your projects directly to Instagram or Dropbox and you can also share all of your creations to Facebook, Twitter, and other popular social networks.
+
+#### 4. [PhotoGrid - Pic Collage Maker](https://apps.apple.com/us/app/photogrid-video-pic-editor/id543577420)
+
+**Price:** Free, but offers in-app purchases
+
+**Compatibility:** iOS 10.0 or later
+
+![Video Collage Making Apps for iPhone & iPad ](https://images.wondershare.com/filmora/article-images/photogrid-video-pic-editor.jpg)
+
+If you are looking for an app that lets you create stunning video collages in seconds, you should look no further. PhotoGrid app lets you combine multiple videos within a single frame while offering a plethora of video editing tools you can use to enhance each video in the collage. What’s more, the app features a rich font library, stickers, filters and transitions you can use to make each video collage look more authentic. There are hundreds of available layouts to choose from that let you merge up to fifteen separate video clips and more than 400 backgrounds that can fit almost any style of a video collage. The app’s photo editing features are also remarkable which means that you can use the PhotoGrid app to manipulate images in any way you want.
+
+#### 5. [PhotoVideo Collage Maker](https://apps.apple.com/us/app/photovideocollage-maker/id751270901?ls=1)
+
+**Price:** Free, but offers in-app purchases
+
+**Compatibility:** iOS 9.2 or later
+
+![Video Collage Making Apps for iPhone & iPad ](https://images.wondershare.com/filmora/article-images/photovideocollage-maker.jpg)
+
+Making a new video collage with PhotoVideo Collage Maker is a quick and simple process. You just have to pick a layout, arrange videos by dragging and dropping them to a preferred position and choose a frame for each video. The app features a rich collection frames and textures, and it even lets you use frames with curved edges that help your videos stand out. PhotoVideo Collage Maker enables you to import songs from your iTunes collection and allows you to control the volume of the videos or use the fade-in and fade-out effects. You can also choose if you want all the videos to play simultaneously or one after the other. Unlocking the app’s pro features will cost you $1.99, but making this investment is an excellent idea if you would like to use the PhotoVideo Collage Maker for professional purposes.
+
+#### 6. [PicCollage Grid & Video Editor](https://apps.apple.com/bg/app/piccollage-grid-video-editor/id448639966)
+
+**Price:** Free, but offers in-app purchases
+
+**Compatibility:** iOS 10.3 or later
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+![Video Collage Making Apps for iPhone & iPad ](<https://images.wondershare.com/filmora/article-images/PicCollage-grid-video-editor> .jpg)
+
+iPhone and iPad owners in need of a video collage app that also offers powerful photo editing tools are going to love using the PicCollage Grid & Video Editor app. You can either use templates or create authentic grids on your own to impress your friends on social media. The app’s text editor lets change fonts, pick different text colors or change its alignment, while the cutout mode enables you to remove the background from your photos within seconds. Besides making video collages, you can also use the PicCollage Grid & Video Editor to create animated collages. The only downside is that all photo or video collages you create with the free version of the app are going to be watermarked.
+
+#### 7. [VidStitch Frames for Instagram](https://apps.apple.com/us/app/vidstitch-frames-for-instagram/id712908978)
+
+**Price:** Free, but offers in-app purchases
+
+**Compatibility:** iOS 9.0
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+![Video Collage Making Apps for iPhone & iPad ](https://images.wondershare.com/filmora/article-images/vidstitch-frames-for-instagram.jpg)
+
+VidsStitch was designed exclusively for iPhones and iPads, and it works best with the videos captured on these devices. The process of creating a new video collage can be completed in just a few quick steps. You should start by choosing one of the pre-designed frames, then you should just import and arrange your videos within the frame and decide whether you want to post the video collage on Twitter, Instagram or Facebook. The free version of VidStich is going to watermark all your creations and it won’t allow you to add music to your collages, which is why purchasing the Pro pack and additional frames and borders will help you produce visual content that is going to impress your followers on social media.
+
+**Conclusion**
+
+Presentation of the videos you record with your iPhone or iPad is as important as their overall quality. The video collage makers for iOS-based devices provide you with all the tools you’re going to need to create visually dynamic, entertaining and attention-grabbing video collages your followers on social media are going to enjoy watching. Which video collage app for iPhones and iPads are you using to make your video collages. Leave a comment below and let us know.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-comprehensive-ultimate-guide-to-instagram-stories-for-2024/"><u>[New] Comprehensive Ultimate Guide to Instagram Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dissecting-video-platform-distinctions-youtube-vs-dailymention/"><u>[New] In 2024, Dissecting Video Platform Distinctions  YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mobile-video-smoothing-system-pro/"><u>[New] Mobile Video Smoothing System Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-rage-raid-and-rebel-without-a-gta-tale-for-2024/"><u>[New] Rage, Raid and Rebel Without a GTA Tale for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stream-away-the-leading-online-video-havens/"><u>[New] Stream Away  The Leading Online Video Havens</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevate-views-prime-seo-equipment-for-videos/"><u>[Updated] 2024 Approved  Elevate Views  Prime SEO Equipment for Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-want-to-see-all-the-photos-and-videos-my-contacts-share-in-messages/"><u>[Updated] In 2024, Want to See All the Photos & Videos My Contacts Share in Messages</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-hidden-gems-top-tips-for-savvy-users/"><u>[Updated] Instagram Hidden Gems  Top Tips for Savvy Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-quick-steps-to-elevate-low-quality-webcam-vids/"><u>[Updated] Quick Steps to Elevate Low-Quality WebCam Vids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-starting-line-the-basics-of-picture-resolution/"><u>[Updated] Starting Line  The Basics of Picture Resolution</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-vlog-like-a-pro-best-video-editing-software-for-popular-platforms/"><u>2024 Approved Vlog Like a Pro Best Video Editing Software for Popular Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-protection-for-your-macbook-pro-13-in-depth-analysis-of-a-simple-economical-case/"><u>Affordable Protection for Your MacBook Pro 13: In-Depth Analysis of a Simple, Economical Case</u></a></li>
+<li><a href="https://extra-information.techidaily.com/apex-broadcast-tools-and-platforms-for-2024/"><u>Apex Broadcast Tools & Platforms for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/clearing-up-instagrams-video-mishaps-for-2024/"><u>Clearing Up Instagram's Video Mishaps for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-vertical-lines-on-the-computer-screen/"><u>Fix Vertical Lines on the Computer Screen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-13-mini-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 13 mini System Issues? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-motorola-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Motorola</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-x-fold-2-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo X Fold 2 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-6s-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 6s without Backup | Stellar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-1-general-trivia-challenge-web-series/"><u>In 2024, 1 General Trivia Challenge Web Series</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v30-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-y36-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo Y36 Without PUK Codes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-seamless-storytelling-3-transition-techniques-for-final-cut-pro/"><u>In 2024, Seamless Storytelling 3 Transition Techniques for Final Cut Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-best-free-and-paid-online-vertical-video-editors/"><u>In 2024, The Best Free and Paid Online Vertical Video Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-video-editing-face-off-sony-vegas-vs-adobe-premiere-pro-pros-cons-and-verdict/"><u>In 2024, Video Editing Face-Off Sony Vegas vs Adobe Premiere Pro - Pros, Cons, and Verdict</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/macos-compatible-video-editor-avs-software-for-2024/"><u>MacOS Compatible Video Editor AVS Software for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mastering-color-in-final-cut-pro-a-step-by-step-guide-for-2024/"><u>Mastering Color in Final Cut Pro A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/maximize-your-gaming-experience-fbx-edition-for-2024/"><u>Maximize Your Gaming Experience  FBX Edition for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-10-best-free-video-hosting-services-for-personal-and-professional-use/"><u>New 2024 Approved 10 Best Free Video Hosting Services for Personal and Professional Use</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-adobe-systems-offers-premiere-pro-cs6-for-mac-free-download-available/"><u>New 2024 Approved Adobe Systems Offers Premiere Pro CS6 for Mac Free Download Available</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-stunning-videos-best-movie-makers-for-win-10/"><u>New 2024 Approved Create Stunning Videos Best Movie Makers for Win 10</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-film-like-a-pro-a-beginners-guide-to-making-movies/"><u>New 2024 Approved Film Like a Pro A Beginners Guide to Making Movies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-final-cut-pro-voice-over-mastery-essential-techniques-for-success/"><u>New 2024 Approved Final Cut Pro Voice Over Mastery Essential Techniques for Success</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-is-virtualdub-obsolete-discover-the-best-free-video-editing-software-alternatives/"><u>New 2024 Approved Is Virtualdub Obsolete? Discover the Best Free Video Editing Software Alternatives</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mastering-the-ken-burns-effect-a-step-by-step-guide/"><u>New 2024 Approved Mastering the Ken Burns Effect A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-best-of-fcp-top-10-movies-edited-with-final-cut-pro/"><u>New 2024 Approved The Best of FCP Top 10 Movies Edited with Final Cut Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-5-best-free-flv-video-editors/"><u>New 2024 Approved Top 5 Best Free FLV Video Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-transform-your-footage-expert-video-editing-for-sony-camcorder-users/"><u>New 2024 Approved Transform Your Footage Expert Video Editing for Sony Camcorder Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-video-privacy-made-easy-best-blur-apps-for-iphone-and-android/"><u>New 2024 Approved Video Privacy Made Easy Best Blur Apps for iPhone and Android</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-adobe-premiere-rush-alternatives-for-video-editing-for-2024/"><u>New Best Adobe Premiere Rush Alternatives for Video Editing for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-get-started-with-video-editing-top-beginner-friendly-software-for-2024/"><u>New Get Started with Video Editing Top Beginner-Friendly Software for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-get-your-audio-fix-10-webm-to-mp3-converters-you-can-trust-for-2024/"><u>New Get Your Audio Fix 10 WebM to MP3 Converters You Can Trust for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-5-fantastic-free-video-watermark-removers-and-adders/"><u>New In 2024, 5 Fantastic Free Video Watermark Removers and Adders</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-animation-software-for-all-skill-levels-top-picks/"><u>New In 2024, Best Animation Software for All Skill Levels Top Picks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-free-dailymotion-video-converters-online/"><u>New In 2024, Best Free DailyMotion Video Converters Online</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-free-mov-video-editing-software/"><u>New In 2024, Best Free MOV Video Editing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-educational-animation-made-easy-top-10-software/"><u>New In 2024, Educational Animation Made Easy Top 10 Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-online-video-smoothers-our-top-picks/"><u>New In 2024, Free Online Video Smoothers Our Top Picks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-how-to-change-shape-of-a-video/"><u>New In 2024, How to Change Shape of a Video?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-mac-vlc-trimming-made-easy-preserve-video-quality/"><u>New In 2024, Mac VLC Trimming Made Easy Preserve Video Quality</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-make-a-statement-best-free-animated-logo-design-software-plus-tips-from-the-pros/"><u>New In 2024, Make a Statement Best Free Animated Logo Design Software + Tips From the Pros</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-pc-video-dubbing-made-easy-top-software-options/"><u>New In 2024, PC Video Dubbing Made Easy Top Software Options</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-revolutionize-your-content-10-top-rated-animated-text-tools/"><u>New In 2024, Revolutionize Your Content 10 Top-Rated Animated Text Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-best-adobe-premiere-pro-add-ons-enhance-your-video-editing-experience/"><u>New In 2024, The Best Adobe Premiere Pro Add-Ons Enhance Your Video Editing Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/novice-nests-in-mc-the-essential-guide-to-housing/"><u>Novice Nests in MC  The Essential Guide to Housing</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Realme Note 50 | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
