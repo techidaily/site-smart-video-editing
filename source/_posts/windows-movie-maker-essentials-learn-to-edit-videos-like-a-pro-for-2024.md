@@ -1,0 +1,188 @@
+---
+title: Windows Movie Maker Essentials Learn to Edit Videos Like a Pro for 2024
+date: 2024-08-22T11:37:33.778Z
+updated: 2024-08-23T11:37:33.778Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes Windows Movie Maker Essentials Learn to Edit Videos Like a Pro for 2024
+excerpt: This Article Describes Windows Movie Maker Essentials Learn to Edit Videos Like a Pro for 2024
+keywords: windows live movie maker tutorial splitting videos like a pro,ai animation make movies like a pro best windows 10 video editors,make movies like a pro best windows 10 video editors,windows movie maker tutorial editing videos like a pro,ai animation windows movie maker tutorial editing videos like a pro,video editing essentials how to split clips in windows live movie maker 2023 update,windows movie maker essentials learn to edit videos like a pro
+thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
+---
+
+## Windows Movie Maker Essentials: Learn to Edit Videos Like a Pro
+
+# How to Edit Videos in Windows Live Movie Maker
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+Microsoft has released **Windows Live Movie Maker** on August 19, 2009 as part of a refresh to their Windows Live Essentials download. Windows Live Movie Maker is the first application designed for Windows 7 and is built to make beautiful movies from your photos and videos. And the latest version is **Windows Live Movie Maker 2011**.
+
+**Update in 2017:** Microsoft has stopped the Windows Essentials Suite support on January 10, 2017\. It is claimed that it is no longer available for download. If you are looking for an alternative to windows essentials movie maker, or windows movie maker, try Filmora video editor, which is available on both Windows7, Windows8 and Windows 10.
+
+---
+
+## Part 1: Best Alternative to Windows Movie Maker: Filmora \[Windows7/8/10 & Mac\]
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Windows Live Movie Maker is a little bit limiting for video editing. In most cases, you need to run Windows 7\. Fortunately, you do have other options. There is plenty of software which will do the same thing but better than Windows Live Movie Maker for you to [edit your videos](https://tools.techidaily.com/wondershare/filmora/download/) and burn videos to DVD. Among many of them, we recommend one Wondershare Filmora. You may wonder what's so special with this Video Editor. First of all, it supports almost all kinds of video formats, such as AVI, MP4, MPG, MPEG, 3GP, WMV, ASF, RM, RMVB, DAT, MOV, MKV and HD video formats: MTS, M2TS(AVCHD ), TS(MPEG-2), HD MKV(, MPEG-2 HD), HD WMV(VC-1), and HD MOV(, MPEG-4). Secondly, it provides powerful video editing function, such as crop, trim, adjust video effect, add watermark, etc. Also, there are various title and text templates, filter/transition and effects presets for you to choose from. Thirdly, Windows Live Movie Maker can only generate WMV files directly, but this video editor supports burn video to DVD disc, DVD Folder and ISO file or save the video to most of the popular formats.
+
+---
+
+## Part 2: How to Edit Videos in Windows Live Movie Maker \[Step by Step\]
+
+#### 1.Add Videos and Photos
+
+![edit videos in windows live movie maker](https://images.wondershare.com/topic/video-editing/windows-live-movie-maker-start.jpg)
+
+While you are adding videos to Windows Live Movie Maker, you may encounter a problem like 3GP files can't be added to Windows Live Movie Maker. Or it can't be played in Window Live Movie Maker. And many other video files as well, such as RM, RMVB, DAT and HD video formats: MTS, TS, HD MKV, HD WMV, and HD MOV, etc. It's quite necessary to get familiar with what all those files that could be imported to Windows Live Movie Maker.
+
+![ edit video using windows live movie maker ](https://images.wondershare.com/images/edit-videos-in-windows-live-movie-maker.jpg)
+
+**Notes**
+
+* Video and music files that are protected with digital rights management (DRM) can't be used in Windows Live Movie Maker.
+* Support for using MPEG-2 and Microsoft Recorded TV Show video files in your movie is available only if your computer is running one of the following editions of Windows Vista or Windows 7: Windows Vista Home Premium, Windows Vista Ultimate, Windows 7 Home Premium, Windows 7 Professional, Windows 7 Enterprise, or Windows 7 Ultimate.
+* AVCHD video files that contain Dolby Digital audio can be used in Windows Live Movie Maker if your computer is running one of the following editions of Windows 7: Windows 7 Home Premium, Windows 7 Professional, Windows 7 Enterprise, or Windows 7 Ultimate.
+* MPEG-4 video files that contain audio can be used if you're using Movie Maker on a computer running Windows 7.
+* Some MPEG-4 video files can be used when you're using Movie Maker on a computer running Windows Vista if the necessary audio and video codecs are installed.
+
+After adding your photos or videos, you can also add audio or background music to your video clips by clicking the Add music option.
+
+**Learn details about** [How to Add and Edit Music in Windows Movie Maker](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 2. Video Editing
+
+As we said before, Windows Live Movie Maker (later named Windows Movie Maker) is a simple and easy video editing software for Windows, it can complete some basic video editing and become a good choice for novices. Here, I will share with you about the basic video editing tutorial in the Movie Maker.
+
+![Windows Movie Maker Edit](https://images.wondershare.com/filmora/article-images/windows-movie-maker-edit.jpg)
+
+**Cut & Trim & Split video in Windows Movie Maker**
+
+After adding videos and photos to the storyboard, you can now keep the useful sections and remove unwanted parts. To trim video, just place the playhead to the target position and right click the clip to select the Trim Set Start Point and move the playhead again to then end point and right click to select Set End Point. You can also go to the Edit tab and click the Split menu to split the video into parts. You can then delete and cut out unwanted sections or move it to the proper position.
+
+**Add Audio to Video: Record and add voiceover or Music**
+
+Windows Movie Maker also allows you to add narrations and background music to video footage. Just click the Add Music option and you can add music from online music libraries such as AudioMicro, Free Music Archive, and Vimeo or add music from the computer.
+
+![Windows Movie Maker Edit Add music](https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
+
+**Add auto movie themes to Video**
+
+There is a built-in AutoMovie themes library in Movie Maker. You can use some popular themes such as Contemporary, Cinematic, Fade, Pan and Zoom, Black and White and Sepia.
+
+**Add texts &titles to Video**
+
+You can add titles, captions, and credits to video with windows movie maker, but it seems hard to add subtitles and customize its position. For more details about the text and title editing, check
+
+Learn more details about [How to Add Text to Video with Windows Movie Maker](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Apply transitions & animations to video**
+
+The Movie Maker features lots of transitions under Animations tab. You can choose from wipes, cinematics, shatters, sweeps and curls, patterns and shapes, reveals, diagonals and dissolves.
+
+Note: if you use the default themes, you won’t see all these transitions. Check the detailed steps about [How to Add Transitions in Windows Movie Maker](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Apply visual effects to video**
+
+We’ve introduced some of the best visual effects software before, but in Windows Movie Maker, you can also add effects such as 3D Ripple, Black and White, Blur, pixelate, mirrors, motions and fade effects.
+
+**Change video speed of video**
+
+The Movie Maker Edit tab allows you to adjust video volume, add fade in and fade out effects to video, or change video speed.
+
+Learn more details about [How to Speed Up Video in Windows Movie Maker](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 3. Save Video
+
+After finish editing, you can upload your video clips to Facebook, YouTube, and other social media, or burn your videos to DVD with Windows DVD maker. You can also save your video clips on your computer.
+
+![Windows Movie Maker Save Video](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg)
+
+**You may also like:** [Windows Movie Maker VS Windows Live Movie Maker: What's the Difference](https://tools.techidaily.com/wondershare/filmora/download/)
+
+While, if you find the windows movie maker editing features are limited based on your editing skills, you can try Wondershare Filmora. Below is a video tutorial about [how to edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android/"><u>[New] 2024 Approved  Get Ready for a Lighter Device Experience  Top 48 Apps to Cut Down Video Size on Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-say-goodbye-to-paywalls-with-free-video-handling-tools/"><u>[New] Say Goodbye to Paywalls with Free Video Handling Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-nuances-of-softening-sounds-via-lumafusion/"><u>[Updated] 2024 Approved  Mastering the Nuances of Softening Sounds via Lumafusion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-enhance-clarity-of-online-video-content/"><u>[Updated] How to Enhance Clarity of Online Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-font-power-boosters-secrets-to-stellar-video-thumbnails/"><u>[Updated] In 2024, Font Power Boosters  Secrets to Stellar Video Thumbnails</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-quick-guide-uploading-tiktoks-directly-to-facebook-for-2024/"><u>[Updated] Quick Guide  Uploading TikToks Directly to Facebook for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snipping-videophotographs-in-windows-11/"><u>2024 Approved  Snipping Videophotographs in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-stardom-versus-punch-driven-legends/"><u>2024 Approved  Streaming Stardom Versus Punch-Driven Legends</u></a></li>
+<li><a href="https://facebook.techidaily.com/analyzing-the-reasoning-why-multiple-profiles-are-accepted-under-a-single-account-id/"><u>Analyzing the Reasoning: Why Multiple Profiles Are Accepted Under a Single Account ID</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-razer-gamepad-software-on-pc-compatible-with-windows-1087xpvista/"><u>Download & Update Razer Gamepad Software on PC: Compatible with Windows 10/8/7/XP/Vista</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlight-prime-iphone-gif-apps-to-try-for-2024/"><u>Highlight  Prime iPhone GIF Apps to Try for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-floor-with-optimal-posting-hours/"><u>Hit the Floor with Optimal Posting Hours</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-honor-x9a-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Honor X9a</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-basics-to-brilliance-fullscreen-proficiency-in-premiere/"><u>In 2024, From Basics to Brilliance  Fullscreen Proficiency in Premiere</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-90-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor 90 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-immerse-in-innovation-the-ultimate-vr-gear-guide/"><u>In 2024, Immerse in Innovation - The Ultimate VR Gear Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-taking-your-tweets-public-on-facebook/"><u>In 2024, Taking Your Tweets Public on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/leading-5-video-conference-recorders-for-seamless-captures/"><u>Leading 5 Video Conference Recorders for Seamless Captures</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-windows-10-essentials-top-free-video-compressors/"><u>New Windows 10 Essentials Top Free Video Compressors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-persistent-dark-screen-issue-in-fortnite-for-pc-users/"><u>Resolving the Persistent Dark Screen Issue in Fortnite for PC Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/s-hottest-vlog-editor-apps-for-ios-and-android-devices-for-2024/"><u>S Hottest Vlog Editor Apps for iOS and Android Devices for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-output-unplugged-issue-nvidia-card-troubleshooting-tips/"><u>Solving the 'Output Unplugged' Issue: Nvidia Card Troubleshooting Tips</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-comparison-amazon-echo-dot-vs-apple-homepod-mini-features-and-proscons/"><u>The Ultimate Comparison: Amazon Echo Dot Vs Apple HomePod Mini Features & Pros/Cons</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-fcpx-shortcut-guide-40-time-saving-keys-for-2024/"><u>The Ultimate FCPX Shortcut Guide 40 Time-Saving Keys for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-realme-11-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Realme 11 Pro password or pattern lock</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-how-to-create-a-movie-in-minutes-a-quick-start-guide/"><u>Updated 2024 Approved How to Create a Movie in Minutes A Quick Start Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-best-video-trailer-design-software-for-mac-and-pc-2023-update/"><u>Updated 2024 Approved The Best Video Trailer Design Software for Mac and PC (2023 Update)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-lego-animation-creators/"><u>Updated 2024 Approved Top Lego Animation Creators</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-online-video-editing-tools-for-vertical-videos/"><u>Updated 2024 Approved Top Online Video Editing Tools for Vertical Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-avs-mac-video-editor-unleash-your-creativity-for-2024/"><u>Updated AVS Mac Video Editor Unleash Your Creativity for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-blur-faces-like-a-pro-top-free-apps-and-tutorials-for-photos-and-videos-for-2024/"><u>Updated Blur Faces Like a Pro Top Free Apps and Tutorials for Photos and Videos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-online-video-editing-top-10-trimming-tools-2023-rankings-for-2024/"><u>Updated Free Online Video Editing Top 10 Trimming Tools 2023 Rankings for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-avi-video-trimmers-cut-and-edit-avi-files-on-any-device/"><u>Updated In 2024, Best AVI Video Trimmers Cut and Edit AVI Files on Any Device</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-discover-the-best-10-high-quality-animated-text-generators/"><u>Updated In 2024, Discover the Best 10 High-Quality Animated Text Generators</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-fast-track-to-film-fame-easy-movie-creation-secrets/"><u>Updated In 2024, Fast Track to Film Fame Easy Movie Creation Secrets</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-fcpx-mastery-learn-the-top-40-keyboard-shortcuts/"><u>Updated In 2024, FCPX Mastery Learn the Top 40 Keyboard Shortcuts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-free-gif-looping-software-for-animated-fun-2023-review/"><u>Updated In 2024, Free GIF Looping Software for Animated Fun 2023 Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-if-you-are-a-fan-of-electronic-noise-and-other-experimental-genres-of-music-that-emerged-in-the-early-and-mid-1990s-then-you-probably-alread/"><u>Updated In 2024, If You Are a Fan of Electronic, Noise and Other Experimental Genres of Music that Emerged in the Early and Mid-1990s, Then You Probably Already Know What Glitch Art Is. If You Would Like to Create Gli</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-merge-your-videos-for-free-the-best-web-based-tools/"><u>Updated In 2024, Merge Your Videos for Free The Best Web-Based Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-rotate-your-avi-videos-with-ease-top-16-free-software-and-apps/"><u>Updated In 2024, Rotate Your AVI Videos with Ease Top 16 Free Software and Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-5-best-imovie-replacements-for-windows-10/"><u>Updated In 2024, Top 5 Best iMovie Replacements for Windows 10</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mac-dub-master/"><u>Updated Mac Dub Master</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-macs-best-video-production-tools-unleash-your-creativity/"><u>Updated Macs Best Video Production Tools Unleash Your Creativity</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-s-leading-online-vertical-video-editor-platforms/"><u>Updated S Leading Online Vertical Video Editor Platforms</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-split-trim-and-edit-mastering-video-segmentation-in-windows-live-movie-maker/"><u>Updated Split, Trim, and Edit Mastering Video Segmentation in Windows Live Movie Maker</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-industry-standard-adobe-premiere-pro-for-mac-video-editors/"><u>Updated The Industry Standard Adobe Premiere Pro for Mac Video Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-5-hand-drawing-whiteboard-animation-makers-for-2024/"><u>Updated Top 5 Hand Drawing Whiteboard Animation Makers for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-picks-slow-motion-video-editing-tools-for-creators-for-2024/"><u>Updated Top Picks Slow Motion Video Editing Tools for Creators for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-transform-your-photos-into-videos-with-these-10-online-tools-for-2024/"><u>Updated Transform Your Photos Into Videos with These 10 Online Tools for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-the-power-of-visual-storytelling-10-best-image-to-video-converters/"><u>Updated Unleash the Power of Visual Storytelling 10 Best Image to Video Converters</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
