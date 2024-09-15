@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Complete Guide to Running Linux on a Chromebook (Updated 2023)
-date: 2024-09-09T02:55:01.633Z
-updated: 2024-09-10T02:55:01.633Z
+date: 2024-09-08T22:55:42.081Z
+updated: 2024-09-14T18:44:34.139Z
 tags: 
   - video editing software
   - video editing
@@ -14,36 +14,12 @@ keywords: the complete guide to installing linux on a chromebook,video editing f
 thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Complete Guide to Running Linux on a Chromebook (Updated 2023)
 
 # How to Install Linux on Chromebook
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Mar 27, 2024• Proven solutions
@@ -76,18 +52,6 @@ The first step of the process is to reboot your system, while your Chromebook is
 
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 2. Installing Chroot
 
 At this stage of the process, your Chromebook is ready for the installation of the Crouton environment. Crouton is a series of scripts that makes running a Linux OS much easier, especially for inexperienced users. In order to download Crouton, go to [GitHub](https://github.com/dnschneid/crouton) and find the download link, detailed instructions or extensions that can add more functionality to your OS. Once the installation file or files are in the Download folder, your next step is to access the Chromebook's terminal a feature called 'Crosh'. The fastest way to do this is to hold CTRL + ALT keys and then hit the T key. This action will cause the Chrome window to appear on the screen, and you will need to type the 'shell' command without using quotation marks. Afterwards, enter the following command: 'sudo sh \~/Downloads/crouton -t xfce' and if you want to install extensions you will have to add 'xfce,extension' command at the end.
@@ -104,12 +68,6 @@ You may have to optimize your new OS in order to improve the experience of using
 
 If for some reason you want to uninstall Linux from your Chromebook, simply reboot the system and press the spacebar when the 'OS verification is off' message appears on the screen. In this manner, you will exit the Developer Mode and all locally stored data, including all installed environments, will be deleted.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Dual-Boot a Chromebook Using ChrUbuntu
 
 An alternative option is available for Chromebook users that have Intel based devices like recently released Haswell models. The ChrUbuntu can be installed on the USB stick or external hard-drive or directly to the local memory of your Chromebook. Even though ARM-based machines can also use ChrUbuntu it isn't advisable because they may perform poorly due to slower processor speeds and less RAM power. Unlike Chroot, ChrUbuntu will not allow you to switch between operating systems without a reboot, and if the system is stored locally, you may need to go through the full system recovery.
@@ -126,12 +84,6 @@ Once the installation is completed, restart your Chromebook to finalize the proc
 
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 3. Uninstall ChrUbuntu
 
 Removing ChrUbuntu is a relatively painless process that can be completed with just a few simple commands. If the OS is stored locally the only way to erase it is to perform a full system recovery. While all your data located on the cloud will re-sync with your Chromebook, the data stored locally will be deleted, which is why it is important to backup all the important files before starting a system recovery process. The fastest and easiest way to perform a system recovery is by creating a recovery disk from your device. Insert 'chrome://imageburner' in your browser's address bar, and carefully read and follow the instructions.
@@ -139,11 +91,18 @@ Removing ChrUbuntu is a relatively painless process that can be completed with j
 This Linux removal method will also require you to have a USB stick with a minimum of 4GB of storage space. After you created the disk, you can go into the Recovery Mode, by holding Esc and Refresh buttons simultaneously and then pressing the Power button. In the Recovery Mode, you will be asked to insert the recovery disk and the process will be on the way.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: How to Dual-Boot a Chromebook Using Gallium OS
 
 If neither Chroot nor ChrUbuntu work for you, using Gallium OS may be the right choice. The Gallium is Xbuntu-based OS that is equipped with touchpad mouse drivers among other advantages it offers over other operating systems. The installation process isn't complicated, although it may require more effort than installing Crouton.
@@ -180,53 +139,18 @@ The software is compatible with Mac, Windows, and Linux OS, which makes it a per
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-guide-to-share-youtube-link-on-instagram-story/"><u>[New] 2024 Approved  Guide to Share YouTube Link on Instagram Story</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-elevating-audio-fidelity-on-obs-for-2024/"><u>[New] Elevating Audio Fidelity on OBS for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-game-editor-tools-for-novices-for-2024/"><u>[New] Essential Game Editor Tools for Novices for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-perfecting-your-content-understanding-facebook-video-sizes-and-ratios/"><u>[New] Perfecting Your Content  Understanding Facebook Video Sizes and Ratios</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tiktoks-biggest-winners-on-the-twittersphere/"><u>[New] TikTok's Biggest Winners on the Twittersphere</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-showdown-battle-royales-top-titles/"><u>[New] Ultimate Showdown  Battle Royale's Top Titles</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-demystifying-zoom-your-complete-guide-for-win11-users/"><u>[Updated] Demystifying Zoom  Your Complete Guide for Win11 Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-photograph-dating-techniques/"><u>[Updated] Mastering Photograph Dating Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-cutting-edge-chips-excellent-editing-made-easy-and-fast/"><u>2024 Approved  Cutting Edge Chips  Excellent Editing Made Easy and Fast</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-revel-in-these-14-enthralling-text-based-movements/"><u>2024 Approved  Revel in These 14 Enthralling Text-Based Movements</u></a></li>
-<li><a href="https://win-dash.techidaily.com/asus-notebook-driver-software-fresh-install-and-upgrades/"><u>ASUS Notebook Driver Software: Fresh Install and Upgrades</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-guide-how-to-stop-wwe-2k22-from-frequently-crashing-on-personal-computers/"><u>Fix Guide: How to Stop WWE 2K22 From Frequently Crashing on Personal Computers</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-do-large-scale-language-models-function-an-overview/"><u>How Do Large-Scale Language Models Function? An Overview</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-huawei-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Huawei ?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y100i-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y100i For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-reels-crafting-exquisite-slow-motion-content/"><u>In 2024, Instagram Reels  Crafting Exquisite Slow-Motion Content</u></a></li>
-<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-apps-for-making-reaction-video-on-ios-and-android/"><u>Updated 2024 Approved Best Apps for Making Reaction Video on iOS and Android</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-online-video-reversers/"><u>Updated 2024 Approved Best Online Video Reversers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-bringing-your-drawings-to-life-the-best-animation-software-for-artists/"><u>Updated 2024 Approved Bringing Your Drawings to Life The Best Animation Software for Artists</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-how-to-restore-audio-in-avidemux-a-comprehensive-solution/"><u>Updated 2024 Approved How to Restore Audio in Avidemux A Comprehensive Solution</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-install-lumafusion-for-mac-or-get-best-alternatives-on-mac/"><u>Updated 2024 Approved Install Lumafusion for Mac or Get Best Alternatives on Mac</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unleash-your-creativity-best-free-online-glitch-effect-tools/"><u>Updated 2024 Approved Unleash Your Creativity Best Free Online Glitch Effect Tools</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-best-green-screen-software-for-mac-for-2024/"><u>Updated Best Green Screen Software for Mac for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-best-lego-stop-motion-makers-for-2024/"><u>Updated Best Lego Stop Motion Makers for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-best-of-the-best-top-5-video-editing-apps-for-iphone-users-for-2024/"><u>Updated Best of the Best Top 5 Video Editing Apps for iPhone Users for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-how-to-stabilize-your-video-for-better-impressions-in-fcpx-for-2024/"><u>Updated How to Stabilize Your Video for Better Impressions in FCPX for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-free-3d-animation-apps-for-android-and-iphone-a-comprehensive-guide/"><u>Updated In 2024, Free 3D Animation Apps for Android and iPhone A Comprehensive Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-game-on-top-10plus-websites-for-free-game-downloads/"><u>Updated In 2024, Game On! Top 10+ Websites for Free Game Downloads</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-reaction-video-essentials-top-mobile-apps-you-need-to-know/"><u>Updated In 2024, Reaction Video Essentials Top Mobile Apps You Need to Know</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-best-web-based-video-editors-for-chromebook-users/"><u>Updated In 2024, The Best Web-Based Video Editors for Chromebook Users</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-install-splice-on-your-mac-for-professional-video-editing-for-2024/"><u>Updated Install Splice on Your Mac for Professional Video Editing for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-powerdirector-color-grading-tips-for-seamless-clip-integration/"><u>Updated PowerDirector Color Grading Tips for Seamless Clip Integration</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-adobe-premiere-shortcut-guide-20-tips-and-tricks-for-2024/"><u>Updated The Ultimate Adobe Premiere Shortcut Guide 20 Tips and Tricks for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-video-editing-on-mac-os-x-yosemite-a-comprehensive-beginners-guide-for-2024/"><u>Updated Video Editing on Mac OS X Yosemite A Comprehensive Beginners Guide for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/video-editing-on-chromebook-top-recommendations-for-2024/"><u>Video Editing on Chromebook Top Recommendations for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/videopad-review-is-it-the-best-video-editing-software-for-you-for-2024/"><u>Videopad Review Is It the Best Video Editing Software for You for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -234,3 +158,19 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-views-through-effective-youtube-thumbnail-selection/"><u>[New] In 2024, Boost Views Through Effective YouTube Thumbnail Selection</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-spotifys-top-10-viral-songs/"><u>2024 Approved Spotify’s Top 10 Viral Songs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-rog-phone-7-ultimate-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Asus ROG Phone 7 Ultimate Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-obs-and-zoom-synchronization-techniques/"><u>In 2024, OBS & Zoom Synchronization Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-titles-tranquil-trips-join-the-idle-games-movement/"><u>Quiet Titles, Tranquil Trips: Join the Idle Games Movement</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-for-unresponsive-wireless-keyboards-on-pcs-with-windows-os/"><u>Step-by-Step Solutions for Unresponsive Wireless Keyboards on PCs with Windows OS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-blue-band-promise-made-easy-snapping-strategies/"><u>The Blue Band Promise Made Easy Snapping Strategies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-exploring-vn-video-editor-pro-is-this-app-right-for-you-for-2024/"><u>Updated Exploring VN Video Editor Pro Is This App Right for You for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-art-of-video-resizing-tips-for-perfect-proportions-for-2024/"><u>Updated The Art of Video Resizing Tips for Perfect Proportions for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-transform-your-videos-the-best-free-green-screen-apps-for-android-and-ios-devices/"><u>Updated Transform Your Videos The Best Free Green Screen Apps for Android and iOS Devices</u></a></li>
+</ul></div>
+

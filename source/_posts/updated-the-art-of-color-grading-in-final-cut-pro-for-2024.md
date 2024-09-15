@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Color Grading in Final Cut Pro for 2024
-date: 2024-09-09T02:54:59.089Z
-updated: 2024-09-10T02:54:59.089Z
+date: 2024-09-11T16:32:43.658Z
+updated: 2024-09-14T16:27:20.906Z
 tags: 
   - video editing software
   - video editing
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -63,12 +57,6 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
@@ -77,22 +65,10 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
 ![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
@@ -111,22 +87,10 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
 ![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
 ![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
@@ -141,54 +105,11 @@ It is possible to preview all the corrections on the original image before makin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-7-creative-video-concepts-to-boost-your-fitness-channel/"><u>[New] 2024 Approved  7 Creative Video Concepts to Boost Your Fitness Channel</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-getting-involved-in-the-global-village-facebook-for-2024/"><u>[New] Getting Involved in the Global Village (Facebook) for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-facebook-8-top-movie-downloader-rankings/"><u>[New] In 2024, Mastering Facebook  #8 Top Movie Downloader Rankings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-speedy-streams-optimizing-fb-videos-essential-extensions-and-apps-guide/"><u>[New] Speedy Streams  Optimizing FB Videos - Essential Extensions and Apps Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-installing-tiktok-your-path-to-joyful-macbook-experience/"><u>[Updated] In 2024, Installing TikTok  Your Path to Joyful MacBook Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ingenious-ai-photo-masterclass/"><u>[Updated] Ingenious AI Photo Masterclass</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/augment-visuals-incorporating-black-box-and-letterboxing-in-social-media/"><u>Augment Visuals  Incorporating Black Box & Letterboxing in Social Media</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-the-conversation-going-fixes-for-voice-chat-problems-in-black-ops-cold-war/"><u>Getting the Conversation Going: Fixes for Voice Chat Problems in Black Ops: Cold War</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-pink-caulking-gun-style-thermal-gel-the-perfect-replacement-for-old-thermal-pads-and-gap-filers/"><u>Introducing Pink Caulking Gun-Style Thermal Gel: The Perfect Replacement for Old Thermal Pads and Gap Filers!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-watermark-videos-without-breaking-the-bank-top-5-free-tools-for-2024/"><u>New Watermark Videos without Breaking the Bank Top 5 Free Tools for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-zero-cost-avi-video-editors-our-top-5-recommendations/"><u>New Zero-Cost AVI Video Editors Our Top 5 Recommendations</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/seamless-storytelling-top-10-premiere-pro-transition-effects-for-2024/"><u>Seamless Storytelling Top 10 Premiere Pro Transition Effects for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/seamless-transition-into-the-world-of-zoom-meetings-for-your-android-device-for-2024/"><u>Seamless Transition Into the World of Zoom Meetings for Your Android Device for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/success-solving-the-non-launching-dilemma-for-mass-effect-legendary-edition-gamers/"><u>Success! Solving the Non-Launching Dilemma for Mass Effect Legendary Edition Gamers</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-a38-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo A38 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-13-proplus-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 13 Pro+ 5G Device</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-avs-video-editor-2023-a-comprehensive-review-and-guide/"><u>Updated 2024 Approved AVS Video Editor 2023 A Comprehensive Review and Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-merge-videos-without-watermarks-top-5-tools/"><u>Updated 2024 Approved Merge Videos Without Watermarks Top 5 Tools</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-s-top-free-cctv-software-for-home-and-business-security/"><u>Updated 2024 Approved S Top Free CCTV Software for Home and Business Security</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-bokeh-blur-apps-for-mobile-photography/"><u>Updated 2024 Approved Top Bokeh Blur Apps for Mobile Photography</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-trim-videos-like-a-pro-10-free-online-editors-2023-guide/"><u>Updated 2024 Approved Trim Videos Like a Pro 10 Free Online Editors 2023 Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-avchd-video-editing-the-top-5-software-options-this-year-for-2024/"><u>Updated AVCHD Video Editing The Top 5 Software Options This Year for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-create-cinematic-magic-top-slow-motion-video-editors-for-2024/"><u>Updated Create Cinematic Magic Top Slow Motion Video Editors for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-from-start-to-finish-how-to-edit-videos-with-quicktime-on-mac-for-2024/"><u>Updated From Start to Finish How to Edit Videos with QuickTime on Mac for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-get-in-the-loop-10-free-online-video-looping-websites/"><u>Updated In 2024, Get in the Loop 10 Free Online Video Looping Websites</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-mobile-video-magic-top-apps-for-animated-text-overlays/"><u>Updated In 2024, Mobile Video Magic Top Apps for Animated Text Overlays</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-system-check-ensuring-your-computer-meets-premiere-pros-requirements/"><u>Updated In 2024, System Check Ensuring Your Computer Meets Premiere Pros Requirements</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-transform-your-video-footage-shape-size-and-more/"><u>Updated In 2024, Transform Your Video Footage Shape, Size, and More</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-make-it-pop-how-to-add-eye-catching-effects-to-your-videos/"><u>Updated Make It Pop How to Add Eye-Catching Effects to Your Videos</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-smooth-transitions-made-easy-2-methods-for-fading-audio-in-final-cut-pro-for-2024/"><u>Updated Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-videopad-video-editor-review-does-it-live-up-to-the-hype-in-2024/"><u>Updated Videopad Video Editor Review Does It Live Up to the Hype, In 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/what-is-an-xml-file-and-how-to-export-xml-in-final-cut-pro-x/"><u>What Is an XML File and How to Export XML in Final Cut Pro X?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/windows-10-video-editors-the-best-imovie-lookalikes-for-2024/"><u>Windows 10 Video Editors The Best iMovie Lookalikes for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -196,3 +117,34 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-iphone-capturing-time-stretched-movies/"><u>[New] In 2024, Mastering iPhone Capturing Time-Stretched Movies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-tracing-back-on-facebook-a-laptop-and-mobile-recipe/"><u>[Updated] 2024 Approved Tracing Back on Facebook A Laptop & Mobile Recipe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-fps-measurement-software-for-windows-11-users/"><u>Best FPS Measurement Software for Windows 11 Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-lenovo-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Lenovo Without PUK Codes</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ios-masterclass-toolkit-the-ultimate-resource-for-solving-your-iphones-challenges/"><u>IOS Masterclass Toolkit: The Ultimate Resource for Solving Your iPhone's Challenges</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/no-cost-flv-video-editing-the-best-software-for-2024/"><u>No-Cost FLV Video Editing The Best Software for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spanish-lessons-101-animals-in-spanish/"><u>Spanish Lessons 101: Animals in Spanish</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unleash-your-creativity-best-android-video-editor-apps-for-chrome-os-for-2024/"><u>Unleash Your Creativity Best Android Video Editor Apps for Chrome OS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secrets-of-ftdibussys-and-windows-memory-standards/"><u>Unlocking the Secrets of ftdibus.sys & Windows Memory Standards</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-make-a-statement-best-free-animated-logo-design-software-plus-tips-from-the-pros/"><u>Updated In 2024, Make a Statement Best Free Animated Logo Design Software + Tips From the Pros</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-5-free-ways-to-join-mpeg-video-files-together/"><u>Updated In 2024, Top 5 Free Ways to Join MPEG Video Files Together</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-not-a-fan-of-final-cut-pro-x-here-are-10-alternative-video-editors-for-2024/"><u>Updated Not a Fan of Final Cut Pro X? Here Are 10 Alternative Video Editors for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-s-top-rated-video-maker-apps-with-music-for-smartphones/"><u>Updated S Top-Rated Video Maker Apps with Music for Smartphones</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

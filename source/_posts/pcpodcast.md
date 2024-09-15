@@ -1,7 +1,7 @@
 ---
 title: PCやスマートフォンで簡単にPodcast レコーディングのコツ
-date: 2024-09-08 16:32:21
-updated: 2024-09-11 10:26:55
+date: 2024-09-13T19:16:21.316Z
+updated: 2024-09-14T18:44:49.103Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876bcc8f6574b11c1b4a0b3d5df.jpg
@@ -75,6 +75,19 @@ Tips: You can also click on the “**Parameter settings**” button to [change t
 
 ![Windows Media Audio to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-2.webp) 
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows Media Audio to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-2-mobi.webp) 
 
 ### Step 3: Convert WMA Files to MP3 Now
@@ -89,6 +102,19 @@ Go back to the main interface, and click the triangle button to specify an outpu
 
 Also Read: [Play WMA on iPhone](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | [Play WMA on Android](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | [Five WMA Editors](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. iTunes/Apple Music (Windows/Mac)
 
 Besides using Free HD Video Converter to convert .wma to .mp3, you can also convert WMA to MP3 on your computer using Apple Music (iTunes). It is known to all that iTunes is mainly used for managing media files. But it also supports other functions, including converting WMA files to MP3 and other compatible formats. But it can only convert one file at a time and doesn’t allow specifying an output folder. The simple steps on how to convert WMA files to MP3 with iTunes are given below.
@@ -100,6 +126,13 @@ Step 3: Click on “**Import Settings**” from the “**Files (General)**” ta
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4.webp) 
 
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4-mobi.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Find the files you want to convert in the library. Or you can add the local files to the library by selecting “**File**” > “**Add File**”.  
 Step 4: Select the WMA file, click the “**File**” menu and select “**Convert**” > “**Create MP3 Version**”. Then your WMA files can be converted to MP3.
@@ -120,6 +153,13 @@ Step 1: Open VLC media player, go to “**Media**” > “**Convert/Save**” in
 Step 2: Hit the “**\+ Add**” button to import the WMA files and press the “**Convert/Save**” button below.  
 Step 3: Navigate to the Profile part and select “**Audio-MP3**” from the drop-down list.  
 Step 4: Click on “**Browse**” to specify an output file and hit the “**Start**” button to start the conversion.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. ZamZar (Online)
 
@@ -193,13 +233,18 @@ WonderFox HD Video Converter Factory Pro
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png "Back to Top")](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -207,3 +252,19 @@ WonderFox HD Video Converter Factory Pro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-snicker-spinner-picture-editor/"><u>[New] 2024 Approved Snicker Spinner Picture Editor</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-crafting-cinematic-slow-mo-videos-for-instagram-success/"><u>2024 Approved Crafting Cinematic Slow-Mo Videos for Instagram Success</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/alternative-options-for-digitizing-your-dvd-collection-after-vudu-ends-physical-media-conversion/"><u>Alternative Options for Digitizing Your DVD Collection After Vudu Ends Physical Media Conversion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spectacular-screens-7-premium-photo-editing-tools/"><u>In 2024, Spectacular Screens 7 Premium Photo Editing Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-ultimate-drone-selection-above-9-best-for-cinematic-craft/"><u>In 2024, Ultimate Drone Selection Above 9 Best for Cinematic Craft</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-vanish-without-a-trace-tips-for-anonymous-instagram-live/"><u>In 2024, Vanish Without A Trace Tips for Anonymous Instagram Live</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/revolutionize-your-editing-10-free-fcpx-plugin-must-haves-for-2024/"><u>Revolutionize Your Editing 10 Free FCPX Plugin Must-Haves for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-your-broadcasts-with-manycam-premier-virtual-webcam-and-video-production-tool-for-unparalleled-live-stream-quality/"><u>Transform Your Broadcasts with ManyCam: Premier Virtual Webcam & Video Production Tool for Unparalleled Live Stream Quality</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-free-mod-video-editing-software/"><u>Updated 2024 Approved The Ultimate Guide to Free MOD Video Editing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-fast-forward-best-gif-speed-editors-for-any-device/"><u>Updated In 2024, Fast Forward Best GIF Speed Editors for Any Device</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-s-top-music-video-makers-elevate-your-sound-with-style/"><u>Updated In 2024, S Top Music Video Makers Elevate Your Sound with Style</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Updated The Details Below Can Help You Make Color Correction Simply in Final Cut Pro
-date: 2024-09-09T02:55:00.711Z
-updated: 2024-09-10T02:55:00.711Z
+date: 2024-09-09T19:35:50.986Z
+updated: 2024-09-15T08:01:24.942Z
 tags: 
   - video editing software
   - video editing
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -44,18 +38,6 @@ The steps below can help all beginners to develop easy video edited projects usi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 **Related article:**
@@ -75,18 +57,6 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
@@ -99,30 +69,12 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
 ![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
 ![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
@@ -135,12 +87,6 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
 ![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
@@ -159,67 +105,11 @@ It is possible to preview all the corrections on the original image before makin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-elite-selection-advanced-vehicle-monitoring-systems/"><u>[New] Elite Selection  Advanced Vehicle Monitoring Systems</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-enjoy-uninterrupted-youtube-with-effective-adblocking-methods/"><u>[New] Enjoy Uninterrupted YouTube with Effective Adblocking Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-long-videos-on-youtube-through-effective-chapter-management/"><u>[New] Streamlining Long Videos on YouTube Through Effective Chapter Management</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-top-funny-image-processing-app-for-2024/"><u>[New] Top Funny Image Processing App for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-top-trending-and-most-viewed-prime-videos-twitterreactions-for-2024/"><u>[New] Top-Trending & Most Viewed Prime Videos, #TwitterReactions for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-step-by-step-process-for-screening-web-tv-episodes/"><u>[Updated] 2024 Approved  The Step-by-Step Process for Screening Web TV Episodes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-realistic-facial-rendering-implementing-motion-blur-in-photo-editing-via-picsart/"><u>2024 Approved  Realistic Facial Rendering  Implementing Motion Blur in Photo Editing via Picsart</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oneplus-11r-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror OnePlus 11R to Roku | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boosting-your-spotify-web-experience-overcome-lag-and-performance-hurdles/"><u>Boosting Your Spotify Web Experience - Overcome Lag and Performance Hurdles</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-hp-stream-drivers-available-now/"><u>Effortless Installation of HP Stream Drivers Available Now</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-does-onetastic-improve-your-microsoft-onenote-experience-our-in-depth-analysis/"><u>How Does Onetastic Improve Your Microsoft OneNote Experience? Our In-Depth Analysis</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-aggregating-the-top-5-mac-clipping-applications/"><u>In 2024, Aggregating the Top 5 Mac Clipping Applications</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-eluding-prying-eyes-privacy-preserving-video-editing/"><u>In 2024, Eluding Prying Eyes  Privacy-Preserving Video Editing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y200e-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y200e 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-trusted-6-online-communities-driving-business-growth/"><u>In 2024, Trusted 6 Online Communities Driving Business Growth</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-12-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 12 Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-video-editing-showdown-final-cut-pro-or-lumafusion/"><u>New Video Editing Showdown Final Cut Pro or LumaFusion?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-vlc-trimming-on-mac-made-simple-preserve-video-integrity-and-quality-for-2024/"><u>New VLC Trimming on Mac Made Simple Preserve Video Integrity and Quality for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-resolving-common-windows-os-issues/"><u>Quick Guide to Resolving Common Windows OS Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-windows-standard-power-profile/"><u>Restoring Windows' Standard Power Profile</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-of-microsofts-ai-models-understanding-gpt-4-gpt-4-turbo-and-gpt-n-variances/"><u>The Evolution of Microsoft's AI Models – Understanding GPT-4, GPT-4 Turbo and GPT-N Variances</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-list-of-free-mov-video-splitters-for-2024/"><u>The Ultimate List of Free MOV Video Splitters for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-lower-thirds-that-pop-advanced-techniques-for-fcpx-editors/"><u>Updated 2024 Approved Lower Thirds That Pop Advanced Techniques for FCPX Editors</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-reduce-file-size-not-quality-9-best-free-video-compressors-for-windows-10/"><u>Updated 2024 Approved Reduce File Size, Not Quality 9 Best Free Video Compressors for Windows 10</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-fcp-factor-10-successful-movies-that-used-final-cut-pro/"><u>Updated 2024 Approved The FCP Factor 10 Successful Movies That Used Final Cut Pro</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-producing-polished-professional-looking-videos/"><u>Updated 2024 Approved The Ultimate Guide to Producing Polished, Professional-Looking Videos</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-10-webm-to-mp4-conversion-tools-you-need-to-know/"><u>Updated 2024 Approved Top 10 WebM to MP4 Conversion Tools You Need to Know</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unleash-your-creative-potential-the-best-pro-audio-editing-tools/"><u>Updated 2024 Approved Unleash Your Creative Potential The Best Pro Audio Editing Tools</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-get-back-your-audio-avidemux-no-sound-solution-for-windowsmac-for-2024/"><u>Updated Get Back Your Audio Avidemux No Sound Solution for Windows/Mac for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-video-tagging-software-for-windows-and-macos/"><u>Updated In 2024, Best Video Tagging Software for Windows and macOS</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-color-correction-mastery-blending-video-clips-seamlessly-in-powerdirector/"><u>Updated In 2024, Color Correction Mastery Blending Video Clips Seamlessly in PowerDirector</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-hand-drawn-whiteboard-animation-makers/"><u>Updated In 2024, The Ultimate Guide to Hand-Drawn Whiteboard Animation Makers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-video-editing-in-windows-tips-tricks-and-techniques/"><u>Updated In 2024, The Ultimate Guide to Video Editing in Windows Tips, Tricks, and Techniques</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-your-creativity-the-top-ipad-video-editing-apps/"><u>Updated In 2024, Unleash Your Creativity The Top iPad Video Editing Apps</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-video-resumes-can-be-quite-effective-if-used-in-the-right-context-and-that-is-the-reason-why-weve-decided-to-take-you-through-some-of-the-be/"><u>Updated In 2024, Video Resumes Can Be Quite Effective if Used in the Right Context, and that Is the Reason Why Weve Decided to Take You Through some of the Best Video Resume Makers You Can Use to Get the Job Youve A</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-rotate-your-videos-for-free-top-picks-for-windows-mac-android-and-iphone-for-2024/"><u>Updated Rotate Your Videos for Free Top Picks for Windows, Mac, Android, and iPhone for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-take-your-videos-to-the-next-level-with-64-bit-editing/"><u>Updated Take Your Videos to the Next Level with 64-Bit Editing</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-imovie-replacements-you-need-to-know-about/"><u>Updated The Best Free iMovie Replacements You Need to Know About</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-5-free-mov-video-merger-software-options-for-2024/"><u>Updated The Ultimate List 5 Free MOV Video Merger Software Options for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-top-10-free-surveillance-software-for-home-security-2023-update/"><u>Updated Top 10 Free Surveillance Software for Home Security 2023 Update</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-top-10-vlogging-apps-for-ios-and-android-devices-for-2024/"><u>Updated Top 10 Vlogging Apps for iOS and Android Devices for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-top-free-gif-animation-creators/"><u>Updated Top Free GIF Animation Creators</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-top-video-editing-tools-for-professionals/"><u>Updated Top Video Editing Tools for Professionals</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-video-editing-essentials-freezing-frames-like-a-pro-for-2024/"><u>Updated Video Editing Essentials Freezing Frames Like a Pro for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-video-editing-software-showdown-virtualdub-vs-the-best-free-alternatives/"><u>Updated Video Editing Software Showdown Virtualdub Vs. The Best Free Alternatives</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-infinix-zero-30-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Infinix Zero 30 5G Auto Does Not Work | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -227,3 +117,31 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-becoming-an-insta-star-in-a-flash-top-15-insider-tactics-that-work-wonders-for-rapid-fame-growth-for-2024/"><u>[New] Becoming an Insta Star in a Flash Top 15 Insider Tactics That Work Wonders for Rapid Fame Growth for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-bridging-the-gap-youtube-editing-mastered-in-imovie-workflows/"><u>[Updated] In 2024, Bridging the Gap YouTube Editing Mastered in iMovie Workflows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-virtual-voyages-exploring-new-genre-for-2024/"><u>[Updated] Virtual Voyages Exploring New Genre for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-m34-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy M34?</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensure-office-applications-open-email-attachments-as-text-only-by-design/"><u>Ensure Office Applications Open Email Attachments as Text Only by Design</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-asmr-enhances-your-daily-life-learn-here/"><u>How ASMR Enhances Your Daily Life – Learn Here</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-play-7t-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor Play 7T Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/save-money-now-the-4-most-reliable-sources-for-filmora-discounts-for-2024/"><u>Save Money Now The 4 Most Reliable Sources for Filmora Discounts for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-insta-archivists-playbook-for-mastery/"><u>The Insta Archivist's Playbook for Mastery</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-crop-like-a-pro-mastering-video-editing-with-avidemux/"><u>Updated 2024 Approved Crop Like a Pro Mastering Video Editing with Avidemux</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-top-4k-video-editing-solutions-for-professionals/"><u>Updated 2024 Approved The Top 4K Video Editing Solutions for Professionals</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-edit-m4a-files-for-free-top-5-software-recommendations-for-2024/"><u>Updated Edit M4A Files for Free Top 5 Software Recommendations for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-3d-animation-software-is-not-easy-to-find-some-makers-are-even-free-and-simple-if-you-want-to-know-which-are-the-8-best-3d-animation-software-c/"><u>Updated Free 3D Animation Software Is Not Easy to Find. Some Makers Are Even Free and Simple. If You Want to Know Which Are the 8 Best 3D Animation Software, Check It Out for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-your-creativity-top-5-hand-drawing-whiteboard-animation-software/"><u>Updated In 2024, Unleash Your Creativity Top 5 Hand Drawing Whiteboard Animation Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-online-video-editing-essentials-download-edit-and-publish-like-a-pro-for-2024/"><u>Updated Online Video Editing Essentials Download, Edit, and Publish Like a Pro for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/yamaha-professional-audio-drivers-guidebook/"><u>Yamaha Professional Audio Drivers Guidebook</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

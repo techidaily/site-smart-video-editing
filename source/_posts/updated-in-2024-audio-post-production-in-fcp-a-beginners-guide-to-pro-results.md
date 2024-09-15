@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Post-Production in FCP A Beginners Guide to Pro Results
-date: 2024-09-09T02:55:05.418Z
-updated: 2024-09-10T02:55:05.418Z
+date: 2024-09-11T07:32:04.777Z
+updated: 2024-09-14T17:59:13.129Z
 tags: 
   - video editing software
   - video editing
@@ -14,12 +14,6 @@ keywords: gopro video post production on mac a beginners guide to pro results,au
 thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Audio Post-Production in FCP: A Beginner's Guide to Pro Results
 
 # How to Edit Audio of a Video on FCP
@@ -42,12 +36,6 @@ Those of you reading this article as a guide to audio editing of videos on Final
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to edit audio on FCP
 
 There are 2 ways of editing audio of videos on FCP-clip-level audio editing and advanced audio editing.
@@ -72,28 +60,10 @@ The audio of the video can be detached for editing the audio file separately. Th
 
 ![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
 ![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
 The Audio Inspector would allow you to apply the following effects:
@@ -103,22 +73,10 @@ The Audio Inspector would allow you to apply the following effects:
 
 ![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
 
 ![Effects](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-7.png)
@@ -135,57 +93,32 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-musical-integration-for-social-storytelling-platforms/"><u>[New] 2024 Approved  Musical Integration for Social Storytelling Platforms</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-concealed-chronicles-your-ultimate-guide-to-secret-stories-for-2024/"><u>[New] Concealed Chronicles  Your Ultimate Guide to Secret Stories for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ps5-ssd-and-hdd-wonders-top-10-exteriors/"><u>[New] PS5 SSD & HDD Wonders  Top 10 Exteriors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-sdr-to-hdr-conversion-companion-book/"><u>[New] The SDR to HDR Conversion Companion Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/"><u>[New] Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-unleashed-top-meme-creator/"><u>2024 Approved  Humor Unleashed  Top Meme Creator</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>2024 Approved  Sound Innovation at Hand  Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/getting-started-download-and-installs-for-surface-pro-4/"><u>Getting Started: Download & Installs for Surface Pro 4</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-life-lessons-video-ideas-for-self-expression-yt/"><u>In 2024, Life Lessons Video Ideas for Self-Expression YT</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-organize-your-videos-best-mp4-metadata-taggers-for-pc-and-mac/"><u>In 2024, Organize Your Videos Best MP4 Metadata Taggers for PC and Mac</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-best-windows-10-photos-alternatives/"><u>In 2024, The Ultimate List Best Windows 10 Photos Alternatives</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-of-glitch-art-video-editors-for-mobile-devices/"><u>In 2024, The Ultimate List of Glitch Art Video Editors for Mobile Devices</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-tiktok-watermark-removal-made-easy-top-picks-and-reviews/"><u>In 2024, TikTok Watermark Removal Made Easy Top Picks and Reviews</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-unleash-your-creativity-top-free-online-video-editors/"><u>In 2024, Unleash Your Creativity Top Free Online Video Editors</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/mavericks-mp4-video-editor-simplify-your-editing-process-for-2024/"><u>Mavericks MP4 Video Editor Simplify Your Editing Process for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-6-best-free-online-imovie-alternatives/"><u>New 2024 Approved 6 Best Free Online iMovie Alternatives</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-music-for-free-top-10-recording-software-options/"><u>New 2024 Approved Create Music for Free Top 10 Recording Software Options</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-cut-and-trim-divx-videos-for-free-top-6-tools/"><u>New 2024 Approved Cut and Trim Divx Videos for Free Top 6 Tools</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-final-cut-pro-color-grading-essentials/"><u>New 2024 Approved Final Cut Pro Color Grading Essentials</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-from-webm-to-mp4-the-top-10-conversion-tools-you-need/"><u>New 2024 Approved From WebM to MP4 The Top 10 Conversion Tools You Need</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-loop-repeat-and-relax-top-10-free-video-looping-services/"><u>New 2024 Approved Loop, Repeat, and Relax Top 10 Free Video Looping Services</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mac-users-rejoice-free-adobe-premiere-pro-cs6-download-updated-2023/"><u>New 2024 Approved Mac Users Rejoice Free Adobe Premiere Pro CS6 Download (Updated 2023)</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mastering-final-cut-pro-a-step-by-step-guide-to-flipping-clips/"><u>New 2024 Approved Mastering Final Cut Pro A Step-by-Step Guide to Flipping Clips</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-video-editing-tools-for-young-creators-free-and-paid-options/"><u>New 2024 Approved Top Video Editing Tools for Young Creators Free and Paid Options</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-transform-your-clips-time-lapse-video-editing-essentials-in-final-cut-pro/"><u>New 2024 Approved Transform Your Clips Time Lapse Video Editing Essentials in Final Cut Pro</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-unblur-your-creativity-top-video-blur-apps-for-mobile-devices/"><u>New 2024 Approved Unblur Your Creativity Top Video Blur Apps for Mobile Devices</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-valentines-day-on-a-personal-level-create-a-customized-video-message/"><u>New 2024 Approved Valentines Day on a Personal Level Create a Customized Video Message</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-video-editing-on-a-shoestring-16-free-and-intuitive-movie-makers/"><u>New 2024 Approved Video Editing on a Shoestring 16 Free and Intuitive Movie Makers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-vn-video-editor-for-mac-simple-and-powerful-video-editor/"><u>New 2024 Approved VN Video Editor for Mac Simple and Powerful Video Editor</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-zero-cost-wonders-the-best-free-vob-video-editing-software/"><u>New 2024 Approved Zero-Cost Wonders The Best Free VOB Video Editing Software</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-create-engaging-content-10-leading-animated-text-generator-options-for-2024/"><u>New Create Engaging Content 10 Leading Animated Text Generator Options for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-free-avi-video-joiner-software-merge-clips-in-minutes-for-2024/"><u>New Free AVI Video Joiner Software Merge Clips in Minutes for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-from-ingest-to-delivery-mastering-video-import-and-export-in-adobe-premiere-for-2024/"><u>New From Ingest to Delivery Mastering Video Import and Export in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-gopro-quik-worth-it-plus-top-pc-video-editing-alternatives-for-2024/"><u>New GoPro Quik Worth It? Plus, Top PC Video Editing Alternatives for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-flv-video-editing-solutions-top-5-recommendations/"><u>New In 2024, Free FLV Video Editing Solutions Top 5 Recommendations</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-gif-looping-made-easy-best-free-software/"><u>New In 2024, GIF Looping Made Easy Best Free Software</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-mac-video-editor-reviews-the-best-of/"><u>New In 2024, Mac Video Editor Reviews The Best Of</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-speed-up-your-story-two-easy-ways-to-create-stunning-time-lapse-videos/"><u>New In 2024, Speed Up Your Story Two Easy Ways to Create Stunning Time Lapse Videos</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/purchase-bitraser-the-ultimate-secure-disk-wiping-tool/"><u>Purchase BitRaser: The Ultimate Secure Disk Wiping Tool</u></a></li>
-<li><a href="https://games-able.techidaily.com/storing-and-streamlining-gaming-history-using-chdman-compression/"><u>Storing and Streamlining Gaming History Using CHDMAN Compression</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-art-of-digital-discourse-gpt-vs-bingai-analysis/"><u>The Art of Digital Discourse: GPT Vs. BingAI Analysis</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-popular-social-channels-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Popular Social Channels: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-2023-emulators-top-ps3-games-for-pc-for-2024/"><u>[Updated] Leading 2023 Emulators Top PS3 Games for PC for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-collection-of-10-advanced-fcp-tools/"><u>[Updated] The Ultimate Collection of 10 Advanced FCP Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-unbeatable-chatgpt-plugins-to-transform-your-site-today/"><u>5 Unbeatable ChatGPT Plugins to Transform Your Site Today</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-make-excel-hyperlinks-working-stellar-by-stellar-guide/"><u>Easy Steps to Make Excel Hyperlinks Working | Stellar</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-strategies-to-resolve-kernelbasedll-crashes-efficiently-and-safely/"><u>Expert Strategies to Resolve KernelBase.dll Crashes Efficiently & Safely</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gopro-versus-polaroid-editing-faces-vs-cameras-that-shoot-them/"><u>GoPro Versus Polaroid Editing Faces Vs. Cameras That Shoot Them</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-7-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 7 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-smooth-4k-projects-optimizing-premiere-pro-for-lag-free-video-edits/"><u>Mastering Smooth 4K Projects: Optimizing Premiere Pro for Lag-Free Video Edits</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-cutting-edge-free-flv-video-editing-software/"><u>Updated In 2024, Cutting-Edge Free FLV Video Editing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-your-creativity-7-best-animation-drawing-software-for-artists/"><u>Updated In 2024, Unleash Your Creativity 7 Best Animation Drawing Software for Artists</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-videopad-video-editor-does-it-live-up-to-the-hype-a-review-and-recommendation/"><u>Updated Videopad Video Editor Does It Live Up to the Hype? A Review and Recommendation</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

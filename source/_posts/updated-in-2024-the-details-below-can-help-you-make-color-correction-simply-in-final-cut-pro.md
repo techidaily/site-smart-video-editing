@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Details Below Can Help You Make Color Correction Simply in Final Cut Pro
-date: 2024-09-09T02:55:05.150Z
-updated: 2024-09-10T02:55:05.150Z
+date: 2024-09-13T23:40:36.450Z
+updated: 2024-09-15T03:01:25.403Z
 tags: 
   - video editing software
   - video editing
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -63,18 +57,6 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
@@ -83,12 +65,6 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
 ![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
@@ -103,12 +79,6 @@ As soon as you make this selection, the video scopes window will automatically a
 
 ![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 3
 
 Now it is time to work on color correction directly. There are three types of color corrections that users need to work upon: Hue, Saturation, and Exposure. Here is some brief information about all of these:
@@ -117,28 +87,10 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
 ![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
 ![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
@@ -149,12 +101,6 @@ It is possible to preview all the corrections on the original image before makin
 
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
@@ -165,42 +111,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-efficiently-edit-your-youtube-videos-using-sony-vegas/"><u>[New] 2024 Approved  Efficiently Edit Your YouTube Videos Using Sony Vegas</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-leading-gratis-converters-srt-edition/"><u>[New] Unveiling the Leading Gratis Converters  SRT Edition</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-capture-and-convert-fb-videos-immediitsly-to-mp3-for-2024/"><u>[Updated] Capture and Convert FB Videos Immediitsly to MP3 for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-top-tips-navigating-the-latest-facebook-features/"><u>[Updated] In 2024, Top Tips  Navigating the Latest Facebook Features</u></a></li>
-<li><a href="https://review-topics.techidaily.com/2-ways-to-transfer-text-messages-from-xiaomi-13t-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Xiaomi 13T Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-top-6-online-communities-catering-to-the-commercial-world/"><u>2024 Approved  Top 6 Online Communities Catering to the Commercial World</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ace-your-admin-duties-5-innovative-prompts-for-expedited-hr-tasks-using-conversational-ai/"><u>Ace Your Admin Duties: 5 Innovative Prompts for Expedited HR Tasks Using Conversational AI</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/effortless-group-chats-joining-zoom-on-your-android/"><u>Effortless Group Chats  Joining Zoom on Your Android</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-poco-x6-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Poco X6 Pro</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-premiere-pro-cs6-mac-free-download-installation-and-activation/"><u>In 2024, Premiere Pro CS6 Mac Free Download, Installation, and Activation</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-guide-to-glitch-video-editors-top-picks-for-windows-mac-and-web/"><u>In 2024, The Ultimate Guide to Glitch Video Editors Top Picks for Windows, Mac, and Web</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-top-10-online-tools-to-convert-images-to-videos/"><u>In 2024, Top 10 Online Tools to Convert Images to Videos</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-wmv-video-splitter-free-download-top-choices/"><u>In 2024, WMV Video Splitter Free Download Top Choices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-iphone-photography-overcoming-common-auto-focus-failures/"><u>Mastering iPhone Photography: Overcoming Common Auto-Focus Failures</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/mod-video-editing-on-a-budget-top-5-free-options-for-2024/"><u>MOD Video Editing on a Budget Top 5 Free Options for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-a-beginners-guide-to-installing-videoleap-on-macbook/"><u>New 2024 Approved A Beginners Guide to Installing Videoleap on MacBook</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-buggy-fcpx-learn-how-to-reset-and-reboot/"><u>New 2024 Approved Buggy FCPX? Learn How to Reset and Reboot</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-unforgettable-lip-sync-videos-with-these-5-top-rated-apps/"><u>New 2024 Approved Create Unforgettable Lip Sync Videos with These 5 Top-Rated Apps</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-top-10-best-online-video-editors-no-watermark/"><u>New 2024 Approved FREE Top 10 Best Online Video Editors No Watermark</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-stop-time-in-its-tracks-how-to-freeze-frames-in-your-favorite-video-editor/"><u>New 2024 Approved Stop Time in Its Tracks How to Freeze Frames in Your Favorite Video Editor</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-adobe-premiere-pro-cs6-mac-version-get-it-free-for-2024/"><u>New Adobe Premiere Pro CS6 Mac Version Get It Free for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-beyond-chrome-os-how-to-run-windows-and-mac-video-editing-software-on-your-chromebook-for-2024/"><u>New Beyond Chrome OS How to Run Windows and Mac Video Editing Software on Your Chromebook for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-cut-and-split-mpeg-videos-with-these-5-free-software-options-for-2024/"><u>New Cut and Split MPEG Videos with These 5 Free Software Options for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-effortless-video-editing-on-windows-microsoft-video-editor-review-for-2024/"><u>New Effortless Video Editing on Windows Microsoft Video Editor Review for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-generate-realistic-avatars-top-free-online-face-creators-for-2024/"><u>New Generate Realistic Avatars Top Free Online Face Creators for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-color-unify-a-step-by-step-guide-to-matching-video-clips-in-powerdirector/"><u>New In 2024, Color Unify A Step-by-Step Guide to Matching Video Clips in PowerDirector</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-mov-video-stitching-software-top-5-choices/"><u>New In 2024, Free MOV Video Stitching Software Top 5 Choices</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-send-local-videos-to-chromecast-easy-setup-for-windows-mac-android-and-ios/"><u>New In 2024, Send Local Videos to Chromecast Easy Setup for Windows, Mac, Android, and iOS</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-best-free-video-editing-programs-for-learners/"><u>New In 2024, The Best Free Video Editing Programs for Learners</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-fun-car-games-for-kids-for-2024/"><u>[New] Best Fun Car Games for Kids for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-gamers-guide-to-free-game-recording-tools/"><u>[New] Gamers' Guide to Free Game Recording Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-videocapture-clash-royale/"><u>[New] In 2024, VideoCapture Clash Royale</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-computing-solutions-by-toms-guides/"><u>Advanced Computing Solutions by Tom's Guides</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/affordable-entertainment-how-students-can-enjoy-youtube-premium-for-less/"><u>Affordable Entertainment: How Students Can Enjoy YouTube Premium for Less</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-annual-list-highest-rated-free-lut-sources-online/"><u>In 2024, Annual List Highest Rated FREE LUT Sources Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-hidden-risks-of-shadowing-online-profiles/"><u>The Hidden Risks of Shadowing Online Profiles</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-edit-flv-files-with-ease-top-windows-8-video-editing-software/"><u>Updated 2024 Approved Edit FLV Files with Ease Top Windows 8 Video Editing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-here-are-some-of-the-best-free-and-paid-split-screen-video-editors-and-makers-that-you-can-use-online-and-offline/"><u>Updated 2024 Approved Here Are some of the Best Free and Paid Split-Screen Video Editors and Makers that You Can Use Online and Offline</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-adobe-premiere-pro-cs6-mac-edition-free-to-use/"><u>Updated In 2024, Adobe Premiere Pro CS6 Mac Edition - Free to Use</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-record-your-desktop-like-a-pro-a-filmora-scrn-guide/"><u>Updated In 2024, Record Your Desktop Like a Pro A Filmora Scrn Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-replace-imovie-with-these-top-rated-windows-10-video-editors/"><u>Updated Replace iMovie with These Top-Rated Windows 10 Video Editors</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
