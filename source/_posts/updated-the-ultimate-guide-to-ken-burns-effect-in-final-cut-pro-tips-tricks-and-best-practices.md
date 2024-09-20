@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Ken Burns Effect in Final Cut Pro Tips, Tricks, and Best Practices
-date: 2024-09-12T18:07:09.700Z
-updated: 2024-09-14T16:20:57.023Z
+date: 2024-09-15T17:20:53.864Z
+updated: 2024-09-19T16:04:24.218Z
 tags: 
   - video editing software
   - video editing
@@ -67,22 +67,15 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -104,6 +97,13 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -128,15 +128,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-high-quality-photography-lenses/"><u>[New] Top 10 High-Quality Photography Lenses</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-incredible-live-stream-options-a-compilation/"><u>2024 Approved Incredible Live Stream Options - A Compilation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/my-experience-with-protondrive-a-comprehensive-review-of-the-secure-alternative-to-google-docs/"><u>My Experience with ProtonDrive - A Comprehensive Review of the Secure Alternative to Google Docs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/recommendations-on-multipurpose-gadgets-and-clothing-that-can-adapt-to-various-climates-and-situations/"><u>Recommendations on Multipurpose Gadgets and Clothing that Can Adapt to Various Climates and Situations.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-car-connector-dive-into-our-review-of-the-sumind-bt7b-adapter/"><u>The Best Car Connector? Dive Into Our Review of the Sumind BT7#B Adapter</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-pro-max-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-free-wmv-video-merger-tools-top-picks-for-2024/"><u>Updated Free WMV Video Merger Tools Top Picks for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-how-to-flip-video-quickly-and-easily-for-2024/"><u>Updated How to Flip Video Quickly and Easily for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-royalty-free-video-heaven-top-download-sites/"><u>Updated Royalty-Free Video Heaven Top Download Sites</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-art-of-color-grading-in-final-cut-pro-for-2024/"><u>Updated The Art of Color Grading in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-8-free-and-online-facebook-link-downloaders-for-2024/"><u>[New] 8 Free And Online Facebook Link Downloaders for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-fans-gain-more-with-streamed-content-sharing/"><u>[New] Facebook Fans Gain More with Streamed Content Sharing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/drones-buying-guide-thing-you-need-to-know-before-buying-a-drone/"><u>Drones Buying Guide Thing You Need to Know Before Buying a Drone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/express-creativity-infuse-laughter-kapwing-guide/"><u>Express Creativity, Infuse Laughter - Kapwing Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-do-i-fix-a-video-card-problem/"><u>How Do I Fix a Video Card Problem?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cost-effective-aerospace-for-huge-datasets-at-low-rates/"><u>In 2024, Cost-Effective AeroSpace for Huge Datasets at Low Rates</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/itunes-video-mp4-conversion-techniques-how-to-transform-your-videos/"><u>ITunes Video MP4 Conversion Techniques - How to Transform Your Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mastering-the-art-of-screenshotting-and-recording-on-vlc-media-player/"><u>Mastering the Art of Screenshotting and Recording on VLC Media Player</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mkv-ps3/"><u>MKVファイルのプレーヤー設定: PS3環境でスムーズに視聴するためのチュートリアル</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mp4-vlcvob/"><u>MP4形式に変換: VLCを使ってVOBファイルを効率よく変更する方法</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mp4-wav-mp3/"><u>MP4ファイルからのオーディオコンバート: WAV, MP3へと簡単ガイド</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-photodna-its-functionality-unveiled/"><u>Understanding PhotoDNA: Its Functionality Unveiled</u></a></li>
 </ul></div>
 
