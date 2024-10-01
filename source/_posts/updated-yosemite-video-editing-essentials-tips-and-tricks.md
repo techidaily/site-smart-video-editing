@@ -1,7 +1,7 @@
 ---
 title: Updated Yosemite Video Editing Essentials Tips and Tricks
-date: 2024-09-11T23:58:45.704Z
-updated: 2024-09-14T21:42:12.484Z
+date: 2024-09-30T16:22:17.284Z
+updated: 2024-10-01T16:05:08.165Z
 tags: 
   - video editing software
   - video editing
@@ -52,17 +52,45 @@ If you want to add an additional audio file as the background music to the video
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Add transition and other effects**
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -81,12 +109,24 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unlocking-the-full-potential-of-youtube-video-interactions/"><u>[New] In 2024, Unlocking the Full Potential of YouTube Video Interactions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-video-mastery-on-windows-and-mobile-a-unified-guide-for-users-for-2024/"><u>[Updated] FB Video Mastery on Windows & Mobile A Unified Guide for Users for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-lava-storm-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Lava Storm 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-tutorial-on-implementing-chatgpt-extensions/"><u>Comprehensive Tutorial on Implementing ChatGPT Extensions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-huawei-p60-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-the-best-audio-recording-options-for-apple-products/"><u>In 2024, Unveiling the Best Audio Recording Options for Apple Products</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-6s-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 6s Plus Location | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-overcoming-lag-in-the-elder-scrolls-onlines-blackwood-area/"><u>Troubleshooting Complete: Overcoming Lag in The Elder Scrolls Online's Blackwood Area</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unbrand-your-videos-removing-filmora-watermark-made-easy-for-2024/"><u>Unbrand Your Videos Removing Filmora Watermark Made Easy for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-s-top-picks-android-video-editor-apps-compatible-with-chromebook/"><u>Updated 2024 Approved S Top Picks Android Video Editor Apps Compatible with Chromebook</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-highlight-video-makers/"><u>Updated In 2024, Best Highlight Video Makers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-neon-font-generators-create-stunning-text-in-minutes/"><u>Updated In 2024, Best Neon Font Generators Create Stunning Text in Minutes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-free-animation-software-roundup-windows-and-mac-compatible/"><u>Updated In 2024, Free Animation Software Roundup Windows and Mac Compatible</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-voice-over-mastery-essential-fcp-recording-hacks/"><u>Updated In 2024, Voice Over Mastery Essential FCP Recording Hacks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-setting-up-your-dream-machine-for-premiere-pro-video-editing/"><u>Updated Setting Up Your Dream Machine for Premiere Pro Video Editing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/xml-for-fcpx-beginners-and-beyond-a-comprehensive-resource-for-2024/"><u>XML for FCPX Beginners and Beyond A Comprehensive Resource for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/movavi-online-mxf-wav/"><u>무료 변환기: 이제 Movavi를 활용하여 Online에서 MXF 파일을 WAV로 쉽게 전환할 수 있어요!</u></a></li>
+</ul></div>
 

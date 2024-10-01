@@ -1,7 +1,7 @@
 ---
 title: "System Update Needed: Match or Exceed Minimum CPU Standards to Launch Vanguard"
-date: 2024-09-11T23:34:31.558Z
-updated: 2024-09-15T03:47:18.169Z
+date: 2024-09-24T16:51:54.353Z
+updated: 2024-10-01T16:20:07.312Z
 tags:
   - win11
   - win10
@@ -45,11 +45,25 @@ A screenshot of The King of Fighters XV from Steam
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **If you’re playing KOF XV on Epic games Launcher** , follow the instructions below:
 
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. Click on the **three dots** under the **THE KING OF FIGHTERS XV** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -84,16 +98,10 @@ There’re mainly two ways you can update your graphics drivers:
 Or
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
@@ -115,6 +123,13 @@ Or
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -133,6 +148,13 @@ Run KOF XV and check if it crashes or not.
 
  Launch KOF XV and see if it crashes again. If this issue persists, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Install the latest DirectX files
 
  Most games require DirectX 11 to run properly, and THE KING OF FIGHTERS XV is no exception. Try updating / install the latest DirectX version to see if this helps fix the game crashing issue:
@@ -141,6 +163,14 @@ Run KOF XV and check if it crashes or not.
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and launch KOF XV.
 
  See if the game crashes again after you installed the latest DirectX file.
@@ -167,13 +197,6 @@ If this fix didn’t work for you, try the next fix, below.
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epic Games Launcher** and select**Repair** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
  After Windows repaired Epic Games Launcher, launch KOF XV to see if it will crash. If it still crashes, try the next fix, below.
@@ -186,35 +209,29 @@ If this fix didn’t work for you, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -254,5 +271,26 @@ If this fix didn’t work for you, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/arning-through-online-beauty-networks/"><u>[New] Earning Through Online Beauty Networks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-smarter-streaming-directly-connecting-obs-with-fb/"><u>[Updated] 2024 Approved Smarter Streaming Directly Connecting OBS with FB</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/6laf44kv44oq44ki44gq44ot44oh44kq44ov44kp44o844oe44od44oi44gr44gz44kl44gf44kb44gu5bcc6zaa55qe44og44kv44ol44od44kv6zug/"><u>超クリアなビデオフォーマットにするための専門的テクニック集</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/6z2p5paw55qe44gq44ot44oh44kq44kz44oz44oq44o844k44o85aplusplus562w44oe44o844oric0g576o44gx44gp44cb5qmf6io95ocn44ks6auy44kb44kl57eo6zug44k944ov44oi5o6o6jam/"><u>革新的なビデオコンバーター対策ツール - 美しく、機能性を高める編集ソフト推薦</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726030659419-aviutl/"><u>基本的な手順：AviUtlを使った音声ファイルの簡単な編集 - カットとボリューム調整</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/avid/"><u>Avidに最適なダウンサイジング技術: アーカイブ形式のスムーズな縮小と編集</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/best-methods-to-extract-afreecatv-content-a-comprehensive-guide-on-downloading-without-cost/"><u>Best Methods to Extract AfreecaTV Content: A Comprehensive Guide on Downloading without Cost</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/complete-step-by-step-tutorial-for-recording-the-entire-screen-on-a-windows-11-pc/"><u>Complete Step-by-Step Tutorial for Recording the Entire Screen on a Windows 11 PC</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/convert-mp4-files-to-ogv-format-for-free-simple-steps-and-tips/"><u>Convert MP4 Files to OGV Format for Free - Simple Steps and Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/efficient-solutions-for-when-your-epic-games-launcher-keeps-failing-to-open/"><u>Efficient Solutions for When Your Epic Games Launcher Keeps Failing to Open</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-note-30i-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-15-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 15 and iPad Securely</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-motorola-moto-g-5g-2023-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Motorola Moto G 5G (2023) Phone Now with These Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-honor-90-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor 90 Pro FRP</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-10-52024/"><u>Windows 10 動画編集ツール強化チャート ベスト5（2024年度更新）</u></a></li>
+<li><a href="https://games-able.techidaily.com/workstation-vs-console-a-technical-dichotomy/"><u>Workstation Vs. Console: A Technical Dichotomy</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/44k344on44o844oi44og44o844ot44o844go44k544oi44o844oq44o85yuv55s744ks44gk44gq44gq5yq55p6c55qe44gq5oml5rov/"><u>ショートムービーとストーリー動画をつなぐ効果的な手法</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/44or44k944kz44oz44go44oi44oq44kk44or56uv5pyr44gn5pya6ygp44gq44ov44os44o844og44os44o844oi44ks5a6f54plusplus44gz44kl44ot44oh44kq5asj5oplusb5pa55rov/"><u>パソコンとモバイル端末で最適なフレームレートを実現するビデオ変換方法</u></a></li>
+</ul></div>
 

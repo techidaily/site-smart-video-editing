@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Ken Burns Effect in Final Cut Pro Tips, Tricks, and Best Practices
-date: 2024-09-15T17:20:53.864Z
-updated: 2024-09-19T16:04:24.218Z
+date: 2024-09-29T16:02:30.383Z
+updated: 2024-10-01T16:07:44.333Z
 tags: 
   - video editing software
   - video editing
@@ -43,6 +43,13 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -57,6 +64,13 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -67,16 +81,16 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -92,18 +106,18 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -126,5 +140,21 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-zoom-your-stories-to-attention-on-instagram/"><u>[New] In 2024, Zoom Your Stories to Attention on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-free-high-quality-subtitle-tools/"><u>2024 Approved The Ultimate Guide to FREE, High-Quality Subtitle Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/combatting-loss-of-detail-on-online-video/"><u>Combatting Loss of Detail on Online Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/debating-the-need-for-itop-screencasting/"><u>Debating the Need for ITop Screencasting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-digital-marketing-frontiers-the-metaverse/"><u>Exploring Digital Marketing Frontiers The Metaverse</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfect-your-android-experience-with-screen-and-video-tech/"><u>In 2024, Perfect Your Android Experience with Screen & Video Tech</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-leading-7-android-apps-to-cut-out-intrusive-ads/"><u>In 2024, The Leading 7 Android Apps to Cut Out Intrusive Ads</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/taking-your-videos-to-the-next-level-expert-pc-methods-for-youtubers-for-2024/"><u>Taking Your Videos to the Next Level Expert PC Methods for YouTubers for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-get-your-game-on-top-10plus-sites-to-download-games-for-free/"><u>Updated 2024 Approved Get Your Game On Top 10+ Sites to Download Games for Free</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-android-video-editing-made-easy-top-10-free-and-paid-apps/"><u>Updated In 2024, Android Video Editing Made Easy Top 10 Free and Paid Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-cut-trim-and-merge-videos-for-free-the-ultimate-beginners-toolset/"><u>Updated In 2024, Cut, Trim, and Merge Videos for Free The Ultimate Beginners Toolset</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-top-10-free-mkv-cutter-tools-you-should-try-for-2024/"><u>Updated The Top 10 Free MKV Cutter Tools You Should Try for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-dual-screen-video-editing-apps-for-mobile-devices-for-2024/"><u>Updated Top Dual-Screen Video Editing Apps for Mobile Devices for 2024</u></a></li>
+</ul></div>
 

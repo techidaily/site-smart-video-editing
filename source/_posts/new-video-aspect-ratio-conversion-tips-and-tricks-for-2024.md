@@ -1,7 +1,7 @@
 ---
 title: New Video Aspect Ratio Conversion Tips and Tricks for 2024
-date: 2024-09-12T01:05:50.028Z
-updated: 2024-09-14T16:16:04.606Z
+date: 2024-09-30T16:38:45.837Z
+updated: 2024-10-01T16:13:43.306Z
 tags: 
   - video editing software
   - video editing
@@ -60,6 +60,13 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
 **Step 1: Import the Video and Get to the Crop and Zoom Window**
@@ -78,6 +85,13 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -85,6 +99,13 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -136,6 +157,13 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -149,12 +177,23 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-quick-start-methods-for-producing-and-perfecting-multiple-snaps-in-snapchat/"><u>[New] In 2024, Quick Start Methods for Producing and Perfecting Multiple Snaps in Snapchat</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-panoramapro-x7-zoom-and-refine-photos-effortlessly/"><u>[New] PanoramaPro X7 Zoom & Refine Photos Effortlessly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-thrifty-pc-recording-utilities/"><u>[New] Thrifty PC Recording Utilities</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-yet-robust-an-experts-take-on-the-impressive-hardware-of-xbox-series-s/"><u>Compact Yet Robust: An Expert's Take on the Impressive Hardware of Xbox Series S</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-update-your-razer-graphicscontroller-drivers-for-windows-11-to-vista-users/"><u>Download Update Your Razer Graphics/Controller Drivers for Windows 11 to Vista Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-a-comprehensive-walkthrough-of-adding-text-to-instagram-clips/"><u>In 2024, A Comprehensive Walkthrough of Adding Text to Instagram Clips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-image-editing-with-these-top-8-tablets-beyond-filmoras-reach/"><u>In 2024, Master Image Editing with These Top 8 Tablets Beyond Filmora's Reach</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-10-free-video-repeater-tools-for-endless-loops-for-2024/"><u>Top 10 Free Video Repeater Tools for Endless Loops for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-capture-to-creation-easy-video-editing-with-gopro-quik-on-macbook/"><u>Updated 2024 Approved From Capture to Creation Easy Video Editing with GoPro Quik on MacBook</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-install-lumafusion-on-macbook-proair-or-find-suitable-alternatives/"><u>Updated 2024 Approved Install Lumafusion on MacBook Pro/Air or Find Suitable Alternatives</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-5-hand-drawing-whiteboard-animation-makers-online-tools-included/"><u>Updated 2024 Approved Top 5 Hand Drawing Whiteboard Animation Makers Online Tools Included</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-windows-10-movie-creation-tools-our-top-picks/"><u>Updated 2024 Approved Windows 10 Movie Creation Tools Our Top Picks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-get-rid-of-tiktok-watermarks-the-best-online-removal-methods-for-2024/"><u>Updated Get Rid of TikTok Watermarks The Best Online Removal Methods for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-are-rtx-graphics-cards-unlocking-the-secrets-behind-nvidias-latest-tech/"><u>What Are RTX Graphics Cards? Unlocking the Secrets Behind NVIDIA's Latest Tech</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/xml-demystified-unlocking-fcpxs-full-potential-for-2024/"><u>XML Demystified Unlocking FCPXs Full Potential for 2024</u></a></li>
+</ul></div>
 

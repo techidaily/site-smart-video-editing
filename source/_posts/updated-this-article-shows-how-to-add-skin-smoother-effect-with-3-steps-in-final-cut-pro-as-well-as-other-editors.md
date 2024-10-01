@@ -1,7 +1,7 @@
 ---
 title: Updated This Article Shows How to Add Skin Smoother Effect with 3 Steps in Final Cut Pro as Well as Other Editors
-date: 2024-09-09T22:33:44.401Z
-updated: 2024-09-14T20:53:29.794Z
+date: 2024-09-25T16:21:28.198Z
+updated: 2024-10-01T16:02:31.184Z
 tags: 
   - video editing software
   - video editing
@@ -111,14 +111,29 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 1. Purchase and download the Skin Smoother 2 plugin. Go to downloads, unzip the folder containing the plugin and install it on your computer.
 2. Open the FCPX, go to Effects, and click on Skin Smoother 2\. A list of options will appear. Import the image or video you want to edit.![Skin_Smoother_Effect_4](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_4.png)
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
@@ -128,10 +143,10 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
@@ -173,5 +188,19 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-stream-like-a-pro-integrate-your-obs-setup-for-youtube-and-twitch-for-2024/"><u>[New] Stream Like a Pro Integrate Your OBS Setup for YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-93-spanish-expressions-perfect-voyage-companion/"><u>Essential 93 Spanish Expressions: Perfect Voyage Companion</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-tips-on-mending-corrupted-jpeg-pictures-using-the-latest-fix-it-tech/"><u>Expert Tips on Mending Corrupted JPEG Pictures Using the Latest Fix-It Tech</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-a-guide-to-conveniently-documenting-your-gaming-victories/"><u>In 2024, A Guide to Conveniently Documenting Your Gaming Victories</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-perfect-pixel-setup-on-a-samsung-qled-screen/"><u>Mastering the Perfect Pixel Setup on a Samsung QLED Screen</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-guide-transforming-mov-videos-into-mp4-format-on-windows-mac-and-online-tools/"><u>Step-by-Step Guide: Transforming MOV Videos Into MP4 Format on Windows, Mac & Online Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-tutorial-for-splitting-mp4mov-videos-on-windows-and-mac/"><u>Step-by-Step Tutorial for Splitting MP4/MOV Videos on Windows and Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-tutorial-on-converting-dvds-into-jellyfin-format-with-simplicity/"><u>Step-by-Step Tutorial on Converting DVDs Into Jellyfin Format with Simplicity</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-5-simple-methods-convert-and-download-your-favorite-vimeo-videos-as-mp4-for-free/"><u>Top 5 Simple Methods: Convert & Download Your Favorite Vimeo Videos as MP4 - For Free!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/transforming-webm-videos-into-avi-format-comprehensive-guide-for-online-and-local-solutions/"><u>Transforming WebM Videos Into AVI Format: Comprehensive Guide for Online and Local Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-off-automatic-song-switching-on-apple-music-with-these-simple-steps/"><u>Turn Off Automatic Song Switching on Apple Music with These Simple Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/walking-dead-an-insiders-guide-to-best-zombie-experiences-for-2024/"><u>Walking Dead An Insider's Guide to Best Zombie Experiences for 2024</u></a></li>
+</ul></div>
 
