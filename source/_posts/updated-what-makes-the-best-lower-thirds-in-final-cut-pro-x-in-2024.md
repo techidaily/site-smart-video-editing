@@ -1,7 +1,7 @@
 ---
 title: Updated What Makes the Best Lower Thirds in Final Cut Pro X, In 2024
-date: 2024-08-22T11:45:47.063Z
-updated: 2024-08-23T11:45:47.063Z
+date: 2024-09-30T22:30:28.977Z
+updated: 2024-10-06T16:29:08.324Z
 tags: 
   - video editing software
   - video editing
@@ -47,6 +47,19 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -58,6 +71,13 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -110,27 +130,18 @@ You can download the app and install them in your system. Launch the tool by dou
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
@@ -144,11 +155,12 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -167,9 +179,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -178,16 +187,11 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -195,3 +199,27 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-seamless-screen-saving-on-iphone/"><u>[New] 2024 Approved Seamless Screen Saving on iPhone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-conquer-windows-10-a-mov-filming-masterclass-for-2024/"><u>[New] Conquer Windows 10 A MOV Filming Masterclass for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-crafting-captivating-instagram-puzzles-a-step-by-step-approach/"><u>[New] Crafting Captivating Instagram Puzzles A Step-by-Step Approach</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-de-vibratory-techniques-for-drone-video-clarity/"><u>[New] De-Vibratory Techniques for Drone Video Clarity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ising-through-the-rankings-adding-highlight-channels-to-youtube-for-2024/"><u>[New] Rising Through the Rankings Adding Highlight Channels to YouTube for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-swift-solution-tweeting-videos-not-functioning-chrome-for-2024/"><u>[New] Swift Solution Tweeting Videos Not Functioning Chrome for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transforming-shopping-insights-into-youtube-paychecks/"><u>2024 Approved Transforming Shopping Insights Into YouTube Paychecks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2019-files-for-free-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2019 Files for Free</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transform-videos-into-attractors-try-these-7-thumbnail-makers/"><u>Transform Videos Into Attractors - Try These 7 Thumbnail Makers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-i-tuoi-video-mov-in-mp4-online-e-gratis-con-handbrake/"><u>Trasforma I Tuoi Video MOV in MP4 Online E Gratis Con HandBrake</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-free-mov-video-combiner-software/"><u>Updated 2024 Approved Best Free MOV Video Combiner Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-learn-video-editing-fast-top-beginner-friendly-software/"><u>Updated 2024 Approved Learn Video Editing Fast Top Beginner-Friendly Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-picture-in-picture-made-easy-final-cut-pro-tutorial/"><u>Updated 2024 Approved Picture-in-Picture Made Easy Final Cut Pro Tutorial</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-s-most-popular-mkv-clip-editors-for-mac/"><u>Updated 2024 Approved S Most Popular MKV Clip Editors for Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-edit-like-a-pro-the-ultimate-free-guide-to-gopro-video-editing-for-2024/"><u>Updated Edit Like a Pro The Ultimate Free Guide to GoPro Video Editing for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-photo-to-cartoon-converter-online/"><u>Updated Photo to Cartoon Converter Online</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-of-the-best-avchd-video-editing-software-for-2024/"><u>Updated The Best of the Best AVCHD Video Editing Software for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-mts-video-editors-expert-reviews-for-2024/"><u>Updated Top-Rated MTS Video Editors Expert Reviews for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unlocking-the-power-of-titles-in-final-cut-pro-x-2023-update/"><u>Updated Unlocking the Power of Titles in Final Cut Pro X 2023 Update</u></a></li>
+</ul></div>
+

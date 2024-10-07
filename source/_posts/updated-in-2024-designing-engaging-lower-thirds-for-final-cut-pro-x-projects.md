@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Designing Engaging Lower Thirds for Final Cut Pro X Projects
-date: 2024-08-22T11:45:23.836Z
-updated: 2024-08-23T11:45:23.836Z
+date: 2024-09-30T19:53:58.983Z
+updated: 2024-10-06T20:21:48.577Z
 tags: 
   - video editing software
   - video editing
@@ -59,6 +59,13 @@ Try different color schemes with Green, Magenta, Orange, and Blue to create a me
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. **Motion effect**
 
 Thrill your audience by inserting movements with the lower third elements. When you add some motion effect to this module, it adds flavors to your video. Work on this feature in-depth and observe whether the lower third’s motion effect excites the audience. Customize the animation time, style, and the way it flashes on the screen.
@@ -101,9 +108,6 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -113,22 +117,30 @@ You can download the app and install them in your system. Launch the tool by dou
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
@@ -136,9 +148,6 @@ For those who still need more guides about making lower thirds, this Filmora tut
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -157,18 +166,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -178,15 +175,17 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -194,3 +193,27 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-tips-for-removing-persistent-youtube-channels-mobilepc/"><u>[New] In 2024, Expert Tips for Removing Persistent Youtube Channels (Mobile/PC)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-audio-quality-integrating-srt-into-mp4-for-2024/"><u>[New] Mastering Audio Quality Integrating SRT Into MP4 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-converting-tweeted-videos-into-playable-mp3-tracks/"><u>[Updated] Converting Tweeted Videos Into Playable MP3 Tracks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-the-depths-of-asmr-audio-magic-for-2024/"><u>[Updated] Exploring the Depths of ASMR Audio Magic for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lift-mood-and-performance-20-fitness-playlists-ranked-right/"><u>[Updated] Lift Mood & Performance 20 Fitness Playlists Ranked Right</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-f34-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy F34 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-8-best-mirrorless-cameras-for-vlogging/"><u>In 2024, 8 Best Mirrorless Cameras for Vlogging</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-learn-nutritious-cuisine-skills-with-chatgpt/"><u>Is It Possible to Learn Nutritious Cuisine Skills with ChatGPT?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-smart-tv-tips-eliminating-applications-with-ease/"><u>Samsung Smart TV Tips: Eliminating Applications with Ease</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mastering-adobe-premiere-top-6-tricks-for-professional-video-editing/"><u>Updated 2024 Approved Mastering Adobe Premiere Top 6 Tricks for Professional Video Editing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-moviemagic-for-mac/"><u>Updated 2024 Approved MovieMagic for Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-rated-free-online-video-production-tools/"><u>Updated In 2024, Top-Rated Free Online Video Production Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-ken-burns-effect-made-easy-follow-these-simple-steps-for-2024/"><u>Updated Ken Burns Effect Made Easy Follow These Simple Steps for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-split-trim-and-perfect-video-editing-techniques-in-windows-live-movie-maker-for-2024/"><u>Updated Split, Trim, and Perfect Video Editing Techniques in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-take-your-videos-to-the-next-level-top-10-fcpx-plugins-you-need-now-for-2024/"><u>Updated Take Your Videos to the Next Level Top 10 FCPX Plugins You Need Now for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-top-virtualdub-replacements-for-video-editing-enthusiasts-and-pros/"><u>Updated The Top Virtualdub Replacements for Video Editing Enthusiasts and Pros</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-transform-your-photos-into-engaging-mac-slideshows-with-ezvid/"><u>Updated Transform Your Photos Into Engaging Mac Slideshows with Ezvid</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/video-editing-on-a-shoestring-best-low-cost-options-for-2024/"><u>Video Editing on a Shoestring Best Low-Cost Options for 2024</u></a></li>
+</ul></div>
+

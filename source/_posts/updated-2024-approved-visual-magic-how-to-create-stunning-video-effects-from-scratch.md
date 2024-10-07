@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Visual Magic How to Create Stunning Video Effects From Scratch
-date: 2024-08-22T11:45:06.044Z
-updated: 2024-08-23T11:45:06.044Z
+date: 2024-10-03T23:52:31.541Z
+updated: 2024-10-06T20:35:52.046Z
 tags: 
   - video editing software
   - video editing
@@ -44,6 +44,19 @@ Besides these common cool video effects, [Filmora Effects Store](https://tools.t
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Add Cool Effects to Videos in Filmora \[Tutorial\]
 
 With Filmora, you can also add some cool effects conveniently to improve your video with ease. After several clicks, your video will turn out to be a stunning masterpiece which is really fantastic to share with your family and friends on YouTube or Facebook. Now follow this step-by-step guide on how to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with this cool software.
@@ -53,6 +66,13 @@ With Filmora, you can also add some cool effects conveniently to improve your vi
 Install and launch Wondershare Filmora. Click New Project and then click the “Import” button to load your media files through its navigation import panel or directly drag and drop your files to the media library.
 
 ![cool video editor](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2 Add cool effects to your video
 
@@ -65,6 +85,13 @@ You can also right click your favorite effect and select apply. You will see the
 Detailed information about how to add a split-screen effect video, check our [guide about how to make a split screen video here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 For steps of compositing a green screen video, check this video tutorial below:
 
@@ -88,6 +115,13 @@ As one of the best and easiest video editing software which comes with cool effe
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -96,14 +130,26 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-conference-call-to-online-showcase-google-meet-on-youtube-for-2024/"><u>[Updated] From Conference Call to Online Showcase Google Meet on YouTube for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ideal-chipset-selection-for-uhd-rendering/"><u>[Updated] Ideal Chipset Selection for UHD Rendering</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-should-you-opt-for-a-compreayer-package-on-youtube-with-premium-features-for-2024/"><u>[Updated] Should You Opt for a Compreayer Package on YouTube with Premium Features for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-your-short-form-content-top-10-edits-for-iosandroid/"><u>Elevate Your Short-Form Content Top 10 Edits for iOS/Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/error-free-computing-how-to-address-msvcrtdll-not-found-errors-efficiently/"><u>Error-Free Computing: How to Address Msvcrt.dll Not Found Errors Efficiently</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-magic-5-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor Magic 5 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-viral-vault-finns-financial-findings/"><u>In 2024, Viral Vault Finn's Financial Findings</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-conceal-faces-with-confidence-professional-video-editing-software/"><u>Updated 2024 Approved Conceal Faces with Confidence Professional Video Editing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-flip-it-how-to-reverse-video-clips-in-final-cut-pro-like-a-pro/"><u>Updated 2024 Approved Flip It! How to Reverse Video Clips in Final Cut Pro Like a Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-green-screen-on-a-budget-top-10-free-apps-for-android-and-ios-for-2024/"><u>Updated Green Screen on a Budget Top 10 Free Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-make-it-a-valentines-day-to-remember-diy-video-ideas-for-your-loved-one-for-2024/"><u>Updated Make It a Valentines Day to Remember DIY Video Ideas for Your Loved One for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-save-big-on-filmora-4-legit-ways-to-get-discounted-rates-for-2024/"><u>Updated Save Big on Filmora 4 Legit Ways to Get Discounted Rates for 2024</u></a></li>
+</ul></div>
+

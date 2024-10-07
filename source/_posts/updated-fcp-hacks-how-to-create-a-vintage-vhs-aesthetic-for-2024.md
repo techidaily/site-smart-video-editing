@@ -1,7 +1,7 @@
 ---
 title: Updated FCP Hacks How to Create a Vintage VHS Aesthetic for 2024
-date: 2024-08-22T11:48:05.070Z
-updated: 2024-08-23T11:48:05.070Z
+date: 2024-10-05T22:25:05.681Z
+updated: 2024-10-06T16:10:48.892Z
 tags: 
   - video editing software
   - video editing
@@ -94,6 +94,13 @@ First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
@@ -107,6 +114,13 @@ To do VHS effects quickly, follow these steps:
 * Stretch it all the way to the black image. Change all the text in it as you like.
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Go to Effect, and in the search bar, type **VHS**.
 
@@ -142,6 +156,13 @@ Search for **Chromatic Aberration effect**.
 
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now Search for **VCR Distortion** in the search bar.
 
 1. Drag and drop it above the previous layer.
@@ -160,8 +181,12 @@ You can play around with these values to change the intensity of the VHS effect.
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -184,9 +209,6 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -201,16 +223,11 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -218,3 +235,20 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-crafting-a-symphony-of-sights-and-sounds-in-video/"><u>[New] 2024 Approved Crafting a Symphony of Sights & Sounds in Video</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-elite-6-urban-home-structures-in-minecraft/"><u>[Updated] In 2024, Elite 6 Urban Home Structures in Minecraft</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-top-10-aerial-cameras-unleashing-creative-potential/"><u>[Updated] In 2024, Top 10 Aerial Cameras Unleashing Creative Potential</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamlining-whiteboard-interactions-with-google-meet-across-multiple-platforms/"><u>2024 Approved Streamlining Whiteboard Interactions with Google Meet Across Multiple Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-oppo-reno-11-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Oppo Reno 11 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-strategies-for-successful-folders-management-in-win-11/"><u>Top 7 Strategies for Successful Folders Management in Win 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/transform-your-ideas-into-stunning-videos-on-mac-top-video-creators-for-2024/"><u>Transform Your Ideas Into Stunning Videos on Mac Top Video Creators for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-unfreezing-and-recovering-your-macbook-air/"><u>Troubleshooting Tips for Unfreezing and Recovering Your MacBook Air</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-discover-the-top-free-video-editors-easy-and-powerful-for-2024/"><u>Updated Discover the Top Free Video Editors Easy and Powerful for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-adding-titles-in-fcpx-a-beginners-guide-to-professional-results/"><u>Updated In 2024, Adding Titles in FCPX A Beginners Guide to Professional Results</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-split-your-screen-for-free-top-online-and-offline-video-editors/"><u>Updated Split Your Screen for Free Top Online and Offline Video Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-vn-video-editor-for-pc-a-simplified-review-and-tutorial-for-2024/"><u>Updated VN Video Editor for PC A Simplified Review and Tutorial for 2024</u></a></li>
+</ul></div>
+
