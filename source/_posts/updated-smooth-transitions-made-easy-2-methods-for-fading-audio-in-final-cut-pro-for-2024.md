@@ -1,7 +1,7 @@
 ---
 title: Updated Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro for 2024
-date: 2024-08-22T11:42:58.089Z
-updated: 2024-08-23T11:42:58.089Z
+date: 2024-10-11T16:20:27.200Z
+updated: 2024-10-12T16:45:18.882Z
 tags: 
   - video editing software
   - video editing
@@ -81,8 +81,19 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -90,8 +101,12 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
 * +3dB: Picks up quickly and then gradually peters out toward the end. This is the considered to be the most useful mode while choosing a quick fade.
@@ -106,15 +121,17 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,3 +139,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/2024-approved-from-console-to-screen-efficient-recording-strategies/"><u>2024 Approved From Console to Screen Efficient Recording Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726225182095-ai-wmv-movavi/"><u>在線無限制，AI 影片到 WMV: 以 Movavi 為代言的轉換服務</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-instructions-to-buy-ebooks-through-itunes-stores-books-application/"><u>Easy Instructions to Buy eBooks Through iTunes Store's Books Application</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-techniques-to-correct-sound-integration-errors-when-uploading-videos-into-adobe-premiere-pro/"><u>Effective Techniques to Correct Sound Integration Errors when Uploading Videos Into Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-converter-convert-asfswf-files-with-moveavi-without-cost/"><u>Free Online Converter: Convert ASF/SWF Files with MoveAVI Without Cost</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-13-pro-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 13 Pro? Learn All 4 Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-gear-lab-expert-insights-into-pc-components/"><u>Inside Tom's Gear Lab: Expert Insights Into PC Components</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ls-0013-in-fortnite-fixes-and-solutions-for-the-launch-error/"><u>LS-0013 in Fortnite: Fixes and Solutions for the Launch Error</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-this-article-will-recommend-you-with-3-best-dvd-burning-tools-to-let-you-easily-burn-video-to-dvd/"><u>New In 2024, This Article Will Recommend You with 3 Best DVD Burning Tools to Let You Easily Burn Video to DVD</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mac-users-download-splice-video-editor-now-and-edit-like-a-pro-for-2024/"><u>New Mac Users, Download Splice Video Editor Now and Edit Like a Pro for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-make-an-impression-top-video-invitation-tools-for-ios-and-android-for-2024/"><u>New Make an Impression Top Video Invitation Tools for iOS and Android for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-online-stop-motion-animation-studios-top-5-free-and-paid-options/"><u>New Online Stop Motion Animation Studios Top 5 Free and Paid Options</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-pro-animation-software-the-ultimate-guide-to-mac-and-windows-tools/"><u>New Pro Animation Software The Ultimate Guide to Mac and Windows Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-easy-way-to-compress-mpeg2-videos-using-virtualdub-for-2024/"><u>New The Easy Way to Compress MPEG2 Videos Using VirtualDub for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-mts-video-editing-top-5-software/"><u>New The Ultimate Guide to MTS Video Editing Top 5 Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-list-of-free-online-face-generators-for-fun-and-creativity-for-2024/"><u>New The Ultimate List of Free Online Face Generators for Fun and Creativity for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-this-regularly-updated-mac-video-editor-works-perfectly-on-mavericks-and-stands-out-attributing-to-its-prominent-video-editing-features-and-easiness-for/"><u>New This Regularly Updated Mac Video Editor Works Perfectly on Mavericks and Stands Out Attributing to Its Prominent Video Editing Features and Easiness for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rogue-game-stability-issues-solving-persistent-pc-crashes/"><u>Rogue Game Stability Issues - Solving Persistent PC Crashes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-entry-level-guide-to-superior-gaming-editing-systems/"><u>The Entry Level Guide to Superior Gaming Editing Systems</u></a></li>
+</ul></div>
+

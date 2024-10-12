@@ -1,7 +1,7 @@
 ---
 title: Updated From Start to Finish How to Edit Videos with QuickTime on Mac for 2024
-date: 2024-08-22T11:43:02.039Z
-updated: 2024-08-23T11:43:02.039Z
+date: 2024-10-11T16:00:00.680Z
+updated: 2024-10-12T16:02:19.490Z
 tags: 
   - video editing software
   - video editing
@@ -49,9 +49,23 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2: Click here to edit > trim from the menu bar.
 
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
@@ -73,18 +87,6 @@ Step2: Move the playhead where you want to split the position, then select Edit 
 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Rotate Video with QuickTime Player on Mac
 
 You can easily rotate video clips with QuickTime Player. Just follow these steps:
@@ -98,8 +100,12 @@ Step3: Choose to rotate the clip left or right, or flip it horizontally or verti
 Step4: When you're done, click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
 [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is an easy-to-use video editor. Wondershare Filmora Mac version has powerful functions and rich functions. Using Wondershare Filmora Mac software, you can make high-quality videos. By using Filmora you will easily Create professional-like movies from video files, audio files, and photo files with transitions, effects and titles.
@@ -116,33 +122,26 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is Wondershare Filmora Worth for Trying?
 
 As we mentioned above, Wondershare Filmora is an elegant, full-featured video editing software that includes a variety of basic and advanced video editing tools. It has an easy-to-use interface that allows you to easily add effects, transitions, and edit your videos. You can use it to create random videos or professional videos using the software. So yes, this video editing software is for everyone. Well, you should try the free version and you won't regret.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -150,3 +149,25 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-screen-magnification-in-ms-teams/"><u>[Updated] Navigating Screen Magnification in MS Teams</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-concealed-chronicles-your-ultimate-guide-to-secret-stories/"><u>2024 Approved Concealed Chronicles Your Ultimate Guide to Secret Stories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-turn-zip-into-srt-a-step-by-step-conversion-process/"><u>2024 Approved Turn ZIP Into SRT A Step-by-Step Conversion Process</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bold-creation-mastering-timelapses-and-animations-with-movie-maker/"><u>Bold Creation Mastering Timelapses & Animations with Movie Maker</u></a></li>
+<li><a href="https://extra-information.techidaily.com/conquering-the-complexities-of-360-video-post-production-in-premiere-for-2024/"><u>Conquering the Complexities of 360° Video Post-Production in Premiere for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-techkey-bluetooth-dongle-driver-software-for-windows-11-7-and-8/"><u>Free Techkey Bluetooth Dongle Driver Software for Windows 11, 7 & 8</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unleash-your-childs-creativity-10-best-video-editing-apps/"><u>New In 2024, Unleash Your Childs Creativity 10 Best Video Editing Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mac-video-editing-made-easy-slideshows-home-videos-and-more-with-ezvid-for-2024/"><u>New Mac Video Editing Made Easy Slideshows, Home Videos, and More with Ezvid for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mastering-color-consistency-a-step-by-step-guide-to-final-cut-pro-for-2024/"><u>New Mastering Color Consistency A Step-by-Step Guide to Final Cut Pro for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mastering-fcp-audio-a-step-by-step-guide-for-video-editors-for-2024/"><u>New Mastering FCP Audio A Step-by-Step Guide for Video Editors for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-revolutionize-your-content-10-top-rated-animated-text-generators-for-2024/"><u>New Revolutionize Your Content 10 Top-Rated Animated Text Generators for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-s-ultimate-avi-editor-for-windows-8-edit-videos-like-a-pro-for-2024/"><u>New S Ultimate AVI Editor for Windows 8 Edit Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-top-mkv-video-cutting-software-for-mac/"><u>New The Top MKV Video Cutting Software for Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlock-free-animation-top-software-for-windows-and-mac/"><u>New Unlock Free Animation Top Software for Windows and Mac</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-how-to-for-refreshing-driver-software-on-sharp-inkjet-and-laser-printers-windows/"><u>The Ultimate How-To for Refreshing Driver Software on Sharp Inkjet and Laser Printers (Windows)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-nokia-c02-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Nokia C02 Location | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-issues-overcoming-stutters-and-distortions-in-windows-operating-systems/"><u>Troubleshooting Sound Issues: Overcoming Stutters and Distortions in Windows Operating Systems</u></a></li>
+</ul></div>
+

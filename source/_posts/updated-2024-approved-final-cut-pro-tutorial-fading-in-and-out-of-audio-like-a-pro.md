@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro
-date: 2024-08-22T11:42:05.183Z
-updated: 2024-08-23T11:42:05.183Z
+date: 2024-10-08T16:08:32.949Z
+updated: 2024-10-12T16:44:47.932Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -81,8 +88,19 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -90,8 +108,12 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
 * +3dB: Picks up quickly and then gradually peters out toward the end. This is the considered to be the most useful mode while choosing a quick fade.
@@ -105,16 +127,11 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,3 +139,20 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-sketch-whimsical-graphics-on-giphy/"><u>[New] 2024 Approved Sketch Whimsical Graphics on Giphy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-5-goggles-securing-victory-in-air-races/"><u>[New] Premier 5 Goggles Securing Victory in Air Races</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-busting-the-top-10-vloggers-fears-strategies-for-success/"><u>[Updated] 2024 Approved Busting the Top 10 Vloggers' Fears Strategies for Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-skyrocket-views-mastery-of-title-and-tag-optimization/"><u>[Updated] Skyrocket Views Mastery of Title and Tag Optimization</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidias-display-armada-back-online/"><u>Nvidia's Display Armada Back Online</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/pioneer-productions-with-your-mac-for-viral-youtube-videos/"><u>Pioneer Productions with Your Mac for Viral Youtube Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-connection-issues-with-blizzard-games-a-step-by-step-guide/"><u>Resolving Connection Issues with Blizzard Games: A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-editing-mastery-in-fcp-5-advanced-techniques-to-transform-your-videos-for-2024/"><u>Updated Editing Mastery in FCP 5 Advanced Techniques to Transform Your Videos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-revolutionize-your-content-10-top-rated-animated-text-generators-for-2024/"><u>Updated Revolutionize Your Content 10 Top-Rated Animated Text Generators for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-say-goodbye-to-sideways-videos-16-free-avi-video-rotators-for-every-situation-for-2024/"><u>Updated Say Goodbye to Sideways Videos 16 Free AVI Video Rotators for Every Situation for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-top-10-most-jaw-dropping-4k-video-samples/"><u>Updated The Top 10 Most Jaw-Dropping 4K Video Samples</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windowsbdmv/"><u>WindowsのBDMVファイル無料再生ガイド</u></a></li>
+</ul></div>
+

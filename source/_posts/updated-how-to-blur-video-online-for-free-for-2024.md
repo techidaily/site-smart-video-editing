@@ -1,7 +1,7 @@
 ---
 title: Updated How to Blur Video Online for Free for 2024
-date: 2024-08-22T11:39:17.528Z
-updated: 2024-08-23T11:39:17.528Z
+date: 2024-10-05T16:52:53.731Z
+updated: 2024-10-12T17:02:26.949Z
 tags: 
   - video editing software
   - video editing
@@ -54,15 +54,19 @@ To **blur video online** with PickFrom:
 
 ![Blur videos online with PickFrom](https://images.wondershare.com/filmora/article-images/blur-video-online-with-pickfrom.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Limitations**
 
 * Maximum acceptable video size is up to 2GB and 5GB for Starter and Premium subscriptions respectively.
 * Enables you to blur either the full video or a part of it
 * At the time of this writing, the 'Blur video background' feature isn't smart enough to differentiate between the background and the main subject (humans)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### 2. WoFox
 
 Visit: <https://www.wofox.com/video-editing-tools/blur-an-object-in-video>
@@ -83,14 +87,18 @@ To **blur part of video online free** with WoFox:
 
 ![Blur videos online with WoFox](https://images.wondershare.com/filmora/article-images/blur-video-online-with-wofox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Limitations of using Wo** **Fox to Blur Video Online**
 
 * In this writing, WoFox cannot differentiate between the normal background and humans.
 * The free version can create videos only of up to 30 seconds
 * The free version can export videos only in 360p resolution
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3. Flixier
 
@@ -121,17 +129,18 @@ To **blur video online** **with** **Flixier**:
 ![Blur videos online with flixier](https://images.wondershare.com/filmora/article-images/blur-video-online-flixier.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Limitations of using Flixier**
 
 * The free account can have only up to 2GB of storage
 * It supports only 10 minutes of videos per month to be exported with a free account
 * The maximum resolution for the videos exported with a free account is 720p
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4. Kapwing
 
 Visit: <https://www.kapwing.com/studio>
@@ -194,9 +203,6 @@ To **blur video background online** for free with Hippo Video:
 
 ![Blur videos online with hippovideo](https://images.wondershare.com/filmora/article-images/blur-video-online-hippo-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 **Limitations**
 
 * The video resolution remains 480p while using a free account
@@ -246,6 +252,13 @@ You can check more details of [blurring videos with YouTube Studio](https://tool
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a versatile post-production application with a built-in video editing tools and effects to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with ease. The tool is usually considered a good competitor of Adobe Premiere Pro, Final Cut Pro X, etc.
 
 Like any other similar program, even Filmora allows you to blur both landscape and portrait videos. The processes of getting these tasks done are given below:
@@ -262,35 +275,39 @@ Next, click to select **My Media** from the menu bar if not already selected, an
 
 ![Filmora project library](https://images.wondershare.com/filmora/article-images/filmora-project-media-library.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 Then, click Import from the **Media** box, select and import the source video to the program, drag the clip from the **Media** box to the Timeline at the bottom, and when the confirmation box appears, choose the option either under the **Keep Project Settings** or **Match to Media** sections to add the video to the Timeline.
 
 ![add video to timeline](https://images.wondershare.com/filmora/article-images/add-video-to-timeline-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Step 2: Add Blur Effect**
 
 Go to **Effects** from the menu bar, select **Default** from the top of the navigation pane on the left, and select **Utility** from the available list. From the right box, drag the **Mosaic** effect, and place it on a separate layer above the video track in the Timeline.
 
 ![add mosaic effects to timeline](https://images.wondershare.com/filmora/article-images/add-mosaic-effect-blur.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 3: Customize the Effect to Blur a Part of Video**
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
 ![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2. Blur a Vertical Video
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 1: Import a Vertical Video and Add It to the Timeline**
 
@@ -302,9 +319,6 @@ Go to **Effects** and choose **Default** from the left pane, as explained earlie
 
 ![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
@@ -312,8 +326,12 @@ Double-click the **Blur** effect in the Timeline, and use the available sliders 
 ![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 **Conclusion**
@@ -323,16 +341,17 @@ If you want to have full control over the post-production process, having an eff
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -340,3 +359,22 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-no-cost-all-benefits-with-fcp-downloads/"><u>[Updated] No Cost, All Benefits with FCP Downloads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-turn-tracks-into-tunes-mp3-to-youtube-conversion-made-simple/"><u>2024 Approved Turn Tracks Into Tunes MP3-to-YouTube Conversion Made Simple</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-asus-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Asus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-differences-between-ipad-pro-mini-m4-and-new-macbook-air-m1-a-comprehensive-guide/"><u>Decoding the Differences Between iPad Pro Mini (M4) and New MacBook Air M1 – A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/framefinder-focus-top-recording-software-of-2023-for-2024/"><u>FrameFinder Focus Top Recording Software of 2023 for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/from-kitchen-to-chaos-a-delectable-review-of-overcooked-2s-gaming-excellence/"><u>From Kitchen to Chaos: A Delectable Review of Overcooked! 2'S Gaming Excellence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuite-de-conversion-en-gif-outils-video-en-ligne-moovit/"><u>Gratuité De Conversion en GIF : Outils Vidéo en Ligne - Moov.it</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-install-an-ssd-in-a-ps5/"><u>How to Install an SSD in a PS5</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/step-by-step-how-to-download-and-personalize-whatsapp-ringtone-on-mobile-for-2024/"><u>Step-By-Step How to Download and Personalize WhatsApp Ringtone on Mobile for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-face-blur-made-easy-expert-video-editing-software/"><u>Updated 2024 Approved Face Blur Made Easy Expert Video Editing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-stream-movies-from-your-device-to-chromecast-windows-mac-android-and-ios-instructions/"><u>Updated 2024 Approved Stream Movies From Your Device to Chromecast Windows, Mac, Android, and iOS Instructions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-here-are-10-best-trailer-makers-for-mac-and-windows-to-creating-attractive-movie-trailers-for-2024/"><u>Updated Here Are 10 Best Trailer Makers for Mac and Windows to Creating Attractive Movie Trailers for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-free-avi-video-rotation-software-the-ultimate-cross-platform-guide/"><u>Updated In 2024, Free AVI Video Rotation Software The Ultimate Cross-Platform Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mac-users-learn-how-to-download-and-install-kinemaster/"><u>Updated Mac Users Learn How to Download and Install KineMaster</u></a></li>
+</ul></div>
+

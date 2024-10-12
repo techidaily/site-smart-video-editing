@@ -1,7 +1,7 @@
 ---
 title: Unlock the Power of the Ken Burns Effect A Beginners Guide for 2024
-date: 2024-08-22T11:39:14.194Z
-updated: 2024-08-23T11:39:14.194Z
+date: 2024-10-05T17:03:00.664Z
+updated: 2024-10-12T16:37:06.601Z
 tags: 
   - video editing software
   - video editing
@@ -114,6 +114,13 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -124,17 +131,12 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -148,8 +150,12 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **What are the Applications of Ken Burns Effect?**
 
 Primarily, the Ken Burns Effect is used due to the unavailability of a film or video. The technique gives action to still photographs to glorify the subjects of interest like couples in wedding photography. It gets better and better as you apply simulated parallax with Ken Burns Effect to make your 2D images appear as 3D plus advanced zooming visuals. You can also use the Ken Burns effect to make a video of your graduation ceremony pictures or memorable moments of reunion. Ken Burns Effect is also used in documentaries by professional filmmakers and editors.
@@ -161,15 +167,17 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,3 +185,24 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-8-best-free-video-editing-software-for-youtube/"><u>[New] In 2024, 8 Best Free Video Editing Software for YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-four-pioneering-methods-to-record-teaching-sessions-on-apple-devices-for-2024/"><u>[Updated] Four Pioneering Methods to Record Teaching Sessions on Apple Devices for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-v27-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-uninstall-windows-11-update/"><u>How to Uninstall Windows 11 Update</u></a></li>
+<li><a href="https://blog-min.techidaily.com/hudba-jak-strihate-pohledavna-metody-online-offline-a-mobi-liga/"><u>Hudba Jak Střiháte Pohledávná: Metody Online, Offline a Móbi Liga</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-12-pro-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 12 Pro and iPad</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mpeg-4pc/"><u>MPEG-4動画ファイルPCへの効果的な圧縮手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-that-clear-up-common-system-errors/"><u>Strategies that Clear Up Common System Errors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/supercharged-macx-mediatrans-lightning-fast-iphone-photography-backup/"><u>Supercharged MacX MediaTrans: Lightning-Fast iPhone Photography Backup</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mac-video-editing-made-easy-download-splice/"><u>Updated 2024 Approved Mac Video Editing Made Easy Download Splice</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-get-rid-of-filmora-watermark-with-or-without-subscription-for-2024/"><u>Updated Get Rid of Filmora Watermark With or Without Subscription for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-free-4k-video-converters-for-windows-and-mac/"><u>Updated In 2024, Best Free 4K Video Converters for Windows and Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-6-video-voiceover-tools-for-windows-download-now/"><u>Updated In 2024, Top 6 Video Voiceover Tools for Windows - Download Now</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-slow-down-and-savor-how-to-add-slow-motion-effects-in-windows-live-movie-maker/"><u>Updated Slow Down and Savor How to Add Slow Motion Effects in Windows Live Movie Maker</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-online-tools-to-remove-tiktok-watermarks/"><u>Updated Top Online Tools to Remove TikTok Watermarks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-your-creativity-6-innovative-adobe-premiere-pro-techniques/"><u>Updated Unleash Your Creativity 6 Innovative Adobe Premiere Pro Techniques</u></a></li>
+</ul></div>
+

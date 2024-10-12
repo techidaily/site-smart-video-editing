@@ -1,7 +1,7 @@
 ---
 title: New VHS Vibes Made Easy A Final Cut Pro Tutorial
-date: 2024-08-22T11:42:29.993Z
-updated: 2024-08-23T11:42:29.993Z
+date: 2024-10-06T16:27:28.172Z
+updated: 2024-10-12T16:28:34.692Z
 tags: 
   - video editing software
   - video editing
@@ -98,6 +98,13 @@ To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
 * Select the Black Color.
@@ -120,6 +127,13 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
@@ -132,6 +146,13 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 25 and click Ok.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
 
@@ -159,9 +180,6 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -184,9 +202,6 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -202,15 +217,17 @@ The appearance and feel of your production may be significantly enhanced by usin
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -218,3 +235,24 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-discover-your-future-with-window-11s-innovative-creations/"><u>[Updated] Discover Your Future with Window 11'S Innovative Creations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gamification-unleashed-djis-air-vs-spark-duel-revealed/"><u>[Updated] Gamification Unleashed DJI's Air Vs. Spark Duel Revealed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/automate-calendar-events-to-zoom-on-mobile-devices/"><u>Automate Calendar Events to Zoom on Mobile Devices</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/differences-cles-entre-les-fichiers-fat32-exfat-et-ntfs-pour-le-stockage-optimal/"><u>Différences Clés Entre Les Fichiers FAT32, exFAT Et NTFS Pour Le Stockage Optimal</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discover-the-updated-and-stable-bioshock-remake-a-fixed-masterpiece/"><u>Discover the Updated & Stable Bioshock #Remake - A Fixed Masterpiece</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-12-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi 12 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-elevate-your-content-with-jujutsu-kaisen-on-tiktok/"><u>In 2024, Elevate Your Content with Jujutsu Kaisen on TikTok</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-tiktok-video-reversal-made-easy-a-beginners-guide-2023-edition/"><u>New In 2024, TikTok Video Reversal Made Easy A Beginners Guide 2023 Edition</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-videopad-video-editor-is-it-worth-the-investment-a-2023-review/"><u>New In 2024, Videopad Video Editor Is It Worth the Investment? A 2023 Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-lumafusion-for-mac-a-complete-guide-to-installation-and-alternatives-for-2024/"><u>New Lumafusion for Mac A Complete Guide to Installation and Alternatives for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mov-file-editing-made-easy-top-10-free-video-editors-for-2024/"><u>New MOV File Editing Made Easy Top 10 Free Video Editors for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-s-top-rated-free-mod-video-editing-tools-for-2024/"><u>New S Top-Rated Free MOD Video Editing Tools for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-free-mod-video-editing-software-a-beginners-guide-for-2024/"><u>New The Best Free MOD Video Editing Software A Beginners Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-mac-video-editing-experience-vn-video-editor-and-alternatives-for-2024/"><u>New The Ultimate Mac Video Editing Experience VN Video Editor and Alternatives for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Meizu 21 | Dr.fone</u></a></li>
+</ul></div>
+
