@@ -1,7 +1,7 @@
 ---
 title: Updated From Minutes to Seconds Mastering Time Lapse Video Production for 2024
-date: 2024-08-22T11:38:33.172Z
-updated: 2024-08-23T11:38:33.172Z
+date: 2024-10-15T16:00:21.594Z
+updated: 2024-10-18T16:17:08.017Z
 tags: 
   - video editing software
   - video editing
@@ -85,6 +85,13 @@ If you want to save and play your video on iPhone, iPod, iPad and other devices,
 
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -99,11 +106,31 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3 Speed up to create time lapse video
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
 
@@ -117,13 +144,18 @@ That’s how to make a cool time lapse video with the time lapse video software 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,6 +163,24 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-peekcapture-review-of-low-res-screen-grabs/"><u>[New] In 2024, PeekCapture Review of Low-Res Screen Grabs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/treamline-your-online-listening-experience-with-direct-capture-for-2024/"><u>[New] Streamline Your Online Listening Experience with Direct Capture for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-discover-the-best-fb-movie-tools-no-8-in-23/"><u>[Updated] Discover the Best FB Movie Tools No. 8 in '23</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ps3-game-viewers-guide-filming-your-playtime/"><u>[Updated] The PS3 Game Viewer's Guide Filming Your Playtime</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-a-musical-guide-to-enhancing-slides-with-tunes/"><u>2024 Approved A Musical Guide to Enhancing Slides with Tunes</u></a></li>
+<li><a href="https://win11.techidaily.com/become-a-command-line-wizard-grasp-the-top-20-must-know-commands/"><u>Become a Command Line Wizard: Grasp the Top 20 Must-Know Commands</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-tecno-camon-20-premier-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Camon 20 Premier 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/fast-and-easy-steps-adding-soundtracks-to-mkv-videos/"><u>Fast & Easy Steps: Adding Soundtracks to MKV Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/get-your-favorite-theme-tunes-for-free-step-by-step-downloading-instructions/"><u>Get Your Favorite Theme Tunes for Free - Step-by-Step Downloading Instructions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/gifwindows/"><u>GIF作成プログラム紹介:Windowsユーザーに必見！作り方解説付き</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/gpu/"><u>GPUを使った高速ビデオ変換手法：動画品質維持のコツ</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/how-to-successfully-upload-a-movie-file-mov-on-youtube/"><u>How to Successfully Upload a Movie File (MOV) on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/laughable-film-grabber-review/"><u>Laughable Film Grabber Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mp4-vs-mpg-explained-understanding-format-variations-and-making-an-informed-selection-for-your-views/"><u>MP4 vs MPG Explained: Understanding Format Variations and Making an Informed Selection for Your Views</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/strategie-efficaci-per-il-recupero-di-documenti-persi-o-eliminati-su-windows-1111-tutorial-completo/"><u>Strategie Efficaci per Il Recupero Di Documenti Persi O Eliminati Su Windows 11/11 - Tutorial Completo</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/flac-alac-3/"><u>ベスト FLAC から ALACへの無料コンバーターソフトを紹介 - トップ3選!</u></a></li>
+</ul></div>
+

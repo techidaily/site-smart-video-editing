@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Transform Your Video How to Adjust Shape and Size
-date: 2024-08-22T11:36:55.183Z
-updated: 2024-08-23T11:36:55.183Z
+date: 2024-10-14T16:18:33.618Z
+updated: 2024-10-18T16:03:59.422Z
 tags: 
   - video editing software
   - video editing
@@ -54,11 +54,25 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -79,13 +93,12 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -94,10 +107,6 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
 Although the basic concept of both types of masking is same, the options available under each can be used to produce effective outputs.
@@ -149,15 +158,17 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -165,3 +176,21 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-strategies-to-locate-and-use-a-missing-iphone-x/"><u>[New] Top Strategies to Locate and Use a Missing iPhone X</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unleash-the-potential-of-video-marketing-on-facebook/"><u>[Updated] 2024 Approved Unleash the Potential of Video Marketing on Facebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-voice-of-the-visionary-beginning-your-journey-in-auditions-fading/"><u>[Updated] 2024 Approved Voice of the Visionary Beginning Your Journey in Audition’s Fading</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-high-dynamic-range-with-image-curving/"><u>2024 Approved Mastering High Dynamic Range with Image Curving</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/gratis-y-seguro-el-mas-eficaz-descargador-de-video-en-4k-descubre-las-mejores-opciones-para-sus-playlists/"><u>Gratis Y Seguro, El Más Eficaz Descargador De Video en 4K - Descubre Las Mejores Opciones Para Sus Playlists</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/minecraft-review-the-ultimate-all-ages-sandbox/"><u>Minecraft Review: The Ultimate All-Ages Sandbox</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-should-you-choose-vn-video-editor-pro-for-your-video-editing-needs/"><u>New 2024 Approved Should You Choose VN Video Editor Pro for Your Video Editing Needs?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-5-best-free-online-video-mergers-you-should-try/"><u>New 2024 Approved Top 5 Best Free Online Video Mergers You Should Try</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-public-domain-image-sites-to-explore/"><u>New In 2024, Best Public Domain Image Sites to Explore</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-no-cost-flv-video-editing-the-best-software/"><u>New In 2024, No-Cost FLV Video Editing The Best Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-best-time-lapse-video-editors-for-creators-a-comprehensive-review/"><u>New In 2024, The Best Time-Lapse Video Editors for Creators A Comprehensive Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/notable-20-anime-series-theme-tracks/"><u>Notable 20 Anime Series Theme Tracks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unlocking-the-meaning-behind-tiktoks-pfp-emoji/"><u>Unlocking the Meaning Behind TikTok's PFP Emoji</u></a></li>
+</ul></div>
+

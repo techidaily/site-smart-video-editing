@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Speed Up Your Storytelling How to Create Engaging Time Lapse Videos
-date: 2024-08-15T04:40:52.873Z
-updated: 2024-08-16T04:40:52.873Z
+date: 2024-10-15T16:07:54.667Z
+updated: 2024-10-18T16:02:41.103Z
 tags: 
   - video editing software
   - video editing
@@ -86,8 +86,12 @@ If you want to save and play your video on iPhone, iPod, iPad and other devices,
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -101,8 +105,12 @@ Just like importing photos to Filmora, follow the steps to import the video clip
 Next, drag your video onto the video column in the timeline. Select the loaded video and click the "Play" button. While playing the video, drag the slider bar at the start time and hit the "Split" icon to cut out the part you want to do time lapse editing.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 3 Speed up to create time lapse video
@@ -110,8 +118,12 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
@@ -123,14 +135,15 @@ If you are satisfied with the newly made time lapse video, just click **Export**
 That’s how to make a cool time lapse video with the time lapse video software Filmora, no matter whether you want to make a time lapse video from photos, or speed up the video to make a time lapse video, you can achieve that with a few clicks.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -138,11 +151,30 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-the-premier-yt-storytelling-list-to-watch-in-the-year-ahead/"><u>[New] The Premier YT Storytelling List to Watch in the Year Ahead</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-excavate-extravagance-treasure-hunting-maps-ranked-for-2024/"><u>[Updated] Excavate Extravagance Treasure Hunting Maps Ranked for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-effortlessly-record-high-quality-mac-audio-using-audacity/"><u>[Updated] In 2024, Effortlessly Record High-Quality Mac Audio Using Audacity</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-secrets-to-profit-from-youtube-shorts-fundamentals-and-earning-prospects/"><u>[Updated] In 2024, Secrets to Profit From Youtube Shorts Fundamentals and Earning Prospects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-for-high-impact-customer-endorsements-for-2024/"><u>Best Practices for High-Impact Customer Endorsements for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mastering-fcp-a-beginners-guide-to-saving-and-exporting-projects/"><u>In 2024, Mastering FCP A Beginners Guide to Saving and Exporting Projects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximize-impact-with-these-11-economical-youtube-naming-tools-for-2024/"><u>Maximize Impact with These 11 Economical YouTube Naming Tools for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-6-video-voiceover-tools-for-windows-free-to-try/"><u>New In 2024, Top 6 Video Voiceover Tools for Windows Free to Try</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-transform-your-media-best-online-photo-and-video-mashup-creators/"><u>New In 2024, Transform Your Media Best Online Photo and Video Mashup Creators</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mastering-titles-in-fcpx-essential-skills-for-video-editors-for-2024/"><u>New Mastering Titles in FCPX Essential Skills for Video Editors for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-reaction-video-mastery-the-top-tools-and-software/"><u>New Reaction Video Mastery The Top Tools and Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-rotate-your-3gp-videos-with-ease-best-free-tools-of-the-year-for-2024/"><u>New Rotate Your 3GP Videos with Ease Best Free Tools of the Year for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-article-below-will-show-you-some-of-the-best-apps-to-convert-a-video-to-a-live-photo-and-how-to-set-up-live-photos-as-wallpaper-on-iphone-for-2024.m/"><u>New The Article Below Will Show You some of the Best Apps to Convert a Video to a Live Photo, and How to Set up Live Photos as Wallpaper on iPhone for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-professionals-choice-for-mac-adobe-premiere-pro-video-editor/"><u>New The Professionals Choice for Mac Adobe Premiere Pro Video Editor</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978884273-performance-based-seismic-design-pbsd-focuses-on-achieving-specific-performance-objectives-using-nonlinear-analysis-to-predict-damage-levels/"><u>Performance-Based Seismic Design (PBSD) Focuses on Achieving Specific Performance Objectives, Using Nonlinear Analysis to Predict Damage Levels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vibrant-meals-on-demand-gpts-cooking-guide/"><u>Vibrant Meals on Demand: GPT's Cooking Guide</u></a></li>
+</ul></div>
+
