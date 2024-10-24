@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Adding Titles in FCPX A Beginners Guide to Professional Results
-date: 2024-08-09T08:13:08.064Z
-updated: 2024-08-10T08:13:08.064Z
+date: 2024-10-16T16:48:02.324Z
+updated: 2024-10-24T05:36:33.669Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
 # How to Add Titles in Final Cut Pro X
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -61,9 +58,6 @@ At its simplest, we use titles to display his (its?) name.
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles003.jpg)
 
 Look at the Browser and see the results of your work. A lower-third title is superimposed over the video in the lower left corner. (I'll talk about formatting the text in a few paragraphs.)
@@ -74,9 +68,6 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
@@ -89,16 +80,10 @@ Select and delete that full-screen title.
 
 There's one more way to apply a title: dragging from the Titles Browser.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles006.jpg)
 
 Click the Title icon in the Toolbar. This displays the contents of the Title Browser. The column on the left displays title categories, the icons on the right indicate individual titles, the search box at the bottom allows you to search for specific titles by name, while the number in the lower right indicates the number of titles currently displayed. (Your number may not match mine because I've added a few custom titles to my system.)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles007.jpg)
 
 Let's add a totally ridiculous title to our turtle - drag Clouds from the Title Browser and place it above the clip at the point where you want a title to appear.
@@ -137,18 +122,12 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -163,16 +142,10 @@ While many of these settings you already know there are a few you may not:
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles017.jpg)
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles014.jpg)
 
 After making a few changes in the Inspector, here's the final result. Very cool - and very different from where we started!
@@ -189,9 +162,6 @@ Titles015
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles016.jpg)
 
 This displays two pale rectangles in the frame. The outer rectangle is called "Action Safe," the inner one is called "Title Safe." Action Safe is 5% in from all edges; Title Safe is 10% in from all edges.
@@ -212,11 +182,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-hack-top-underrated-tips-and-tricks/"><u>[Updated] In 2024, Insta-Hack Top Underrated Tips and Tricks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-advanced-hd-screen-capture-gadgets/"><u>2024 Approved Advanced HD Screen Capture Gadgets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/5lq66isi44ks5bqd44gs44ki44ggisdnp5jlr4bjga7lj4vmg4xjgq3jg6pjg7pjg5rjg7zjg7pjgavlj4lliqdjgzfjgabjgbjgb7jgzvjgppjgys/"><u>人脈を広げよう! 秘密の友情キャンペーンに参加してみませんか?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/going-viral-nine-techniques-to-cement-your-status-on-instagram-for-2024/"><u>Going Viral Nine Techniques to Cement Your Status on Instagram for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-prime-vhs-illusions-to-enhance-film-projects/"><u>In 2024, Prime VHS Illusions to Enhance Film Projects</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-top-video-trailer-creation-software-for-mac-and-pc/"><u>In 2024, Top Video Trailer Creation Software for Mac and PC</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-mac-video-editor-mkvtoolnix-features/"><u>New 2024 Approved The Ultimate Mac Video Editor MKVtoolnix Features</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-avi-editor-for-windows-8-easily-edit-avi-files-on-pc-2023-update-for-2024/"><u>New AVI Editor for Windows 8 Easily Edit AVI Files on PC-2023 Update for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-download-filmora-13-editor-full-version-for-free-for-2024/"><u>New Download Filmora 13 Editor Full Version for Free for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-adobe-premiere-pro-cs6-is-a-kind-of-video-editing-software-which-can-work-natively-and-directly-with-the-latest-mobile/"><u>New In 2024, Adobe Premiere Pro CS6 Is a Kind of Video Editing Software Which Can Work Natively and Directly with the Latest Mobile</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-create-engaging-videos-with-these-8-leading-explainer-video-tools/"><u>New In 2024, Create Engaging Videos with These 8 Leading Explainer Video Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-subtitle-edit-for-mac-download-alternatives/"><u>New In 2024, Subtitle Edit for Mac Download Alternatives</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-list-5-free-mov-video-merger-software-options/"><u>New In 2024, The Ultimate List 5 Free MOV Video Merger Software Options</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-list-of-intro-makers-for-pc-online-offline-and-more/"><u>New In 2024, The Ultimate List of Intro Makers for PC Online, Offline, and More</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-algorithm-behind-youtubes-post-upload-logic-for-2024/"><u>The Algorithm Behind YouTube's Post-Upload Logic for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-poco-f5-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Poco F5 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-microsoft-outlook-resolving-issues-with-the-spelling-and-grammar-tool/"><u>Troubleshooting Microsoft Outlook: Resolving Issues with the Spelling & Grammar Tool</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/zoom-mastery-achieving-precision-in-google-meet-sessions/"><u>Zoom Mastery Achieving Precision in Google Meet Sessions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tga-jpg-png-gif/"><u>무료 인터넷 연결으로 TGA이미지를 JPG, PNG, GIF로 자주 바꾸기: 모바비</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

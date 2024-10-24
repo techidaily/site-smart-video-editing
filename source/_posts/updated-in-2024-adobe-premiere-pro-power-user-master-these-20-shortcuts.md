@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Adobe Premiere Pro Power User Master These 20 Shortcuts
-date: 2024-08-09T08:11:56.830Z
-updated: 2024-08-10T08:11:56.830Z
+date: 2024-10-18T03:45:31.880Z
+updated: 2024-10-24T04:29:37.770Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -64,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -106,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -139,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -214,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -225,11 +207,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-100-working-method-for-adding-link-to-tiktok-bio/"><u>[New] 100% Working Method for Adding Link to TikTok Bio</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-from-live-demos-to-recordings-harness-ezvide-power/"><u>[New] 2024 Approved From Live Demos to Recordings Harness EZvide Power</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-navigating-the-world-of-virtual-engagements-effects-filters-and-more-for-2024/"><u>[New] Navigating the World of Virtual Engagements Effects, Filters, & More for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-disconnect-on-snapchat-are-they-blocked-in-2024/"><u>[New] The Disconnect on Snapchat Are They Blocked, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-curtail-unrequested-youtube-content-streams/"><u>[Updated] In 2024, Curtail Unrequested YouTube Content Streams</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-premiere-pro-cs6-mac-free-download-installation-and-activation/"><u>In 2024, Premiere Pro CS6 Mac Free Download, Installation, and Activation</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-webm-to-mp3-expert-recommended-conversion-solutions/"><u>In 2024, WebM to MP3 Expert-Recommended Conversion Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-windows-8-mp4-video-editor-simplify-your-editing-experience/"><u>In 2024, Windows 8 MP4 Video Editor Simplify Your Editing Experience</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581605473-learn-bulgarian-in-dashes-10-minute-sessions/"><u>Learn Bulgarian in Dashes - 10-Minute Sessions!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mod-video-editing-on-a-budget-top-5-free-options-for-2024/"><u>MOD Video Editing on a Budget Top 5 Free Options for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-cant-install-lumafusion-on-mac-try-these-best-alternative-apps/"><u>New 2024 Approved Cant Install Lumafusion on Mac? Try These Best Alternative Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-art-of-slow-motion-top-video-editing-software-for-professionals/"><u>New 2024 Approved The Art of Slow Motion Top Video Editing Software for Professionals</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-effortless-flv-video-editing-on-windows-8-the-ultimate-guide-for-2024/"><u>New Effortless FLV Video Editing on Windows 8 The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-get-noticed-10-exceptional-music-video-makers-for-emerging-artists-for-2024/"><u>New Get Noticed 10 Exceptional Music Video Makers for Emerging Artists for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-free-online-video-editors-for-movies/"><u>New In 2024, Best Free Online Video Editors for Movies</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/recovering-deleted-items-following-an-iphones-full-system-erase/"><u>Recovering Deleted Items Following an iPhone's Full System Erase</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266278472-step-by-step-tutorial-securely-factory-resetting-your-iphone-no-turning-back/"><u>Step-by-Step Tutorial: Securely Factory Resetting Your iPhone - No Turning Back</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unparalleled-top-5-agile-camcorders-guide-for-2024/"><u>Unparalleled Top 5 Agile Camcorders Guide for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-16-top-rated-free-avi-rotators-for-windows-mac-android-and-iphone-for-2024/"><u>Updated 16 Top-Rated Free AVI Rotators for Windows, MAC, Android, and iPhone for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

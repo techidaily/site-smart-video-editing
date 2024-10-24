@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Still to Motion How to Achieve the Ken Burns Effect
-date: 2024-08-15T04:37:05.566Z
-updated: 2024-08-16T04:37:05.566Z
+date: 2024-10-18T05:48:09.012Z
+updated: 2024-10-24T02:23:53.398Z
 tags: 
   - video editing software
   - video editing
@@ -115,8 +115,12 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -127,8 +131,12 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -140,8 +148,12 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -153,8 +165,12 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -163,11 +179,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-teachers-handbook-building-a-successful-youtube-channel-10-must-dos/"><u>[New] 2024 Approved Teachers' Handbook Building a Successful YouTube Channel – 10 Must-Dos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-establish-lasting-content-partnerships-with-youtubers/"><u>[New] In 2024, How to Establish Lasting Content Partnerships with YouTubers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-quality-economical-cam-recorder/"><u>[New] In 2024, Top Quality Economical Cam Recorder</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-turn-on-google-meet-grids-to-see-all-attendees-for-2024/"><u>[New] Turn On Google Meet Grids to See All Attendees for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-professional-edits-with-story-remix-in-windows-photos-app-for-2024/"><u>Craft Professional Edits with Story Remix in Windows Photos App for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y100t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y100t Devices | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-slow-down-or-freeze-time-expert-fcpx-editing-techniques/"><u>In 2024, Slow Down or Freeze Time Expert FCPX Editing Techniques</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/make-your-memories-shine-a-final-cut-pro-slideshow-creation-guide-for-2024/"><u>Make Your Memories Shine A Final Cut Pro Slideshow Creation Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-from-shaky-to-steady-video-stabilization-techniques-in-fcpx-for-2024/"><u>New From Shaky to Steady Video Stabilization Techniques in FCPX for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cinemac/"><u>New In 2024, CineMac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-easily-cut-large-videos-faster-on-mac/"><u>New In 2024, Easily Cut Large Videos Faster on Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-expert-picks-top-4k-video-editing-software/"><u>New In 2024, Expert Picks Top 4K Video Editing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-how-to-remove-filmora-watermark/"><u>New In 2024, How to Remove Filmora Watermark</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sci-fi-virtual-voyages-the-most-immersive-movies-in-the-metaverse-space/"><u>Sci-Fi Virtual Voyages The Most Immersive Movies in the Metaverse Space</u></a></li>
+</ul></div>
+

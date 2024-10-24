@@ -1,7 +1,7 @@
 ---
 title: Updated FCP Voice Over Essentials A Beginners Guide to Success for 2024
-date: 2024-08-09T08:12:16.679Z
-updated: 2024-08-10T08:12:16.679Z
+date: 2024-10-18T23:29:57.944Z
+updated: 2024-10-23T20:23:01.647Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 # Quick Tips on Recording Voice Over with Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -61,16 +58,10 @@ First of all, you need to place your playhead at a specific location on the time
 
 Now in order to start your recording, you need to press Shift+A from the keyboard or simply go to Window then select Record Voiceover, and finally hit Record Button.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
 The countdown will automatically start.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
 #### Step 3
@@ -101,9 +92,6 @@ Now it is time to select the desired voiceover from auditions and you can previe
 * Simple select your desired audition out of which you need to review voiceovers and then open recordings either by simply pressing Y or go to Clip then select Audition and finally choose Open.
 * Select the take from Audition window and press space bar to play it or you can also switch it on by using Control+Command+Y command.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select a take from Audition](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-7.png)
 
 * Once you find your desired take then select it and hit Done. Note that a selected take appears in yellow outline.
@@ -113,12 +101,16 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 It is also possible to extract desired recordings from auditions; for example if you wish to edit any take from a set of clips available in a certain audition or you want to join two different takes to create one final take then it is possible to extract audio sets from the audition by simply choosing Clip and then hit the option “Break Apart Clip Items”, it can also be done by pressing Shift+Command+G. Hence, it is possible to edit audio clips using FCP to create a unique output.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -130,10 +122,20 @@ You try the auto-sync feature of FCPX. For more details please read this: [Pract
 
 It's quite common in FCPX. If reopening the software or rebooting Mac won't fix it, you may want to refer to this article: [Proven Ways to Get Missing Sound Effects Back in Final Cut Pro.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -141,11 +143,29 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-getting-started-guide-to-instagrams-live-feature/"><u>[New] In 2024, Getting Started Guide to Instagram's Live Feature</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-decoding-the-meaning-behind-fbs-blue-status-indicator-for-2024/"><u>[Updated] Decoding the Meaning Behind FB's Blue Status Indicator for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-meme-madness-the-iphone-edition/"><u>[Updated] Meme Madness The iPhone Edition</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-movaiff-movavi/"><u>1. 網路自由下 MOV到AIFF格式的移動過渡 - 使用Movavi轉換器</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-tech-in-cards-for-4k-video-editing-for-2024/"><u>Best Tech in Cards For 4K Video Editing for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/blending-beats-into-bits-the-sound-savvy-image-for-2024/"><u>Blending Beats Into Bits The Sound-Savvy Image for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-art-of-podcast-storytelling-writing-tips-and-example-guides/"><u>In 2024, The Art of Podcast Storytelling Writing Tips & Example Guides</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-compress-videos-instantly-10-top-free-online-tools/"><u>New 2024 Approved Compress Videos Instantly 10 Top Free Online Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-video-editing-solutions-for-32-bit-windows-users/"><u>New 2024 Approved Free Video Editing Solutions for 32-Bit Windows Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-meme-mastery-the-top-10-apps-for-android-and-ios-users/"><u>New 2024 Approved Meme Mastery The Top 10 Apps for Android and iOS Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-10-free-video-rotation-and-flip-software-for-perfect-orientation/"><u>New 2024 Approved Top 10 Free Video Rotation and Flip Software for Perfect Orientation</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-break-free-from-sony-vegas-explore-these-exceptional-windows-alternatives-for-2024/"><u>New Break Free From Sony Vegas Explore These Exceptional Windows Alternatives for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-get-final-cut-pro-with-cheapest-price-check-education-bundle-for-2024/"><u>New Get Final Cut Pro With Cheapest Price, Check Education Bundle for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-here-are-some-alternatives-for-gopro-studio-which-are-handy-in-terms-of-video-editing/"><u>New In 2024, Here Are some Alternatives for GoPro Studio Which Are Handy in Terms of Video Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-walkthrough-incorporating-subtitles-in-mp4s-for-2024/"><u>Step-by-Step Walkthrough Incorporating Subtitles in MP4s for 2024</u></a></li>
+</ul></div>
+
