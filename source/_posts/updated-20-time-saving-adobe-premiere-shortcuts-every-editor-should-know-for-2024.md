@@ -1,7 +1,7 @@
 ---
 title: Updated 20 Time-Saving Adobe Premiere Shortcuts Every Editor Should Know for 2024
-date: 2024-08-09T08:10:46.018Z
-updated: 2024-08-10T08:10:46.018Z
+date: 2024-10-27T23:21:57.374Z
+updated: 2024-10-30T05:00:32.945Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -61,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -81,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -107,9 +97,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -140,9 +127,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -183,9 +167,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -226,11 +207,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-expertly-engineered-10-tiktok-creators-essentials-wpc-for-2024/"><u>[New] Expertly Engineered 10 TikTok Creators' Essentials (W/PC) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-podcasting-made-simple-techniques-and-free-sample-scripts-inside/"><u>[New] In 2024, Podcasting Made Simple Techniques and Free Sample Scripts Inside</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-comprehensive-guide-to-macs-preferred-snippers/"><u>[Updated] 2024 Approved Comprehensive Guide to Mac's Preferred Snippers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-chromebook-webcam-usage-recording-made-easy/"><u>[Updated] In 2024, Chromebook Webcam Usage Recording Made Easy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-and-easy-apods-episodes-access-on-gadgets/"><u>2024 Approved Quick and Easy APods Episodes Access on Gadgets</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-infinix-smart-8-plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Smart 8 Plus Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-friendship-and-farms-the-10-favorite-farming-titles/"><u>In 2024, Friendship & Farms The 10 Favorite Farming Titles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/live-streaming-pre-recorded-videos-the-facebook-approach-for-2024/"><u>Live Streaming Pre-Recorded Videos The Facebook Approach for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-vn-video-editor-for-mac-simple-and-powerful-video-editor/"><u>New VN Video Editor for Mac Simple and Powerful Video Editor</u></a></li>
+<li><a href="https://win-unique.techidaily.com/recovering-deleted-information-top-5-techniques-for-a-windows-hard-drive/"><u>Recovering Deleted Information: Top 5 Techniques for a Windows Hard Drive</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/revolutionize-your-videos-top-3d-animation-makers-revealed-for-2024/"><u>Revolutionize Your Videos Top 3D Animation Makers Revealed for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-art-of-speed-learn-to-create-time-lapse-videos-in-minutes-2-methods/"><u>Updated 2024 Approved The Art of Speed Learn to Create Time Lapse Videos in Minutes 2 Methods</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-art-of-video-enhancement-expert-guidance/"><u>Updated In 2024, The Art of Video Enhancement Expert Guidance</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
