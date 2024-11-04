@@ -1,7 +1,7 @@
 ---
 title: Updated Take Your Video Editing to the Next Level with These Adobe Premiere Shortcuts for 2024
-date: 2024-08-09T08:07:33.385Z
-updated: 2024-08-10T08:07:33.385Z
+date: 2024-10-31T19:09:01.833Z
+updated: 2024-11-04T19:15:47.549Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -64,18 +58,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -93,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -148,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -191,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -234,11 +207,38 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-taming-the-tremble-keep-your-gopro-movies-steady-and-smooth/"><u>[Updated] 2024 Approved Taming the Tremble Keep Your GoPro Movies Steady and Smooth</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-a23-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy A23 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-list-of-chatgpt-query-templates-for-enhanced-interaction-github-edition/"><u>Discover the Ultimate List of ChatGPT Query Templates for Enhanced Interaction (GitHub Edition)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-secure-your-data-by-moving-old-phone-passwords-to-your-new-iphone/"><u>Easy Steps: Secure Your Data by Moving Old Phone Passwords to Your New iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harmonizing-musical-pieces-with-cross-sound-techniques/"><u>Harmonizing Musical Pieces with Cross-Sound Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-key-steps-to-accurate-and-effective-market-research-analysis/"><u>In 2024, Key Steps to Accurate and Effective Market Research Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-google-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Google Device</u></a></li>
+<li><a href="https://win-docs.techidaily.com/leading-seo-solutions-providers-in-paris-best-of-2024-revealed-with-seo-powersuite/"><u>Leading SEO Solutions Providers in Paris: Best of 2024 Revealed with SEO PowerSuite</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-whats-the-best-video-editor-for-mac-in-weve-got-you-covered-for-2024/"><u>New Whats the Best Video Editor for Mac in ? Weve Got You Covered for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/s-top-avchd-video-editing-tools-compared-for-2024/"><u>S Top AVCHD Video Editing Tools Compared for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/slow-down-or-freeze-time-expert-fcpx-editing-techniques-for-2024/"><u>Slow Down or Freeze Time Expert FCPX Editing Techniques for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-10-leading-cartoon-video-editing-apps-for-smartphones-for-2024/"><u>Updated 10 Leading Cartoon Video Editing Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-10-must-have-movie-trailer-apps-for-your-iphone-or-ipad-for-2024/"><u>Updated 10 Must-Have Movie Trailer Apps for Your iPhone or iPad for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-5-free-tools-to-combine-mpeg-videos/"><u>Updated 2024 Approved Best 5 Free Tools to Combine MPEG Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-free-avi-video-rotation-tools-for-any-device/"><u>Updated 2024 Approved Best Free AVI Video Rotation Tools for Any Device</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-of-web-based-vertical-video-editors-for-2024/"><u>Updated The Ultimate List of Web-Based Vertical Video Editors for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-apple-iphone-15-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>Wondering the Best Alternative to Hola On Apple iPhone 15? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

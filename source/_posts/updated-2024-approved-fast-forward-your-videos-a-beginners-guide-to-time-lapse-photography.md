@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Fast Forward Your Videos A Beginners Guide to Time Lapse Photography
-date: 2024-08-09T08:03:21.828Z
-updated: 2024-08-10T08:03:21.828Z
+date: 2024-10-30T20:16:11.835Z
+updated: 2024-11-04T18:35:58.639Z
 tags: 
   - video editing software
   - video editing
@@ -59,9 +59,6 @@ If you wanna make a time lapse video with photos, you need set up your camera to
 
 After installing and launch Filmora video editor, import the shot time lapse photos to it. Click **New Project** and then click the **Import** button to add your photos to the media library. You can also directly drag and drop your video to the program. Then all the imported files will appear as thumbnails in the left of the window.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![text overlay](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
 
 You can also import the photos from the video shooting device. Just plug in the video camera, click **Import from Phone or Camera** option in Import menu, and then transfer the target media files to Filmora.
@@ -76,9 +73,6 @@ After all your photos are placed in timeline, you can zoom in the timeline or pr
 
 Select one of the photos in the timeline and right click on it to select **Speed and Duration** to open the Custom Speed panel. Go to **Duration** section, and change the duration of the photo to 00:00:00:01 or other duration based on your needs, and then click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Photo Timelapse video ](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
@@ -89,14 +83,15 @@ Place the timeline playhead at the beginner, and play it in Preview window to ch
 
 If you want to save and play your video on iPhone, iPod, iPad and other devices, just switch to the **Device** tab and choose from the device list. What’s more, you can upload the newly made video file to all popular video sites such as YouTube and Vimeo directly from the interface of Filmora. Or turn to **DVD** tab to burn your video to DVD for playing on TV.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -109,10 +104,6 @@ Just like importing photos to Filmora, follow the steps to import the video clip
 
 Next, drag your video onto the video column in the timeline. Select the loaded video and click the "Play" button. While playing the video, drag the slider bar at the start time and hit the "Split" icon to cut out the part you want to do time lapse editing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
 
 #### 3 Speed up to create time lapse video
@@ -120,6 +111,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
 
@@ -129,12 +127,29 @@ If you are satisfied with the newly made time lapse video, just click **Export**
 
 That’s how to make a cool time lapse video with the time lapse video software Filmora, no matter whether you want to make a time lapse video from photos, or speed up the video to make a time lapse video, you can achieve that with a few clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -142,11 +157,33 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-navigating-brand-growth-with-youtubes-essential-top-5-video-marketing-techniques/"><u>[Updated] In 2024, Navigating Brand Growth with YouTube's Essential #Top 5 Video Marketing Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unlocking-srt-from-a-securely-packed-zip-file/"><u>[Updated] In 2024, Unlocking SRT From a Securely Packed Zip File</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-elevate-your-channelenas-expensive-check-out-our-11-free-name-generators-guide/"><u>2024 Approved Elevate Your Channel'enas Expensive? Check Out Our 11 Free Name Generators Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-brother-l2540dw-printer-software-on-your-windows-pc/"><u>Download and Install Brother L2540DW Printer Software on Your Windows PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortlessly-posting-ultra-hd-gopro-videoclips-on-facebook-with-hevc-compression/"><u>Effortlessly Posting Ultra HD GoPro Videoclips on Facebook with HEVC Compression</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-google-pixel-fold-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Google Pixel Fold Devices | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-move-over-virtualdub-exploring-the-latest-video-editing-innovations/"><u>In 2024, Move Over Virtualdub Exploring the Latest Video Editing Innovations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-privacy-protection-101-how-to-blur-faces-in-photos-and-videos-with-these-10-free-tools/"><u>In 2024, Privacy Protection 101 How to Blur Faces in Photos and Videos with These 10 Free Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-are-you-looking-for-the-best-3d-animation-apps-right-now-if-you-are-still-browsing-just-come-here-to-find-the-6-best-3d-animation-apps-so-/"><u>New 2024 Approved Are You Looking for the Best 3D Animation Apps Right Now? If You Are Still Browsing, Just Come Here to Find the 6 Best 3D Animation Apps. So Easily</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-from-photo-to-toon-16-top-rated-cartoonizing-apps/"><u>New 2024 Approved From Photo to Toon 16 Top-Rated Cartoonizing Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-creme-de-la-creme-of-4k-video-top-10-picks/"><u>New 2024 Approved The Crème De La Crème of 4K Video Top 10 Picks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-essential-fcpx-add-ons-top-10-free-and-paid-plugins-you-need-for-2024/"><u>New Essential FCPX Add-Ons Top 10 Free and Paid Plugins You Need for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-gopro-video-post-production-on-mac-a-beginners-handbook-for-2024/"><u>New GoPro Video Post-Production on Mac A Beginners Handbook for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-converting-an-mp4-file-into-mp3-is-a-great-way-of-conserving-space-on-your-memory-card-if-you-only-want-to-save-its-audio-so-in-this-article-we-/"><u>New In 2024, Converting an MP4 File Into MP3 Is a Great Way of Conserving Space on Your Memory Card if You only Want to Save Its Audio. So, in This Article, We Are Going to Take You Through some of the Best MP4 To</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-final-cut-pro-x-not-responding-heres-the-fix/"><u>New In 2024, Final Cut Pro X Not Responding? Heres the Fix</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/smooth-soundscape-fading-techniques-with-lumafusion-for-2024/"><u>Smooth Soundscape Fading Techniques with Lumafusion for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-mkv-en-format-3gp-sur-internet-gratuitement-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier MKV en Format 3GP Sur Internet Gratuitement - Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-itel-p55-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Itel P55 Screen | Dr.fone</u></a></li>
+</ul></div>
+

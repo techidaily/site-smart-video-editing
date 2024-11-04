@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved FCPX Hacks Smooth Skin without Breaking the Bank (or Using Plugins)
-date: 2024-08-09T08:04:25.836Z
-updated: 2024-08-10T08:04:25.836Z
+date: 2024-11-03T17:36:59.784Z
+updated: 2024-11-04T17:28:07.062Z
 tags: 
   - video editing software
   - video editing
@@ -36,9 +36,6 @@ Fortunately, we have the best solutions to fix the skin tone issue by using FCPX
 > * [Part 4: How to Smooth Skin in Filmora?](#part4)
 > * [Part 5: How to smooth skin in Adobe Pro?](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Add a Skin Smoother Effect without Plugins in Final Cut Pro?
 
 Smoothening the skin in Final Cut Pro is very simple. Simply select the video, choose Video effects to be applied, and adjust the percentages from the Inspector pane. You will get wrinkle-free skin with an astonishing look. While multiple plugins are also available to apply a skin smoother effect, you can use the built-in features of Final Cut Pro to smoothen the skin and decrease the amount of contrast.
@@ -51,23 +48,21 @@ step1Choose the starting image and edit the clip into the timeline. Press Option
 
 step2Open the Inspector pan and select Compositing from its bottom. Switch the Blend Mode to Lighten and adjust the Opacity slider as per your desired glow. Usually, 40 to 45% is ideal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Skin_Smoother_Effect_2](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_2.jpg)
 
 step3Now, go to the top of the Inspector and turn on the blue checkbox next to Gaussian. Adjust the blurring effect until you achieve your desired level of skin softening. It is highly recommended to blur using the horizontal setting to soften the skin while keeping the eyes sharp. Here, the glow is controlled by Opacity while skin softening is controlled by the Blue Amount.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Skin_Smoother_Effect_3](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_3.jpg)
 
 For better results, add a Vignette by selecting and combining the two clips into a Compound Clip. From the Effects Browser, select Stylize > Vignette and adjust drag the vignette. Now, customize the compound clip settings in the Inspector pane until you achieve your desired look. Compare the results between two images before and after editing
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Where to Find Good Skin Smoother Plugins?
 
 Plugins make it easy for beginners and users with limited expertise to add a skin smoother effect in Final Cut Pro X. You can find both free and paid skin smoother plugins for FCPX online. Given below are some popular skin smoothening plugins for Final Cut Pro X.
@@ -121,15 +116,25 @@ A comprehensive FCP tool with 89 individual plugins to apply the next-generation
 Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 
 1. Purchase and download the Skin Smoother 2 plugin. Go to downloads, unzip the folder containing the plugin and install it on your computer.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 2. Open the FCPX, go to Effects, and click on Skin Smoother 2\. A list of options will appear. Import the image or video you want to edit.![Skin_Smoother_Effect_4](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_4.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
 
 ## Part 4: How to Smooth Skin in Filmora?
@@ -144,9 +149,6 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 4. To set a specific tone or beautify your video, open the Tools tab and click the Color Correction option to change the color tones.
 5. Open Effects and Transitions and select the skin smooth filter. Hover the cursor over the filter and click the plus icon in the middle to add that effect. You can also apply the effect to the whole clip by dragging and dropping it directly onto the video clip.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 5: How to smooth skin in Adobe Pro?
 
 Given below are simple steps to create a face matter, control the skin smoothing, adjust color correction, and correct the skin glow in Adobe Pro by using the Beauty Studio Effect:
@@ -165,10 +167,14 @@ Smooth skin with clear facial expressions attracts everyone. You can apply a ski
 
 There are two methods to add a skin smooth effect with FCPX: By using in-built software settings, or by using plugins like Skin Smoother 2, Color Finale, and Universe. Use Beauty Studio Effect in Adobe Pro to smooth skin and improve facial appearance. Finally, you can beautify the face in your video by adding transitions, making color adjustments, and applying different effects with Wondershare Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -176,11 +182,28 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-broadcasts-made-simple-an-easy-to-follow-obs-guide/"><u>[New] 2024 Approved Youtube Broadcasts Made Simple An Easy-to-Follow OBS Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-guide-to-secretive-instagram-viewing/"><u>[New] In 2024, The Ultimate Guide to Secretive Instagram Viewing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-cinematiccapture-easy-screen-recorder-for-win11-pcs/"><u>[Updated] 2024 Approved CinematicCapture Easy Screen Recorder for Win11 PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-flawless-hues-in-gopro-videos/"><u>Achieving Flawless Hues in GoPro Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/camera-kings-collide-sj6-powerhouse-vs-yi-4k-masterpiece-for-2024/"><u>Camera Kings Collide SJ6 Powerhouse Vs. Yi 4K Masterpiece for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-solve-the-problem-of-your-hp-laptops-sound-not-working-in-widows-10/"><u>Resolved! Solve the Problem of Your HP Laptop's Sound Not Working in Widows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-unexpected-website-appearances-in-screen-time-on-iphones/"><u>Resolving Unexpected Website Appearances in Screen Time on iPhones</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-trick-to-flawlessly-capture-and-save-weverse-content-with-no-struggles/"><u>The Ultimate Trick to Flawlessly Capture and Save Weverse Content with No Struggles</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-5-free-tools-to-transform-your-m4a-files-into-high-quality-wav-format/"><u>Top 5 Free Tools to Transform Your M4A Files Into High-Quality WAV Format</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-methods-for-retrieving-audio-from-videos-in-windows-11-a-comprehensive-guide/"><u>Top Methods for Retrieving Audio From Videos in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-ranked-dvd-compression-software-solutions-compatible-with-windows-11-systems/"><u>Top-Ranked DVD Compression Software Solutions Compatible with Windows 11 Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-rated-dvd-extractor-software-for-windows-11-users-seamless-conversion-of-dvds-into-digitals/"><u>Top-Rated DVD Extractor Software for Windows 11 Users: Seamless Conversion of DVDs Into Digitals</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-from-capture-to-edit-the-top-10-vlog-editor-apps-for-ios-and-android-for-2024/"><u>Updated From Capture to Edit The Top 10 Vlog Editor Apps for iOS and Android for 2024</u></a></li>
+</ul></div>
+

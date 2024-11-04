@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps
-date: 2024-08-09T08:01:02.125Z
-updated: 2024-08-10T08:01:02.125Z
+date: 2024-10-30T18:59:49.208Z
+updated: 2024-11-04T19:17:00.027Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -35,16 +32,10 @@ I've written previously about how to use Inspector effects to create a [picture-
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -56,9 +47,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 Here is our clip - a fearsome polar bear.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
 To apply an effect, first select the clip in the Timeline.
@@ -71,9 +59,6 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -95,9 +80,6 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
 
 #### Disable and delete an effect
@@ -130,11 +112,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-elevate-your-art-with-professional-color-alteration/"><u>[New] Elevate Your Art with Professional Color Alteration</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-chatcam-save-extractor-for-facebook/"><u>[New] In 2024, ChatCam Save Extractor for Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-winpodcast-solutions-roundup/"><u>2024 Approved Premium WinPodcast Solutions Roundup</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-quantum-leap-in-photography-understanding-hdr/"><u>2024 Approved Quantum Leap in Photography Understanding HDR</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-petcubes-budget-friendly-hd-pet-monitor/"><u>Explore Petcube's Budget-Friendly HD Pet Monitor</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-your-microsoft-surface-pro-ready-windows-driver-installation-guide/"><u>How to Get Your Microsoft Surface Pro Ready: Windows Driver Installation Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unveiling-the-ultimate-vr-experience-the-htc-vive-story/"><u>In 2024, Unveiling the Ultimate VR Experience The HTC Vive Story</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-windows-8-mp4-editor-the-ultimate-video-editing-solution/"><u>In 2024, Windows 8 MP4 Editor The Ultimate Video Editing Solution</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-easy-peasy-reaction-videos-a-beginners-guide-to-filmora/"><u>New 2024 Approved Easy Peasy Reaction Videos A Beginners Guide to Filmora</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-final-cut-pro-for-free-take-advantage-of-our-90-day-trial/"><u>New 2024 Approved Final Cut Pro for Free Take Advantage of Our 90-Day Trial</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-final-cut-pro-tutorial-adding-picture-in-picture-overlays-to-your-videos/"><u>New 2024 Approved Final Cut Pro Tutorial Adding Picture-in-Picture Overlays to Your Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-get-started-with-jaycut-a-beginners-guide-to-free-online-video-editing/"><u>New In 2024, Get Started with Jaycut A Beginners Guide to Free Online Video Editing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-s-hottest-explainer-video-creation-platforms-revealed/"><u>New In 2024, S Hottest Explainer Video Creation Platforms Revealed</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

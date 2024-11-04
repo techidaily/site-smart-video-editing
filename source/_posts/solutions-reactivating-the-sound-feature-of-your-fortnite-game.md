@@ -1,7 +1,7 @@
 ---
 title: "Solutions: Reactivating the Sound Feature of Your Fortnite Game"
-date: 2024-08-09T08:00:34.808Z
-updated: 2024-08-10T08:00:34.808Z
+date: 2024-10-29T19:00:07.453Z
+updated: 2024-11-04T17:12:45.008Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Having no sound coming out from your Logitech G435 gaming headset all of a sudde
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes for the G435 gaming headset having no sound issue
 
  You don’t have to try all the following fixes: simply work your way down the list until you find the one that does the trick to fix the Logitech G435 gaming headset no sound problem for you.
@@ -38,6 +35,19 @@ Having no sound coming out from your Logitech G435 gaming headset all of a sudde
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Try G435 on a different device
 
  When your G435 has no sound all of a sudden, the first thing to do is to see if the problem is with the headset itself, or with your computer settings. And the easiest way to do so is to use the headset on a different device.
@@ -50,6 +60,13 @@ Having no sound coming out from your Logitech G435 gaming headset all of a sudde
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Switch between Bluetooth and Lightspeed mode
 
  By switching between the Bluetooth connection mode and the Lightspeed mode, you can reset both connections and see if doing so will fix the G435 headset no sound issue.
@@ -59,14 +76,16 @@ To do so:
 1. Press the Mute button for 3 seconds or longer.  
 ![](https://cx-assets.logi.com/CC%20Graphics/G435%20Headset/Switch4_1.jpg)
 2. Switch to LIGHTSPEED — the LED will light cyan for 5 seconds.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://cx-assets.logi.com/CC%20Graphics/G435%20Headset/Switch4_2.jpg)
 3. Switch to Bluetooth, the LED will light blue for five seconds.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://cx-assets.logi.com/CC%20Graphics/G435%20Headset/Switch4_3.jpg)
 
  See if G435 works fine under both modes. If the headset has no sound in either mode, please move on to the next fix.
@@ -82,19 +101,10 @@ To do so:
  If your Logitech G435 headset is connected to your computer via Bluetooth, you should remove the headset first before you connect it again. To do so:
 
 1. On your keyboard, press the**Windows** key and the**I** key at the same time to open**Settings** . Select**Bluetooth & devices** \>**Devices** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-13.png)
 2. Click the**three-dot** button for your Logitech G435 headset, and select**Remove device** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-14.png)
 3. Click**Add device** \>**Bluetooth** , and wait for your computer to find your G435 headset again.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-15.png)
 
  If your G435 headset still doesn’t have sound after this change, please try the next fix below.
@@ -107,39 +117,31 @@ To do so:
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then try your G435 headset again to see if it works. If the problem remains, please move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 5\. Select G435 as the sound device in Windows Settings
 
  You can also make sure that the Logitech G435 headset is selected as the output device in the sound setting panel. To do so:
@@ -173,9 +175,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Try to change Bluetooth parameters
 
  You can also change this setting with your Bluetooth adapter to see if it helps to restore the sound for your Logitech G435:
@@ -183,11 +182,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Bluetooth** category, then right-click your Bluetooth adapter (it’s usually the one without any Microsoft wording) and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-17.png)
 3. Select**Power Management** , then untick the box for**Allow the computer to turn off this device to save power** . Then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-18.png)
 4. Restart your computer for the change to take effect.
 
@@ -196,9 +200,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Update the firmware
 
  At this stage, you can try to update the G435 headset firmware to see if the new updates there will help to fix the no sound issue with the device for you.
@@ -208,6 +215,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If there’s no new firmware available for your headset, please move on to the final fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Repair system files
 
@@ -239,8 +253,6 @@ To use Fortect to fix the G435 gaming headset no sound issue for you:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +260,26 @@ To use Fortect to fix the G435 gaming headset no sound issue for you:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-world-of-iphone-hdr-a-beginners-guide/"><u>[New] Navigating the World of iPhone HDR A Beginner's Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-taxonomy-of-diverse-camera-systems-for-videos/"><u>[New] Taxonomy of Diverse Camera Systems for Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-why-are-my-insta-vids-upside-down/"><u>[Updated] In 2024, Why Are My Insta Vids Upside Down?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-save-and-stream-gotomeet-on-desktops-and-phones/"><u>[Updated] Save and Stream GoToMeet on Desktops & Phones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-ai-integration-for-vr-marketplaces/"><u>2024 Approved AI Integration for VR Marketplaces</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensive-screen-capture-and-synchronization-techniques/"><u>2024 Approved Comprehensive Screen Capture and Synchronization Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-13-ultra-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on 13 Ultra?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-images-into-dynamic-visual-stories/"><u>In 2024, Transform Your Images Into Dynamic Visual Stories</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-10-leading-music-video-editors-to-elevate-your-artistry/"><u>New 2024 Approved 10 Leading Music Video Editors to Elevate Your Artistry</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-find-out-the-top-ten-3d-video-maker-and-editor-apps-that-will-help-you-create-stunning-3d-videos-now-create-professional-level-3d-videos-w/"><u>New 2024 Approved Find Out the Top Ten 3D Video Maker and Editor Apps that Will Help You Create Stunning 3D Videos. Now Create Professional-Level 3D Videos with Ease with the Best Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-move-over-virtualdub-exploring-the-latest-video-editing-innovations/"><u>New 2024 Approved Move Over Virtualdub Exploring the Latest Video Editing Innovations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-avs-video-editor-test-drive-what-to-expect-from-this-video-editing-tool-for-2024/"><u>New AVS Video Editor Test Drive What to Expect From This Video Editing Tool for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-of-the-best-top-free-video-editors-for-mp4-files-for-2024/"><u>New Best of the Best Top Free Video Editors for MP4 Files for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-edit-m4a-files-for-free-top-5-software-recommendations-for-2024/"><u>New Edit M4A Files for Free Top 5 Software Recommendations for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-final-cut-pro-voice-over-secrets-boost-your-audio-game-for-2024/"><u>New Final Cut Pro Voice Over Secrets Boost Your Audio Game for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-elevate-your-videos-how-to-use-picture-in-picture-in-final-cut-pro/"><u>New In 2024, Elevate Your Videos How to Use Picture-in-Picture in Final Cut Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-guide-to-removing-tiktok-watermarks-for-free/"><u>New In 2024, The Ultimate Guide to Removing TikTok Watermarks for Free</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strengthen-virtual-soundscape-resolving-zoom-audio-problems/"><u>Strengthen Virtual Soundscape Resolving Zoom Audio Problems</u></a></li>
+<li><a href="https://discover-help.techidaily.com/8androidandiphone/"><u>おすすめフリー発信音アプリ8択:Android&iPhoneにぴったり!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Transform Your Videos Learn How to Add Effects in FCP X in 3 Steps
-date: 2024-08-09T08:01:13.490Z
-updated: 2024-08-10T08:01:13.490Z
+date: 2024-11-03T19:08:26.779Z
+updated: 2024-11-04T19:42:58.590Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -39,9 +36,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -57,16 +51,10 @@ Here is our clip - a fearsome polar bear.
 
 To apply an effect, first select the clip in the Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
@@ -88,18 +76,6 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
@@ -116,9 +92,6 @@ To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 The effect will be deleted from the selected clip.
@@ -139,11 +112,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-becoming-a-pro-in-lut-creation-for-2024/"><u>[New] Becoming a Pro in LUT Creation for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-xsplit-download-and-review-for-2024/"><u>[New] XSplit Download and Review for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-breaking-down-instagrams-per-video-ceiling/"><u>2024 Approved Breaking Down Instagram's Per-Video Ceiling</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-mp43gp/"><u>網站自由下載Movavi MP4至3GP格式轉檔器 - 線上無限制</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-how-to-eliminate-the-infamous-error-0x80072efd-on-your-windows-11-machine/"><u>Expert Advice: How to Eliminate the Infamous 'Error 0X80072EFD' On Your Windows 11 Machine</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-say-it-with-feeling-a-beginners-guide-to-making-a-valentines-day-video/"><u>In 2024, Say It with Feeling A Beginners Guide to Making a Valentines Day Video</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-guide-to-stop-motion-on-instagram-from-concept-to-viral-sensation/"><u>In 2024, The Ultimate Guide to Stop Motion on Instagram From Concept to Viral Sensation</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-discover-the-top-time-lapse-video-editing-software-from-free-to-pro/"><u>New 2024 Approved Discover the Top Time-Lapse Video Editing Software From Free to Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-fcpx-not-responding-get-back-to-editing-with-these-fixes/"><u>New 2024 Approved FCPX Not Responding? Get Back to Editing with These Fixes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-leading-online-video-promo-builders/"><u>New 2024 Approved Leading Online Video Promo Builders</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-list-of-video-maker-apps-with-music-for-mobile-devices/"><u>New 2024 Approved The Ultimate List of Video Maker Apps with Music for Mobile Devices</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-setting-up-videoleap-on-macbook-download-install-and-start-editing/"><u>New In 2024, Setting Up Videoleap on MacBook Download, Install, and Start Editing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/schritt-fur-schritt-anleitung-fur-den-ssd-upgrade-der-hp-envy-x360-ohne-datenverlust/"><u>Schritt-Für-Schritt-Anleitung Für Den SSD-Upgrade Der HP Envy X360 Ohne Datenverlust</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-13t-pro-by-fonelab-android-recover-data/"><u>The way to get back lost data from 13T Pro</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-6-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 6 SMS/Message/Text Recovery Software | Stellar</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

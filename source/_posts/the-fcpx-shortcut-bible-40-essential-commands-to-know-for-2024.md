@@ -1,7 +1,7 @@
 ---
 title: The FCPX Shortcut Bible 40 Essential Commands to Know for 2024
-date: 2024-08-09T08:05:33.081Z
-updated: 2024-08-10T08:05:33.081Z
+date: 2024-11-01T21:05:42.804Z
+updated: 2024-11-04T20:30:12.274Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 # Top 40 Keyboard Shortcuts for Final Cut Pro X
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -104,18 +101,6 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQ
 
 * **What to do when the shortcuts in FCPX not working?**
@@ -130,9 +115,6 @@ There are two ways to open the modifying menu: choose Final Cut Pro > Commands >
 
 Above are the top useful shortcuts that I used most when editing videos in Final Cut Pro. If you want to edit videos in a much easier way and get some Hollywood film looking at the same time, you can try Wondershare [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Check the video to see how to edit videos with Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -141,11 +123,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-intriguing-stories-flourishing-channels-top-3-techniques/"><u>[New] 2024 Approved Intriguing Stories, Flourishing Channels Top 3 Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2023s-leading-vr-game-development-tools-for-2024/"><u>[Updated] 2023'S Leading VR Game Development Tools for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-convenient-iphone-method-for-live-screen-capture/"><u>2024 Approved Convenient iPhone Method for Live Screen Capture</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-high-definition-video-refiner-for-pcmacos/"><u>2024 Approved High Definition Video Refiner for PC/MacOS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/l-lens-local-tales-how-to-transform-your-travel-experiences-into-content/"><u>Global Lens, Local Tales How to Transform Your Travel Experiences Into Content</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-pcs-muted-microphone-after-the-latest-windows-10-upgrade/"><u>How to Fix Your PC's Muted Microphone After the Latest Windows 10 Upgrade</u></a></li>
+<li><a href="https://blog-min.techidaily.com/resolving-issues-with-scrambled-video-files-from-handbrake-dvd-extraction/"><u>Resolving Issues with Scrambled Video Files From HandBrake DVD Extraction</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/rotate-mov-files-for-free-top-5-options-for-2024/"><u>Rotate MOV Files for Free Top 5 Options for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/system-update-needed-match-or-exceed-minimum-cpu-standards-to-launch-vanguard/"><u>System Update Needed: Match or Exceed Minimum CPU Standards to Launch Vanguard</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-list-of-non-game-bar-recording-tools/"><u>The Ultimate List of Non-Game Bar Recording Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-10-essential-cybersecurity-habits-that-it-teams-desire/"><u>Top 10 Essential Cybersecurity Habits That IT Teams Desire</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unhappy-with-fcpx-find-your-new-favorite-video-editor-among-these-10-options-for-2024/"><u>Unhappy with FCPX? Find Your New Favorite Video Editor Among These 10 Options for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unleash-your-creativity-the-best-video-editing-apps-for-2024/"><u>Unleash Your Creativity The Best Video Editing Apps for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-cutting-tools-for-mp4-expert-approved-options/"><u>Updated 2024 Approved Free Video Cutting Tools for MP4 Expert-Approved Options</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-save-big-on-final-cut-pro-explore-our-exclusive-education-offer/"><u>Updated 2024 Approved Save Big on Final Cut Pro Explore Our Exclusive Education Offer</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-video-splitting-made-easy-a-step-by-step-guide-for-windows-live-movie-maker/"><u>Updated 2024 Approved Video Splitting Made Easy A Step-by-Step Guide for Windows Live Movie Maker</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-from-basics-to-pro-a-comprehensive-guide-to-picture-in-picture-editing-in-final-cut-pro-for-2024/"><u>Updated From Basics to Pro A Comprehensive Guide to Picture-in-Picture Editing in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-list-of-free-security-camera-software/"><u>Updated In 2024, The Ultimate List of Free Security Camera Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-fcpx-cropping-guide-resize-and-refine-your-images-for-2024/"><u>Updated The Ultimate FCPX Cropping Guide Resize and Refine Your Images for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate List of Free Stock Image Websites for 2024
-date: 2024-08-09T08:01:03.149Z
-updated: 2024-08-10T08:01:03.149Z
+date: 2024-10-28T19:05:51.858Z
+updated: 2024-11-04T21:09:54.977Z
 tags: 
   - video editing software
   - video editing
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  Finding an image you like on the Internet doesn’t take long, since almost every website you can stumble upon, contains at least one picture. This doesn’t mean that you can just download any photo and use it in your blog, online marketing campaign or for any other purpose. Moreover, stock image websites like Getty Images or iStock let you purchase the right to use a photo commercially. As a reaction to an expanding stock image industry, many photographers, museums and cultural institutions are choosing to forfeit their rights and to publish public domain images. So, in this article, we are going to take you through the ten best public domain image websites where you can download pictures for free.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are Public Domain Images?
 
  By definition, public domain images are photos, vectors or clip art that are available to anyone because their copyright has either expired or they never had a copyright owner. Consequently, anyone can use these images for both commercial or private projects without having to purchase the rights to do so. An image can enter a public domain under the following circumstances:
@@ -43,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  A simple google search will reveal hundreds of websites that let you download public domain and royalty-free images. Which source you’re going to use depends on the type of image you’re looking for, since some websites are dedicated only to photography, while others feature impressive collections of public domain images of artworks. In addition, you’ll only want to download public domain images from the websites that offer information about the author because using a public domain image without crediting its author is strictly prohibited.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Websites for Downloading Public Domain Images
 
  We’ve searched the Internet and we utilized our results to compile a collection of the most reliable websites that grant its users access to vast numbers of public domain images. Let’s take a look at some of the best websites that let you download public domain images.
@@ -50,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 #### 1. [Pexels](https://www.pexels.com/public-domain-images/)
 
 ![Public Domain Images from Pexels ](https://images.wondershare.com/filmora/article-images/pexels-public-domain-images.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Graphic designers and all other creatives in constant need of a fresh supply of public domain images don’t need a special introduction to Pexels. The stock image platform is dedicated to photography and video, so you can’t use it to search for vectors or clip art. Even so, you can use Pexles to search for public domain images based on a particular keyword or browse through its collection of free images and discover photos spontaneously. Clicking on the Popular Searches tab will enable you to see the images from Light, Nature or Animals and it will shorten the amount of time you have to spend looking for a photo you want to download.
 
@@ -67,11 +78,14 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 #### 2. [Pixabay](https://pixabay.com)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Public Domain Images from Plxabay ](https://images.wondershare.com/filmora/article-images/plxabay-public-domain.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Besides offering an impressive collection of royalty-free photos, Pixabay also lets you search for public domain vectors, illustrations, and videos. The website hosts more than a million high-resolution photos and videos you can download for free. To make things even better, becoming a member of the Pixabay’s community and creating an account on this platform won’t take more than a few minutes of your time. Pixabay also offers advanced search tools that enable you to combine searches, search for the author of an image or group search terms. In addition, you can also browse through the photographers that contribute their images to the platform on a regular basis.
 
@@ -86,9 +100,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 #### 3. [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main%5FPage)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wikimedia commons ](https://images.wondershare.com/filmora/article-images/wikimedia-commons.jpg)
 
  This is probably the largest website on the Internet where you can download public domain images. There are more than 49 million images, illustrations, vector graphics and videos available that can be downloaded for free. Some media files on Wikimedia Commons have certain restrictions, but these restrictions are mostly related to image citations, which means that you can use them only if you credit the author. Such a huge selection of media files can be overwhelming for the newcomers to the Wikimedia Commons platform, but once you grow accustomed to the website’s interface discovering images becomes a straightforward process.
@@ -105,9 +116,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 #### 4. [Flickr Commons](https://www.flickr.com/commons)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Flickr commons ](https://images.wondershare.com/filmora/article-images/flickr-commons.jpg)
 
  For more than a decade Flickr has been a popular online destination for photographers in need of a platform that enables them to present their work. The Flickr Commons is a project that unites more than a hundred institutions in an effort to create a library of public domain images. The project makes available a stunning amount of historical photographs and it grants you access to highly esteemed collections of photographs. Flick Commons is perfectly suited for researchers and scholars in need of public domain photos, they can use in their essays or research papers.
@@ -152,14 +160,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 #### 7. [Morguefile](https://morguefile.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Morguefile public domain image  ](https://images.wondershare.com/filmora/article-images/morguefile-public-domain-search.jpg)
 
  Morguefile is a website that offers stock footage to its users, but some of the images can’t be downloaded for free. That’s why you must click on the Free Photos tab before you start searching for public domain images on this website. The website hosts nearly 400.000 photos, videos, and vector graphics, but you must make sure that a file you want to download is within the public domain before you download it. The only downside is that the images aren’t organized into categories which can make finding the images you’re searching for more difficult than it needs to be.
@@ -220,15 +220,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 **You may also like:** [Best Image Hosting Sites >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## How to Cite Public Domain Images Properly?
 
  If you’re planning on using a public domain image in a blog or on your website, you must cite the source from which you acquired a particular image. The image citations should include the following information:
@@ -248,13 +239,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -262,3 +258,20 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-igtv-potential-tips-and-strategies/"><u>2024 Approved Unlocking IGTV Potential Tips & Strategies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-video-aspect-ratio-how-to-adjust-and-customize/"><u>2024 Approved Video Aspect Ratio How to Adjust and Customize</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banished-from-worlds-and-diablo-heres-how-to-fix-your-lost-access-to-blizzard-games/"><u>Banished From Worlds and Diablo? Here's How to Fix Your Lost Access to Blizzard Games!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-look-inside-apples-worldwide-developers-conference-and-their-advancements-in-ai/"><u>Comprehensive Look Inside Apple's Worldwide Developers Conference and Their Advancements in AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-writing-game-9-essential-uses-of-chatgpt-for-creators/"><u>Elevate Your Writing Game: 9 Essential Uses of ChatGPT for Creators</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-solutions-to-tackle-driver-problems-of-the-80211ac-realtek-rtl8821ae-network-adapter-for-enhanced-wifi-performance/"><u>Expert Solutions to Tackle Driver Problems of the 802.11Ac Realtek RTL8821ae Network Adapter for Enhanced WiFi Performance</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unbiased-review-of-avs-video-editor-features-pricing-and-more/"><u>In 2024, Unbiased Review of AVS Video Editor Features, Pricing, and More</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lightweight-realities-googles-cardboard-and-samsung-gear-vr/"><u>Lightweight Realities Google’s Cardboard and Samsung Gear VR</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-unlock-the-power-of-green-screen-top-10-free-apps-for-android-and-ios/"><u>New 2024 Approved Unlock the Power of Green Screen Top 10 Free Apps for Android & iOS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-create-stunning-cartoons-top-mobile-apps-for-animation-for-2024/"><u>New Create Stunning Cartoons Top Mobile Apps for Animation for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-longer-mystified-unravel-why-itunes-and-finder-wont-recognize-your-iphone-and-how-to-repair-it/"><u>No Longer Mystified? Unravel Why iTunes and Finder Won't Recognize Your iPhone & How to Repair It</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-methods-to-restore-permanently-lost-iphone-photos/"><u>Secure Methods to Restore Permanently Lost iPhone Photos</u></a></li>
+</ul></div>
+

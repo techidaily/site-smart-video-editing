@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Stop Overwatch 2 From Killing Your PC Playtime with Endless Crashes
-date: 2024-08-09T08:04:29.979Z
-updated: 2024-08-10T08:04:29.979Z
+date: 2024-10-31T22:21:21.828Z
+updated: 2024-11-04T17:43:47.894Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 6. [**Initialize the PS4 to fix the PS4 freezing**](https://tools.techidaily.com/drivereasy/download/)
 7. [**Call the support from Sony to fix the PS4 freezing**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## What is the PS4 freezing and why is the PS4 frozen?
 
  The PS4 freezing or the PS4 lagging is**one of the common issues** that many electronic devices may run into. It generally behaves as your controller or your gamepad gets**stuck or lagged** when you are playing games.
@@ -76,22 +72,23 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
  4) Restart your PS4 and try to play the game to see if it works now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Free up more space for your system
 
  You can first check the system storage in your PS4\. If there is little space, you will need to free up more space for it. The fluent operating on your PS4 requires enough storage in the system.
 
  1) Go to your PS4**Settings** \>**System Storage Management** .
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a62b2f68f21e.jpg)
 
  2) You’ll see the data stored in your system, you can select the type of data you want to delete.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a62b31cd1077.jpg)
 
  3) Press the**Options** **button** on your controller and select**Delete** .
@@ -103,8 +100,12 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
  This problem can also be caused by the**hardware issue** . So you can try to troubleshoot the hardware and solve the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Put your PS4 in an open space
 
  The PS4 freezing issue can possibly because of an**overheating problem** . If the PS4 doesn’t have enough space for the air to cool download the fan, it may be overheated and stuck in.
@@ -112,8 +113,12 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
  If that’s the case, you can try to**put your PS4 in an open space** to have more gas around it, so your PS4 is allowed to have**better air circulation** . Additionally, you may need to regularly**clean the dust** on your PS4 to have it under maintenance.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Check all the cables and ports to be plugged correctly
 
  Sometimes the cables lose when connecting can also result in this problem. You can try to **check if all the cables are correctly and tightly plugged in your PS4** and other equipment.
@@ -146,16 +151,10 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
  4) You will enter the **Safe Mode** and see 8 options. Select **5\. Rebuild Database** . Then wait for it to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4f4570937c9.jpg)
 
 5) Try to use your PS4 again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 4: Check the Internet connection to fix the PS4 freezing**
 
  As we know, the slow Internet connection can largely lead to the lags in your PS4\. Whenever you play PS4 games, you may want to have a good Internet connection to ensure the best gaming experience. So you may check your Internet to see if it can be a problem.
@@ -170,17 +169,18 @@ a. Connect your PS4 with the LAN cable.
 
  b. Go to PS4 **Settings** \> **Network** \> **Set Up Internet Connection** .
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548b80f137d.jpg)
   
  c. Select **Use a LAN Cable.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ba2959d7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  d. Select **Custom** , then **enter the network information** from your ISP.
 
@@ -188,14 +188,18 @@ a. Connect your PS4 with the LAN cable.
   
  e. Select **Do Not Use**  as for **Proxy Server.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c2978106.jpg)
 
  f. Wait for it to update. When you see **Internet settings updated** , try to play the PS4 games to see if it works now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a62b47d9e9dd.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Try to**forward ports** to your PS4 to have a better Internet connection.
 
@@ -209,6 +213,19 @@ a. Connect your PS4 with the LAN cable.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  d. Go to the**forward ports section** (or ports forwarding, Virtual Server, Applications according to different routers).
 
  e. Add the custom forwarding ports. You can try the following ports recommended by Sony:
@@ -221,9 +238,6 @@ a. Connect your PS4 with the LAN cable.
 
 g. Try to use your PS4 to see if it works now.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 5: Update the firmware to fix the PS4 freezing**
 
  If your PS4 firmware is not the latest version, your PS4 may also freezes or lags. Try to update the PS4 system software to solve the problem. Follow these steps:
@@ -244,11 +258,15 @@ g. Try to use your PS4 to see if it works now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571ceab4acf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6) Try to open the game and see if it works now.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 6: Initialize the PS4 to fix the PS4 freezing**
 
  In addition, initializing your PS4 can also reset the system and solve the problem.
@@ -263,10 +281,14 @@ g. Try to use your PS4 to see if it works now.
 
  2) Select **Full** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571fc9dcd29.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Follow the instructions to complete.
 
@@ -274,9 +296,6 @@ g. Try to use your PS4 to see if it works now.
 
 5) Try the games to see if it works now.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 7: Call the support from Sony to fix the PS4 freezing**
 
  If the problem still persists after trying all the methods above, it seems to be a hardware faulty problem with your PS4, and you may need to contact the support from Sony.
@@ -294,8 +313,6 @@ g. Try to use your PS4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -303,4 +320,24 @@ g. Try to use your PS4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unraveling-the-best-mac-mp4-software-a-comprehensive-guide/"><u>[New] In 2024, Unraveling the Best Mac MP4 Software A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/6laf44kv44oq44ki44gq44ot44oh44kq44ov44kp44o844oe44od44oi44gr44gz44kl44gf44kb44gu5bcc6zaa55qe44og44kv44ol44od44kv6zug/"><u>超クリアなビデオフォーマットにするための専門的テクニック集</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/6z2p5paw55qe44gq44ot44oh44kq44kz44oz44oq44o844k44o85aplusplus562w44oe44o844oric0g576o44gx44gp44cb5qmf6io95ocn44ks6auy44kb44kl57eo6zug44k944ov44oi5o6o6jam/"><u>革新的なビデオコンバーター対策ツール - 美しく、機能性を高める編集ソフト推薦</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726030659419-aviutl/"><u>基本的な手順：AviUtlを使った音声ファイルの簡単な編集 - カットとボリューム調整</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/avid/"><u>Avidに最適なダウンサイジング技術: アーカイブ形式のスムーズな縮小と編集</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/beatniks-guide-to-music-enhanced-snapchats-for-2024/"><u>Beatniks' Guide to Music-Enhanced Snapchats for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/best-methods-to-extract-afreecatv-content-a-comprehensive-guide-on-downloading-without-cost/"><u>Best Methods to Extract AfreecaTV Content: A Comprehensive Guide on Downloading without Cost</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y55s 5G (2023) Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-apple-iphone-15-is-off-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track You When Your Apple iPhone 15 is off? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>In 2024, How Does YouTube Count Views? It's Not as Simple as You Think!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726030467901-pc/"><u>PC上ビデオのアスペクト比調整手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-pasting-tips-for-pre-defined-text-in-win-1011/"><u>Quick Pasting Tips for Pre-Defined Text in Win 10/11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/recording-iphone-7-display-a-comprehensive-guide-for-2024/"><u>Recording iPhone 7 Display A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a05s-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A05s Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-optimal-sites-for-downloading-alarm-tones-for-2024/"><u>Top Picks Optimal Sites for Downloading Alarm Tones for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/44k344on44o844oi44og44o844ot44o844go44k544oi44o844oq44o85yuv55s744ks44gk44gq44gq5yq55p6c55qe44gq5oml5rov/"><u>ショートムービーとストーリー動画をつなぐ効果的な手法</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/44or44k944kz44oz44go44oi44oq44kk44or56uv5pyr44gn5pya6ygp44gq44ov44os44o844og44os44o844oi44ks5a6f54plusplus44gz44kl44ot44oh44kq5asj5oplusb5pa55rov/"><u>パソコンとモバイル端末で最適なフレームレートを実現するビデオ変換方法</u></a></li>
+</ul></div>
 

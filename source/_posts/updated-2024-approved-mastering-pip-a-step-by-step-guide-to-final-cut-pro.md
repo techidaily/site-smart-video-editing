@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Mastering PiP A Step-by-Step Guide to Final Cut Pro
-date: 2024-08-09T08:01:50.268Z
-updated: 2024-08-10T08:01:50.268Z
+date: 2024-11-01T21:57:06.812Z
+updated: 2024-11-04T18:40:57.732Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
 # How to Create a Picture-in-Picture Effect Using Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,9 +30,6 @@ This tool can help you to use the picture-in-picture effect with ease. However, 
 
 The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create PIP Effect with FCP
 
 If you are ready with two videos and now want to bring them to the same screen then prefer to follow these simple steps:
@@ -44,10 +38,6 @@ If you are ready with two videos and now want to bring them to the same screen t
 
 The very first step that you need to follow for PIP effect generation using FCP is to bring your main or background video to the timeline as a primary storyline. Once you have created the primary storyline then all videos for the PIP effect will be added to it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
 
 #### Step 2: Add PIP videos
@@ -62,9 +52,6 @@ Note that lower clips use to stay in the background in final results whereas upp
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
 
 #### Step 4: Adjust PIP Effect
@@ -78,9 +65,6 @@ As now you have added both videos on-screen now you have to select the higher vi
 
 Simply select the top clip and then hit Command + 4 to open the inspector. Now click on that blue show button over your FCP screen and it will provide you complete information about the transform category of available built-in effects. If you use inspector for this task then it can help you to get very precise results for scaling needs. It assists users to manage images with accurate position and size.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
 #### Step 6: Apply Cross- Dissolve
@@ -93,8 +77,12 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 Check this video tutorial to know more details:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Picture in Picture Plug-ins for Final Cut Pro
 
 There are so many plug-ins available in the market for Final Cut Pro platform and all of them possess unique qualities along with impressive toolsets. No matter whether you are a beginner with the PIP effect or professional making high-end video projects, FCP plug-ins can make your task much easier with their intuitive controls.
@@ -111,13 +99,18 @@ ProPIP is the best choice for newscasting, commentaries, and many other applicat
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -125,3 +118,22 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-pixelperfect-screener-chromes-native-tool/"><u>[New] 2024 Approved PixelPerfect Screener Chrome's Native Tool</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-harness-the-power-of-your-mobile-content-on-youtube-starting-now/"><u>[New] In 2024, Harness the Power of Your Mobile Content on YouTube, Starting Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/accelerate-your-hr-workflow-with-these-5-ai-powered-prompt-strategies/"><u>Accelerate Your HR Workflow with These 5 AI-Powered Prompt Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-auto-tracking-mount-for-cameras-and-phones-for-2024/"><u>Best Auto Tracking Mount for Cameras and Phones for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-drivers-not-showing-up-heres-how-to-resolve-the-issue-on-your-computer/"><u>Bluetooth Drivers Not Showing Up? Here’s How to Resolve the Issue on Your Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-advanced-features-in-google-photos/"><u>Exploring Advanced Features in Google Photos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-simple-and-free-the-best-online-tone-creators/"><u>In 2024, Simple and Free The Best Online Tone Creators</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y17s-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y17s? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-unleash-your-creativit/"><u>New 2024 Approved Unleash Your Creativit</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-flip-and-rotate-iphone-videos-with-ease-top-free-apps-for-2024/"><u>New Flip and Rotate iPhone Videos with Ease Top Free Apps for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-of-the-best-10-free-whiteboard-animation-software-for-pc-and-mac/"><u>New In 2024, Best of the Best 10 Free Whiteboard Animation Software for PC and Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-pc-video-editing-made-easy-a-vn-editor-review/"><u>New In 2024, PC Video Editing Made Easy A VN Editor Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-s-most-popular-free-4k-video-conversion-software/"><u>New In 2024, S Most Popular Free 4K Video Conversion Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-the-financial-success-of-carryminati-ajey/"><u>Tracking the Financial Success of CarryMinati (Ajey)</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Image Cropping in FCPX Essential Techniques for Editors
-date: 2024-08-09T08:02:26.749Z
-updated: 2024-08-10T08:02:26.749Z
+date: 2024-10-31T19:59:06.920Z
+updated: 2024-11-04T22:21:16.375Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 
 # Final Cut Pro X: How to Crop an Image
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -37,9 +34,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Crop an Image in Final Cut Pro X
 
 However, before I show how this is done, I need to explain one really important fact about video: all video uses what's called "fixed resolution." Fixed resolution means that high-definition video is always displayed at one of two sizes:
@@ -57,30 +51,18 @@ I'll show you two ways to crop a video clip in this article, one that maintains 
 
 Trimming is the process of removing portions of a video clip without changing the size of the clip. This retains the highest amount of image quality.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop001.jpg)
 
 For instance, here an image - courtesy of Pond5 (<www.pond5.com>). Let's say that we want to emphasize the barn and not the sky.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop002.jpg)
 
 The easiest way to do this is to click the icon in the lower left corner of the Viewer and choose "Crop."
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop003.jpg)
 
 This displays the cropping tools in the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop004.jpg)
 
 Click the Trim button to turn on Trim mode. (This article discusses Trim and Crop. I'll cover the Ken Burns effect in a future article.)
@@ -119,9 +101,6 @@ There are several ways we can choose to crop an image:
 
 * Click the Crop icon, as we illustrated above
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop011.jpg)
 
 * Right-mouse click (or Control-click) inside the Viewer and choose
@@ -141,10 +120,6 @@ Now, drag a blue button in one of the corners. Because cropping, unlike trimming
 
 Final Cut displays numbers at the top of the Viewer indicating how much the image has been cropped.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop015.jpg)
 
 Reposition the frame by grabbing inside the rectangle and dragging.
@@ -153,9 +128,6 @@ Reposition the frame by grabbing inside the rectangle and dragging.
 
 When you are happy with the results, click the Done button in the top right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop017.jpg)
 
 Notice that the selected portion of the image now fills the frame. Even though there is a clip below our cropped clip, we don't see it.
@@ -176,10 +148,6 @@ Cropping is used to reframe an image, say from a medium shot to a close-up, but 
 
 I use both these techniques frequently in my own editing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -188,11 +156,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-ae-text-styles-the-ultimate-selection-for-2024/"><u>[New] AE Text Styles The Ultimate Selection for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-distinguishing-between-youtube-policies-and-cc-clauses/"><u>[New] In 2024, Distinguishing Between YouTube Policies and CC Clauses</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-master-the-art-of-snapchats-boomerangs-for-2024/"><u>[New] Master the Art of Snapchat's Boomerangs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-imovie-video-trimming/"><u>[New] Understanding iMovie Video Trimming</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210711702-9781454915423-a-little-bit-of-tarot/"><u>A Little Bit of Tarot | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/error-erased-expert-advice-on-fixing-netflixs-nw-1-19-issue-for-hassle-free-streaming/"><u>Error Erased: Expert Advice on Fixing Netflix's NW-1-19 Issue for Hassle-Free Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideas-aplenty-crafting-inspirational-photographic-mosaics-for-2024/"><u>Ideas Aplenty Crafting Inspirational Photographic Mosaics for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/insider-tips-creating-unique-podcast-names-for-2024/"><u>Insider Tips Creating Unique Podcast Names for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-best-mp4-editor-for-mac-mavericks-easy-video-editing/"><u>New 2024 Approved Best MP4 Editor for Mac Mavericks Easy Video Editing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-ken-burns-effect-tutorial-add-movement-to-your-photos/"><u>New 2024 Approved Ken Burns Effect Tutorial Add Movement to Your Photos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cropping-and-resizing-images-in-final-cut-pro-x-made-easy/"><u>New In 2024, Cropping and Resizing Images in Final Cut Pro X Made Easy</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-fcp-transition-guide-3-simple-yet-effective-techniques/"><u>New In 2024, FCP Transition Guide 3 Simple Yet Effective Techniques</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-is-avs-video-editor-worth-it-an-honest-review-for-2024/"><u>New Is AVS Video Editor Worth It? An Honest Review for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

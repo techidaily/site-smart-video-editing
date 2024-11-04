@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro X The Art of Freeze Frames and Slow Motion Storytelling for 2024
-date: 2024-08-09T08:03:50.282Z
-updated: 2024-08-10T08:03:50.282Z
+date: 2024-11-02T16:28:47.877Z
+updated: 2024-11-04T17:05:44.892Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 # Final Cut Pro X: Freeze-Frames and Slow Motion
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -43,16 +40,10 @@ A still-frame freezes action. For instance, here is a clip of a hummingbird gett
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![freeze frames](https://images.wondershare.com/multimedia/speed002.jpg)
 
 This creates a two-second freeze-frame at the position of the playhead.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![create freeze frame](https://images.wondershare.com/multimedia/speed003.jpg)
 
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
@@ -69,16 +60,10 @@ So, here's another way to do this.
 
 Put the playhead (or skimmer, but I prefer the playhead) on the frame you want to freeze, select the clip, then type Shift+F.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playhead](https://images.wondershare.com/multimedia/speed005.jpg)
 
 This locates the source clip in the Browser, selects both the Browser and the clip, and matches the position of the In, Out, and playhead.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![match clips](https://images.wondershare.com/multimedia/speed006.jpg)
 
 Now, with the Browser selected, type Option+F. This creates a freeze-frame of the Browser clip and places it at the location of the playhead as a connected clip in the Timeline.
@@ -107,9 +92,6 @@ Change the duration of the Hold frame by dragging the small thumb at the right e
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
 
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
@@ -144,9 +126,6 @@ To reset the speed back to normal (100%), click the downward-pointing arrow in t
 
 There are two ways to change the speed of a clip.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
@@ -168,9 +147,6 @@ You will get the smoothest speed changes when the percentage you choose divides 
 
 There is one more setting to consider when slowing a clip. (This does not apply when creating fast motion.)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
 
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
@@ -187,9 +163,6 @@ Frame blending is relatively fast and easy. Optical Flow will look better in mos
 
 This is a basic tutorial about Apple Final Cut Pro X, a professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -198,9 +171,6 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -209,11 +179,42 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-enhance-presentations-with-background-music/"><u>[New] 2024 Approved Enhance Presentations with Background Music</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-premium-sporting-cameras-for-adventure/"><u>[New] 2024 Approved Premium Sporting Cameras for Adventure</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-zenith-of-the-slopes-x-racing-highlights-22/"><u>[New] Zenith of the Slopes - X-Racing Highlights, '22</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-comprehensive-look-at-lg-bp350-display-specifications/"><u>[Updated] Comprehensive Look at LG BP350 Display Specifications</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-direct-slideshow-content-into-video-realm/"><u>[Updated] In 2024, Direct Slideshow Content Into Video Realm</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-expert-guide-to-snagging-twitter-gifs-pc/"><u>[Updated] In 2024, Expert Guide to Snagging Twitter GIFs (PC)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/44cm54m56yg45zyw5zplusf6zmq5a6a6ko95zob44go44gx44gm44ov44oz44oa44o844ov44kp44od44kv44k544gm54sh5paz6ywn5biditjgi0/"><u>「特選地域限定製品としてワンダーフォックスが無料配布!?」</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/5lin5yplusv6kej44gq5yan55sf44ko44op44o844cc5yq55p6c55qe44gq44ox44os44o844ok44o844gu44oi44op44ow44or44k344ol44o844og44kj44oz44kw5oml6acg44ks6kal44gk44gr44kl425/"><u>不可解な再生エラー。効果的なプレーヤーのトラブルシューティング手順を見つけるためにこれらのステップが必要です</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/a-beginners-approach-seamlessly-capturing-discord-audio-conversations/"><u>A Beginner's Approach: Seamlessly Capturing Discord Audio Conversations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/abema-tvand/"><u>Abema TVのフリー動画ダウンロード&保存ガイド</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/combining-apples-mobile-clips-with-desktop-footage-a-how-to-tutorial/"><u>Combining Apple's Mobile Clips with Desktop Footage – A How-To Tutorial</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/comment-choisir-une-alternative-efficace-a-itop-pour-la-restauration-de-fichiers-sous-windows/"><u>Comment Choisir Une Alternative Efficace À iTop Pour La Restauration De Fichiers Sous Windows?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/sleep-specialist-endorses-aspers-guide/"><u>Sleep Specialist Endorses Asper's Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/44op44kk44k744oz44k544kz44o844oj44gm5lin5q2j44go5yik5a6a44gv44km44gf6zqb44gu6kej5rg6562w/"><u>ライセンスコードが不正と判定された際の解決策</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

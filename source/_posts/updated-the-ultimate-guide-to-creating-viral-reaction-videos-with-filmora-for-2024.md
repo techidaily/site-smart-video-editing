@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Creating Viral Reaction Videos with Filmora for 2024
-date: 2024-08-09T08:06:27.911Z
-updated: 2024-08-10T08:06:27.911Z
+date: 2024-11-03T16:05:11.444Z
+updated: 2024-11-04T19:12:28.913Z
 tags: 
   - video editing software
   - video editing
@@ -43,9 +43,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 01:** Open Filmora X. If it is not already installed on your PC, you can download it from [here](https://tools.techidaily.com/wondershare/filmora/download/) and install it on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step1](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step1.png)
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
@@ -58,23 +55,14 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step4.png)
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step5.png)
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step6.png)
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
@@ -87,16 +75,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step9.png)
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step10.png)
 
 #### Conclusion
@@ -113,11 +95,40 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-crafting-facebook-videos-a-step-by-step-guide-for-2024/"><u>[Updated] Crafting Facebook Videos A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>2024 Approved 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-insta-stats-spotlight-pinpointing-viewers-of-your-photos/"><u>2024 Approved Insta Stats Spotlight Pinpointing Viewers of Your Photos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy S23</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-elevate-your-downloads-to-4k-heaven-with-top-apps/"><u>In 2024, Elevate Your Downloads to 4K Heaven with Top Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/leveraging-likes-and-shares-top-30-facebook-marketing-steps-for-2024/"><u>Leveraging Likes and Shares Top 30 Facebook Marketing Steps for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpt-potential-today-with-gpt-4/"><u>Maximizing ChatGPT Potential Today with GPT-4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-savings-on-auto-insurance-discounts-and-low-cost-programs-for-eligible-drivers/"><u>Maximizing Savings on Auto Insurance: Discounts and Low-Cost Programs for Eligible Drivers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/optimal-video-sizes-on-instagram-explained-for-2024/"><u>Optimal Video Sizes on Instagram Explained for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-process-for-gradual-audio-fading-in-premiere-for-2024/"><u>Step-by-Step Process for Gradual Audio Fading In Premiere for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unleash-your-creativity-best-free-video-fx-apps-for-ios-and-android-for-2024/"><u>Unleash Your Creativity Best Free Video FX Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unleashing-the-power-of-xml-in-final-cut-pro-x/"><u>Updated 2024 Approved Unleashing the Power of XML in Final Cut Pro X</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-watch-dvds-on-windows-10-for-free-the-best-players/"><u>Updated 2024 Approved Watch DVDs on Windows 10 for Free The Best Players</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-create-unforgettable-lip-sync-videos-with-these-5-top-rated-apps-for-2024/"><u>Updated Create Unforgettable Lip Sync Videos with These 5 Top-Rated Apps for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-create-viral-memes-with-these-10-amazing-apps/"><u>Updated In 2024, Create Viral Memes with These 10 Amazing Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-designing-engaging-lower-thirds-for-final-cut-pro-x-projects/"><u>Updated In 2024, Designing Engaging Lower Thirds for Final Cut Pro X Projects</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-make-a-movie-in-minutes-a-quickstart-guide-for-2024/"><u>Updated Make a Movie in Minutes A Quickstart Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-art-of-color-consistency-tips-and-tricks-for-matching-video-clips-in-final-cut-pro-for-2024/"><u>Updated The Art of Color Consistency Tips and Tricks for Matching Video Clips in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-time-warp-transform-your-videos-with-vhs-effects-in-fcp/"><u>Updated Time Warp Transform Your Videos with VHS Effects in FCP</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

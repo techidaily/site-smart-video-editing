@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Reaction Video Mastery Tips and Tricks with Filmora
-date: 2024-08-09T08:05:26.824Z
-updated: 2024-08-10T08:05:26.824Z
+date: 2024-11-03T21:12:11.499Z
+updated: 2024-11-04T19:45:14.900Z
 tags: 
   - video editing software
   - video editing
@@ -43,9 +43,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 01:** Open Filmora X. If it is not already installed on your PC, you can download it from [here](https://tools.techidaily.com/wondershare/filmora/download/) and install it on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step1](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step1.png)
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
@@ -54,32 +51,14 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step3.png](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step3.png)
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step4.png)
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step5.png)
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
@@ -88,9 +67,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
@@ -99,9 +75,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step9.png)
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
@@ -122,11 +95,38 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-live-video-on-fb-audience-focused-guide/"><u>[New] 2024 Approved Live Video on FB Audience-Focused Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-step-by-step-process-for-free-youtube-educational-events/"><u>[New] 2024 Approved Step-by-Step Process for Free Youtube Educational Events</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-9-key-approaches-to-free-webinar-archiving/"><u>[New] In 2024, 9 Key Approaches to Free Webinar Archiving</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-precise-participation-the-key-to-zooming-in-on-google-meet-talks/"><u>[Updated] Precise Participation The Key to Zooming in on Google Meet Talks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-experts-roadmap-to-bulk-downloading-on-tiktok-platform/"><u>2024 Approved The Expert's Roadmap to Bulk Downloading on TikTok Platform</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/amazons-finest-iphone-offers-during-the-ultimate-prime-day-sale/"><u>Amazon's Finest iPhone Offers During the Ultimate Prime Day Sale</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/audio-log-analysis-guidebook-for-2024/"><u>Audio Log Analysis Guidebook for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-comprehensive-guide-to-address-d3dx939dll-missing-errors-effectively/"><u>Fixed: Comprehensive Guide to Address d3dx9_39.dll Missing Errors Effectively</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/professional-grade-4k8k-video-editing-the-top-software-choices-for-2024/"><u>Professional-Grade 4K/8K Video Editing The Top Software Choices for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-gt-neo-5-se-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-mp4-video-splitters-top-9-options/"><u>Updated 2024 Approved Free MP4 Video Splitters Top 9 Options</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-list-10-best-free-whiteboard-animation-software/"><u>Updated 2024 Approved The Ultimate List 10 Best Free Whiteboard Animation Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-wmv-video-splitting-made-easy-top-5-free-tools/"><u>Updated 2024 Approved WMV Video Splitting Made Easy Top 5 Free Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-final-cut-pro-for-beginners-creating-a-video-slideshow-from-scratch/"><u>Updated In 2024, Final Cut Pro for Beginners Creating a Video Slideshow From Scratch</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-from-disc-to-digital-how-to-transfer-your-dvd-collection-to-computer-or-mobile/"><u>Updated In 2024, From Disc to Digital How to Transfer Your DVD Collection to Computer or Mobile</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-take-your-mobile-photography-to-the-next-level-best-time-lapse-apps/"><u>Updated In 2024, Take Your Mobile Photography to the Next Level Best Time-Lapse Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-the-audio-best-mp4-to-mp3-converters-for-music-lovers/"><u>Updated In 2024, Unleash the Audio Best MP4 to MP3 Converters for Music Lovers</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
