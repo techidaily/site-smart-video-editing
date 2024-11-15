@@ -1,7 +1,7 @@
 ---
 title: New Top 10 2D Animation Tools Free and Paid Options for 2024
-date: 2024-08-02T06:57:47.379Z
-updated: 2024-08-03T06:57:47.379Z
+date: 2024-11-10T20:56:54.174Z
+updated: 2024-11-15T04:46:35.709Z
 tags: 
   - video editing software
   - video editing
@@ -35,9 +35,6 @@ If you are new to the world of 2D animation as a beginner and want to be a profe
 * [**Part 3: How to Make 2D Animation**](#part3)
 * **[Part 4: FAQ about Professional 2D Animation Software](#faq)**
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Recommend free download animation maker Filmora
 
 If you want to create a 2D animation video, we recommend using 2D animation software-Filmora.
@@ -46,21 +43,18 @@ It is a powerful and straightforward video maker for all levels from middle to a
 
 Now free download it on [Windows](https://tools.techidaily.com/wondershare/filmora/download/) and [Mac](https://tools.techidaily.com/wondershare/filmora/download/) to make 2D animated videos, and connect with other video creators in the [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html) to get more creative ideas.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
 ## A cross-platform for making videos anywhere for all creators
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Why your video editing isn't good enough? How about some creative inspo?
 
@@ -94,6 +88,13 @@ No advertising on the website.
 | 9   | FlipBook                      | Windows and OSX                | $19.99/$49.99/$149.99/$199.99      | Professionals |
 | 10  | Reallusion CrazyTalk Animator | Windows and OSX                | $199 for the pipeline, $99 for pro | Professionals |
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1  Best Free 2D Animation Software for Beginners
 
 ### 01 [Synfig](https://www.synfig.org/) \- Open Source 2D Animation Software for Beginners
@@ -117,17 +118,12 @@ The testing version has some experimental features if users want to try those ah
 * Has sound support to allow for the addition and syncing of narration and/or music to the video
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 02 [Opentoonz](http://opentoonz.github.io/e/) \- Free-to-Use Effects for 2D Animation
 
 **Price:** Free
@@ -149,6 +145,13 @@ And users can modify the source code to add specific features to this simple ani
 * Add distortion and light effects
 * Compatible with black and white and colored scans
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 03 [Maefloresta](https://www.maefloresta.com/) \- Easy-to-Use 2D Animation Software on Phone
 
 **Price:** Free
@@ -168,6 +171,13 @@ There is no need to pay for expensive software if you just want to create some f
 * The free downloadable app that works on smartphones and tablets
 * Easy animation software with tutorials
 * Intuitive interface that beginners can use with ease
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 04 [Pencil 2D](http://www.pencil2d.org/) \- Cross-Platform Software with Intuitive Interface
 
@@ -189,19 +199,8 @@ You can get to grips with how 2D animation works, and you can create some very f
 * Raster and vector workflow switching
 * Cross-platform compatibility to free download
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Part 2: Best Professional 2D Animation Software
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 05 [Toon Boom Harmony](https://www.toonboom.com/products/harmony) \- Leading Animation Software for Professional
 
 **Price:** The first 21 days of using the product are free. After the 21 days are up, you will need to pay $109 per month.
@@ -226,9 +225,6 @@ You can also check the [Toon Boom Harmony Advanced Review](https://www.toptenrev
 * Cut-out animation tools
 * Traditional paperless animation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 06 [CelAction2D](https://www.celaction.com/) \- Low System Requirement for Professional 2D Animation
 
 **Price:** If you go with the Studio Edition, it costs $1,300 to obtain a single license to use the product for a lifetime. Studio Edition is $1300 for one single license
@@ -279,9 +275,6 @@ There is an Anime Studio Debut - simple animation software, which is targeted to
 * Realistic motion blur
 * Animation for multiple layers at the same time
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 08 [Stop Motion Studio](https://www.cateater.com/) \- Fun and Well Designed 2D Animation Software
 
 **Price:** $59.99 to download the software onto your PC.
@@ -308,8 +301,18 @@ And with a unique, frame-by-frame editor, you will be able to get the result tha
 * DSLR camera support for creating perfect 1080p recordings
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 09 [FlipBook](https://digicel.net/) \- Fun and Well Designed 2D Animation Software
 
 **Price:** $19.99 for FlipBook Lite, $49.99 for FlipBook Studio, $149.99 for FlipBook Pro, $199.99 for FlipBook ProHD
@@ -331,9 +334,6 @@ If you like to make a cartoon video like a pro, this 2D animation maker is best 
 * Ten layers in animation for adding extra touches
 * You can use a scanner to import images
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 10  [Reallusion CrazyTalk Animator](https://www.reallusion.com/cartoon-animator/) \- Professional 2D Animation/Cartoon Software for Designers
 
 **Price:** USD199 for the pipeline, USD99 for pro.
@@ -378,9 +378,6 @@ Thus, it is a step that you should not neglect during the preliminary.
 
 At this stage, you need to prepare all the 2D animation materials, including characters, background, and props. One thing you need to know is all the preparations in steps 2 and 3 should be ready before proceeding to step 3.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Produce materials](https://images.wondershare.com/filmora/article-images/2022/01/10-best-2d-animation-software-in-2022-03.gif)
 
  **Step 4  Animation**
@@ -401,9 +398,6 @@ Above are the five 2D animation steps. If you think there are extra steps, you a
 
 ![anireel animation software](https://images.wondershare.com/filmora/article-images/2022/07/anireel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part 3  FAQ about Professional 2D Animation Software
@@ -412,24 +406,28 @@ Above are the five 2D animation steps. If you think there are extra steps, you a
 
 It is hard to directly give you an answer and tell you which is the best 2D animation software. However, we can give you some recommendations based on your needs. If you are a beginner, **Pencil 2D** is a great start. You can use it to make minimalist animation to give you a quick-to-start 2D animation experience. If you are in the middle level, **Stop Motion Studio** is what we recommend. The interface is intuitive with powerful features like voiceover and Chroma key.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### 02  What is the best 2D animation software for beginners?
 
 For 2D animation software for beginners, Pencil 2D would come to mind for many people. It is an excellent animation software for beginners. If you also want to try other tools, **Synfig** and **FlipBook** are also great choices. It is your call for the final decision.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 03  Is there any free animation software?
 
 For beginners, free animation software includes Synfig, Opentoonz, Maefloresta, and Pencil 2D. For advanced users, you can use **Blender** and **Maya**.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Creating a 2D animation video is a lot easier when you have the right software available to you. You already have a script and storyboard in mind, but now you can realize your vision in intricate and unique ways.
@@ -438,9 +436,6 @@ If you want to make 3D animation, there are also [various 3D animation software 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -449,11 +444,33 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-definitive-guide-to-choosing-the-best-webcam-for-your-youtube-channel/"><u>[Updated] 2024 Approved The Definitive Guide to Choosing the Best Webcam for Your YouTube Channel</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-bring-your-presentations-to-life-with-aiseesoft-screencast-capabilities/"><u>[Updated] In 2024, Bring Your Presentations to Life with Aiseesoft Screencast Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alter-your-desktop-background-effortlessly-with-win11/"><u>Alter Your Desktop Background Effortlessly with Win11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/analyzing-the-features-of-vegaspros-latest-release/"><u>Analyzing the Features of VegasPro's Latest Release</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nt-your-vfx-arsenal-explore-these-top-8-sites-for-free-eco-backgrounds/"><u>Augment Your VFX Arsenal - Explore These Top 8 Sites for Free Eco-Backgrounds</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-elevenlabs-generative-voice-ai-options-and-reviews/"><u>Comprehensive Analysis of ElevenLabs' Generative Voice AI: Options & Reviews</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/comprehensive-guide-to-youtube-video-captioning-for-2024/"><u>Comprehensive Guide to YouTube Video Captioning for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/conquering-doubts-embracing-confidence-beating-imposter-syndrome-at-your-job-career-growth-hub/"><u>Conquering Doubts, Embracing Confidence: Beating Imposter Syndrome at Your Job | Career Growth Hub</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-essential-guide-to-adding-srt-to-mp4s-updated/"><u>In 2024, Essential Guide to Adding SRT To MP4s, Updated</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-90-lite-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor 90 Lite ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-list-of-3d-video-makers-free-paid-and-in-between-for-2024/"><u>The Ultimate List of 3D Video Makers Free, Paid, and In-Between for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unleash-your-creativity-how-to-flip-a-clip-in-final-cut-pro-for-2024/"><u>Unleash Your Creativity How to Flip a Clip in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-s-top-free-mkv-splitters-no-watermarks-or-trials/"><u>Updated 2024 Approved S Top Free MKV Splitters No Watermarks or Trials</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-shrink-your-videos-10-free-online-compressors-with-no-installation/"><u>Updated 2024 Approved Shrink Your Videos 10 Free Online Compressors with No Installation</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-list-of-10-free-video-hosting-sites-for-online-success/"><u>Updated 2024 Approved The Ultimate List of 10 Free Video Hosting Sites for Online Success</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-side-by-side-video-editors-for-ios-and-android-phones/"><u>Updated In 2024, Best Side-by-Side Video Editors for iOS and Android Phones</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-distort-disrupt-delight-the-top-10-glitch-video-editing-apps-for-mobile/"><u>Updated In 2024, Distort, Disrupt, Delight The Top 10 Glitch Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-creativity-10-top-public-domain-image-sources/"><u>Updated In 2024, Unleash Creativity 10 Top Public Domain Image Sources</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-whats-the-difference-between-adobe-premiere-and-after-effects-for-2024/"><u>Updated Whats the Difference Between Adobe Premiere and After Effects for 2024</u></a></li>
+</ul></div>
+

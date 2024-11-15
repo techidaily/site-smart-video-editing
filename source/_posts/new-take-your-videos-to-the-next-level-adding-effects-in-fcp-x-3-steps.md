@@ -1,7 +1,7 @@
 ---
 title: New Take Your Videos to the Next Level Adding Effects in FCP X (3 Steps)
-date: 2024-08-02T06:55:37.173Z
-updated: 2024-08-03T06:55:37.173Z
+date: 2024-11-12T20:11:08.482Z
+updated: 2024-11-15T01:47:12.595Z
 tags: 
   - video editing software
   - video editing
@@ -55,16 +55,10 @@ To apply an effect, first select the clip in the Timeline.
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -82,9 +76,6 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
@@ -95,18 +86,12 @@ Grab a slider and drag it to see what happens. For example, to make an image blu
 
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
 
 The effect will be deleted from the selected clip.
@@ -119,9 +104,6 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -130,11 +112,35 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-less-loved-aspects-of-virtual-worlds/"><u>[New] The Less-Loved Aspects of Virtual Worlds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-discreetly-share-life-with-instagram-live/"><u>[Updated] In 2024, Discreetly Share Life with Instagram Live</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-optimal-video-length-and-width-for-instagram-posts/"><u>[Updated] Optimal Video Length and Width for Instagram Posts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-game-on-everywhere-selecting-top-5-emulators-for-playing-gb-classics-on-windows-pcs/"><u>2024 Approved Game On Everywhere! - Selecting Top 5 Emulators for Playing GB Classics on Windows PCs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/investigating-the-power-of-4-second-youtube-subscriptions-for-2024/"><u>Investigating the Power of 4-Second YouTube Subscriptions for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ios-device-integration-with-android-images-for-2024/"><u>IOS Device Integration with Android Images for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-adobe-systems-offers-premiere-pro-cs6-for-mac-free-download-available/"><u>New 2024 Approved Adobe Systems Offers Premiere Pro CS6 for Mac Free Download Available</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-stunning-videos-best-movie-makers-for-win-10/"><u>New 2024 Approved Create Stunning Videos Best Movie Makers for Win 10</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-final-cut-pro-voice-over-mastery-essential-techniques-for-success/"><u>New 2024 Approved Final Cut Pro Voice Over Mastery Essential Techniques for Success</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-is-virtualdub-obsolete-discover-the-best-free-video-editing-software-alternatives/"><u>New 2024 Approved Is Virtualdub Obsolete? Discover the Best Free Video Editing Software Alternatives</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-5-fantastic-free-video-watermark-removers-and-adders/"><u>New In 2024, 5 Fantastic Free Video Watermark Removers and Adders</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-revolutionize-your-content-10-top-rated-animated-text-tools/"><u>New In 2024, Revolutionize Your Content 10 Top-Rated Animated Text Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-ultimate-fix-no-more-freezing-issues-on-pc/"><u>Pathfinder: Wrath of the Righteous Ultimate Fix - No More Freezing Issues on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-blueprint-for-configuring-a-zoom-space/"><u>The Essential Blueprint for Configuring a Zoom Space</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
