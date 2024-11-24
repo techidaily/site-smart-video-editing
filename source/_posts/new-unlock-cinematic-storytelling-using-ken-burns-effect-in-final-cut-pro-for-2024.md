@@ -1,7 +1,7 @@
 ---
 title: New Unlock Cinematic Storytelling Using Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-08-02T06:54:54.245Z
-updated: 2024-08-03T06:54:54.245Z
+date: 2024-11-22T19:42:58.038Z
+updated: 2024-11-24T13:13:35.383Z
 tags: 
   - video editing software
   - video editing
@@ -44,17 +44,15 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
 
 **Step 1** – Import your video. From your timeline workspace, select the clip, or highlight the section of the clip, that you want to apply the Ken Burns Effect to.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
@@ -64,8 +62,9 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -74,9 +73,6 @@ You can also customize the ken burns effects in Final Cut.
 
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
@@ -84,8 +80,9 @@ You can also customize the ken burns effects in Final Cut.
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
 Now that we know how to open and apply the Ken Burns Effect in Final Cut Pro. Let’s examine how we zoom in Final Cut Pro using keyframing. Keyframing, of course, involves [basic animation](https://tools.techidaily.com/wondershare/filmora/download/) that allows movement to be added to a still frame. So how do you use the Ken Burns Effect in Final Cut Pro X in conjunction with keyframing? Let’s talk you through it.
@@ -100,6 +97,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -112,12 +113,11 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -125,11 +125,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-demystifying-trillers-unique-approach-to-video-content/"><u>[New] Demystifying Triller's Unique Approach to Video Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nleashing-creativity-essential-lenses-for-youtube-vloggers-for-2024/"><u>[New] Unleashing Creativity Essential Lenses for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastering-youtube-studio-the-ultimate-guide-to-video-edits/"><u>[Updated] In 2024, Mastering YouTube Studio The Ultimate Guide to Video Edits</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-blaze-2frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Blaze 2FRP Lock</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-youtubes-tagging-system-tips-for-finding-prime-video-labels/"><u>In 2024, Navigating YouTube's Tagging System Tips for Finding Prime Video Labels</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlock-your-gopros-potential-best-alternative-video-editing-software/"><u>New Unlock Your GoPros Potential Best Alternative Video Editing Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-android-update-for-vr-video-watchers/"><u>The Essential Android Update for VR Video Watchers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-photographers-resource-efficient-online-photo-cropping-for-2024/"><u>The Photographer's Resource Efficient Online Photo Cropping for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-face-blur-made-easy-expert-video-editing-software/"><u>Updated 2024 Approved Face Blur Made Easy Expert Video Editing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-stream-movies-from-your-device-to-chromecast-windows-mac-android-and-ios-instructions/"><u>Updated 2024 Approved Stream Movies From Your Device to Chromecast Windows, Mac, Android, and iOS Instructions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-here-are-10-best-trailer-makers-for-mac-and-windows-to-creating-attractive-movie-trailers-for-2024/"><u>Updated Here Are 10 Best Trailer Makers for Mac and Windows to Creating Attractive Movie Trailers for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-cool-video-editor-how-to-add-cool-effects-to-video/"><u>Updated In 2024, Cool Video Editor How to Add Cool Effects to Video</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-download-videoleap-on-macbook-proair-easy-installation-steps/"><u>Updated In 2024, Download Videoleap on MacBook Pro/Air Easy Installation Steps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-free-avi-video-rotation-software-the-ultimate-cross-platform-guide/"><u>Updated In 2024, Free AVI Video Rotation Software The Ultimate Cross-Platform Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mac-users-learn-how-to-download-and-install-kinemaster/"><u>Updated Mac Users Learn How to Download and Install KineMaster</u></a></li>
+</ul></div>
+

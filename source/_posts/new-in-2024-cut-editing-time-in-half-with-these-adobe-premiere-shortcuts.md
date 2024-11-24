@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Cut Editing Time in Half with These Adobe Premiere Shortcuts
-date: 2024-08-09T07:51:55.006Z
-updated: 2024-08-10T07:51:55.006Z
+date: 2024-11-19T17:33:56.187Z
+updated: 2024-11-24T00:54:06.961Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -64,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -84,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -109,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -182,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -225,12 +207,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/inpointing-your-signature-style-and-marketplace-role-for-2024/"><u>[New] Pinpointing Your Signature Style & Marketplace Role for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fresh-selection-of-engagement-prompts-for-audio-audiences/"><u>[Updated] Fresh Selection of Engagement Prompts for Audio Audiences</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-photo-visionaries-guide-unveiling-the-best-6-high-res-cameras-for-2024/"><u>[Updated] Photo Visionaries Guide Unveiling the Best 6 High-Res Cameras for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-podcasts/"><u>[Updated] The Secret Ingredient to Success 15 Activities that Enhance Learning While Listening to Podcasts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/44cm54m56yg45zyw5zplusf6zmq5a6a6ko95zob44go44gx44gm44ov44oz44oa44o844ov44kp44od44kv44k544gm54sh5paz6ywn5biditjgi0/"><u>「特選地域限定製品としてワンダーフォックスが無料配布!?」</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2-still-struggling-to-post-videos-on-facebook-this-year-uncover-proven-resolution-methods-today/"><u>2. Still Struggling to Post Videos on Facebook This Year? Uncover Proven Resolution Methods Today!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-accessing-vids-the-top-5-free-online-video-extractors/"><u>2024 Approved Seamlessly Accessing Vids The Top 5 Free Online Video Extractors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/5lin5yplusv6kej44gq5yan55sf44ko44op44o844cc5yq55p6c55qe44gq44ox44os44o844ok44o844gu44oi44op44ow44or44k344ol44o844og44kj44oz44kw5oml6acg44ks6kal44gk44gr44kl425/"><u>不可解な再生エラー。効果的なプレーヤーのトラブルシューティング手順を見つけるためにこれらのステップが必要です</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/a-beginners-approach-seamlessly-capturing-discord-audio-conversations/"><u>A Beginner's Approach: Seamlessly Capturing Discord Audio Conversations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/abema-tvand/"><u>Abema TVのフリー動画ダウンロード&保存ガイド</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/combining-apples-mobile-clips-with-desktop-footage-a-how-to-tutorial/"><u>Combining Apple's Mobile Clips with Desktop Footage – A How-To Tutorial</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/convert-images-into-animated-gifs-top-9-techniques-for-pc-mobile-devices-and-websites/"><u>Convert Images Into Animated GIFs: Top 9 Techniques for PC, Mobile Devices & Websites</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/convert-videos-in-hd-quality-for-free-with-easy-to-use-tool/"><u>Convert Videos in HD Quality for Free with Easy-to-Use Tool</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-sony-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Sony FRP Bypass</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographics-leveraging-social-media-videos-for-2024/"><u>Infographics Leveraging Social Media Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/redefining-collaboration-the-power-of-immersive-vr/"><u>Redefining Collaboration The Power of Immersive VR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/revamping-graphics-settings-nvidia-rolls-out-new-comprehensive-app-merging-features-of-control-panel-and-geforce-experience/"><u>Revamping Graphics Settings: NVIDIA Rolls Out New Comprehensive App Merging Features of Control Panel and GeForce Experience</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/44op44kk44k744oz44k544kz44o844oj44gm5lin5q2j44go5yik5a6a44gv44km44gf6zqb44gu6kej5rg6562w/"><u>ライセンスコードが不正と判定された際の解決策</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

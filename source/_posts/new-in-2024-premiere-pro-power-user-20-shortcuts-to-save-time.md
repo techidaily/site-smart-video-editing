@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Premiere Pro Power User 20 Shortcuts to Save Time
-date: 2024-08-09T07:53:47.698Z
-updated: 2024-08-10T07:53:47.698Z
+date: 2024-11-21T01:39:34.712Z
+updated: 2024-11-24T11:16:22.286Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -78,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -103,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -136,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -179,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -214,18 +199,6 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -234,12 +207,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-gamer-perks-lowest-priced-monitors-and-keyboards/"><u>[New] 2024 Approved Essential Gamer Perks Lowest Priced Monitors & Keyboards</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-intense-meetings-perfect-your-screen-focus-in-msteams/"><u>[New] In 2024, Intense Meetings Perfect Your Screen Focus in MSTEAMS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-what-everyone-needs-to-know-about-asmr-videos/"><u>[New] What Everyone Needs to Know About ASMR Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-windows-8-flv-video-editor-convert-trim-and-enhance-your-videos/"><u>2024 Approved Windows 8 FLV Video Editor Convert, Trim, and Enhance Your Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-removing-redundant-songs-from-your-itunes-library/"><u>Easy Steps: Removing Redundant Songs From Your iTunes Library</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-end-of-windows-10-support-explore-your-five-last-options-now/"><u>Facing the End of Windows 10 Support? Explore Your Five Last Options Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-the-game-changing-user-friendly-idiot-proof-thermal-paste-tool-from-x-apply-coming-your-way/"><u>Get Ready for the Game-Changing, User-Friendly 'Idiot-Proof' Thermal Paste Tool From X-Apply - Coming Your Way!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-make-a-lasting-impression-top-10-free-animated-logo-makers/"><u>In 2024, Make a Lasting Impression Top 10 Free Animated Logo Makers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-trailer-magic-top-video-editing-software-for-mac-and-pc/"><u>In 2024, Trailer Magic Top Video Editing Software for Mac and PC</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-trim-cut-and-split-avi-files-like-a-pro-updated/"><u>In 2024, Trim, Cut, and Split AVI Files Like a Pro Updated</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-se-2022-5-ways-to-get-into-a-locked-iphone-se-2022-by-drfone-ios/"><u>Locked Out of iPhone SE (2022)? 5 Ways to get into a Locked iPhone SE (2022)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mobile-video-editing-essentials-top-apps-for-vertical-content/"><u>New 2024 Approved Mobile Video Editing Essentials Top Apps for Vertical Content</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-high-definition-heroes-the-best-4k8k-video-editing-software-for-2024/"><u>New High-Definition Heroes The Best 4K/8K Video Editing Software for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-final-cut-pro-hacks-5-insider-tips-to-streamline-your-video-editing/"><u>New In 2024, Final Cut Pro Hacks 5 Insider Tips to Streamline Your Video Editing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-magic-6-lite-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Magic 6 Lite? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y27 4G? | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

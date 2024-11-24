@@ -1,7 +1,7 @@
 ---
 title: New Top 10 Free Video Rotators to Rotate/Flip Videos for 2024
-date: 2024-08-02T06:52:29.283Z
-updated: 2024-08-03T06:52:29.283Z
+date: 2024-11-21T09:50:59.738Z
+updated: 2024-11-24T08:33:42.241Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
 # Top 10+ Free Video Rotators to Rotate or Flip Videos
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -58,13 +55,14 @@ If you don't want to install any software on your computer, you can try an onlin
 
 ![rotate video with online video cutter](https://images.wondershare.com/filmora/article-images/online-video-cutter-rotate-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. [ezgif.com](https://ezgif.com/rotate-video)
 
 Although ezgif is used as a GIF maker mainly, it also allows you to edit videos, like cutting, rotating, resizing, reversing, etc. And the uploaded video size is up to 100MB. You can rotate 90 degrees, rotate 180 degrees or rotate 270 degrees (90 counter-clockwise).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate video online with ezgif](https://images.wondershare.com/filmora/article-images/ezgif-rotate-video-online.jpg)
 
 #### 3\. [kapwing.com](https://www.kapwing.com/)
@@ -73,18 +71,12 @@ Kapwing is a comprehensive online video editor which allows you to rotate, resiz
 
 Rotating videos with Kapwing can be finished in several ways, you can use the handles in the preview window to drag it to any angle as you like, or you can use the rotate icon to rotage fast to 90, 180 or 270 degrees.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![free video rator kapwing online](https://images.wondershare.com/filmora/article-images/rotate-video-online-in-kapwing.jpg)
 
 #### 4\. [Rotate Video](http://www.rotatevideo.org/)
 
 Rotate Video is such a free web service that can rotate videos stored on the computer. The supported video formats include FLV, AVI, MPG, WMV and MP4\. You can turn the video in 90 degree clockwise or anti-clockwise. However, like other online video editors, your video files cannot exceed a size limit of 5MB.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rotate video online](https://images.wondershare.com/images/multimedia/video-editor/rotate-video.jpg)
 
 Note: Above free rotators are web-based, which means you can use these free online video rotator on desktop and mobile devices. You can check this article to find out more tools to [rotate videos online](https://tools.techidaily.com/wondershare/filmora/download/) .
@@ -103,6 +95,10 @@ Instead, if you're a Mac user, iMovie can be the best choice. It comes bundled w
 
 ![imovie flip video](https://images.wondershare.com/filmora/article-images/imovie-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You May also like: [Learn more details about how to rotate videos and photos in iMovie](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Note: Windows Movie Maker is discontinued already, if you are running Windows 10, you can try the Photos App to rotate video on Windows for free, which will be introduced later.
@@ -111,18 +107,6 @@ Note: Windows Movie Maker is discontinued already, if you are running Windows 10
 
 Free Video Flip and Rotate is a fast and straightforward tool that enables you to rotate the video in different standard predefined angles. You can rotate the video by 90 degrees, 180 degrees in a clockwise and anti-clockwise directions. With it, you can also flip the video vertically as well as horizontally to make more corrections to the original video or rotated video.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![flip and rotate](https://images.wondershare.com/images/multimedia/video-editor/flip-and-rotate.jpg)
 
 #### 8\. [Freemake Video Converter](http://www.freemake.com/)
@@ -131,6 +115,10 @@ Freemake Video Converter is a free and all-in-one video converter. It supports 2
 
 ![rotate video with Freemake](https://images.wondershare.com/filmora/article-images/freemake-video-converter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 9\. [Windows 10 Photos](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Windows 10 users, who don’t have the Windows Movie Maker tool, can use the Photos app to rotate the video to 90, 180, and 270 degrees easily. Here are several ways to rotate video with Photos:
@@ -138,19 +126,17 @@ Windows 10 users, who don’t have the Windows Movie Maker tool, can use the Pho
 1. You can right-click the video after importing it to the storyboard, and then click Rotate menu;
 2. Or, you can click the rotate icon in the storyboard toolbar to rotate the video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows10 Photos App rotate video](https://images.wondershare.com/filmora/article-images/rotate-video-windows10-video-editor.jpg)
 
 #### 10\. [VLC Media Player](https://tools.techidaily.com/wondershare/filmora/download/)
 
 VLC is a free media player and video editor program for Windows, Mac, and Linux computers. Rotating a video in VLC is simple and free, and you can rotate the video in 90, 180, and 270 degrees, what’s more, it also provides flip options, which allow you to flip the video horizontally and vertically.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![VLC rotate video](https://images.wondershare.com/filmora/article-images/rotate-video-with-vlc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -162,13 +148,15 @@ If you are not a Filmora user at the moment, why not giving it a try? With its p
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -176,3 +164,24 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-iphones-guide-to-night-photography-excellence/"><u>[New] 2024 Approved IPhone's Guide to Night Photography Excellence</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-money-making-guide-on-social-media-for-2024/"><u>[New] The Ultimate Money-Making Guide on Social Media for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-beginners-guide-to-camera-lenses-in-filmmaking-and-vlogging/"><u>[Updated] 2024 Approved The Beginner's Guide to Camera Lenses in Filmmaking & Vlogging</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamline-your-gameplay-memory-with-these-6-steps-for-2024/"><u>[Updated] Streamline Your Gameplay Memory with These 6 Steps for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/essential-phones-for-optimal-gear-vr-performance-update-2023-for-2024/"><u>Essential Phones for Optimal Gear VR Performance - Update 2023 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpts-impact-on-cybersecurity-financial-and-computing-risks-analyzed/"><u>GPT's Impact on Cybersecurity: Financial and Computing Risks Analyzed</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/leading-free-tools-for-risk-free-windows-11-os-migration-and-backup-systems/"><u>Leading Free Tools for Risk-Free Windows 11 OS Migration & Backup Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-video-aspect-ratio-conversion-tips-and-tricks-for-2024/"><u>New Video Aspect Ratio Conversion Tips and Tricks for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-vlog-like-a-pro-10-essential-editing-apps-for-mobile-devices/"><u>New Vlog Like a Pro 10 Essential Editing Apps for Mobile Devices</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-oppo-reno-10-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Oppo Reno 10 5G without backup.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722165997924-unlocking-potential-a-step-by-step-guide-for-using-gpt-3-in-chatgpt-today/"><u>Unlocking Potential: A Step-by-Step Guide for Using GPT-^3 in ChatGPT Today</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unleash-your-creativity-video-editing-tips-for-family-filmmakers/"><u>Updated 2024 Approved Unleash Your Creativity Video Editing Tips for Family Filmmakers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-discover-the-best-free-and-paid-sony-vegas-alternatives-for-windows/"><u>Updated In 2024, Discover the Best Free and Paid Sony Vegas Alternatives for Windows</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-face-blurring-made-easy-a-step-by-step-guide-with-the-top-10-free-apps/"><u>Updated In 2024, Face Blurring Made Easy A Step-by-Step Guide with the Top 10 Free Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-mobile-motion-analysis-top-apps-compared/"><u>Updated In 2024, Mobile Motion Analysis Top Apps Compared</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/video-editing-made-easy-a-comprehensive-guide-to-windows-movie-maker-for-2024/"><u>Video Editing Made Easy A Comprehensive Guide to Windows Movie Maker for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New Taking Lower Thirds to the Next Level in Final Cut Pro X
-date: 2024-08-02T06:51:35.697Z
-updated: 2024-08-03T06:51:35.697Z
+date: 2024-11-21T10:27:57.109Z
+updated: 2024-11-24T13:37:41.963Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 
 # What Makes the Best Lower Thirds in Final Cut Pro X?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -39,8 +36,9 @@ Here comes an enlightening discussion about the lower third modules in your vide
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part1: What is the lower third?**
 
 Are you aware of lower third elements? If you are a newbie video designer, then this article ignites you with reliable facts about it. The lower third module is a graphical element that takes the lower position of a video.
@@ -51,24 +49,11 @@ You can also observe this lower third module during an interview session on your
 
 On a short note, you can define the lower third module as a piece of a graphical element that hangs at the bottom of the screen displaying related data in pace with the existing video content. You can create the lower third module using an incredible tool for your videos in no time. Identify the factors to work on to refine the lower third module appearance and performances.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part2: What factors contribute to a good lower third?**
 
@@ -132,13 +117,14 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
 **3Step 3: Customize the Title**
@@ -151,14 +137,16 @@ Use the above instructions, insert the lower third element in your video effortl
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -177,18 +165,12 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
 
 Display the texts promptly to enlighten the audience. Connect the texts to the target audience without distracting them. Work on this challenging element using a professional app like the Final Cut Pro X program. Stay tuned with this article to discover the new horizons of video editing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -197,11 +179,33 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-exceptional-20-no-license-pubg-images/"><u>[New] 2024 Approved Exceptional 20 No-License PUBG Images</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-optimal-remote-voice-recorders/"><u>[New] In 2024, Optimal Remote Voice Recorders</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ae-excellence-select-best-templates-for-free-access/"><u>[Updated] 2024 Approved AE Excellence Select Best Templates for Free Access</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-pathway-from-webp-files-to-jpegs/"><u>[Updated] The Ultimate Pathway From WebP Files to JPEGs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/youtube-mp3/"><u>「簡単に使える YouTube 動画 MP3 変換ツール！安全かつ容易なダウンロード方法」</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726027957682-usb/"><u>「USBメモリー上で保存された動画をテレビで見ることが出来ない理由と解決法」</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1-dvd/"><u>「レジオン1 DVD 再生、リッピング、コピー手順詳細解説」</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1-fix-vlc-player-troubleshooting-mp4-file-playback-problems/"><u>1. Fix VLC Player: Troubleshooting MP4 File Playback Problems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726028410386-instagram/"><u>最適化されたInstagram動画フォーマット:解説とサイズ変更方法</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/windowsav13/"><u>最新技術: Windowsパソコン上でAV1動画の再生方法とは？3つ選びましょう!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-3d-printing-method-for-crafting-high-tech-three-dimensional-chip-designs/"><u>Advanced 3D Printing Method for Crafting High-Tech Three-Dimensional Chip Designs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/como-cambiar-tu-musica-de-mp3-a-avi-sin-costo-tutorial-completo-para-usuarios-de-movavi/"><u>Cómo Cambiar Tu Música De MP3 a AVI Sin Costo - Tutorial Completo Para Usuarios De Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-hardware-reviews-by-tom-find-your-perfect-setup/"><u>Comprehensive Hardware Reviews by Tom: Find Your Perfect Setup</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-download-and-personalize-whatsapp-ringtones-on-mobile/"><u>In 2024, Step-by-Step Download & Personalize WhatsApp Ringtones on Mobile</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726027817771-mts/"><u>MTSファイル圧縮手順集 - 最も使いやすい方法</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-components-through-toms-hardware/"><u>Navigating Computer Components Through Tom's Hardware</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-how-to-watch-rtmp-live-streams-using-vlc-media-player/"><u>Step-by-Step Guide: How to Watch RTMP Live Streams Using VLC Media Player</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726028349091-windows-10-3/"><u>Windows 10向けビデオとオーディオフュージョン技術 - トップ3の統合手法</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726026514336-dvd/"><u>ディスクプレイヤーを使ってテレビにDVDを表示する方法とトラブルシューティング</u></a></li>
+</ul></div>
+

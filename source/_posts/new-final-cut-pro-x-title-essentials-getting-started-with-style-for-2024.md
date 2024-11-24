@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro X Title Essentials Getting Started with Style for 2024
-date: 2024-08-09T07:53:26.095Z
-updated: 2024-08-10T07:53:26.095Z
+date: 2024-11-20T05:57:18.293Z
+updated: 2024-11-24T06:22:16.340Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -71,16 +68,10 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles005.jpg)
 
 If you look right in the center of the screen, you'll see the word "Title." Yes, its darn near invisible. And, yes, it looks, um, ugly. However, we have a TON of formatting control to make this look however we want.
@@ -89,9 +80,6 @@ Select and delete that full-screen title.
 
 There's one more way to apply a title: dragging from the Titles Browser.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles006.jpg)
 
 Click the Title icon in the Toolbar. This displays the contents of the Title Browser. The column on the left displays title categories, the icons on the right indicate individual titles, the search box at the bottom allows you to search for specific titles by name, while the number in the lower right indicates the number of titles currently displayed. (Your number may not match mine because I've added a few custom titles to my system.)
@@ -126,9 +114,6 @@ All text, in any title, can be changed by double-clicking it in the Viewer to se
 
 #### FORMATTING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 You can format any text that you can select. This means that you can format entire phrases, words, or individual letters differently. For this article, I will format everything the same, because once you know how this works, you can experiment on your own.
@@ -157,16 +142,10 @@ While many of these settings you already know there are a few you may not:
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles017.jpg)
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles014.jpg)
 
 After making a few changes in the Inspector, here's the final result. Very cool - and very different from where we started!
@@ -195,9 +174,6 @@ Here, for example, notice that my title is fully contained within Action Safe.
 
 Titles give our programs character and personality, plus they explain what's going on to the audience. Final Cut Pro X provides a wealth of formatting options to make our text look great.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -206,12 +182,32 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-obs-vs-shadowplay-the-streaming-software-showdown/"><u>[Updated] In 2024, Obs vs ShadowPlay The Streaming Software Showdown</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-skyward-voyage-of-gopro-karma-analysis-for-2024/"><u>[Updated] The Skyward Voyage of GoPro Karma Analysis for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-choreographing-cinema-sounds-in-the-windows-11-space/"><u>2024 Approved Choreographing Cinema Sounds in the Windows 11 Space</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/benchmarking-the-fastest-routers-on-the-market-spotlight-on-netgears-nighthawk-rax120/"><u>Benchmarking the Fastest Routers on the Market - Spotlight on Netgear's Nighthawk RAX120</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-display-technology-oled-vs-qled-televisions-a-comprehensive-guide/"><u>Choosing the Right Display Technology: OLED Vs. QLED Televisions – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-safe-chatgpt-experiences-top-5-tips-for-your-children/"><u>Ensuring Safe ChatGPT Experiences: Top 5 Tips for Your Children</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-latest-sound-card-drivers-for-windows-computers/"><u>Find and Install Latest Sound Card Drivers for Windows Computers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-secret-to-engaging-lower-thirds-fcpx-best-practices-revealed/"><u>In 2024, The Secret to Engaging Lower Thirds FCPX Best Practices Revealed</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-snapshots-from-videos-top-10-converters-to-extract-images/"><u>New 2024 Approved Snapshots From Videos Top 10 Converters to Extract Images</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-get-animated-best-mobile-apps-for-creating-cartoon-like-images-for-2024/"><u>New Get Animated Best Mobile Apps for Creating Cartoon-Like Images for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-google-plays-hottest-android-apps-right-now/"><u>New In 2024, Google Plays Hottest Android Apps Right Now</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-how-to-use-filmora-without-paying-a-dime-free-download/"><u>New In 2024, How to Use Filmora Without Paying a Dime Free Download</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-leading-online-video-promo-builders/"><u>New In 2024, Leading Online Video Promo Builders</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-hot-40-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Hot 40 Pro Reset Code | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

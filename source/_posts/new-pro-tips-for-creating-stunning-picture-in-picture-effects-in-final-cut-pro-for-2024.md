@@ -1,7 +1,7 @@
 ---
 title: New Pro Tips for Creating Stunning Picture-in-Picture Effects in Final Cut Pro for 2024
-date: 2024-08-02T06:52:01.089Z
-updated: 2024-08-03T06:52:01.089Z
+date: 2024-11-21T06:55:54.278Z
+updated: 2024-11-23T16:07:08.708Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
 # How to Create a Picture-in-Picture Effect Using Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -41,10 +38,6 @@ If you are ready with two videos and now want to bring them to the same screen t
 
 The very first step that you need to follow for PIP effect generation using FCP is to bring your main or background video to the timeline as a primary storyline. Once you have created the primary storyline then all videos for the PIP effect will be added to it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
 
 #### Step 2: Add PIP videos
@@ -53,9 +46,6 @@ It is time to choose the higher video clip so that the PIP effect can be applied
 
 Note that lower clips use to stay in the background in final results whereas upper clips will appear in the foreground. By default, both clips use to have 100% full screen with 100% opaque settings.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
 
 #### Step 3: Apply PIP effect
@@ -63,6 +53,10 @@ Note that lower clips use to stay in the background in final results whereas upp
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4: Adjust PIP Effect
 
@@ -75,10 +69,11 @@ As now you have added both videos on-screen now you have to select the higher vi
 
 Simply select the top clip and then hit Command + 4 to open the inspector. Now click on that blue show button over your FCP screen and it will provide you complete information about the transform category of available built-in effects. If you use inspector for this task then it can help you to get very precise results for scaling needs. It assists users to manage images with accurate position and size.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 6: Apply Cross- Dissolve
 
@@ -87,11 +82,16 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check this video tutorial to know more details:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Picture in Picture Plug-ins for Final Cut Pro
 
 There are so many plug-ins available in the market for Final Cut Pro platform and all of them possess unique qualities along with impressive toolsets. No matter whether you are a beginner with the PIP effect or professional making high-end video projects, FCP plug-ins can make your task much easier with their intuitive controls.
@@ -106,10 +106,11 @@ Those who need to enjoy a higher level of customizations are advised to work ove
 
 ProPIP is the best choice for newscasting, commentaries, and many other applications. It helps in generating fine controls for initial as well as end position, rotation, and scaling effects along with easy-to-use media controls over the screen. ProPIP also provides personalized borders with endless opportunities to develop impressive projects on Final Cut Pro platform.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -117,11 +118,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-sealed-snap-chronicles-an-experts-guidebook/"><u>[Updated] The Sealed Snap Chronicles An Expert's Guidebook</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726028926328-windows/"><u>「画面全体録画ができないゲームバー対策:Windows上で実践的解決法」</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-to-correct-a-non-functional-microphone-during-your-csgo-gameplay/"><u>Comprehensive Fixes To Correct A Non-Functional Microphone During Your CS:GO Gameplay</u></a></li>
+<li><a href="https://facebook.techidaily.com/embarking-into-new-dimensions-understanding-and-importance-of-facebooks-metaverse/"><u>Embarking Into New Dimensions: Understanding and Importance of Facebook's Metaverse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-android-phone-not-powering-up-despite-being-connected-to-charger/"><u>Fixing Android Phone Not Powering Up Despite Being Connected to Charger</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-12-pro-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone 12 Pro and iPad Without Apple ID | Stellar</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-record-keeper-thorough-az-audits/"><u>In 2024, Ultimate Record Keeper - Thorough AZ Audits</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726027611669-mp3/"><u>MP3オーディオファイル品質改善テクニック</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726029238551-mp3/"><u>MP3ファイルサイズ縮小ツール＠無料圧縮ソフトウェアとサイト</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscover-fascination-with-new-fallout-video-titles/"><u>Rediscover Fascination with New Fallout Video Titles</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/successfully-watching-usb-files-on-a-sansui-set-complete-tutorial/"><u>Successfully Watching USB Files on a Sansui Set: Complete Tutorial</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/troubleshooting-guide-why-isnt-my-external-hard-drive-detected-by-my-ipad/"><u>Troubleshooting Guide: Why Isn't My External Hard Drive Detected by My iPad?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/ultimate-tutorial-for-converting-your-mp4-videos-to-high-quality-prores-using-windows-10-or-11/"><u>Ultimate Tutorial for Converting Your MP4 Videos to High-Quality ProRes Using Windows 10 or 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/wmv-gif/"><u>WMV動画から簡単なガイド: GIFフォーマットへ完全移行する方法。</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/wonderfox-innovative-solutions-for-dvd-to-video-format-transformation-and-distribution-services/"><u>WonderFox - Innovative Solutions for DVD to Video Format Transformation and Distribution Services</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726028236509-youtube/"><u>YouTube動画からオンリーオーディオを抽出する完全ガイド</u></a></li>
+</ul></div>
+

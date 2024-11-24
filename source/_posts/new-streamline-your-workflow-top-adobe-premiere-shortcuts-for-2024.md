@@ -1,7 +1,7 @@
 ---
 title: New Streamline Your Workflow Top Adobe Premiere Shortcuts for 2024
-date: 2024-08-02T06:52:48.062Z
-updated: 2024-08-03T06:52:48.062Z
+date: 2024-11-20T23:14:07.412Z
+updated: 2024-11-24T02:44:24.544Z
 tags: 
   - video editing software
   - video editing
@@ -18,11 +18,6 @@ thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -35,9 +30,6 @@ The powerful video editing program for your Windows PC</a>
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -66,9 +58,6 @@ The powerful video editing program for your Windows PC</a>
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -86,9 +75,6 @@ The powerful video editing program for your Windows PC</a>
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -111,10 +97,6 @@ The powerful video editing program for your Windows PC</a>
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -185,9 +167,6 @@ The powerful video editing program for your Windows PC</a>
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -228,11 +207,35 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-key-10-efficient-online-subtitle-editors/"><u>[New] Key 10 Efficient Online Subtitle Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-cloud-service-pricing-a-comparative-look/"><u>[Updated] Cloud Service Pricing A Comparative Look</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fresh-talents-guide-to-2024s-entry-level-cams/"><u>[Updated] Fresh Talent's Guide to 2024’S Entry-Level Cams</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-change-background-in-google-meet-on-laptop-and-mobile-devices/"><u>[Updated] How to Change Background in Google Meet on Laptop and Mobile Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevate-video-production-mastering-obs-on-android/"><u>[Updated] In 2024, Elevate Video Production Mastering OBS on Android</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-does-windows-identify-and-restore-accidentally-deleted-documents/"><u>How Does Windows Identify & Restore Accidentally Deleted Documents?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1076220-9781780999708-kissing-the-hag/"><u>Kissing the Hag | Free Book</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/nikon-video-post-production-made-easy-tips-and-tricks-for-2024/"><u>Nikon Video Post-Production Made Easy Tips and Tricks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-eliminating-game-crash-problems-for-final-fantasy-xiv-on-windowsmac/"><u>Troubleshooting Tips: Eliminating Game-Crash Problems for Final Fantasy XIV on Windows/Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-9-best-free-video-compressors-for-windows-10/"><u>Updated 2024 Approved 9 Best Free Video Compressors for Windows 10</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-and-fantastic-10-whiteboard-animation-tools-for-pc-and-mac-users/"><u>Updated 2024 Approved Free and Fantastic 10 Whiteboard Animation Tools for PC and Mac Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-motion-detection-apps-for-mobile-devices/"><u>Updated 2024 Approved Top Motion Detection Apps for Mobile Devices</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-animated-logo-makers-top-picks-and-expert-design-tips-for-2024/"><u>Updated Free Animated Logo Makers Top Picks and Expert Design Tips for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-subtitle-your-way-to-success-fcpx-captioning-made-easy/"><u>Updated In 2024, Subtitle Your Way to Success FCPX Captioning Made Easy</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-best-web-based-video-editors-for-chrome-os/"><u>Updated In 2024, The Best Web-Based Video Editors for Chrome OS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-windows-10-video-production-best-software-options/"><u>Updated Windows 10 Video Production Best Software Options</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

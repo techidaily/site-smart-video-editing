@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Master Adobe Premiere with These 20 Must-Know Shortcuts
-date: 2024-08-09T07:52:22.027Z
-updated: 2024-08-10T07:52:22.027Z
+date: 2024-11-16T22:20:54.621Z
+updated: 2024-11-24T03:32:29.765Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -61,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -81,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -106,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -179,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -214,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -225,12 +207,30 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-innovative-and-user-friendly-voice-editing-apps/"><u>[New] 2024 Approved Innovative and User-Friendly Voice Editing Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-ultimate-guide-faster-periscope-streams/"><u>[New] The Ultimate Guide Faster Periscope Streams</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-make-your-instagram-content-explosive-a-guide-to-virality-for-2024/"><u>[Updated] Make Your Instagram Content Explosive A Guide to Virality for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-twitter-follows-for-every-travel-enthusiast-66-accounts-for-deals-and-insightful-journeys/"><u>Essential Twitter Follows for Every Travel Enthusiast: 66 Accounts for Deals & Insightful Journeys</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-address-and-repair-mscorwksdll-errors-in-windows-operating-systems/"><u>How to Address and Repair mscorwks.dll Errors in Windows Operating Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-s-best-video-editors-for-high-resolution-proxy-video-editing/"><u>In 2024, S Best Video Editors for High-Resolution Proxy Video Editing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-stand-out-with-a-signature-style-a-guide-to-youtube-branding-mastery/"><u>In 2024, Stand Out with a Signature Style A Guide to YouTube Branding Mastery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-storytelling-mastering-characters-with-precise-gpt-prompts/"><u>Innovative Storytelling: Mastering Characters with Precise GPT Prompts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-from-concept-to-reality-10-best-music-video-making-companies/"><u>New 2024 Approved From Concept to Reality 10 Best Music Video Making Companies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-how-to-change-shape-of-a-video-for-2024/"><u>New How to Change Shape of a Video for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-free-wmv-video-combining-tools-2023-edition/"><u>New In 2024, Best Free WMV Video Combining Tools 2023 Edition</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-synchronizing-colors-a-powerdirector-tutorial-for-professional-looking-videos/"><u>New In 2024, Synchronizing Colors A PowerDirector Tutorial for Professional-Looking Videos</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: New Unlock Cinematic Storytelling How to Apply the Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-08-02T06:53:30.264Z
-updated: 2024-08-03T06:53:30.264Z
+date: 2024-11-22T11:12:50.944Z
+updated: 2024-11-23T17:44:18.174Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 
 # How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,8 +30,9 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
 
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
@@ -42,8 +40,9 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -52,15 +51,16 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
 
 **Step 1** – Import your video. From your timeline workspace, select the clip, or highlight the section of the clip, that you want to apply the Ken Burns Effect to.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
@@ -69,9 +69,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -82,14 +79,14 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
 Now that we know how to open and apply the Ken Burns Effect in Final Cut Pro. Let’s examine how we zoom in Final Cut Pro using keyframing. Keyframing, of course, involves [basic animation](https://tools.techidaily.com/wondershare/filmora/download/) that allows movement to be added to a still frame. So how do you use the Ken Burns Effect in Final Cut Pro X in conjunction with keyframing? Let’s talk you through it.
@@ -118,13 +115,15 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -132,3 +131,21 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-mastering-the-art-of-finding-cost-effective-graphics/"><u>[New] Mastering the Art of Finding Cost-Effective Graphics</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solution-needed-mp620-printer-not-detected-in-windows-os/"><u>[Solution Needed] MP620 Printer Not Detected in Windows OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-activating-and-deactivating-built-in-virtual-keyboard-for-windows-10-users/"><u>Guide to Activating and Deactivating Built-In Virtual Keyboard for Windows 10 Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-magic5-ultimate-lock-screen-password-by-drfone-android/"><u>How To Change Honor Magic5 Ultimate Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-moto-g04-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Moto G04 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-honor-x8b-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor X8b FRP Bypass</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-nyt-crossword-clues-solutions-and-strategies-for-july-29th-puzzle-414/"><u>Unlocking the NYT Crossword Clues: Solutions & Strategies for July 29Th Puzzle #414</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-apps-for-making-reaction-video-on-ios-and-android/"><u>Updated 2024 Approved Best Apps for Making Reaction Video on iOS and Android</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-online-video-reversers/"><u>Updated 2024 Approved Best Online Video Reversers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-best-green-screen-software-for-mac-for-2024/"><u>Updated Best Green Screen Software for Mac for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-install-splice-on-your-mac-for-professional-video-editing-for-2024/"><u>Updated Install Splice on Your Mac for Professional Video Editing for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/video-editing-on-chromebook-top-recommendations-for-2024/"><u>Video Editing on Chromebook Top Recommendations for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/videopad-review-is-it-the-best-video-editing-software-for-you-for-2024/"><u>Videopad Review Is It the Best Video Editing Software for You for 2024</u></a></li>
+</ul></div>
+
