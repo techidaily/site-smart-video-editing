@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Create Ken Burns Effect? Detaied Steps
-date: 2024-08-09T07:57:56.327Z
-updated: 2024-08-10T07:57:56.327Z
+date: 2024-11-29T21:26:37.652Z
+updated: 2024-12-02T20:25:28.581Z
 tags: 
   - video editing software
   - video editing
@@ -46,10 +46,11 @@ _ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/fin
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 _ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Add the Ken Burns Effect**
 
@@ -63,9 +64,6 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 _ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
 
 **Step 4: Customize Your Effect**
@@ -78,9 +76,6 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 _ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
 
 **Step 5: Add a Freeze Frame**
@@ -91,18 +86,16 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
 
 **Step 7: Swap the Start and End Frame**
@@ -129,6 +122,14 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -138,9 +139,6 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 3. Press the Swap button in the Ken Burns settings to reverse the start and end positions;
 4. Verify if multiple camera movements have been added.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -152,6 +150,10 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
 
@@ -169,12 +171,33 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-latest.techidaily.com/44co44gt44gu5qmf5zmo44gm54plusplus5zyo5yip55so5lit44cp44go44ge44gg44ko44op44o844ks6kej5rg644gz44kl44gf44kb44gu6kmz57sw44gq44ks44kk44oj/"><u>『この機器が現在利用中』というエラーを解決するための詳細なガイド</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/windows-1110dvd/"><u>無料ダウンロード：Windows 11/10対応、制限のないDVD リピーティングソフトを試せる！</u></a></li>
+<li><a href="https://article-files.techidaily.com/amplify-video-aesthetics-filters-for-every-screen/"><u>Amplify Video Aesthetics Filters for Every Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beginners-haven-in-photo-editing-with-lunapic/"><u>Beginner's Haven in Photo Editing with LunaPic</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bypass-print-job-delay-quickly/"><u>Bypass Print Job Delay Quickly</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/combining-pdf-documents-made-simple-access-the-power-of-yl-merge-tool-for-free-today/"><u>Combining PDF Documents Made Simple: Access the Power of YL Merge Tool for Free Today!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-test-of-the-dell-inspiron-3671-unveiling-a-competent-average-desktop-system/"><u>Comprehensive Test of the Dell Inspiron #3671: Unveiling a Competent, Average Desktop System</u></a></li>
+<li><a href="https://common-error.techidaily.com/hardware-monitor-driver-installation-issue-how-to-fix-unsuccessful-loading/"><u>Hardware Monitor Driver Installation Issue: How to Fix Unsuccessful Loading</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-deleting-youtube-content-a-step-by-step-guide/"><u>In 2024, Deleting YouTube Content A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-tips-for-achieving-crystal-clear-videos-a-comprehensive-approach/"><u>Top Tips for Achieving Crystal-Clear Videos – A Comprehensive Approach</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-xbox-series-x-gaming-headsets/"><u>Top-Rated Xbox Series X Gaming Headsets</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/transforming-higher-sample-rate-wavs-48khz-down-to-standard-cd-quality-441khz-procedures-and-tips/"><u>Transforming Higher Sample Rate WAVs (48Khz) Down to Standard CD Quality (44.1Khz): Procedures and Tips</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/troubleshooting-common-issues-importing-videos-in-premiere-pros-compatible-formats/"><u>Troubleshooting Common Issues: Importing Videos in Premiere Pro's Compatible Formats</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/ultimate-guide-to-integrating-the-disney-plus-add-on-into-your-kodi-streaming-setup-versions-19-and-2-cups/"><u>Ultimate Guide to Integrating the Disney Plus Add-On Into Your Kodi Streaming Setup (Versions 19 and 2 Cups)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/ultimate-guide-to-m2v-file-transformation-convert-m2v-to-multiple-formats-mp4-avi-mov-at-zero-cost/"><u>Ultimate Guide to M2V File Transformation: Convert M2V to Multiple Formats (MP4, AVI, MOV) at Zero Cost</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/ultimate-list-of-12-amazing-alternatives-to-handbrake-software/"><u>Ultimate List of 12 Amazing Alternatives to HandBrake Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/ultimate-step-by-step-tutorial-for-adding-bbc-iplayer-streaming-app-to-your-kodi-media-center-versions-19-and-18/"><u>Ultimate Step-by-Step Tutorial for Adding BBC iPlayer Streaming App to Your Kodi Media Center (Versions 19 & 18)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/ultimate-tutorial-on-upgrading-wmv-files-to-high-quality-gif-format/"><u>Ultimate Tutorial on Upgrading WMV Files to High-Quality GIF Format</u></a></li>
+</ul></div>
 
