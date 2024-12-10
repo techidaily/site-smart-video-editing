@@ -1,7 +1,7 @@
 ---
 title: New Chromebook Linux Installation A Simple, Step-by-Step Process (Updated) for 2024
-date: 2024-08-15T04:35:26.003Z
-updated: 2024-08-16T04:35:26.003Z
+date: 2024-12-03T07:58:52.768Z
+updated: 2024-12-09T20:32:55.468Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 
 # How to Install Linux on Chromebook
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -37,9 +34,6 @@ Chrome OS is a Linux based environment and for that reason, Chromebook owners wh
 * [Part 4: How to Install Linux as a Chroot Using Crouton on Chromebook](#part4)
 * [Part 5: Recommended Linux Video Editing Software](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Preparing before installing Linux OS on Chromebook
 
 The first step of the process of installing the Linux OS is the decision itself, and you need to have all the necessary information before you decide to install a Linux OS on your Chromebook.
@@ -47,6 +41,10 @@ The first step of the process of installing the Linux OS is the decision itself,
 * Make sure that the version of Chromebook you have is capable of supporting a Linux OS. Your device must be equipped with an ARM or Intel chip in order to be able to run the version of Linux OS you want to install. Although both chips will allow you to go through the process, running closed source software such the Steam is only possible with Intel chips.
 * Regardless of which method of installing Linux OS you choose, you will have to switch to the Developer Mode, a special built-in function that allows you to install the unapproved operating system, among other things.
 * Now that you are aware of the requirements and risks, you will have to backup all the files you have on your Chromebook because once you switch to the Developer Mode all the information stored locally will be erased. You can save the files on another computer or on the cloud depending on how much data you need to move and which one is more convenient for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Install Linux as a Chroot Using Crouton on Chromebook
 
@@ -56,16 +54,21 @@ After you have stored all your data safely, your Chromebook is ready for the beg
 
 The first step of the process is to reboot your system, while your Chromebook is on. In order to do so hold Escape and Refresh keys on your keyboard and then hit the power button. Once your device is back online you will find yourself in the recovery mode, and you will see a message telling you to insert a recovery disc. Instead of inserting the disc, hold Ctrl+D and wait for OS verification menu to appear on the screen. At this point, if you are still having second thoughts about this process, you can hit the spacebar to return to recovery mode, or press Enter to proceed. Hitting Enter will delete all the data stored on your device and take you into the Developer Mode. Once your Chromebook lets you know that you are now in the Developer Mode, reboot the system and install a fresh version of the Chrome OS. Insert your login information and follow the instructions until you are looking at the Chrome OS desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2. Installing Chroot
 
 At this stage of the process, your Chromebook is ready for the installation of the Crouton environment. Crouton is a series of scripts that makes running a Linux OS much easier, especially for inexperienced users. In order to download Crouton, go to [GitHub](https://github.com/dnschneid/crouton) and find the download link, detailed instructions or extensions that can add more functionality to your OS. Once the installation file or files are in the Download folder, your next step is to access the Chromebook's terminal a feature called 'Crosh'. The fastest way to do this is to hold CTRL + ALT keys and then hit the T key. This action will cause the Chrome window to appear on the screen, and you will need to type the 'shell' command without using quotation marks. Afterwards, enter the following command: 'sudo sh \~/Downloads/crouton -t xfce' and if you want to install extensions you will have to add 'xfce,extension' command at the end.
 
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Press the Enter key and wait for the system to start setting up the Chroot. This process may take a while, so it is important to be patient, but more importantly, do not interfere with it in any way. Installation of your secondary OS is now on the way, and you may be asked to insert your login data, like your Gmail username and password. Wait patiently until the process is over and then return to shell and enter this command: 'sudo enter-chroot startxfce4'. Your screen will go black for a while, but after the black screen is gone your Chromebook will be in the freshly installed Linux OS.
 
@@ -91,9 +94,6 @@ Once the partitioning of your hard-drive is completed, you will have to repeat t
 
 Once the installation is completed, restart your Chromebook to finalize the process, and when you see the 'OS Verification is Off' notification press Ctrl+L to access Linux or Ctrl+D boot into Chrome OS.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-3.jpg)
 
 #### 3. Uninstall ChrUbuntu
@@ -103,8 +103,9 @@ Removing ChrUbuntu is a relatively painless process that can be completed with j
 This Linux removal method will also require you to have a USB stick with a minimum of 4GB of storage space. After you created the disk, you can go into the Recovery Mode, by holding Esc and Refresh buttons simultaneously and then pressing the Power button. In the Recovery Mode, you will be asked to insert the recovery disk and the process will be on the way.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: How to Dual-Boot a Chromebook Using Gallium OS
 
 If neither Chroot nor ChrUbuntu work for you, using Gallium OS may be the right choice. The Gallium is Xbuntu-based OS that is equipped with touchpad mouse drivers among other advantages it offers over other operating systems. The installation process isn't complicated, although it may require more effort than installing Crouton.
@@ -139,18 +140,17 @@ Lightworks Resolve may not be as popular as Adobe Premiere Pro or Final Cut Pro,
 
 The software is compatible with Mac, Windows, and Linux OS, which makes it a perfect choice for Chromebook users that have a Linux OS installed on their devices. Lightworks features literally every editing tool imaginable and for that reason, it is a perfect choice for editing videos you would like to upload to Vimeo or YouTube or high-end professional projects. This editing software offers plenty of transitions and visual effects that will help its users to create seamless jumps between shots and visually impressive videos.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -159,5 +159,23 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/eware-the-web-of-counterfeit-subscriber-networks-online-for-2024/"><u>[New] Beware the Web of Counterfeit Subscriber Networks Online for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-beyond-basics-pro-tips-for-sticker-queries-on-instagram-for-2024/"><u>[New] Beyond Basics Pro Tips for Sticker Queries on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-building-a-studio-quality-setup-at-home/"><u>[New] In 2024, Building a Studio-Quality Setup at Home</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-guide-for-youtube-video-editing-pros-and-amateurs-alike/"><u>[Updated] Step-by-Step Guide for YouTube Video Editing Pros and Amateurs Alike</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/6-types-of-videos-that-will-hook-your-viewers/"><u>6 Types of Videos That Will Hook Your Viewers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/build-a-metaverse-identity-a-streamlined-design-process/"><u>Build a Metaverse Identity A Streamlined Design Process</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unblock-your-youtube-experience-easy-solutions-for-chromefirefox/"><u>In 2024, Unblock Your YouTube Experience Easy Solutions for Chrome/Firefox</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201071133-personalized-preferences-update-the-unresponsive-error-is-fixed/"><u>Personalized Preferences Update - The 'Unresponsive' Error Is Fixed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-5-step-excel-mastery-guide-hidden-secrets-revealed/"><u>Ultimate 5-Step Excel Mastery Guide: Hidden Secrets Revealed!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-discover-the-best-public-domain-video-libraries-online/"><u>Updated 2024 Approved Discover the Best Public Domain Video Libraries Online</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-download-20-stunning-adobe-premiere-intro-templates-for-free-2023-edition/"><u>Updated 2024 Approved Download 20 Stunning Adobe Premiere Intro Templates for Free (2023 Edition)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-generate-mind-bending-glitches-online-for-free-top-picks-2023/"><u>Updated 2024 Approved Generate Mind-Bending Glitches Online for Free Top Picks 2023</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-from-download-to-edit-installing-videoleap-on-your-macbook-for-2024/"><u>Updated From Download to Edit Installing Videoleap on Your MacBook for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-free-mov-trimmers-edit-videos-with-ease/"><u>Updated In 2024, Best Free MOV Trimmers Edit Videos with Ease</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-premiere-rush-not-your-cup-of-tea-try-these-4-alternatives/"><u>Updated In 2024, Premiere Rush Not Your Cup of Tea? Try These 4 Alternatives</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-video-aspect-ratio-how-to-adjust-and-customize-for-2024/"><u>Updated Video Aspect Ratio How to Adjust and Customize for 2024</u></a></li>
+</ul></div>
 

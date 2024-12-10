@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved In This Article, We Will Share with You some of the Minimum Requirement of Running Premiere Pro CC on Your Computer and How to Check the Specification of Your PC and Mac, and Also How to Set up the Co
-date: 2024-08-22T11:31:56.433Z
-updated: 2024-08-23T11:31:56.433Z
+date: 2024-12-03T05:56:35.123Z
+updated: 2024-12-10T06:51:35.296Z
 tags: 
   - video editing software
   - video editing
@@ -31,8 +31,9 @@ We all know that [Adobe Premiere Pro](https://www.adobe.com/products/premiere.ht
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Minimum system requirement to run Premiere Pro on Windows and Mac in 2019
 
 Your computer should at least to meet **the minimum specification** below to run Premiere Pro, and if you need to edit some VR videos, your computer configuration should be higher according to [the minimum specifications list on their website](https://helpx.adobe.com/premiere-pro/system-requirements.html).
@@ -50,8 +51,9 @@ However, it is important to remember this is the minimum specification, and will
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to check Computer Specifications
 
 Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, we will show you how to check if your PC meets the requirements to run Premiere Pro on Windows 10
@@ -59,9 +61,6 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 * Press **Windows Key+ E** on the keyboard to bring up **Windows Explorer**.
 * Right click the **This PC** option in the sidebar and then select **Properties** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
 
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
@@ -70,9 +69,6 @@ Checking the specification on your Mac is easy, just click the **Apple icon** in
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up Computer for Premiere
 
 #### 1\. Processor
@@ -103,14 +99,19 @@ If you have access to even more drives, then split the cache from the previews, 
 
 That is the theory, but how do you achieve this? This is done within Premiere itself, there are two parts, accessing where the media cache files are placed is done though the edit menu, following the path edit > preferences > media.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 7\. Sequence Setting
 
@@ -136,18 +137,17 @@ Those with the Apple Prores Codec on their computers can use this as the preview
 
 If your computer failed to meet the requirement to run Premiere Pro, you may need to spend some money to buy a powerful computer or choose another professional video editing software similar to Premiere Pro, or choose a video editing software. If your computer isn’t powerful enough to run Premiere Pro, you will get awful experience at editing footage because of the long loading time and stuck playback.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -156,5 +156,20 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-best-practices-for-dynamic-and-dramatic-ae-titles/"><u>[New] Best Practices for Dynamic and Dramatic AE Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-inspiration-unleashed-list-of-10-motivating-flicks/"><u>[New] Inspiration Unleashed List of 10 Motivating Flicks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premium-apps-for-capturing-crystal-clear-android-screenshots/"><u>[Updated] Premium Apps for Capturing Crystal Clear Android Screenshots</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-masterpiece-selection-worldwide-stream-plus-local-channel-aggregation/"><u>In 2024, Masterpiece Selection Worldwide Stream + Local Channel Aggregation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-reestablishing-communication-with-a-non-responsive-obs-cam/"><u>In 2024, Reestablishing Communication with a Non-Responsive OBS Cam</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterclass-8-selecting-top-live-stream-cameras/"><u>Masterclass 8 Selecting Top Live Stream Cameras</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unleash-your-creativity-free-32-bit-windows-video-editing-tools-for-2024/"><u>Unleash Your Creativity Free 32-Bit Windows Video Editing Tools for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-install-linux-on-your-chromebook-the-ultimate-how-to/"><u>Updated 2024 Approved Install Linux on Your Chromebook The Ultimate How-To</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-caption-your-video-in-fcpx-a-quick-and-easy-guide/"><u>Updated In 2024, Caption Your Video in FCPX A Quick and Easy Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-final-cut-pro-x-title-templates-how-to-use-and-customize-them/"><u>Updated In 2024, Final Cut Pro X Title Templates How to Use and Customize Them</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-mac-tutorial-downloading-and-setting-up-kinemaster-made-easy/"><u>Updated In 2024, Mac Tutorial Downloading and Setting Up KineMaster Made Easy</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-making-lip-sync-videos-with-the-best-apps/"><u>Updated In 2024, The Ultimate Guide to Making Lip Sync Videos with the Best Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-12-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 12 Pro i Do? Get Answers here</u></a></li>
+</ul></div>
 

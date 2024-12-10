@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Voice Over Mastery Essential FCP Recording Hacks
-date: 2024-10-27T23:44:38.309Z
-updated: 2024-10-29T17:05:39.951Z
+date: 2024-12-05T02:57:32.594Z
+updated: 2024-12-10T04:19:28.272Z
 tags: 
   - video editing software
   - video editing
@@ -48,6 +48,10 @@ The term auditions are commonly used on FCP platform that represents sets of som
 
 ![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now in order to record voice over FCP, you need to follow the steps as below:
 
 #### Step 1
@@ -60,9 +64,17 @@ Now in order to start your recording, you need to press Shift+A from the keyboar
 
 ![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The countdown will automatically start.
 
 ![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3
 
@@ -75,6 +87,10 @@ Note that as the recording is stopped, the playhead automatically returns to ini
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
 ![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4
 
@@ -103,14 +119,11 @@ It is also possible to extract desired recordings from auditions; for example if
 
 ![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
-Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## FAQ
 
@@ -123,13 +136,6 @@ You try the auto-sync feature of FCPX. For more details please read this: [Pract
 It's quite common in FCPX. If reopening the software or rebooting Mac won't fix it, you may want to refer to this article: [Proven Ways to Get Missing Sound Effects Back in Final Cut Pro.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -146,16 +152,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-seamless-subtitle-management-a-mac-edition/"><u>[Updated] Seamless Subtitle Management A Mac Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-snapping-the-screen-top-8-compact-and-complimentary-android-recorder-software/"><u>2024 Approved Snapping the Screen - Top 8 Compact and Complimentary Android Recorder Software</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/5pya5paw44gu44ov44oq44o844km44kn44ki44gn44cb5yq55p6c55qe44gr5yuv55s744ov44kh44kk44or44ks5zyn57iu44gz44kl5pa55rov77yw44gk/"><u>最新のフリーウェアで、効果的に動画ファイルを圧縮する方法６つ</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-motorola-g54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Motorola G54 5G</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-list-best-video-editing-apps-for-vloggers-ios-and-android-for-2024/"><u>The Ultimate List Best Video Editing Apps for Vloggers (iOS & Android) for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-competitors-to-chatgpt-in-natural-language-ai-assistants/"><u>Top 10 Competitors to ChatGPT in Natural Language AI Assistants</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-vllo-experience-on-mac-download-and-alternatives/"><u>Updated 2024 Approved The Ultimate VLLO Experience on Mac Download and Alternatives</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-free-webm-video-editing-solutions-top-10-options-for-2024/"><u>Updated Free WebM Video Editing Solutions Top 10 Options for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-reaction-video-creators-you-need-to-know/"><u>Updated In 2024, Top Reaction Video Creators You Need to Know</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-drones-takeoff-to-new-heights-with-these-key-accessories/"><u>[New] 2024 Approved Drones Takeoff to New Heights with These Key Accessories</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-creating-a-domino-effect-with-memes/"><u>[Updated] In 2024, Creating a Domino Effect with Memes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-recording-skills-for-every-lenovo-user/"><u>[Updated] In 2024, Essential Recording Skills for Every Lenovo User</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-zooming-essentials-for-precision-screens/"><u>Digital Zooming Essentials for Precision Screens</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-gt-neo-5-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme GT Neo 5 Unlock Without Password</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-tiktok-video-reversal-made-easy-a-beginners-guide-2023-edition/"><u>New In 2024, TikTok Video Reversal Made Easy A Beginners Guide 2023 Edition</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-transform-your-clips-time-lapse-video-editing-essentials-in-final-cut-pro/"><u>New In 2024, Transform Your Clips Time Lapse Video Editing Essentials in Final Cut Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-s-top-rated-free-mod-video-editing-tools-for-2024/"><u>New S Top-Rated Free MOD Video Editing Tools for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-free-video-editing-tools-for-avi-format/"><u>New The Best Free Video Editing Tools for AVI Format</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-fcp-x-green-screen-tutorial-from-basics-to-advanced-for-2024/"><u>New The Ultimate FCP X Green Screen Tutorial From Basics to Advanced for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/protect-your-beats-like-a-pro-top-strategies-for-securely-storing-your-tracks-using-pcdj-tools/"><u>Protect Your Beats Like a Pro: Top Strategies for Securely Storing Your Tracks Using PCDJ Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/safe-mp4-extraction-from-youtube-videos-for-2024/"><u>Safe MP4 Extraction From YouTube Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/saving-big-on-pcs-during-prime-day-sales-expert-tips-for-scoring-the-best-deals-in-october-202-cuarters-featured-by-zdnet/"><u>Saving Big on PCs During Prime Day Sales – Expert Tips for Scoring the Best Deals in October 202 Cuarters | Featured by ZDNET</u></a></li>
 </ul></div>
 

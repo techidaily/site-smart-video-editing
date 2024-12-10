@@ -1,7 +1,7 @@
 ---
 title: 25MBを超える動画がDiscordで送信できない？コンパクト化方法：ビデオファイルサイズ縮小のテクニック
-date: 2024-11-26T03:14:44.630Z
-updated: 2024-12-02T20:13:14.720Z
+date: 2024-12-03T23:17:12.247Z
+updated: 2024-12-09T17:42:37.620Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d073b52247b8e64f5288cf09f.jpg
@@ -19,6 +19,10 @@ VLC Upscaling
 
 [![Homepage](https://www.videoconverterfactory.com/tips/imgs-self/home.gif)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2024 Guide on How to Upscale Video Quality in VLC?
 
 ![Author: Rocabella](https://www.videoconverterfactory.com/tips/imgs-self/avatar/rocabella.png) 
@@ -28,16 +32,12 @@ VLC Upscaling
 ![Publish date](https://www.videoconverterfactory.com/tips/imgs-self/date.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jan 19th, 2024
 
 ![Upscale Video Quality with WonderFox Video Converter](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-00.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Want to make a video quality higher on PC? Follow the steps below:** 
 
@@ -56,13 +56,13 @@ Quick Navigation
 
 Besides being a free, open-source multimedia player, VLC also features advanced video settings and can serve as free video quality upscaling software. In the following parts, we'll demonstrate the detailed process of upscaling video quality in VLC. Plus, an alternative is offered in Part 2 in case you need an easier solution. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. How to Make VLC Upscale Video Quality? 
 
 In this section, we’ll delve into the video quality settings available in VLC Media Player and how can you adjust them to let VLC upscale video quality. But note that upscaling a low-quality video to a high-quality video with perfect clarity in VLC is impossible. The improvement will be limited by the video’s original quality. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Adjust Effect Setting for Better Display Effects
 
@@ -76,15 +76,7 @@ VLC offers options to change the video's Hue, Brightness, Contrast, Saturation, 
 
 ![Adjust Effect Setting in VLC](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-01.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Adjust Effect Setting in VLC](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-01-01.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 With the above steps, the changes are directly applied to the video you’re playing in VLC. If you want to keep these effects permanently, you should:
 
@@ -97,6 +89,10 @@ With the above steps, the changes are directly applied to the video you’re pla
  ▪ Hit **Browse** to set an output folder and click **Start** to export the video. 
 
 ![VLC Export Video with Effects](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-02.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![VLC Export Video with Effects](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-02-02.webp) 
 
@@ -113,6 +109,10 @@ VLC provides an easy solution for you to remove jagged edge artifacts from a vid
  ▪ Now, choose a destination and then hit **Start**.
 
 ![Check the Deinterlace Option](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-03.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Check the Deinterlace Option](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-03-03.webp) 
 
@@ -131,10 +131,6 @@ Many Nvidia card users have encountered the washed-out color issue when playing 
 
 ![Adjust Video Color Settings](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-04.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Adjust Video Color Settings](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-04-04.webp) 
 
 If you fail to bring up the Nvidia Control Panel or the above method doesn’t make any improvement, the issue might be with the use of YUV, which is a television standard. You can keep going with the following steps to cancel it: 
@@ -146,10 +142,14 @@ If you fail to bring up the Nvidia Control Panel or the above method doesn’t m
 
 ![Disable the Hardware YUV Option in VLC](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-05.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Hardware YUV Option in VLC](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-05-05.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here is another workaround you can try to enhance the output video quality in VLC: 
@@ -164,6 +164,10 @@ Here is another workaround you can try to enhance the output video quality in VL
 
 ![VLC Change Output Settings](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-06-06.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Activate the RTX Video Super Resolution Feature in VLC 
 
 With the support for RTX Video Super Resolution, VLC does help increase the clarity and sharpness of videos, but it is far from being a game-changer. And some users even reported an instant crash when enabling this feature in VLC. But it is still worth trying. Before activating it, please ensure you have installed the newest VLC (3.0.19 or later) and have a PC running GeForce RTX 30- and 40-series graphics cards.
@@ -177,6 +181,10 @@ With the support for RTX Video Super Resolution, VLC does help increase the clar
 ![Activate the RTX Video Super Resolution](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-07.webp) 
 
 ![Activate the RTX Video Super Resolution](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-07-07.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
   
 
@@ -195,10 +203,6 @@ WonderFox HD Video Converter Factory Pro—Optimize Videos in the Easiest Way
 WonderFox HD Video Converter Factory Pro is the best choice for non-tech- tech-savvies to enhance video quality. No complicated settings. It provides you with optimized presets to choose from. Download and try it now!
 
 [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/dl/tips/hdpro.html?from=vlc-upscaling.html/d/ban1) [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/hd-video-converter/mobile-checking.html?from=vlc-upscaling.html/m/ban1) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1\. Launch the Program 
 
@@ -229,6 +233,10 @@ Under the format image, use the **Quick setting** to quickly increase the resolu
 
 ![Tweak Settings to Control Output Quality](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-10.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Tweak Settings to Control Output Quality](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-10-10.webp) 
 
 ### Step 5\. Export the Enhanced Videos
@@ -237,15 +245,7 @@ Click the bottom inverted triangle button to specify an output path for the outp
 
 ![Export the Enhanced Videos](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-11.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Export the Enhanced Videos](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-11-11.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## In Conclusion 
 
@@ -285,20 +285,22 @@ Recommend: Best DVD Ripper for Windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-innovating-your-reality-essential-vr-peripherals-guide/"><u>[New] 2024 Approved Innovating Your Reality Essential VR Peripherals Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-tune-into-trends-how-to-mix-music-in-storytelling/"><u>[New] 2024 Approved Tune Into Trends How to Mix Music in Storytelling</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-detailed-analysis-of-the-latest-picsart-app-features-for-2024/"><u>[New] Detailed Analysis of the Latest PicsArt App Features for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-professional-photography-with-canons-complimentary-luts/"><u>[Updated] 2024 Approved Professional Photography with Canon's Complimentary LUTs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-steady-shot-enhancer-for-traveling-filmmakers/"><u>[Updated] 2024 Approved Steady Shot Enhancer for Traveling Filmmakers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-se-review-a-more-affordable-apple-watch/"><u>Apple Watch SE Review: A More Affordable Apple Watch</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/dive-into-the-melodies-of-america-with-karaoke-usa-unmatched-enjoyment-for-a-budget-friendly-150-or-less/"><u>Dive Into the Melodies of America with Karaoke USA: Unmatched Enjoyment for a Budget-Friendly $150 or Less</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-mac-video-editors-of/"><u>New In 2024, Top Mac Video Editors Of</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-mobile-video-editing-essentials-top-apps-for-vertical-content/"><u>New Mobile Video Editing Essentials Top Apps for Vertical Content</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-art-of-color-correction-a-final-cut-pro-guide-for-2024/"><u>New The Art of Color Correction A Final Cut Pro Guide for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-photo-and-video-collage-software-for-2024/"><u>New The Ultimate Guide to Photo and Video Collage Software for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-mac-movie-making-handbook-2023-edition-for-2024/"><u>New The Ultimate Mac Movie Making Handbook (2023 Edition) for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-unlock-chromecasts-full-potential-how-to-stream-local-videos-on-windows-mac-android-and-ios-for-2024/"><u>New Unlock Chromecasts Full Potential How to Stream Local Videos on Windows, Mac, Android, and iOS for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808309818-save-big-claim-your-20-off-deal-using-the-official-driver-easy-coupon-start-now/"><u>Save Big: Claim Your 20% Off Deal Using the Official Driver Easy Coupon - Start Now</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-budget-friendly-methods-for-youtube-card-creation/"><u>[New] In 2024, Budget-Friendly Methods for YouTube Card Creation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-power-of-personal-branding-in-making-money-on-snapchat/"><u>[New] The Power of Personal Branding in Making Money on Snapchat</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-best-music-player-software-for-android/"><u>[Updated] Best Music Player Software for Android</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-digital-marketing-strategy-with-nextgencookie-solutions-for-smarter-ppc-campaigns/"><u>Elevate Your Digital Marketing Strategy with NextGenCookie Solutions for Smarter PPC Campaigns</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-connect-play-and-share-the-essentials-of-xbox-zoom/"><u>In 2024, Connect, Play and Share The Essentials of Xbox Zoom</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 14 Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-top-mobile-video-editors-for-portrait-mode-creators/"><u>In 2024, Top Mobile Video Editors for Portrait Mode Creators</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-video-aspect-ratio-how-to-adjust-and-customize/"><u>In 2024, Video Aspect Ratio How to Adjust and Customize</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-simplify-avi-video-editing-16-top-avi-cutters-for-trimming-and-cutting-cross-platform-compatibility/"><u>New 2024 Approved Simplify AVI Video Editing 16 Top AVI Cutters for Trimming and Cutting Cross-Platform Compatibility</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-from-amateur-to-ace-mastering-the-art-of-professional-movie-making-for-2024/"><u>New From Amateur to Ace Mastering the Art of Professional Movie Making for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-from-boring-to-brilliant-best-video-dubbing-apps-for-comedy-and-fun-for-2024/"><u>New From Boring to Brilliant Best Video Dubbing Apps for Comedy & Fun for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-convert-webm-to-mp4-with-ease-best-tools-revealed/"><u>New In 2024, Convert WebM to MP4 with Ease Best Tools Revealed</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-crash-no-more-solutions-for-final-cut-pro-x-stability-issues/"><u>New In 2024, Crash No More Solutions for Final Cut Pro X Stability Issues</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-capture-to-masterpiece-the-best-1080p-video-editing-software/"><u>New In 2024, From Capture to Masterpiece The Best 1080P Video Editing Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-performance-fixing-glitches-in-fortnite-for-pc-gamers/"><u>Optimizing Performance: Fixing Glitches in Fortnite for PC Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-for-mfc42dll-file-cannot-be-found-problems/"><u>Troubleshooting Techniques for mfc42.dll File Cannot Be Found Problems</u></a></li>
 </ul></div>
 

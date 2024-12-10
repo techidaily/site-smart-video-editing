@@ -1,7 +1,7 @@
 ---
 title: New A Beginners Guide to Adding Titles, Captions, and Subtitles in FCPX for 2024
-date: 2024-08-22T11:30:52.527Z
-updated: 2024-08-23T11:30:52.527Z
+date: 2024-12-06T01:56:21.394Z
+updated: 2024-12-10T02:59:02.453Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 
 # How to Add Titles in Final Cut Pro X
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -51,9 +48,6 @@ Just to keep us all on the same page, here are my definitions of key terms relat
 
 #### JUST THE BASICS
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles001.jpg)
 
 I'd like to introduce "Yertle," he's a sea turtle and the star of this article. (Footage courtesy of Jim Walker and Lobsters Gone Wild Productions.)
@@ -64,9 +58,6 @@ At its simplest, we use titles to display his (its?) name.
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles003.jpg)
 
 Look at the Browser and see the results of your work. A lower-third title is superimposed over the video in the lower left corner. (I'll talk about formatting the text in a few paragraphs.)
@@ -77,16 +68,10 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles005.jpg)
 
 If you look right in the center of the screen, you'll see the word "Title." Yes, its darn near invisible. And, yes, it looks, um, ugly. However, we have a TON of formatting control to make this look however we want.
@@ -137,18 +122,12 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -179,9 +158,6 @@ While much of today's video is designed for the web, your titles will look the b
 
 Titles015
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles015.jpg)
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
@@ -206,8 +182,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -215,5 +189,28 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-interactive-twit-narratives-a-compendium-for-23/"><u>[New] In 2024, Interactive Twit-Narratives - A Compendium for '23</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-precision-adjustments-for-premium-zoom-audio/"><u>[Updated] Precision Adjustments for Premium Zoom Audio</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-strategies-to-leverage-youtubes-cc-licensing/"><u>2024 Approved Strategies to Leverage YouTube's CC Licensing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/enhancing-zooms-video-clarity-tips-and-tricks-for-2024/"><u>Enhancing Zoom's Video Clarity Tips and Tricks for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-cover-videos-demystified-what-everyone-should-know/"><u>FB Cover Videos Demystified What Everyone Should Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-v27-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo V27 Pro FRP Bypass</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlock-your-dvds-converting-physical-media-to-digital-files-for-2024/"><u>New Unlock Your DVDs Converting Physical Media to Digital Files for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/the-timeless-principles-of-confucius-explained-by-yl-tech-innovations-delving-into-classical-thought/"><u>The Timeless Principles of Confucius Explained by YL Tech Innovations – Delving Into Classical Thought</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unleash-your-creativity-a-beginners-guide-to-online-video-editing-for-2024/"><u>Unleash Your Creativity A Beginners Guide to Online Video Editing for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-tech-trends-at-toms-gear-insights/"><u>Unveiling the Latest Tech Trends at Tom's Gear Insights</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-joining-avi-videos-made-easy-top-10-free-avi-joiner-programs/"><u>Updated 2024 Approved Joining AVI Videos Made Easy Top 10 Free AVI Joiner Programs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-art-of-green-screening-in-fcp-x-tips-tricks-and-best-practices/"><u>Updated 2024 Approved The Art of Green Screening in FCP X Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-20-wonderful-stop-motion-ideas-for-beginners-and-kids-filmora/"><u>Updated In 2024, 20 Wonderful Stop Motion Ideas for Beginners and Kids - Filmora</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-compress-webm-videos-with-ease-top-online-tools/"><u>Updated In 2024, Compress WebM Videos with Ease Top Online Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-enhance-your-footage-color-correction-in-final-cut-pro-2023/"><u>Updated In 2024, Enhance Your Footage Color Correction in Final Cut Pro 2023</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-save-big-on-filmora-4-legit-ways-to-get-discounted-rates-for-2024/"><u>Updated Save Big on Filmora 4 Legit Ways to Get Discounted Rates for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-save-time-save-stress-a-step-by-step-guide-to-saving-fcp-projects/"><u>Updated Save Time, Save Stress A Step-by-Step Guide to Saving FCP Projects</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
