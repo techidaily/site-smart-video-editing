@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Mastering Video Editing on Mac A Step-by-Step Guide for Yosemite Users
-date: 2024-08-22T11:33:34.524Z
-updated: 2024-08-23T11:33:34.524Z
+date: 2024-12-10T12:29:00.004Z
+updated: 2024-12-16T00:44:01.740Z
 tags: 
   - video editing software
   - video editing
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
 
 Although Apple’s new operating system - Mac OS X 10.10 Yosemite will bring new vigor to your Mac computer, you may have to face the roadblock when it comes to video editing, since its built-in video editing software iMovie only supports a limited formats. So what would you do then? Have no direction to edit video on Mac OS X 10.10?
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite – Wondershare [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is recommended. It supports almost all the popular video formats including AVI, WMV, MP4, FLV, MKV, MOV, 3GP, etc. With it, you can put together your video clips or split to segments to get creative and customized brand new videos. Here is a detailed guide on how to create videos on Yosemite with this smart video editor.
@@ -37,14 +34,16 @@ Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite �
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import video in Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2. Edit videos, audio and photos
 
 When all the media files have been imported to the software, drag and drop them to the respective timeline. Then you can do various video editing tasks as you like.
@@ -59,9 +58,6 @@ You have two different ways to edit the video. One is to double click the video 
 
 If you want to add an additional audio file as the background music to the videos and photos, just drag your favorite audio clip to the music track. To further edit the audio file, just double click the clip. Then the Audio Inspector will pop up for you to adjust different settings like pitch, volume, and speed or add Fade in/out effect. You can also right click the audio to cut, copy or trim the audio file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
  **Add transition and other effects**
@@ -70,19 +66,25 @@ This app also allows you to add cool transitions and other effects to your video
 
 ![Yosemite Video Editor add transition](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -92,8 +94,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -101,5 +101,24 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-expert-tips-for-ios-downloading-podcasts-on-iphone/"><u>[New] Expert Tips for iOS Downloading Podcasts on iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-first-steps-in-gamified-editing-software-selection-for-2024/"><u>[Updated] First Steps in Gamified Editing Software Selection for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pre-upgrade-essentials-a-comprehensive-guide/"><u>2024 Approved Pre-Upgrade Essentials A Comprehensive Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweet-treasure-trove-discovering-the-days-hot-videos/"><u>2024 Approved Tweet Treasure Trove Discovering the Day's Hot Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-seamless-integration-of-pip-in-microsoft-edge-for-2024/"><u>Expert Tips for Seamless Integration of PIP in Microsoft Edge for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harness-the-power-of-online-cropping-to-elevate-your-photos/"><u>Harness the Power of Online Cropping to Elevate Your Photos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-infinix-note-30i-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Infinix Note 30i Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-revolutionary-keychron-q1-he-a-comprehensive-wireless-gaming-and-typing-experience-unleashed/"><u>The Revolutionary Keychron Q1 HE: A Comprehensive Wireless Gaming and Typing Experience Unleashed</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-guide-to-free-online-video-stabilization-top-8-tools-and-tips-for-2024/"><u>The Ultimate Guide to Free Online Video Stabilization Top 8 Tools and Tips for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-of-the-best-10-webcam-recording-programs-for-windows-10/"><u>Updated In 2024, Best of the Best 10 Webcam Recording Programs for Windows 10</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-premiere-rush-too-expensive-4-affordable-alternatives/"><u>Updated In 2024, Premiere Rush Too Expensive? 4 Affordable Alternatives</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-recording-reaction-videos-on-your-phone/"><u>Updated In 2024, The Ultimate Guide to Recording Reaction Videos on Your Phone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-reboot-and-revive-how-to-reset-final-cut-pro-x-for-smooth-video-editing-for-2024/"><u>Updated Reboot and Revive How to Reset Final Cut Pro X for Smooth Video Editing for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-of-free-security-camera-software-for-2024/"><u>Updated The Ultimate List of Free Security Camera Software for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-gif-accelerators-online-ios-and-android-tools-for-2024/"><u>Updated Top GIF Accelerators Online, iOS, and Android Tools for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-vllo-on-mac-your-ultimate-guide-to-downloads-and-alternatives-for-2024/"><u>Updated VLLO on Mac Your Ultimate Guide to Downloads and Alternatives for 2024</u></a></li>
+</ul></div>
 

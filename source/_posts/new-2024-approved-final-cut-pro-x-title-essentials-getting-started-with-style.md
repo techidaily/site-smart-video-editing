@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Final Cut Pro X Title Essentials Getting Started with Style
-date: 2024-08-27T05:14:25.118Z
-updated: 2024-08-28T05:14:25.118Z
+date: 2024-12-09T10:11:00.140Z
+updated: 2024-12-15T16:08:52.678Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -57,9 +54,6 @@ I'd like to introduce "Yertle," he's a sea turtle and the star of this article. 
 
 At its simplest, we use titles to display his (its?) name.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
@@ -74,9 +68,6 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
@@ -89,9 +80,6 @@ Select and delete that full-screen title.
 
 There's one more way to apply a title: dragging from the Titles Browser.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles006.jpg)
 
 Click the Title icon in the Toolbar. This displays the contents of the Title Browser. The column on the left displays title categories, the icons on the right indicate individual titles, the search box at the bottom allows you to search for specific titles by name, while the number in the lower right indicates the number of titles currently displayed. (Your number may not match mine because I've added a few custom titles to my system.)
@@ -116,9 +104,6 @@ So, we:
 
 #### CHANGING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles009.jpg)
 
 Add a new full-screen title (type Control+T) to the Timeline. To change the text in a title, double-click it in the Viewer. Here, I've changed my title to "An Undersea Adventure."
@@ -143,9 +128,6 @@ If you want a fast way to format text, click the word "Normal" at the top. This 
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -164,9 +146,6 @@ The Face section allows us to change font color, opacity and blue. Outline and G
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles014.jpg)
 
 After making a few changes in the Inspector, here's the final result. Very cool - and very different from where we started!
@@ -179,9 +158,6 @@ While much of today's video is designed for the web, your titles will look the b
 
 Titles015
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles015.jpg)
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
@@ -206,8 +182,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -215,5 +189,30 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insta-reversal-unlock-the-power-of-video-rotation/"><u>[New] In 2024, Insta-Reversal Unlock the Power of Video Rotation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-soundscapes-of-success-building-youtube-playlists-with-precision/"><u>[New] The Soundscapes of Success Building YouTube Playlists with Precision</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-enhance-streaming-quality-non-xplit-choices-for-2024/"><u>[Updated] Enhance Streaming Quality Non-Xplit Choices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-with-magix-video-pro-xs-power-tools/"><u>[Updated] Unleash Potential with Magix Video Pro X's Power Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-iphones-and-gifs-perfecting-your-visual-playlist/"><u>2024 Approved IPhones & GIFs Perfecting Your Visual Playlist</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-tips-for-skewing-photo-captions/"><u>2024 Approved Tips for Skewing Photo Captions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oppo-a1-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/designed-for-success-a-closer-look-at-the-functional-lamicall-s-tablet-support-revealed/"><u>Designed for Success: A Closer Look at the Functional Lamicall S Tablet Support Revealed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-7-plus-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 7 Plus You Should Try Out</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-watch-dvds-on-windows-10-top-10-free-player-software-for-2024/"><u>New Watch DVDs on Windows 10 Top 10 Free Player Software for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/taste-titans-must-follow-culinary-creators-online-for-2024/"><u>Taste Titans Must-Follow Culinary Creators Online for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-best-of-the-best-top-vignette-apps-for-ios-and-android-devices-for-2024/"><u>The Best of the Best Top Vignette Apps for iOS and Android Devices for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-animated-storytelling-made-easy-10-best-mobile-apps/"><u>Updated 2024 Approved Animated Storytelling Made Easy 10 Best Mobile Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-fix-avidemux-audio-issues-step-by-step-guide/"><u>Updated 2024 Approved Fix Avidemux Audio Issues Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-best-of-both-worlds-top-split-screen-video-editing-apps-for-ios-and-android/"><u>Updated 2024 Approved The Best of Both Worlds Top Split-Screen Video Editing Apps for iOS & Android</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-edit-like-a-pro-top-free-vob-video-editors-for-2024/"><u>Updated Edit Like a Pro Top Free VOB Video Editors for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-in-this-article-you-will-see-how-filmora-video-cutter-and-joiner-lets-you-cut-and-join-the-best-of-your-original-footage/"><u>Updated In 2024, In This Article, You Will See How Filmora Video Cutter and Joiner Lets You Cut and Join the Best of Your Original Footage</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-secret-to-engaging-lower-thirds-fcpx-best-practices-revealed/"><u>Updated The Secret to Engaging Lower Thirds FCPX Best Practices Revealed</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-your-creativity-top-3d-video-makers-for-all-budgets-for-2024/"><u>Updated Unleash Your Creativity Top 3D Video Makers for All Budgets for 2024</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
