@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Final Cut Pro Color Grading Essentials
-date: 2024-08-02T06:49:20.862Z
-updated: 2024-08-03T06:49:20.862Z
+date: 2024-12-19T02:34:19.606Z
+updated: 2024-12-25T01:22:16.647Z
 tags: 
   - video editing software
   - video editing
@@ -45,6 +45,10 @@ The steps below can help all beginners to develop easy video edited projects usi
 * [How to Correct Color in iMovie >>](https://tools.techidaily.com/wondershare/filmora/download/)
 * [Color Correction and Color Grading >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Methods to Correct Color in Final Cut Pro
 
 Those who wish to use FCP for color signal editing need to follow these steps:
@@ -57,12 +61,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
@@ -70,9 +79,6 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
@@ -91,26 +97,19 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
@@ -120,16 +119,10 @@ Now it is time to work on color correction directly. There are three types of co
 
 It is possible to preview all the corrections on the original image before making them final. Simple hit the arrow with left-facing formation in the top left corner of the Color Board and then return to the video inspector. Hit on the Blue box to switch between correction On and Off options.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
 
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -138,8 +131,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,5 +138,20 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/updated-comedy-chorus-satirical-song-selections/"><u>[Updated] Comedy Chorus Satirical Song Selections</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-innovative-methods-for-shuffling-yt-playlists/"><u>2024 Approved Innovative Methods for Shuffling YT Playlists</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/crafting-an-engaging-review-vlog-for-everyday-items/"><u>Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
+<li><a href="https://win-hot.techidaily.com/enchanting-heartfelt-imagery-premium-romantic-love-backgrounds-from-yl-softwares-vast-gallery/"><u>Enchanting Heartfelt Imagery: Premium Romantic Love Backgrounds From YL Software's Vast Gallery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/expert-routines-for-volume-balancing-in-fl-studio-for-2024/"><u>Expert Routines for Volume Balancing in FL Studio for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/say-goodbye-to-watermarks-filmora-removal-techniques-for-2024/"><u>Say Goodbye to Watermarks Filmora Removal Techniques for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-tutorial-download-and-update-essential-software-for-your-hp-envy-20-system/"><u>Ultimate Tutorial: Download & Update Essential Software for Your HP ENVY 20 System</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-avchd-video-editors-compared-top-5-contenders/"><u>Updated 2024 Approved AVCHD Video Editors Compared Top 5 Contenders</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unlock-the-power-of-fcpx-creating-professional-looking-videos/"><u>Updated 2024 Approved Unlock the Power of FCPX Creating Professional-Looking Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-blur-faces-like-a-pro-best-free-apps-for-anonymous-media/"><u>Updated In 2024, Blur Faces Like a Pro Best Free Apps for Anonymous Media</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-dvd-magic-transforming-your-home-videos-into-cinematic-masterpieces/"><u>Updated In 2024, DVD Magic Transforming Your Home Videos Into Cinematic Masterpieces</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-fcpx-plugin-errors-causes-symptoms-and-easy-fixes/"><u>Updated In 2024, FCPX Plugin Errors Causes, Symptoms, and Easy Fixes</u></a></li>
+</ul></div>
 

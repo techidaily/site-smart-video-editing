@@ -1,7 +1,7 @@
 ---
 title: In 2024, VHS-Inspired Video Editing Simplified Techniques for FCP
-date: 2024-08-02T06:50:50.744Z
-updated: 2024-08-03T06:50:50.744Z
+date: 2024-12-22T00:58:39.027Z
+updated: 2024-12-25T04:35:53.418Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,10 @@ Fortunately, you don't have to reshoot your video using an analog camera and tra
 
 In this article, you will learn how to add VHS effects to a video in Final Cut Pro X, how to use VHS video effects, and some common VHS filter choices to use in your next project, so keep reading:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part1: How to do VHS effect in FCPX?
 
 A VHS effect is a textured, warped effect that looks like an outdated analog videotape cassette recording. Adding this antique effect to an edit adds a fantastic old-school discord. How often should you utilize these glitchy and vintage effects? When the mood you're trying to create begs for some visual or aural distortion. Perhaps you need to recreate the appearance of discovered film or express a dramatic flashback to a character's history. In any case, VHS tapes and glitch effects are pretty trendy right now.
@@ -44,13 +48,14 @@ Name your project as VHS effect in the Project Name section. Change the Video fo
 
 ![change_project_name_and_format_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/change_project_name_and_format_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Drag and drop your footage in the timeline of FCPX. After this, scale your project so that it fits the frame.
 
 Open the Effects, and in the search bar, type Add Noise. Select the Add Noise effect and drop it on your footage.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add_noise_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_noise_in_final_cut_pro.jpg)
 
 Go to the option Blend Mode and select Color Dodge. Now click on Type and select Gaussian Noise (Film Grain). In the Amount section, add the amount between 0.23-0.32.
@@ -65,13 +70,14 @@ Go back to the search bar in FCPX and type Sharpen. Select the Sharpen effect an
 
 ![add_sharpness_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_sharpness_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Set the amount of sharpness to around 8.0-9.0.
 
 Now in the search bar type Bad TV effect. Select it and drop it on your footage in FCPX.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add_bad_tv_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_bad_tv_effect_in_final_cut_pro.jpg)
 
 Set the amount of the effect to roughly around 8.0-9.0\. In the option, Static Type, select Gaussian Noise (Film Grain). Select Soft Light in Static Blend mode option.
@@ -93,22 +99,24 @@ After your video is rendered, you will get the final results using the VHS filte
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
 
 First, if you haven't got Filmora, click here to download it for free!
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
@@ -118,9 +126,6 @@ To do VHS effects quickly, follow these steps:
 * Drag and drop Credit 1 to your project timeline and pace it above the black image.
 * Stretch it all the way to the black image. Change all the text in it as you like.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
 Go to Effect, and in the search bar, type **VHS**.
@@ -133,18 +138,16 @@ Go to Effect, and in the search bar, type **VHS**.
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
 
@@ -161,9 +164,6 @@ Search for **Chromatic Aberration effect**.
 * Double click on it.
 * Change its Alpha value to 60 and Fade to 0.05 and click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
 
  Now Search for **VCR Distortion** in the search bar.
@@ -184,8 +184,9 @@ You can play around with these values to change the intensity of the VHS effect.
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -222,13 +223,15 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -237,5 +240,23 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-nikons-masterpiece-unveiling-the-4k-capabilities-of-j5/"><u>[New] In 2024, Nikon's Masterpiece Unveiling The 4K Capabilities of J5</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-final-showdown-is-obs-studio-superior-to-bandicam/"><u>[New] The Final Showdown Is OBS Studio Superior to Bandicam?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elevating-your-shopping-vlogs-advanced-editing-techniques/"><u>[Updated] In 2024, Elevating Your Shopping Vlogs Advanced Editing Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/t-visit-destinations-for-top-notch-youtube-branding-elements-for-2024/"><u>6 Must-Visit Destinations For Top-Notch YouTube Branding Elements for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-methods-generate-unique-dandd-avatars-using-ai-tools-like-gpt-and-dall-e/"><u>Innovative Methods: Generate Unique D&D Avatars Using AI Tools Like GPT and DALL-E</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-time-lapse-made-easy-2-proven-methods-for-creating-breathtaking-videos/"><u>New In 2024, Time Lapse Made Easy 2 Proven Methods for Creating Breathtaking Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-time-lapse-mastery-top-apps-for-iphone-and-android-users/"><u>New In 2024, Time-Lapse Mastery Top Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-resize-and-refine-the-art-of-cropping-videos-in-avidemux/"><u>New Resize and Refine The Art of Cropping Videos in Avidemux</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-slow-down-the-10-best-video-players-for-smooth-playback/"><u>New Slow Down The 10 Best Video Players for Smooth Playback</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-stunning-4k-videos-you-need-to-see/"><u>New Stunning 4K Videos You Need to See</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-rated-and-totally-free-the-best-online-video-editors-without-watermarks-for-2024/"><u>New Top-Rated and Totally Free The Best Online Video Editors without Watermarks for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-rated-mp4-video-editors-with-free-cutting-features/"><u>New Top-Rated MP4 Video Editors with Free Cutting Features</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1220547-9781776526796-occultism-and-common-sense/"><u>Occultism and Common-Sense | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-mfc71dll-is-unavailable-or-not-found-strategies-that-work/"><u>Overcoming 'MFC71.DLL' Is Unavailable or Not Found – Strategies That Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-32-bit-programs-when-print-driver-host-has-stopped-working-message-emerges/"><u>Step-by-Step Fix for 32-Bit Programs When 'Print Driver Host Has Stopped Working' Message Emerges</u></a></li>
+</ul></div>
 

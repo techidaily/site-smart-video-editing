@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos
-date: 2024-08-02T06:48:48.432Z
-updated: 2024-08-03T06:48:48.432Z
+date: 2024-12-19T06:53:29.297Z
+updated: 2024-12-24T17:13:50.999Z
 tags: 
   - video editing software
   - video editing
@@ -43,9 +43,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 01:** Open Filmora X. If it is not already installed on your PC, you can download it from [here](https://tools.techidaily.com/wondershare/filmora/download/) and install it on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step1](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step1.png)
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
@@ -54,18 +51,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step3.png](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step3.png)
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
@@ -78,9 +63,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step6.png)
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
@@ -97,23 +79,14 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step10.png)
 
 #### Conclusion
 
 AI Portrait allows you to create wonderful effects using artificial intelligence. This is one of the best uses of AI to make stunning reaction videos. It will not only save you a lot of time but will also help you save a lot of money by helping you remove the background of your video without expensive materials such as a green screen and other materials related to it.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -122,8 +95,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,5 +102,30 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-catchy-cadences-in-creative-snaps-and-videos-for-2024/"><u>[New] Catchy Cadences in Creative Snaps and Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/holistic-locomotion-scrutiny-report-for-2024/"><u>Holistic Locomotion Scrutiny Report for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-turn-off-suggested-posts-on-instagram-in-2024/"><u>How to Turn Off Suggested Posts on Instagram, In 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100i-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo Y100i Phone without PIN</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oppo-k11-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Oppo K11 5G Device SIM</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-storage-galore-selecting-top-ps5-hddsssds/"><u>In 2024, Storage Galore Selecting Top PS5 HDDs/SSDs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-k70-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi K70 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-ranked-desktop-pcs-for-gamers/"><u>In 2024, Top-Ranked Desktop PCs for Gamers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-virtualdub-2023-review-features-pros-and-cons-plus-alternatives/"><u>New Virtualdub 2023 Review Features, Pros, and Cons, Plus Alternatives</u></a></li>
+<li><a href="https://techidaily.com/repair-office-2013-files-word-excel-and-powerpointon-windows-by-stellar-guide/"><u>Repair Office 2013 Files (Word, Excel and PowerPoint)on Windows</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/s-most-popular-video-collage-creators-for-ios-devices-for-2024/"><u>S Most Popular Video Collage Creators for iOS Devices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-fix-windows-error-for-non-existent-mfc71udll/"><u>Steps to Fix: Windows Error for Non-Existent Mfc71u.dll</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-8-stellar-alternatives-to-windows-10-photos-for-enhanced-photography-experience-for-2024/"><u>Updated 8 Stellar Alternatives to Windows 10 Photos for Enhanced Photography Experience for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-from-hobbyist-to-pro-why-you-need-to-upgrade-from-final-cut-express-for-2024/"><u>Updated From Hobbyist to Pro Why You Need to Upgrade From Final Cut Express for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-looking-for-a-sony-vegas-replacement-on-windows-try-these-options/"><u>Updated In 2024, Looking for a Sony Vegas Replacement on Windows? Try These Options</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-mobile-media-mastery-best-mp4-to-mp3-converter-apps/"><u>Updated In 2024, Mobile Media Mastery Best MP4 to MP3 Converter Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unlock-fcp-x-advanced-chroma-keying-techniques-for-video-editors/"><u>Updated In 2024, Unlock FCP X Advanced Chroma Keying Techniques for Video Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-no-fuss-no-muss-5-simple-online-tone-generators-free-for-2024/"><u>Updated No Fuss, No Muss 5 Simple Online Tone Generators Free for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-video-snapshots-made-easy-top-10-converters-for-converting-videos-to-images/"><u>Updated Video Snapshots Made Easy Top 10 Converters for Converting Videos to Images</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

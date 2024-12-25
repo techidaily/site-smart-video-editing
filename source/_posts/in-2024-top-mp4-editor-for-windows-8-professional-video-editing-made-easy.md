@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top MP4 Editor for Windows 8 Professional Video Editing Made Easy
-date: 2024-08-02T06:48:21.845Z
-updated: 2024-08-03T06:48:21.845Z
+date: 2024-12-18T06:29:41.803Z
+updated: 2024-12-25T06:10:18.158Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Easily Edit MP4 Files on PC
 
 #### 1\.  Import your MP4 videos
@@ -41,10 +38,11 @@ Click Import or directly drop and drop to load your source videos into Filmora a
 
 The imported MP4 videos will show as thumbnails in the user's album's item tray. Double click it, you can preview them on the right screen (full screen is available), and take snapshots freely.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\.  Easy MP4 editing in Windows 8
 
@@ -54,19 +52,17 @@ This MP4 editor for Windows 8 provides professional yet straightforward editing 
 
 If you want to edit and personalize your MP4 videos, the timeline panel will offer you the most precise editing. Now drag your MP4 videos to the video timeline, and get ready for below edits.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![edit mp4 window 8](https://images.wondershare.com/filmora/article-images/change-video-speed-with-toolbar.jpg)
 
 ##### Split, Trim MP4 Videos
 
 Select a clip in the Timeline, drag the Indicator to where you want to split and click the "Split" button. Then the clip will be [split into two](https://tools.techidaily.com/wondershare/filmora/download/). Right click the video clip, you can also choose "Delete", "Copy", "Paste" option.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
 
@@ -80,15 +76,16 @@ Click "Transition" tab on the main interface and drag one scene transition you l
 
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
 
 #### 3\.  Save edited MP4 video or share with the worldwide
 
 MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) for Windows 8 makes all things easier to export your created MP4 videos. If you want to watch your MP4 video on iPhone, iPad, or other portable device, you can click "Device" and choose the option. You can also save videos to your computer in various video format like WMV, AVI, MPEG, etc. In addition, you can upload your video to YouTube, or burn them to DVD for convenient watching your MP4 files on TV.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit mp4 in windows 8](https://images.wondershare.com/filmora/article-images/filmora9-export-panel.jpg)
 
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
@@ -96,17 +93,20 @@ Also view a step by step video guide on how to edit MP4 files in Windows 8:
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -115,5 +115,26 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-camera-companion-dilemma-polaroid-cube-or-gopro-hero-edition/"><u>[New] 2024 Approved Camera Companion Dilemma Polaroid Cube or GoPro Hero Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-how-to-use-periscope-the-complete-guide/"><u>[New] 2024 Approved How to Use Periscope The Complete Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/astering-macs-green-screen-fix-for-youtube-videos-for-2024/"><u>[New] Mastering Mac's Green Screen Fix for YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exhilarating-viewing-experience-with-elite-blu-ray-players/"><u>[Updated] Exhilarating Viewing Experience with Elite Blu-Ray Players</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-activating-screen-recording-with-internal-devices-in-huawei-mate-and-p-series-mate-1020-p2010/"><u>[Updated] In 2024, Activating Screen Recording with Internal Devices in Huawei Mate and P Series (Mate 10/20; P20/10)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-precision-techniques-in-spinning-and-fusing-android-videography/"><u>[Updated] Precision Techniques in Spinning & Fusing Android Videography</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-uninstall-discord-server-on-all-devices/"><u>2024 Approved Uninstall Discord Server on All Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/anvas-solutions-for-2024/"><u>EditCanvas Solutions for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-efficient-video-marketing-incorporating-timestamps-effectively/"><u>In 2024, Efficient Video Marketing Incorporating Timestamps Effectively</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/slowing-it-down-the-best-video-editing-software-for-dramatic-effects-for-2024/"><u>Slowing It Down The Best Video Editing Software for Dramatic Effects for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-list-of-free-green-screen-apps-for-mobile-video-editing-for-2024/"><u>The Ultimate List of Free Green Screen Apps for Mobile Video Editing for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-pro-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro Without Passcode Easily</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-flip-and-rotate-avi-videos-for-free-top-5-software-options/"><u>Updated 2024 Approved Flip and Rotate AVI Videos for Free Top 5 Software Options</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-free-video-combiners-for-mpeg-files/"><u>Updated In 2024, Best Free Video Combiners for MPEG Files</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-mobile-apps-for-recording-and-editing-reaction-videos/"><u>Updated In 2024, Best Mobile Apps for Recording and Editing Reaction Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-fcpx-title-effects-take-your-videos-to-the-next-level/"><u>Updated In 2024, FCPX Title Effects Take Your Videos to the Next Level</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-list-of-free-dvd-players-for-windows-10-2023-update/"><u>Updated In 2024, The Ultimate List of Free DVD Players for Windows 10 2023 Update</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-video-editing-tools-for-vloggers-free-and-paid-options/"><u>Updated Top Video Editing Tools for Vloggers Free and Paid Options</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-windows-10-webcam-recording-the-top-10-software-options-for-2024/"><u>Updated Windows 10 Webcam Recording The Top 10 Software Options for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP
-date: 2024-08-27T05:15:52.567Z
-updated: 2024-08-28T05:15:52.567Z
+date: 2024-12-23T17:00:54.483Z
+updated: 2024-12-25T01:38:47.589Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ Creating a fade in or out effect in [Final Cut Pro](https://www.apple.com/final-
 
 This tutorial offers only the basics of the audio fading techniques in Apple Final Cut Pro X, which is a specialized video editing software used by professionals worldwide. If you are an amateur who is new to video editing, we suggest you begin with [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) (originally Wondershare Video Editor for Mac). It is a powerful yet easy-to-use software that is ideal for beginners. You can download the free trial version of Wondershare Filmora below.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 With this modern and extremely user-friendly tool, you'll find that applying effects like fade-in, fade-out, or crossfade to your audio clips is very easy.
@@ -47,18 +44,12 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
@@ -67,18 +58,16 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -95,14 +84,23 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -117,13 +115,15 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -132,5 +132,21 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-superior-app-dev-editors-top-15-selection/"><u>[New] Superior App Dev Editors Top 15 Selection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-harmonizing-content-with-youtubes-ideal-video-shapes/"><u>[Updated] 2024 Approved Harmonizing Content with YouTube's Ideal Video Shapes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/learn-how-to-utilize-telegrams-web-functionality-professionally/"><u>Learn How To Utilize Telegram's Web Functionality Professionally</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unleash-pro-quality-videos-on-mac-with-adobe-premiere-pro/"><u>New In 2024, Unleash Pro-Quality Videos on Mac with Adobe Premiere Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unlimited-video-editing-top-10-free-online-tools-with-no-watermark/"><u>New In 2024, Unlimited Video Editing Top 10 Free Online Tools with No Watermark</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-macvideoeditor-for-2024/"><u>New MacVideoEditor for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-s-hottest-bokeh-effect-apps-for-mobile-photography/"><u>New S Hottest Bokeh Effect Apps for Mobile Photography</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unleash-your-creativity-best-free-animation-programs-for-pc-and-mac-for-2024/"><u>New Unleash Your Creativity Best Free Animation Programs for PC and Mac for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unleash-your-creativity-top-free-video-editing-software-for-32-bit-windows-for-2024/"><u>New Unleash Your Creativity Top Free Video Editing Software for 32-Bit Windows for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/podcast-perfection-for-the-modern-iphone-user-for-2024/"><u>Podcast Perfection for the Modern iPhone User for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-out-building-your-youtube-presence-and-earning-for-2024/"><u>Starting Out Building Your YouTube Presence & Earning for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-what-you-should-know-about-pexelscom/"><u>Updated What You Should Know About Pexels.com</u></a></li>
+</ul></div>
 

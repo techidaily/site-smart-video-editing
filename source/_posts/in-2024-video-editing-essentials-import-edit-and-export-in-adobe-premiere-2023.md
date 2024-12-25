@@ -1,7 +1,7 @@
 ---
 title: In 2024, Video Editing Essentials Import, Edit, and Export in Adobe Premiere 2023
-date: 2024-08-02T06:49:42.798Z
-updated: 2024-08-03T06:49:42.798Z
+date: 2024-12-19T17:07:05.476Z
+updated: 2024-12-25T01:20:16.965Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 
 # How to Import and Export Videos in Adobe Premiere
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,17 +30,13 @@ Learn more [tips, tricks and hacks](https://tools.techidaily.com/wondershare/fil
 
 This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Importing
 
@@ -78,8 +71,9 @@ There are some exceptions to this, however, despite having a huge number of file
 [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) offers an easy way to convert any file you may have into media that Premiere can use quickly and efficiently, and is a great tool to have alongside premiere if you commonly work with multiple file types.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Exporting
 
 The ultimate aim of any project is obviously to finish it and let others see the result of your creativity, and that means exporting your work into a format that is suitable for the medium you wish the project to be viewed on. Premiere offers a number of options regarding export, you can select an entire sequence to export as a single file for the web or disc, choose a single frame to post to a website, blog or to distribute through email, you can export just the audio, or just the video from a sequence, and if you have the right hardware, can export directly to tape or disk.
@@ -92,21 +86,27 @@ Which opens the media export dialogue.
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Selecting 'Match Sequence Settings' here creates a finished file that matches the quality of the original source media. Then you simply choose a suitable name for the file in the Output Name field, and click export. This creates in essence a digital clone of the sequence, and best practice is to always do this for any project, however, for many projects, this is not necessarily the format you would want the final product to be in, those concentrating on YouTube output, or someone wanting to author a DVD for instance will need other options.
 
 Thankfully Premiere caters here as well. Instead of selecting the 'Match Sequence Settings' within export dialogue, you can click on the 'Format' field to change the type of file that is produced. What options here can vary depending on codecs installed, this screenshot shows only those that are included with the product for clarity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Depending on which format you choose. The preset below will allow you to choose a wide range of output settings to suit the intended platform. For instance, selecting  format brings up a huge number of presets for various Tablets and Phones, but also for Vimeo and YouTube, which is why it is one of the most common output formats. Here's a look at some of the presets available from the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you choose a preset, you can further modify the parameters to suit the project you are working on and even save those as an additional custom preset for later projects should you wish. Again, choosing a suitable file name and clicking Export ends the process.
 
@@ -114,9 +114,6 @@ The other common requirement is for DVD or Blu-Ray files. Whilst you need access
 
 With the addition of [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) you have a workflow that can ingest and export any type of media file you will ever come across with the minimum of fuss.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -125,8 +122,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -134,5 +129,26 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-precision-filmmaking-high-definition-lens-recommendations/"><u>[New] In 2024, Precision Filmmaking High-Definition Lens Recommendations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-broadcast-excellence-incorrante-video-loops-into-television-for-2024/"><u>[Updated] Broadcast Excellence Incorrante Video Loops Into Television for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-intrinsic-insights-for-instant-identification-in-fb/"><u>[Updated] Intrinsic Insights for Instant Identification in FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-future-post-flash-gaming-techniques-unveiled/"><u>Embrace the Future: Post-Flash Gaming Techniques Unveiled</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-pro-tools-compared-an-in-depth-look-at-the-top-alternative-audio-recording-platforms/"><u>New Pro Tools Compared An In-Depth Look at the Top Alternative Audio Recording Platforms</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/resolving-scanner-problems-on-windows-10-expert-tips-from-yl-computing/"><u>Resolving Scanner Problems on Windows 10: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-essentials-2023s-highest-ranked-twitter-content/"><u>The Essentials 2023'S Highest-Ranked Twitter Content</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-guide-to-virtualdub-and-its-most-popular-alternatives-for-2024/"><u>The Ultimate Guide to Virtualdub and Its Most Popular Alternatives for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trustworthy-hardware-reviews-and-tips-from-toms-haven/"><u>Trustworthy Hardware Reviews and Tips From Tom's Haven</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>Unveiling the DJI Spark Compact Drone Mastery for Photographers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mac-os-slideshow-creator-turn-memories-into-stunning-videos/"><u>Updated 2024 Approved Mac OS Slideshow Creator Turn Memories Into Stunning Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-motion-tracking-apps-the-ultimate-guide-for-android-and-ios/"><u>Updated 2024 Approved Motion Tracking Apps The Ultimate Guide for Android and iOS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-green-screen-software-for-mac-users/"><u>Updated 2024 Approved The Ultimate Guide to Green Screen Software for Mac Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-10-neon-font-generators-create-stunning-text-in-minutes/"><u>Updated 2024 Approved Top 10 Neon Font Generators Create Stunning Text in Minutes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-download-filmora-for-free-safe-and-virus-free-methods/"><u>Updated In 2024, Download Filmora for Free Safe and Virus-Free Methods</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-say-goodbye-to-shaky-cam-fcpx-video-stabilization-made-easy/"><u>Updated In 2024, Say Goodbye to Shaky Cam FCPX Video Stabilization Made Easy</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-best-of-the-best-top-premiere-pro-transition-effects/"><u>Updated In 2024, The Best of the Best Top Premiere Pro Transition Effects</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-top-10-free-game-download-sites-for-pc-android-and-mobile-for-2024/"><u>Updated The Ultimate List Top 10 Free Game Download Sites for PC, Android, and Mobile for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-mix-fold-3-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Mix Fold 3 Device</u></a></li>
+</ul></div>
 

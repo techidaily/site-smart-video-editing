@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Adobe Premiere Shortcut Guide 20 Tips and Tricks
-date: 2024-08-02T06:49:13.975Z
-updated: 2024-08-03T06:49:13.975Z
+date: 2024-12-19T17:40:20.222Z
+updated: 2024-12-25T00:31:47.788Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -103,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -136,14 +127,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -184,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -219,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -230,8 +207,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -239,5 +214,30 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-best-no-cost-voice-altering-app-for-valorant-enthusiasts/"><u>[Updated] Best No-Cost Voice Altering App for Valorant Enthusiasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-tips-downloading-and-installing-obs-for-mac-users/"><u>[Updated] Essential Tips Downloading & Installing OBS for Mac Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-prime-tools-for-pro-video-creation-on-android-windows-for-2024/"><u>[Updated] Prime Tools for Pro Video Creation on Android, Windows for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-heaviest-lifting-uavs-the-definitive-top-10/"><u>In 2024, Heaviest Lifting UAVs The Definitive Top 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-x-fold-2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo X Fold 2 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-making-online-gaming-more-intimate-via-xbox-zoom/"><u>In 2024, Making Online Gaming More Intimate via Xbox Zoom</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-15-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 15 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/solving-the-mystery-of-depleting-drive-capacity-essential-insights-from-yl-software-experts/"><u>Solving the Mystery of Depleting Drive Capacity: Essential Insights From YL Software Experts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-step-by-step-for-adding-a-link-in-your-tiktok-bios-for-2024/"><u>The Ultimate Step-by-Step for Adding a Link in Your TikTok Bios for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-tutorial-retrieving-your-files-from-icloud-effortlessly/"><u>Ultimate Step-by-Step Tutorial: Retrieving Your Files From iCloud Effortlessly</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-16-best-tools-to-trim-and-split-avi-videos-for-windows-mac-android-iphone-and-web/"><u>Updated 2024 Approved 16 Best Tools to Trim and Split AVI Videos For Windows, MAC, Android, iPhone, and Web</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-resource-for-free-sound-effects-a-guide-for-final-cut-pro-editors/"><u>Updated 2024 Approved The Ultimate Resource for Free Sound Effects A Guide for Final Cut Pro Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-final-cut-pro-vs-lumafusion-a-comprehensive-guide-to-choosing-the-best-video-editor-for-2024/"><u>Updated Final Cut Pro vs LumaFusion A Comprehensive Guide to Choosing the Best Video Editor for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-free-and-paid-video-editing-apps-for-kids-a-parents-guide/"><u>Updated In 2024, Free and Paid Video Editing Apps for Kids A Parents Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-from-video-to-audio-top-rated-mp4-to-mp3-conversion-software/"><u>Updated In 2024, From Video to Audio Top-Rated MP4 to MP3 Conversion Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-green-screen-software-for-mac-features-pricing-and-more/"><u>Updated In 2024, Top Green Screen Software for Mac Features, Pricing, and More</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-powerdirector-not-your-cup-of-tea-try-these-alternatives-for-android-and-ios/"><u>Updated PowerDirector Not Your Cup of Tea? Try These Alternatives for Android & iOS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-picks-for-4k-proxy-video-editing-8-essential-apps/"><u>Updated Top Picks for 4K Proxy Video Editing 8 Essential Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-update-expert-picks-for-the-top-2d-animation-software/"><u>Updated Update Expert Picks for the Top 2D Animation Software</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

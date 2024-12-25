@@ -1,7 +1,7 @@
 ---
 title: In 2024, Slow Down or Freeze Time Expert FCPX Editing Techniques
-date: 2024-08-02T06:47:50.633Z
-updated: 2024-08-03T06:47:50.633Z
+date: 2024-12-20T05:30:40.327Z
+updated: 2024-12-24T16:27:08.186Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 
 # Final Cut Pro X: Freeze-Frames and Slow Motion
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,9 +30,6 @@ This article shows you how to do this using Final Cut Pro X.
 
 For more tutorials on slow-motion please refer to this article: [Top 10 Slow Motion Video Editing Software.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Freeze-Frames and Slow Motion in Final Cut Pro X
 
 #### 1\.  STILL FRAMES
@@ -48,6 +42,10 @@ In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freez
 
 ![freeze frames](https://images.wondershare.com/multimedia/speed002.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This creates a two-second freeze-frame at the position of the playhead.
 
 ![create freeze frame](https://images.wondershare.com/multimedia/speed003.jpg)
@@ -55,6 +53,10 @@ This creates a two-second freeze-frame at the position of the playhead.
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
 
 ![freeze frames in FCP X](https://images.wondershare.com/multimedia/speed004.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In case you were wondering, this is what the freeze looks like. It freezes the flight of the hummingbird in the middle of playback, allowing us to add graphics or other text then resume the action as though nothing had happened.
 
@@ -68,12 +70,17 @@ Put the playhead (or skimmer, but I prefer the playhead) on the frame you want t
 
 ![Playhead](https://images.wondershare.com/multimedia/speed005.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This locates the source clip in the Browser, selects both the Browser and the clip, and matches the position of the In, Out, and playhead.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![match clips](https://images.wondershare.com/multimedia/speed006.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, with the Browser selected, type Option+F. This creates a freeze-frame of the Browser clip and places it at the location of the playhead as a connected clip in the Timeline.
 
@@ -93,17 +100,15 @@ Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using e
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![speed016](https://images.wondershare.com/multimedia/speed016.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
@@ -117,6 +122,10 @@ NOTE: Changing the source frame is a feature that I like a LOT!
 
 ![fast/slow motion](https://images.wondershare.com/multimedia/speed007.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We use slow-motion to show events that are too fast for the unaided eye to see. And fast motion to speed up very slow events. Both of these effects use what's called a "constant speed change," where the entire clip changes by the same amount - either faster or slower.
 
 WE create either effect using the same tools, just different values. Here's how.
@@ -127,9 +136,6 @@ Select the clip who's speed you want to change. Then, using either Modify > Reti
 
 Choose one of the available speeds; in this case, 50%. (Yes, you can change this to any value you want, I'll show you how in a minute.)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create slow/fast motion](https://images.wondershare.com/multimedia/speed009.jpg)
 
 Three things happen at once:
@@ -140,22 +146,20 @@ Three things happen at once:
 
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
 
 There are two ways to change the speed of a clip.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
 
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
 
 This opens a new dialog allowing a number of changes:
@@ -203,8 +207,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -212,5 +214,20 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-gigglegenius-funniest-memes-await/"><u>[Updated] GiggleGenius Funniest Memes Await</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-irreversible-integration-of-tiktok-profile-linking-technique/"><u>[Updated] Irreversible Integration of TikTok Profile Linking Technique</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-the-integration-of-b-roll-footage/"><u>2024 Approved Mastering the Integration of B-Roll Footage</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/easy-steps-setting-up-system-restore-on-windows-server-2019/"><u>Easy Steps: Setting Up System Restore on Windows Server 2019</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-imovie-beats-and-sounds/"><u>Mastering iMovie Beats and Sounds</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-art-of-blending-work-and-virtual-realitiescape-for-2024/"><u>The Art of Blending Work and Virtual Realitiescape for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210062016-9781449448066-the-lights-of-liberty/"><u>The Lights of Liberty | Free Book</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mastering-audio-transitions-in-fcpx-l-cuts-and-j-cuts-explained/"><u>Updated 2024 Approved Mastering Audio Transitions in FCPX L-Cuts and J-Cuts Explained</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mobile-video-editing-made-easy-top-10-free-green-screen-apps/"><u>Updated 2024 Approved Mobile Video Editing Made Easy Top 10 Free Green Screen Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-download-splice-video-editor-for-mac-for-2024/"><u>Updated Download Splice Video Editor for Mac for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mobile-animation-magic-top-stop-motion-apps-revealed-for-2024/"><u>Updated Mobile Animation Magic Top Stop Motion Apps Revealed for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-no-cost-split-screen-video-creators-web-based-and-downloadable-options-for-2024/"><u>Updated No-Cost Split Screen Video Creators Web-Based and Downloadable Options for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/vignette-masterpieces-the-best-ios-and-android-apps-for-2024/"><u>Vignette Masterpieces The Best iOS and Android Apps for 2024</u></a></li>
+</ul></div>
 

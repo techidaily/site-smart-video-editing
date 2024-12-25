@@ -1,7 +1,7 @@
 ---
 title: In 2024, Voice Over Mastery Essential FCP Recording Hacks
-date: 2024-08-02T06:49:20.094Z
-updated: 2024-08-03T06:49:20.094Z
+date: 2024-12-20T22:23:24.962Z
+updated: 2024-12-24T18:04:15.078Z
 tags: 
   - video editing software
   - video editing
@@ -48,6 +48,10 @@ The term auditions are commonly used on FCP platform that represents sets of som
 
 ![What is Audition in FCP](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now in order to record voice over FCP, you need to follow the steps as below:
 
 #### Step 1
@@ -58,17 +62,15 @@ First of all, you need to place your playhead at a specific location on the time
 
 Now in order to start your recording, you need to press Shift+A from the keyboard or simply go to Window then select Record Voiceover, and finally hit Record Button.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Record Voiceover](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
 The countdown will automatically start.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![finally hit Record Button](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3
 
@@ -78,11 +80,12 @@ Note that as the recording is stopped, the playhead automatically returns to ini
 
 ![Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
 
 #### Step 4
@@ -101,9 +104,6 @@ Now it is time to select the desired voiceover from auditions and you can previe
 * Simple select your desired audition out of which you need to review voiceovers and then open recordings either by simply pressing Y or go to Clip then select Audition and finally choose Open.
 * Select the take from Audition window and press space bar to play it or you can also switch it on by using Control+Command+Y command.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select a take from Audition](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-7.png)
 
 * Once you find your desired take then select it and hit Done. Note that a selected take appears in yellow outline.
@@ -118,8 +118,9 @@ It is also possible to extract desired recordings from auditions; for example if
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQ
 
 **How to sync voiceover with my video with FCPX?**
@@ -130,18 +131,17 @@ You try the auto-sync feature of FCPX. For more details please read this: [Pract
 
 It's quite common in FCPX. If reopening the software or rebooting Mac won't fix it, you may want to refer to this article: [Proven Ways to Get Missing Sound Effects Back in Final Cut Pro.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -150,5 +150,17 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-unlock-free-content-with-these-top-7-tools-for-instagram-video-editing-for-2024/"><u>[New] Unlock Free Content with These Top 7 Tools for Instagram Video Editing for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-editors-expert-analysis-videdit-pro-a-2023-overview-for-2024/"><u>[Updated] Editor's Expert Analysis VidEdit Pro – A 2023 Overview for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-beginners-blueprint-optimal-gopro-extras/"><u>[Updated] In 2024, Beginner’s Blueprint Optimal GoPro Extras</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-transform-your-instagram-vocal-identity-today/"><u>In 2024, Transform Your Instagram Vocal Identity Today</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-guide-to-time-lapse-apps-for-iphone-and-android-for-2024/"><u>The Ultimate Guide to Time-Lapse Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-iphone-bargains-in-july-2024-exclusive-offers-curated-by-zdnet/"><u>Top-Rated iPhone Bargains in July 2024: Exclusive Offers Curated by ZDNet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-webm-to-mp3-converters-expert-recommendations/"><u>Updated In 2024, Best WebM to MP3 Converters Expert Recommendations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-make-your-videos-more-accessible-adding-subtitles-in-final-cut-pro-x-for-2024/"><u>Updated Make Your Videos More Accessible Adding Subtitles in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-xml-files-demystified-a-beginners-guide-to-fcpx-for-2024/"><u>Updated XML Files Demystified A Beginners Guide to FCPX for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/windows-desktop-recording-techniques-no-cost-for-2024/"><u>Windows Desktop Recording Techniques - No Cost for 2024</u></a></li>
+</ul></div>
 

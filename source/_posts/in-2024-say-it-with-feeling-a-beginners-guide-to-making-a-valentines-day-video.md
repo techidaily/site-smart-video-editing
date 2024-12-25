@@ -1,7 +1,7 @@
 ---
 title: In 2024, Say It with Feeling A Beginners Guide to Making a Valentines Day Video
-date: 2024-08-02T06:48:11.646Z
-updated: 2024-08-03T06:48:11.646Z
+date: 2024-12-21T21:13:19.158Z
+updated: 2024-12-24T23:51:47.834Z
 tags: 
   - video editing software
   - video editing
@@ -35,8 +35,13 @@ There are hundreds of [video editing software for Windows](https://tools.techida
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. It all starts with an Idea
 
 Creating any type of video without having a well-developed idea is virtually impossible because you won’t know which footage to use. Moreover, having an idea of how you want the final draft of the video to look will make it easier for you to select the footage you intend to use during the video editing process.
@@ -55,16 +60,14 @@ Optionally, you can use the Split tool to make cuts in a video clip and [remove 
 
 Filmora features Effects and Elements libraries that contain hundreds of different image overlays, filters, and predesigned elements you can add to your project. You just need to click on the Effect or Elements icons in the upper right corner of the screen to start browsing these libraries.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Drag and drop valentines element to video in Filmora9](https://images.wondershare.com/filmora/article-images/valentines-special-event-elements.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you find a romantic filter or element you want to apply to your footage, you should simply drag and drop it to the video track that is located directly above the one on which your footage is located. You should then position an [overlay, a filter, or an element](https://tools.techidaily.com/wondershare/filmora/download/) at the exact spot where you want them to appear in your video.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Drag and drop valentines transitions  to video in Filmora9](https://images.wondershare.com/filmora/article-images/valentines-special-event-transitions.jpg)
 
 In case you want to adjust the intensity of an effect you applied you should just double-click on it and then use the Alpha slider to adjust the effect’s intensity. Double-clicking on an element you placed on the timeline will grant you access to the Video tab where you can rotate it, change its on-screen position, or set its Opacity value.
@@ -72,8 +75,9 @@ In case you want to adjust the intensity of an effect you applied you should jus
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Apply Text Layers
 
 The Titles tab contains more than a hundred different Openers, End Credits, or Titles options you can use in all of your projects. Simply pick the one that best matches the style of your video, then add it to the timeline and double-click on it in order to start customizing it.
@@ -82,19 +86,17 @@ The Titles tab contains more than a hundred different Openers, End Credits, or T
 
 Once you [insert the text](https://tools.techidaily.com/wondershare/filmora/download/), you can pick the font, color, or this size of the text, as well as set the spacing between two lines of text. Optionally, you can use Filmora’s Advanced Text Edit window if you want to have complete control over all layers of text you add to your video.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Create the Soundtrack
 
 Music will give your video the rhythm and it will make it more entertaining to watch, which is the reason why you shouldn’t skip this step. In case, you already have an audio file you would like to use as a soundtrack for your Valentine’s Day video, you can import it into Fimora the same way you would import a video file. You can then add it to an audio track and adjust its duration so that it matches the duration of the entire video.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add music for valentines video in Filmora9](https://images.wondershare.com/filmora/article-images/filmora9-audio-library.jpg)
 
 You can also use Filmora’s library of [royalty-free songs](https://tools.techidaily.com/wondershare/filmora/download/) to create the soundtrack for the video you are making. Just head over to the Audio tab, pick a song from Electronic, Rock, or Tender & Sentimental categories, and add it to the timeline.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Export the Video
 
@@ -103,15 +105,13 @@ When done with all these steps, you should preview the video you’ve created an
 Furthermore, Filmora lets you export all videos directly to your YouTube or Vimeo channels, which can save you a lot of time on uploading videos to these video hosting platforms. Nonetheless, how long the rendering process is going to take depends on your computer’s processing power.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Creating Videos with Valentine Video Maker for Android
 
 If you find the process of making a Valentine’s Day video on Mac and Windows computers a bit too technical, then an app like [Valentine Video Maker](https://play.google.com/store/apps/details?id=com.sigmaappsolution.valentinevideomaker&hl=en%5FUS&gl=US) that lets you edit photos and videos from your Android phone is the perfect option for you. You can install the app for free and use its video editing tools to combine photos and video clips into a captivating Valentine’s Day video.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Valentines Video Makers App for Android](https://images.wondershare.com/filmora/article-images/2022/01/valentine-video-maker-app-android.jpg)
 
 Creating slow motion or fast forward videos is yet another option you’ll have at your disposal if you choose to edit your videos with this app. The best part is that you can create a new video with Valentine Video Maker in just a few minutes and share it on social media.
@@ -130,13 +130,15 @@ Making something special for the person you love is going to make this year’s 
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -145,5 +147,24 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-5-critical-equipment-items-to-start-your-channel-right/"><u>[New] 2024 Approved 5 Critical Equipment Items to Start Your Channel Right</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-speedy-pace-fb-videos-innovative-apps-and-proxies-ensuring-faster-uploaddownload/"><u>[Updated] 2024 Approved Speedy Pace FB Videos Innovative Apps & Proxies Ensuring Faster Upload/Download</u></a></li>
+<li><a href="https://win-info.techidaily.com/1732513532502-yl-computing/"><u>中国现代历史上关键事件解析 - YL Computing 软件专家分享</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-online-presence-with-manycams-advanced-live-video-tools-and-webcam-solutions/"><u>Enhance Your Online Presence with ManyCam's Advanced Live Video Tools and Webcam Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-magic-v2-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Honor Magic V2</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smart-strategies-for-enriching-tiktok-biographies-with-linktree-for-2024/"><u>Smart Strategies for Enriching TikTok Biographies with Linktree for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/subtitle-like-a-pro-a-tutorial-on-adding-captions-in-final-cut-pro-x-for-2024/"><u>Subtitle Like a Pro A Tutorial on Adding Captions in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-cyberpunk-2077-game-crashes-on-pc-effective-strategies-revealed/"><u>Troubleshooting Cyberpunk 2077 Game Crashes on PC - Effective Strategies Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-the-secrets-of-auditory-success-on-youtube-videos-for-2024/"><u>Unlock the Secrets of Auditory Success on YouTube Videos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-discover-the-top-mts-video-editing-tools/"><u>Updated 2024 Approved Discover the Top MTS Video Editing Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-s-hottest-adobe-premiere-title-templates-free-download/"><u>Updated 2024 Approved S Hottest Adobe Premiere Title Templates - Free Download</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-we-will-be-discussing-6-video-mergers-without-watermark-and-the-way-we-can-use-them-the-tools-and-features-they-offer-and-how-we-can-get-the/"><u>Updated In 2024, We Will Be Discussing 6 Video Mergers without Watermark, and the Way We Can Use Them – the Tools and Features They Offer, and How We Can Get the Best Out of Them</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-looking-for-subtitle-edit-mac-alternative-here-are-the-best-options-for-2024/"><u>Updated Looking for Subtitle Edit Mac Alternative? Here Are the Best Options for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mts-video-editing-software-5-top-rated-options/"><u>Updated MTS Video Editing Software 5 Top-Rated Options</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-premiere-rush-not-your-cup-of-tea-try-these-4-alternatives-for-2024/"><u>Updated Premiere Rush Not Your Cup of Tea? Try These 4 Alternatives for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-video-editing-software-virtualdub-review-and-top-competitors/"><u>Updated The Best Free Video Editing Software Virtualdub Review and Top Competitors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-to-look-out-for-in-bincoin-token-trading/"><u>What to Look Out For in BinCoin Token Trading</u></a></li>
+</ul></div>
 
