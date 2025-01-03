@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Yosemite Video Editing Essentials Tips and Tricks
-date: 2024-08-02T06:45:49.759Z
-updated: 2024-08-03T06:45:49.759Z
+date: 2024-12-28T12:28:51.114Z
+updated: 2025-01-03T14:09:27.054Z
 tags: 
   - video editing software
   - video editing
@@ -30,17 +30,15 @@ Although Apple’s new operating system - Mac OS X 10.10 Yosemite will bring new
 
 Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite – Wondershare [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is recommended. It supports almost all the popular video formats including AVI, WMV, MP4, FLV, MKV, MOV, 3GP, etc. With it, you can put together your video clips or split to segments to get creative and customized brand new videos. Here is a detailed guide on how to create videos on Yosemite with this smart video editor.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1. Import media files to edit
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import video in Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
 
@@ -50,10 +48,11 @@ When all the media files have been imported to the software, drag and drop them 
 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Yosemite Video Editor basic editing](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Edit and enhance audio**
 
@@ -61,27 +60,30 @@ If you want to add an additional audio file as the background music to the video
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Add transition and other effects**
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Yosemite Video Editor add transition](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -92,8 +94,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -101,5 +101,26 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-top-4-strategies-for-success-in-instagram-loop-creation-for-2024/"><u>[New] Top 4 Strategies for Success in Instagram Loop Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-techniques-for-broadcasting-fb-live-on-cable-for-2024/"><u>[New] Top Techniques for Broadcasting FB Live on Cable for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-best-hd-action-recorders-under-100/"><u>[Updated] 2024 Approved Best HD Action Recorders Under $100</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-content-with-these-top-keyword-discovery-tools/"><u>[Updated] 2024 Approved Elevate Your Content with These Top Keyword Discovery Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-action-camera-selection-under-200-high-quality-low-cost-for-2024/"><u>[Updated] Action Camera Selection Under $200 High Quality, Low Cost for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-insights-on-western-digitals-diagnostic-tool-the-data-lifeguard-examined/"><u>Expert Insights on Western Digital's Diagnostic Tool: The Data Lifeguard Examined</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-stepwise-integration-technique-for-youtube-playlists-on-web/"><u>In 2024, Stepwise Integration Technique for YouTube Playlists on Web</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ipad-speech-recording-uncovered-top-methods/"><u>IPad Speech Recording Uncovered Top Methods</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leading-tools-for-extracting-fb-videos-top-5-for-2024/"><u>Leading Tools for Extracting FB Videos - TOP 5 for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-watermark-free-videos-how-to-remove-filmora-branding-with-or-without-paying/"><u>New Watermark-Free Videos How to Remove Filmora Branding with or without Paying</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-when-your-instagram-story-wont-upload-correctly/"><u>Step-by-Step Solution for When Your Instagram Story Won't Upload Correctly</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-fast-forward-your-videos-a-beginners-guide-to-time-lapse-photography/"><u>Updated 2024 Approved Fast Forward Your Videos A Beginners Guide to Time Lapse Photography</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-slow-down-with-the-best-top-10-video-players/"><u>Updated 2024 Approved Slow Down with the Best Top 10 Video Players</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-combine-videos-without-restrictions-7-best-watermark-free-tools/"><u>Updated In 2024, Combine Videos Without Restrictions 7 Best Watermark-Free Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-indie-filmmakers-toolkit-affordable-software-for-success/"><u>Updated In 2024, Indie Filmmakers Toolkit Affordable Software for Success</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-5-free-online-tone-tools-for-easy-use/"><u>Updated Top 5 Free Online Tone Tools for Easy Use</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-free-avi-video-rotators-for-windows-mac-android-and-iphone-users-for-2024/"><u>Updated Top-Rated Free AVI Video Rotators for Windows, MAC, Android, and iPhone Users for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-video-creation-made-easy-on-mac-top-rated-software-solutions/"><u>Updated Video Creation Made Easy on Mac Top-Rated Software Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-video-editing-on-mac-os-x-yosemite-a-comprehensive-beginners-guide/"><u>Updated Video Editing on Mac OS X Yosemite A Comprehensive Beginners Guide</u></a></li>
+</ul></div>
 

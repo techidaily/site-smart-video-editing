@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Easy Peasy Reaction Videos A Beginners Guide to Filmora
-date: 2024-08-02T06:47:13.730Z
-updated: 2024-08-03T06:47:13.730Z
+date: 2024-12-31T11:44:15.695Z
+updated: 2025-01-03T11:56:17.695Z
 tags: 
   - video editing software
   - video editing
@@ -43,16 +43,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 01:** Open Filmora X. If it is not already installed on your PC, you can download it from [here](https://tools.techidaily.com/wondershare/filmora/download/) and install it on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step1](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step1.png)
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step2.png)
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
@@ -65,16 +59,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step5.png)
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step6.png)
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
@@ -83,9 +71,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
@@ -100,18 +85,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 AI Portrait allows you to create wonderful effects using artificial intelligence. This is one of the best uses of AI to make stunning reaction videos. It will not only save you a lot of time but will also help you save a lot of money by helping you remove the background of your video without expensive materials such as a green screen and other materials related to it.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -122,8 +95,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,5 +102,22 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/outube-snippets-guide-essential-info-inside/"><u>[New] YouTube Snippets Guide Essential Info Inside!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-channeling-success-the-personal-brand-strategy-for-youtubers/"><u>2024 Approved Channeling Success The Personal Brand Strategy for YouTubers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/aprovecha-la-oferta-especial-adquiere-tu-clave-completa-para-winxvideo-ai-con-actualizaciones-gratuitas-indefinidas/"><u>Aprovecha La Oferta Especial: Adquiere Tu Clave Completa Para Winxvideo AI Con Actualizaciones Gratuitas Indefinidas.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effiziente-zeichendokumentenerfassung-fur-juristen-mit-abbyy-software-anwaltsburos-optimieren/"><u>Effiziente Zeichendokumentenerfassung Für Juristen Mit ABBYY Software - Anwaltsbüros Optimieren</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-top-10-best-photo-layering-and-editing-apps-iosandroid-for-2024/"><u>Explore Top 10 Best Photo Layering & Editing Apps iOS/Android for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/integrate-interactive-ebooks-into-your-web-presence-expert-tips-from-flipbuildercom/"><u>Integrate Interactive eBooks Into Your Web Presence: Expert Tips From FlipBuilder.com</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-new-best-free-game-video-editing-software-for-2024/"><u>New NEW Best Free Game Video Editing Software for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-free-mov-movie-editors-a-comprehensive-guide-for-2024/"><u>New The Best Free MOV Movie Editors A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-of-the-best-movie-trailer-creation-software-for-mac-and-pc/"><u>New The Best of the Best Movie Trailer Creation Software for Mac and PC</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-rated-free-imovie-alternatives-for-video-editing/"><u>New Top-Rated Free iMovie Alternatives for Video Editing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-play-40c-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor Play 40C</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

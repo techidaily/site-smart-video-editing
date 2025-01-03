@@ -1,7 +1,7 @@
 ---
 title: Mastering Color in Final Cut Pro A Step-by-Step Guide for 2024
-date: 2024-08-02T06:47:03.807Z
-updated: 2024-08-03T06:47:03.807Z
+date: 2024-12-27T11:27:19.183Z
+updated: 2025-01-02T19:32:47.606Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
 # Color Correction in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -39,9 +36,6 @@ No matter what you want to do for the customization of your videos, Final Cut Pr
 
 The steps below can help all beginners to develop easy video edited projects using Final Cut Pro, but if some of you find this platform a little difficult then it is good to start practicing as a beginner on [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a well-known video editor tool for Mac users that contains all powerful features and an interactive user interface to facilitate all beginners.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -63,6 +57,10 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
@@ -71,25 +69,27 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
 ![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3
 
@@ -103,24 +103,26 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
 ![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4
 
 It is possible to preview all the corrections on the original image before making them final. Simple hit the arrow with left-facing formation in the top left corner of the Color Board and then return to the video inspector. Hit on the Blue box to switch between correction On and Off options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
 
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -129,8 +131,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,5 +138,21 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android/"><u>[New] Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-hero5-black-or-yi-comparing-top-actions-cameras/"><u>[Updated] 2024 Approved Hero5 Black or YI Comparing Top Actions Cameras</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-innovating-conference-calls-with-google-meet-backdrop-shuffling-for-2024/"><u>[Updated] Innovating Conference Calls with Google Meet Backdrop Shuffling for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-ways-to-record-mobile-content-on-android-for-2024/"><u>[Updated] Innovative Ways to Record Mobile Content on Android for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-creme-de-la-creme-the-8-finest-mobile-games-available/"><u>Discover the Crème De La Crème: The 8 Finest Mobile Games Available</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-vince-lucidos-evga-rtx-3090-kingpn-a-potential-crowned-champion-of-the-rtx-series/"><u>Exploring Vince Lucido's EVGA RTX 지오팩스 3090 Kingp!n: A Potential Crowned Champion of the RTX Series</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-video-edits-post-upload-techniques/"><u>In 2024, Mastering Video Edits Post-Upload Techniques</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-slow-and-steady-wins-the-game-top-10-video-players/"><u>New Slow and Steady Wins the Game Top 10 Video Players</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-cream-of-the-crop-top-android-apps-on-google-play/"><u>New The Cream of the Crop Top Android Apps on Google Play</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-top-rated-video-editing-tools-for-mac-in-for-2024/"><u>New The Top-Rated Video Editing Tools for Mac In for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-10-free-avi-file-joiners-simple-fast-and-effective/"><u>New Top 10 Free AVI File Joiners Simple, Fast, and Effective</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-10-free-video-stabilization-tools-to-smooth-out-your-footage/"><u>New Top 10 Free Video Stabilization Tools to Smooth Out Your Footage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/perfect-pixels-a-guide-to-using-photoshops-eraser-for-2024/"><u>Perfect Pixels A Guide to Using Photoshop's Eraser for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-methods-integrating-chatgpt-and-visual-studio-code/"><u>Top 10 Methods: Integrating ChatGPT and Visual Studio Code</u></a></li>
+</ul></div>
 

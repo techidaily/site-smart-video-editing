@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Adding Titles in FCPX A Beginners Guide to Professional Results
-date: 2024-08-02T06:47:17.517Z
-updated: 2024-08-03T06:47:17.517Z
+date: 2025-01-01T10:59:35.043Z
+updated: 2025-01-03T12:47:46.443Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -57,9 +54,6 @@ I'd like to introduce "Yertle," he's a sea turtle and the star of this article. 
 
 At its simplest, we use titles to display his (its?) name.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
@@ -78,9 +72,6 @@ Select that title and delete it by pressing the Delete key.
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles005.jpg)
 
 If you look right in the center of the screen, you'll see the word "Title." Yes, its darn near invisible. And, yes, it looks, um, ugly. However, we have a TON of formatting control to make this look however we want.
@@ -99,9 +90,6 @@ Let's add a totally ridiculous title to our turtle - drag Clouds from the Title 
 
 NOTE: I'm using a marker in the Timeline to help me find the same place in a clip so my screen shots are consistent. Markers are not needed in any way for titles.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles008.jpg)
 
 Um, yeah. So, some titles look more professional than others... You can delete this title now.
@@ -116,9 +104,6 @@ So, we:
 
 #### CHANGING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles009.jpg)
 
 Add a new full-screen title (type Control+T) to the Timeline. To change the text in a title, double-click it in the Viewer. Here, I've changed my title to "An Undersea Adventure."
@@ -129,9 +114,6 @@ All text, in any title, can be changed by double-clicking it in the Viewer to se
 
 #### FORMATTING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 You can format any text that you can select. This means that you can format entire phrases, words, or individual letters differently. For this article, I will format everything the same, because once you know how this works, you can experiment on your own.
@@ -140,9 +122,6 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
@@ -167,9 +146,6 @@ The Face section allows us to change font color, opacity and blue. Outline and G
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles014.jpg)
 
 After making a few changes in the Inspector, here's the final result. Very cool - and very different from where we started!
@@ -206,8 +182,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -215,5 +189,30 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://smart-video-creator.techidaily.com/1-expert-analysis-top-magic-dvd-ripper-software-and-comparable-solutions/"><u>1. Expert Analysis: Top Magic DVD Ripper Software & Comparable Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-spotlight-on-the-top-8-authentic-video-promotion-methods/"><u>2024 Approved Spotlight on the Top 8 Authentic Video Promotion Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-six-reliable-offline-language-translators-for-any-device/"><u>Discover the Top Six Reliable Offline Language Translators for Any Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experiencing-the-new-apple-studio-display-an-eye-catching-but-pricey-5k-monitor-for-creative-mac-users-insights/"><u>Experiencing the New Apple Studio Display: An Eye-Catching but Pricey 5K Monitor for Creative Mac Users - Insights</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-13-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-honor-magic-6-lite-frp-bypass-by-drfone-android/"><u>In 2024, About Honor Magic 6 Lite FRP Bypass</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-the-screen-ultimate-vr-gadget-guide/"><u>In 2024, Beyond the Screen - Ultimate VR Gadget Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-x-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone X Apple ID on MacBook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/is-an-m1-enabled-laptop-a-worthwhile-investment-for-editors/"><u>Is an M1-Enabled Laptop a Worthwhile Investment for Editors?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-5-best-free-divx-video-cutters/"><u>New In 2024, Top 5 Best Free Divx Video Cutters</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unleash-the-power-of-high-definition-best-video-quality-boosters/"><u>New In 2024, Unleash the Power of High-Definition Best Video Quality Boosters</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-video-editing-on-a-mac-here-are-the-best-options-for/"><u>New In 2024, Video Editing on a Mac? Here Are the Best Options For</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-minitool-movie-maker-review-guideline-and-alternatives-for-2024/"><u>New Minitool Movie Maker Review, Guideline and Alternatives for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-s-top-rated-video-editing-software-for-high-definition-videos-for-2024/"><u>New S Top-Rated Video Editing Software for High-Definition Videos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-video-editing-apps-for-mac-simplify-your-video-creation-process-for-2024/"><u>New The Best Video Editing Apps for Mac Simplify Your Video Creation Process for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-video-to-audio-converters-for-mobile-devices-for-2024/"><u>New Top Video to Audio Converters for Mobile Devices for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-transform-your-videos-easy-editing-with-microsoft-video-editor-on-windows-for-2024/"><u>New Transform Your Videos Easy Editing with Microsoft Video Editor on Windows for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unleash-your-creativity-canon-video-editing-software-and-tutorials/"><u>New Unleash Your Creativity Canon Video Editing Software and Tutorials</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-most-reliable-and-safe-email-providers/"><u>Top 5 Most Reliable and Safe Email Providers</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

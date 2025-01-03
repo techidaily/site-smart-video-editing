@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Editing Videos Like a Pro with QuickTime on Mac
-date: 2024-08-02T06:47:40.717Z
-updated: 2024-08-03T06:47:40.717Z
+date: 2024-12-27T08:40:23.408Z
+updated: 2025-01-02T21:10:40.577Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 # Edit Videos with QuickTime Player on Mac
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -56,11 +53,12 @@ Step2: Click here to edit > trim from the menu bar.
 
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
 Step4: When you have done, click on “Trim”.
@@ -68,8 +66,13 @@ Step4: When you have done, click on “Trim”.
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Split Video With QuickTime Player on Mac
 
 You can easily split your movie into separate clips if you want to. Then, if desired, you can modify these clips.
@@ -83,8 +86,9 @@ Step2: Move the playhead where you want to split the position, then select Edit 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Rotate Video with QuickTime Player on Mac
 
 You can easily rotate video clips with QuickTime Player. Just follow these steps:
@@ -113,26 +117,15 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is Wondershare Filmora Worth for Trying?
 
 As we mentioned above, Wondershare Filmora is an elegant, full-featured video editing software that includes a variety of basic and advanced video editing tools. It has an easy-to-use interface that allows you to easily add effects, transitions, and edit your videos. You can use it to create random videos or professional videos using the software. So yes, this video editing software is for everyone. Well, you should try the free version and you won't regret.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -142,8 +135,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -151,5 +142,26 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-flight-control-best-motor-selections-unveiled/"><u>[New] Mastering Flight Control Best Motor Selections Unveiled</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-leading-6-apps-to-transform-photos-by-eliminating-backgrounds/"><u>[Updated] Leading 6 Apps to Transform Photos by Eliminating Backgrounds</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comment-reparer-lechec-du-chiffrement-de-partition-sur-les-systemes-dexploitation-windows-guide-des-4-bonnes-pratiques-pour-w118v7/"><u>Comment Réparer L'Echec Du Chiffrement De Partition Sur Les Systèmes D'Exploitation Windows : Guide Des 4 Bonnes Pratiques Pour W11/8/V7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/communicate-on-the-go-sending-messages-from-your-apple-watch-with-friends-and-family/"><u>Communicate on the Go: Sending Messages From Your Apple Watch with Friends and Family</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-recent-revamp-of-icloud-for-windows-key-improvements-and-bug-fixes-explained-computing-insights/"><u>Discover Apple's Recent Revamp of iCloud for Windows – Key Improvements & Bug Fixes Explained | Computing Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211421923-9781803415017-embodying-prayer/"><u>Embodying Prayer | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-iphones-status-bar-dilemma-with-just-6-simple-steps/"><u>Fixing Your iPhone's Status Bar Dilemma with Just 6 Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-no-sound-problem-on-your-laptop-simple-solutions-that-work/"><u>How to Fix No-Sound Problem on Your Laptop - Simple Solutions That Work</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-mac-os-video-editor-turn-photos-into-beautiful-slideshows/"><u>In 2024, Mac OS Video Editor Turn Photos Into Beautiful Slideshows</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-rotate-reflect-and-flip-mastering-clip-orientation-in-final-cut-pro/"><u>In 2024, Rotate, Reflect, and Flip Mastering Clip Orientation in Final Cut Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unleashing-the-power-of-lower-thirds-in-final-cut-pro-x/"><u>In 2024, Unleashing the Power of Lower Thirds in Final Cut Pro X</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-epic-trailers-top-movie-maker-software-for-mac-and-pc/"><u>New 2024 Approved Create Epic Trailers Top Movie Maker Software for Mac and PC</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-video-hosting-for-everyone-top-10-sites-ranked/"><u>New 2024 Approved Free Video Hosting for Everyone Top 10 Sites Ranked</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-list-best-free-online-video-editing-software/"><u>New 2024 Approved The Ultimate List Best Free Online Video Editing Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-create-stunning-animations-top-tools-for-beginners-intermediate-and-advanced-users/"><u>New In 2024, Create Stunning Animations Top Tools for Beginners, Intermediate, and Advanced Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-here-are-some-of-the-best-free-and-paid-split-screen-video-editors-and-makers-that-you-can-use-online-and-offline/"><u>New In 2024, Here Are some of the Best Free and Paid Split-Screen Video Editors and Makers that You Can Use Online and Offline</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-art-of-cinematic-color-grading-in-final-cut-pro-x/"><u>New In 2024, The Art of Cinematic Color Grading in Final Cut Pro X</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210360149-9781507218358-the-moon-power-boxed-set/"><u>The Moon Power Boxed Set | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-solving-2023-maplestory-crashes-on-windows-10/"><u>Ultimate Guide: Solving 2023 MapleStory Crashes on Windows 10</u></a></li>
+</ul></div>
 
