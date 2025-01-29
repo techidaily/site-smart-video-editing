@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Time Lapse Mastery A Step-by-Step Guide to Final Cut Pro
-date: 2024-09-28T16:35:00.324Z
-updated: 2024-10-01T16:09:39.996Z
+date: 2025-01-22T20:07:42.223Z
+updated: 2025-01-29T18:45:07.065Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,10 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make a Time-Lapse Video in Final Cut Pro
 
 #### Step 1 Import Clips
@@ -50,9 +54,17 @@ Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you ca
 
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
@@ -60,11 +72,19 @@ You can also drag the retiming handle to adjust the speed: dragging to the left 
 
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you have any questions about making time-lapse videos, feel free to drop a line below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -81,26 +101,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-independent-android-games-for-non-networked-natives/"><u>[New] In 2024, Top 10 Independent Android Games for Non-Networked Natives</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-starting-point-learning-to-thrive-in-instagrams-virtual-spaces-for-2024/"><u>[New] Starting Point Learning to Thrive in Instagram's Virtual Spaces for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-the-new-era-of-editing-with-powerdirector-24-edition/"><u>[Updated] In 2024, Mastering the New Era of Editing with PowerDirector '24 Edition</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-elevate-hd-audiovideo-on-your-android-device-with-top-players/"><u>2024 Approved Elevate Hd Audio/Video on Your Android Device with Top Players</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-engage-listeners-through-instagram-and-podcasts/"><u>2024 Approved How To Engage Listeners Through Instagram & Podcasts</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/creative-tims-ultimate-material-kit-pro-top-tier-bootstrap-with-material-ui-components/"><u>Creative Tim's Ultimate Material Kit PRO: Top-Tier Bootstrap with Material UI Components</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/how-to-fix-star-citizen-crashes-on-your-windows-pc-a-step-by-step-guide/"><u>How to Fix Star Citizen Crashes on Your Windows PC - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-troubleshooting-for-roblox-failure-to-start/"><u>Step-by-Step Troubleshooting for Roblox Failure to Start</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-lack-of-audio-on-screen-when-linking-pc-display-and-televisions-via-hdmi/"><u>Troubleshooting Steps: Resolving Lack of Audio on Screen When Linking PC, Display & Televisions via HDMI</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-fcp-to-vhs-effortless-ways-to-add-retro-flair/"><u>Updated 2024 Approved From FCP to VHS Effortless Ways to Add Retro Flair</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-video-editing-without-limits-how-to-use-windows-and-mac-apps-on-your-chromebook/"><u>Updated 2024 Approved Video Editing Without Limits How to Use Windows and Mac Apps on Your Chromebook</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-8-best-stop-motion-animation-software-for-mac-and-windows/"><u>Updated In 2024, 8 Best Stop Motion Animation Software for Mac and Windows</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-pro-grade-videos-in-minutes-no-experience-required-for-2024/"><u>Updated Pro-Grade Videos in Minutes No Experience Required for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-12-proipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 12 Pro/iPad/iPod</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabling-website-tracking-how-to-turn-on-cookies-in-chromefirefoxsafari/"><u>Enabling Website Tracking: How to Turn On Cookies in Chrome/Firefox/Safari</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-defy-2-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola Defy 2 is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-secure-the-best-deal-on-an-acer-gaming-laptop-for-under-650-shop-now-at-newegg-with-zdnets-exclusive-guide/"><u>Massive Discount: Secure the Best Deal on an Acer Gaming Laptop for Under $650 - Shop Now at Newegg with ZDNet's Exclusive Guide!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-prolonged-start-up-for-star-wars-battlefront-ii-on-personal-computers/"><u>Troubleshooting Prolonged Start-Up for Star Wars Battlefront II on Personal Computers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unlocking-cinematic-storytelling-how-to-apply-ken-burns-effect-in-final-cut-pro-for-2024/"><u>Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-revolutionize-your-video-content-converting-to-vr-made-easy/"><u>Updated 2024 Approved Revolutionize Your Video Content Converting to VR Made Easy</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-download-4k-videos-in-mp4-the-most-reliable-conversion-method/"><u>Updated In 2024, Download 4K Videos in MP4 The Most Reliable Conversion Method</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-revolutionize-your-videos-best-resolution-enhancement-tools/"><u>Updated In 2024, Revolutionize Your Videos Best Resolution Enhancement Tools</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

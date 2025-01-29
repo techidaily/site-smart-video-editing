@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Color Grading in Final Cut Pro for 2024
-date: 2024-12-06T18:25:50.609Z
-updated: 2024-12-09T18:49:49.256Z
+date: 2025-01-22T16:13:57.910Z
+updated: 2025-01-29T19:21:59.642Z
 tags: 
   - video editing software
   - video editing
@@ -57,10 +57,6 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 ![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
@@ -74,7 +70,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 ![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2
@@ -88,7 +84,7 @@ As soon as you make this selection, the video scopes window will automatically a
 ![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3
@@ -99,13 +95,13 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
 ![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
@@ -118,12 +114,16 @@ It is possible to preview all the corrections on the original image before makin
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -140,19 +140,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-harmonious-hush-for-restfulness-top-asmr-picks-for-2024/"><u>[New] Harmonious Hush for Restfulness Top ASMR Picks for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-high-end-online-locations-for-metallic-3d-lettering/"><u>[New] In 2024, High-End Online Locations for Metallic 3D Lettering</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-navigating-the-maze-of-communication-features-on-snapchat/"><u>[New] In 2024, Navigating the Maze of Communication Features on Snapchat</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-master-the-art-of-activating-and-deactivating-pip-in-ios-browsers-for-2024/"><u>[New] Master the Art of Activating and Deactivating PIP in iOS Browsers for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-rapid-fire-guide-to-successful-double-exposures/"><u>[Updated] Rapid-Fire Guide to Successful Double Exposures</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beyond-speed-uncovering-the-ultimate-5g-app-revolutionizing-more-than-just-connection/"><u>Beyond Speed: Uncovering the Ultimate 5G App Revolutionizing More Than Just Connection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chill-out-save-money-invest-in-arctics-liquid-freezer-ii-aio-for-just-74-dollars-limited-time-offer/"><u>Chill Out, Save Money: Invest in Arctic's Liquid Freezer II AIO for Just 74 Dollars - Limited Time Offer</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unleash-your-creativity-the-top-ipad-video-editing-apps/"><u>New In 2024, Unleash Your Creativity The Top iPad Video Editing Apps</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-reduce-mpeg2-file-size-with-virtualdub-a-beginners-guide-for-2024/"><u>New Reduce MPEG2 File Size with VirtualDub A Beginners Guide for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-spring-into-action-limited-time-filmora-coupon-code-for-march-2024/"><u>New Spring Into Action Limited-Time Filmora Coupon Code for March 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-pros-and-cons-of-using-vn-video-editor-pro-for-your-videos/"><u>New The Pros and Cons of Using VN Video Editor Pro for Your Videos</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-fcpx-freebie-list-10-best-plugins-for-2024/"><u>New The Ultimate FCPX Freebie List 10 Best Plugins for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-unleash-creativity-10-best-free-public-domain-images-sites-for-2024/"><u>New Unleash Creativity 10 Best Free Public Domain Images Sites for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/alleled-video-intros-made-easy-with-online-tools-for-2024/"><u>Unparalleled Video Intros Made Easy with Online Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-customizing-your-channel-icon-banner-and-thumbnail-ideas/"><u>[New] In 2024, Customizing Your Channel Icon, Banner & Thumbnail Ideas</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-best-mkv-solvers-on-macos/"><u>[Updated] 2024 Approved Best MKV Solvers on macOS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-winning-hearts-an-approach-to-encourage-sign-ups/"><u>[Updated] In 2024, Winning Hearts An Approach to Encourage Sign-Ups</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-6-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 6 and iPad</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 12 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-13-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone 13 without Security Questions?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/innovative-insights-a-curated-list-s-pivotal-social-media-and-marketing-podcasts/"><u>Innovative Insights A Curated List S Pivotal Social Media and Marketing Podcasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unmatched-camcorders-for-total-rotation-capture/"><u>Unmatched Camcorders for Total Rotation Capture</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-easiest-way-to-convert-4k-video-to-mp4-for-offline-viewing/"><u>Updated 2024 Approved The Easiest Way to Convert 4K Video to MP4 for Offline Viewing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-webm-video-editing-solutions-top-10-options-for-2024/"><u>Updated Free WebM Video Editing Solutions Top 10 Options for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-cream-of-the-crop-top-android-apps-on-google-play/"><u>Updated In 2024, The Cream of the Crop Top Android Apps on Google Play</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-reaction-video-creators-you-need-to-know/"><u>Updated In 2024, Top Reaction Video Creators You Need to Know</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-transform-your-footage-expert-advice-for-creating-polished-professional-movies/"><u>Updated Transform Your Footage Expert Advice for Creating Polished, Professional Movies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-virtualdub-review-is-it-still-the-best-video-editor-for-2024/"><u>Updated Virtualdub Review Is It Still the Best Video Editor for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/video-editing-on-mac-os-x-yosemite-a-comprehensive-beginners-guide-for-2024/"><u>Video Editing on Mac OS X Yosemite A Comprehensive Beginners Guide for 2024</u></a></li>
 </ul></div>
 
